@@ -205,15 +205,6 @@ class PioneersApp {
       `);
     }
 
-    if (pioneer.media && pioneer.media.length > 0) {
-      buttons.push(`
-        <a href="${pioneer.media[0].url}" target="_blank" rel="noopener" 
-           class="action-btn media-btn">
-          <span>${pioneer.media[0].type}</span>
-        </a>
-      `);
-    }
-
     return buttons.join('');
   }
 
