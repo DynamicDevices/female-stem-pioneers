@@ -67,13 +67,26 @@ class PioneersApp {
 
   filterPioneers() {
     this.filteredPioneers = this.pioneers.filter(pioneer => {
-      // Search filter
-      const searchMatch = !this.searchTerm || 
-        pioneer.name.toLowerCase().includes(this.searchTerm) ||
-        pioneer.fields.some(field => field.toLowerCase().includes(this.searchTerm)) ||
-        pioneer.achievements.some(achievement => achievement.toLowerCase().includes(this.searchTerm)) ||
-        pioneer.summary.toLowerCase().includes(this.searchTerm) ||
-        pioneer.country.toLowerCase().includes(this.searchTerm);
+      // Search filter - prioritize name matching for short searches
+      let searchMatch = !this.searchTerm;
+      
+      if (this.searchTerm) {
+        const searchLower = this.searchTerm.toLowerCase();
+        const nameLower = pioneer.name.toLowerCase();
+        
+        // For short searches (1-2 characters), only search names
+        if (this.searchTerm.length <= 2) {
+          // Check if any word in the name starts with the search term
+          const nameWords = nameLower.split(' ');
+          searchMatch = nameWords.some(word => word.startsWith(searchLower));
+        } else {
+          // For longer searches, search more broadly
+          searchMatch = 
+            nameLower.includes(searchLower) ||
+            pioneer.fields.some(field => field.toLowerCase().includes(searchLower)) ||
+            pioneer.country.toLowerCase().includes(searchLower);
+        }
+      }
 
       // Field filter
       const fieldMatch = !this.fieldFilter || 
