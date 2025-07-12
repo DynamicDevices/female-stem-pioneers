@@ -4,7 +4,7 @@
 const pioneers = [
   {
     name: "Ada Lovelace",
-    photo: "images/ada_lovelace.jpg",
+    photo: "",
     lifespan: "1815–1852",
     country: "United Kingdom",
     fields: ["Mathematics", "Computing"],
@@ -84,7 +84,7 @@ const pioneers = [
   },
   {
     name: "Marie Curie",
-    photo: "images/marie_curie.jpg",
+    photo: "",
     lifespan: "1867–1934",
     country: "Poland/France",
     fields: ["Physics", "Chemistry"],
@@ -169,7 +169,7 @@ const pioneers = [
   },
   {
     name: "Katherine Johnson",
-    photo: "images/katherine_johnson.jpg",
+    photo: "",
     lifespan: "1918–2020",
     country: "United States",
     fields: ["Mathematics", "Aerospace"],
@@ -253,7 +253,7 @@ const pioneers = [
   },
   {
     name: "Grace Hopper",
-    photo: "images/grace_hopper.jpg",
+    photo: "",
     lifespan: "1906–1992",
     country: "United States",
     fields: ["Computer Science", "Mathematics"],
@@ -336,7 +336,7 @@ const pioneers = [
   },
   {
     name: "Rosalind Franklin",
-    photo: "images/rosalind_franklin.jpg",
+    photo: "",
     lifespan: "1920–1958",
     country: "United Kingdom",
     fields: ["Chemistry", "Biology"],
@@ -416,7 +416,7 @@ const pioneers = [
   },
   {
     name: "Chien-Shiung Wu",
-    photo: "images/chien_shiung_wu.jpg",
+    photo: "",
     lifespan: "1912–1997",
     country: "China/United States",
     fields: ["Physics"],
