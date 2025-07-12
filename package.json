@@ -35,13 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/women-pioneers-stem.git"
+    "url": "https://github.com/DynamicDevices/female-stem-pioneers.git"
   },
-  "homepage": "https://your-username.github.io/women-pioneers-stem",
-  "bugs": {
-    "url": "https://github.com/your-username/women-pioneers-stem/issues"
-  },
-  "dependencies": {
-    "canvas": "^3.1.2"
-  }
+  "homepage": "https://dynamicdevices.github.io/female-stem-pioneers",
+      "bugs": {
+      "url": "https://github.com/DynamicDevices/female-stem-pioneers/issues"
+    }
 }

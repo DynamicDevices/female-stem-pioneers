@@ -114,7 +114,7 @@ function generateFilename(name) {
  */
 function addPioneer(pioneerName) {
   const pioneersPath = path.join(__dirname, 'js', 'pioneers.js');
-  let pioneersContent = fs.readFileSync(pioneersPath, 'utf8');
+  const pioneersContent = fs.readFileSync(pioneersPath, 'utf8');
   
   // Create new pioneer data
   const newPioneer = JSON.parse(JSON.stringify(PIONEER_TEMPLATE));
