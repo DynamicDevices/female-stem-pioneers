@@ -955,6 +955,748 @@ const pioneers = [
       cultural_challenges: ["Gender imbalance"],
       cultural_contributions: "First Iranian and first woman Fields Medalist."
     }
+  },
+  {
+    name: "Asima Chatterjee",
+    photo: "./images/asima-chatterjee.jpg",
+    lifespan: "1917–2006",
+    country: "India",
+    fields: ["Chemistry", "Medicine"],
+    roles: ["Organic Chemist", "Professor"],
+    quote: "Science is not just about discovery, but about making life better for humanity.",
+    summary: "First Indian woman to earn a doctorate in science, pioneer in phytomedicine and anti-malarial drugs.",
+    shortDescription: "Asima Chatterjee was a brilliant chemist from India who became the first Indian woman to earn a doctorate in science. She discovered important medicines from plants, including treatments for epilepsy and malaria. Her work showed how traditional knowledge and modern science can work together to help people.",
+    detailed_description: {
+      early_life: "Born in Kolkata, India, Asima showed early interest in chemistry and medicine. Her father encouraged her scientific pursuits.",
+      stem_journey: "Earned her doctorate in organic chemistry in 1944, becoming the first Indian woman to achieve this milestone.",
+      challenges: "Faced gender barriers in Indian academia and limited opportunities for women in science.",
+      achievements: "Discovered vinca alkaloids and developed anti-epileptic and anti-malarial drugs from natural products.",
+      legacy: "Pioneered phytomedicine research and opened doors for Indian women in science."
+    },
+    achievements: [
+      "First Indian woman to earn a doctorate in science",
+      "Discovered vinca alkaloids for cancer treatment",
+      "Developed anti-epileptic and anti-malarial drugs",
+      "Published over 400 scientific papers"
+    ],
+    awards: ["P.C. Ray Award", "First woman president of Indian Science Congress"],
+    publications: [],
+    education: [
+      { degree: "Ph.D.", field: "Organic Chemistry", institution: "University of Calcutta" }
+    ],
+    timeline: [
+      { year: 1944, event: "Earned doctorate in organic chemistry" },
+      { year: 1975, event: "Became first woman president of Indian Science Congress" }
+    ],
+    barriers: ["Gender discrimination in Indian academia", "Limited research funding for women"],
+    impact: "Pioneered phytomedicine research and inspired generations of Indian women scientists.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Asima_Chatterjee" }
+    ],
+    mentorship: "Mentored many students and advocated for women in science.",
+    fun_fact: "Published over 400 papers on medicinal plants.",
+    career_path: {
+      first_job: "Research chemist",
+      career_highlights: ["Professor at University of Calcutta", "President of Indian Science Congress"],
+      advice_for_students: "Persistence and passion can overcome any barrier. Science knows no gender."
+    },
+    student_resources: {
+      books_for_students: ["Women in Science: 50 Fearless Pioneers"],
+      websites: ["stemettes.org", "womeninscience.org"],
+      programs: ["Chemistry summer camps", "Women in STEM programs"],
+      advice: "Follow your curiosity and don't let stereotypes define your path."
+    },
+    challenges: {
+      academic: ["Limited opportunities for women in higher education"],
+      professional: ["Gender bias in Indian scientific community"],
+      personal: ["Balancing research with family responsibilities"],
+      how_overcame: "Focused on her research and built a strong scientific reputation"
+    },
+    education_details: {
+      high_school: "Excelled in chemistry and mathematics",
+      college_major: "Chemistry",
+      graduate_school: "Ph.D. in Organic Chemistry",
+      key_courses: ["Organic Chemistry", "Botany", "Pharmacology"],
+      study_tips: "Connect theory with practical applications"
+    },
+    modern_impact: {
+      current_applications: "Natural product drug discovery, cancer treatments",
+      companies_using_her_work: ["Pharmaceutical companies", "Research institutions"],
+      future_implications: "Continued development of plant-based medicines"
+    },
+    personal_info: {
+      early_interests: ["Chemistry", "Medicine", "Plants"],
+      family_background: "Supportive family encouraging education",
+      hobbies: ["Reading scientific literature", "Teaching"],
+      personality_traits: ["Dedicated", "Innovative", "Persistent"]
+    },
+    cultural_background: {
+      heritage: "Indian Bengali",
+      cultural_influences: ["Indian scientific tradition", "Bengali intellectual culture"],
+      cultural_challenges: ["Traditional gender roles in India", "Colonial education system"],
+      cultural_contributions: "Bridged traditional Indian medicine with modern chemistry"
+    }
+  },
+  {
+    name: "Mária Telkes",
+    photo: "./images/maria-telkes.jpg",
+    lifespan: "1900–1995",
+    country: "Hungary/United States",
+    fields: ["Physics", "Engineering"],
+    roles: ["Biophysicist", "Engineer", "Inventor"],
+    quote: "It is the things supposed to be impossible that interest me. I like to do things they say cannot be done.",
+    summary: "Pioneer of solar energy technology, known as 'The Sun Queen' for her innovations in solar heating and power storage.",
+    shortDescription: "Mária Telkes was a brilliant scientist who became known as 'The Sun Queen' for her groundbreaking work with solar energy. She invented solar-powered heating systems, solar ovens, and devices that could turn saltwater into drinking water using only sunlight. Her inventions helped soldiers during World War II and continue to help people around the world today.",
+    detailed_description: {
+      early_life: "Born in Budapest, Hungary, Mária was fascinated by chemistry from age 10. She made her own chemistry set and dreamed of harnessing solar energy.",
+      stem_journey: "Earned her doctorate in physical chemistry, then moved to the United States to work on solar energy research at MIT.",
+      challenges: "Faced skepticism about solar energy and gender discrimination in engineering fields.",
+      achievements: "Invented solar heating systems, solar ovens, and solar water distillation devices. Held over 20 patents.",
+      legacy: "Pioneered practical solar energy applications and inspired future renewable energy research."
+    },
+    achievements: [
+      "Invented solar heating systems for homes",
+      "Developed solar-powered water distillation",
+      "Created portable solar ovens",
+      "Held over 20 patents for solar technology"
+    ],
+    awards: ["Society of Women Engineers Achievement Award (1952)", "National Inventors Hall of Fame"],
+    publications: [],
+    education: [
+      { degree: "Ph.D.", field: "Physical Chemistry", institution: "University of Budapest" }
+    ],
+    timeline: [
+      { year: 1948, event: "Built the Dover Sun House" },
+      { year: 1952, event: "First recipient of SWE Achievement Award" }
+    ],
+    barriers: ["Gender discrimination in engineering", "Skepticism about solar energy"],
+    impact: "Pioneered practical solar energy applications that continue to benefit humanity.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mária_Telkes" }
+    ],
+    mentorship: "Inspired generations of women engineers and solar energy researchers.",
+    fun_fact: "Known as 'The Sun Queen' by her colleagues.",
+    career_path: {
+      first_job: "Biophysicist at Cleveland Clinic",
+      career_highlights: ["MIT researcher", "Solar energy pioneer"],
+      advice_for_students: "Don't be afraid to pursue what others think is impossible. Innovation requires persistence."
+    },
+    student_resources: {
+      books_for_students: ["The Sun Queen: The Untold Story of Mária Telkes"],
+      websites: ["swe.org", "solarhousehistory.com"],
+      programs: ["Solar energy camps", "Engineering programs for girls"],
+      advice: "Explore renewable energy and sustainable technology. The future needs innovative thinkers."
+    },
+    challenges: {
+      academic: ["Limited opportunities for women in engineering"],
+      professional: ["Skepticism about solar energy technology"],
+      personal: ["Immigrating to a new country"],
+      how_overcame: "Focused on practical applications and demonstrated results"
+    },
+    education_details: {
+      high_school: "Excelled in chemistry and physics",
+      college_major: "Physical Chemistry",
+      graduate_school: "Ph.D. in Physical Chemistry",
+      key_courses: ["Chemistry", "Physics", "Engineering"],
+      study_tips: "Combine theoretical knowledge with practical experimentation"
+    },
+    modern_impact: {
+      current_applications: "Solar heating, renewable energy, water purification",
+      companies_using_her_work: ["Solar energy companies", "Environmental organizations"],
+      future_implications: "Continued development of sustainable energy solutions"
+    },
+    personal_info: {
+      early_interests: ["Chemistry", "Solar energy", "Innovation"],
+      family_background: "Supportive family encouraging scientific exploration",
+      hobbies: ["Scientific research", "Inventing"],
+      personality_traits: ["Innovative", "Determined", "Visionary"]
+    },
+    cultural_background: {
+      heritage: "Hungarian Jewish",
+      cultural_influences: ["Hungarian scientific tradition", "American innovation culture"],
+      cultural_challenges: ["Anti-Semitism in Europe", "Gender barriers in engineering"],
+      cultural_contributions: "Bridged European scientific rigor with American practical innovation"
+    }
+  },
+  {
+    name: "Mariam Al-Astrulabi",
+    photo: "./images/mariam-al-astrulabi.jpg",
+    lifespan: "944–967",
+    country: "Syria",
+    fields: ["Astronomy", "Engineering"],
+    roles: ["Astronomer", "Engineer", "Inventor"],
+    quote: "The stars guide us not just in navigation, but in understanding our place in the universe.",
+    summary: "10th-century Muslim astronomer and engineer who improved astrolabe design for navigation and timekeeping.",
+    shortDescription: "Mariam Al-Astrulabi was a brilliant astronomer and engineer from 10th-century Syria who improved the design of astrolabes - ancient tools for navigation and timekeeping. Her work helped sailors navigate the seas and helped people tell time and find direction. Mariam showed that women have been contributing to science and engineering for centuries.",
+    detailed_description: {
+      early_life: "Born in Aleppo, Syria, Mariam came from a family of astronomers and engineers. Her father was an astrolabe maker.",
+      stem_journey: "Learned astrolabe making from her father and became renowned for her improvements to the design.",
+      challenges: "Few historical records of women scientists from this era, limited recognition of women's contributions.",
+      achievements: "Improved astrolabe design for better accuracy in navigation and timekeeping, employed by the Emir of Aleppo.",
+      legacy: "Demonstrated women's contributions to science throughout history and inspired modern Muslim women in STEM."
+    },
+    achievements: [
+      "Improved astrolabe design for navigation",
+      "Enhanced timekeeping accuracy",
+      "Employed by the Emir of Aleppo",
+      "Pioneered women's role in medieval astronomy"
+    ],
+    awards: ["Asteroid 7060 Al-'Ijliya named in her honor"],
+    publications: [],
+    education: [
+      { degree: "Apprenticeship", field: "Astronomy and Engineering", institution: "Family workshop" }
+    ],
+    timeline: [
+      { year: 944, event: "Born in Aleppo, Syria" },
+      { year: 967, event: "Died, leaving legacy of improved astrolabes" }
+    ],
+    barriers: ["Limited historical recognition of women scientists", "Medieval gender roles"],
+    impact: "Advanced navigation technology and demonstrated women's contributions to medieval science.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mariam_al-Astrulabi" }
+    ],
+    mentorship: "Inspired future generations of Muslim women in science and engineering.",
+    fun_fact: "An asteroid is named after her: 7060 Al-'Ijliya.",
+    career_path: {
+      first_job: "Astrolabe maker",
+      career_highlights: ["Court astronomer for Emir of Aleppo"],
+      advice_for_students: "Your contributions to science matter, regardless of when you lived or where you're from."
+    },
+    student_resources: {
+      books_for_students: ["1001 Inventions: The Enduring Legacy of Muslim Civilization"],
+      websites: ["1001inventions.com", "islamicscience.org"],
+      programs: ["Islamic science history programs", "Astronomy clubs"],
+      advice: "Learn about the rich history of science in different cultures and time periods."
+    },
+    challenges: {
+      academic: ["Limited formal education opportunities for women"],
+      professional: ["Medieval gender roles and expectations"],
+      personal: ["Working in a male-dominated field"],
+      how_overcame: "Demonstrated exceptional skill and innovation in her craft"
+    },
+    education_details: {
+      high_school: "Learned from family workshop",
+      college_major: "Apprenticeship in astronomy and engineering",
+      key_courses: ["Astronomy", "Engineering", "Mathematics"],
+      study_tips: "Learn from family traditions and combine with modern knowledge"
+    },
+    modern_impact: {
+      current_applications: "Navigation technology, timekeeping devices",
+      companies_using_her_work: ["Navigation companies", "Astronomical societies"],
+      future_implications: "Continued recognition of historical women scientists"
+    },
+    personal_info: {
+      early_interests: ["Astronomy", "Engineering", "Navigation"],
+      family_background: "Family of astronomers and engineers",
+      hobbies: ["Studying the stars", "Improving instruments"],
+      personality_traits: ["Innovative", "Precise", "Dedicated"]
+    },
+    cultural_background: {
+      heritage: "Syrian Muslim",
+      cultural_influences: ["Islamic Golden Age", "Syrian scientific tradition"],
+      cultural_challenges: ["Medieval gender roles", "Limited historical documentation"],
+      cultural_contributions: "Contributed to Islamic Golden Age scientific achievements"
+    }
+  },
+  {
+    name: "Chien-Shiung Wu",
+    photo: "./images/chien-shiung-wu.jpg",
+    lifespan: "1912–1997",
+    country: "China/United States",
+    fields: ["Physics"],
+    roles: ["Nuclear Physicist", "Professor"],
+    quote: "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
+    summary: "Known as the 'First Lady of Physics' for her groundbreaking work in nuclear physics and the Manhattan Project.",
+    shortDescription: "Chien-Shiung Wu was a brilliant physicist known as the 'First Lady of Physics.' She made important discoveries about how atoms work and helped develop the atomic bomb during World War II. Her experiments proved that nature doesn't always behave the same way when you look at it in a mirror - a discovery that changed how scientists understand the universe.",
+    detailed_description: {
+      early_life: "Born in China, Chien-Shiung showed exceptional talent in mathematics and physics from an early age. She was encouraged by her father to pursue education.",
+      stem_journey: "Earned her doctorate in physics, then moved to the United States where she became a leading nuclear physicist.",
+      challenges: "Faced discrimination as a Chinese woman in American physics and limited recognition for her contributions.",
+      achievements: "Conducted the Wu experiment that disproved the law of conservation of parity, worked on the Manhattan Project.",
+      legacy: "Pioneered nuclear physics research and inspired generations of women and Asian Americans in physics."
+    },
+    achievements: [
+      "Conducted the Wu experiment disproving parity conservation",
+      "Worked on the Manhattan Project",
+      "First female president of American Physical Society",
+      "Known as 'First Lady of Physics'"
+    ],
+    awards: ["National Medal of Science", "Wolf Prize in Physics"],
+    publications: [],
+    education: [
+      { degree: "Ph.D.", field: "Physics", institution: "University of California, Berkeley" }
+    ],
+    timeline: [
+      { year: 1956, event: "Conducted the Wu experiment" },
+      { year: 1975, event: "First female president of American Physical Society" }
+    ],
+    barriers: ["Gender and racial discrimination in physics", "Limited recognition for contributions"],
+    impact: "Revolutionized understanding of nuclear physics and inspired women in physics worldwide.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Chien-Shiung_Wu" }
+    ],
+    mentorship: "Mentored many students and advocated for women in physics.",
+    fun_fact: "Her experiment was called 'the most beautiful experiment in physics.'",
+    career_path: {
+      first_job: "Research physicist",
+      career_highlights: ["Manhattan Project scientist", "Columbia University professor"],
+      advice_for_students: "Pursue your passion with determination. Your background is your strength, not a limitation."
+    },
+    student_resources: {
+      books_for_students: ["Queen of Physics: How Wu Chien Shiung Helped Unlock the Secrets of the Atom"],
+      websites: ["aps.org", "physics.org"],
+      programs: ["Physics summer camps", "Women in Physics programs"],
+      advice: "Don't let stereotypes define your capabilities. Physics needs diverse perspectives."
+    },
+    challenges: {
+      academic: ["Limited opportunities for women in physics"],
+      professional: ["Gender and racial discrimination in academia"],
+      personal: ["Balancing research with family life"],
+      how_overcame: "Focused on her research and built a strong scientific reputation"
+    },
+    education_details: {
+      high_school: "Excelled in mathematics and physics",
+      college_major: "Physics",
+      graduate_school: "Ph.D. in Physics",
+      key_courses: ["Nuclear Physics", "Quantum Mechanics", "Mathematics"],
+      study_tips: "Combine theoretical understanding with experimental skills"
+    },
+    modern_impact: {
+      current_applications: "Nuclear physics, particle physics, medical imaging",
+      companies_using_her_work: ["Research institutions", "Medical imaging companies"],
+      future_implications: "Continued advances in nuclear and particle physics"
+    },
+    personal_info: {
+      early_interests: ["Physics", "Mathematics", "Scientific research"],
+      family_background: "Supportive family encouraging education",
+      hobbies: ["Reading scientific literature", "Teaching"],
+      personality_traits: ["Precise", "Determined", "Innovative"]
+    },
+    cultural_background: {
+      heritage: "Chinese American",
+      cultural_influences: ["Chinese educational tradition", "American scientific community"],
+      cultural_challenges: ["Anti-Asian discrimination", "Gender barriers in physics"],
+      cultural_contributions: "Bridged Chinese and American scientific traditions"
+    }
+  },
+  {
+    name: "Dorothy Vaughan",
+    photo: "./images/dorothy-vaughan.jpg",
+    lifespan: "1910–2008",
+    country: "United States",
+    fields: ["Mathematics", "Computer Science"],
+    roles: ["Mathematician", "Computer Programmer"],
+    quote: "I changed what I could, and what I couldn't, I endured.",
+    summary: "NASA mathematician and computer programmer who led the West Area Computing Unit during the Space Race.",
+    shortDescription: "Dorothy Vaughan was a brilliant mathematician who worked at NASA when 'computers' were people who did math by hand. She led a group of African American women mathematicians and later became one of the first computer programmers. Dorothy's work helped launch astronauts into space and showed that talent comes in all colors and genders.",
+    detailed_description: {
+      early_life: "Born in Kansas City, Missouri, Dorothy showed exceptional mathematical ability. She graduated high school at 15 and earned a mathematics degree.",
+      stem_journey: "Became a teacher, then joined NASA in 1943 as a mathematician. Later learned computer programming.",
+      challenges: "Faced racial and gender discrimination in the segregated South, limited opportunities for African American women.",
+      achievements: "Led the West Area Computing Unit, became one of NASA's first computer programmers, contributed to space missions.",
+      legacy: "Pioneered computer programming and inspired African American women in STEM fields."
+    },
+    achievements: [
+      "Led NASA's West Area Computing Unit",
+      "One of NASA's first computer programmers",
+      "Contributed to space missions",
+      "Mentored many African American women in STEM"
+    ],
+    awards: [],
+    publications: [],
+    education: [
+      { degree: "Bachelor's", field: "Mathematics", institution: "Wilberforce University" }
+    ],
+    timeline: [
+      { year: 1943, event: "Joined NASA as mathematician" },
+      { year: 1958, event: "Became computer programmer" }
+    ],
+    barriers: ["Racial segregation", "Gender discrimination", "Limited opportunities for African American women"],
+    impact: "Pioneered computer programming and opened doors for African American women in STEM.",
+    media: [
+      { type: "movie", title: "Hidden Figures", url: "https://www.imdb.com/title/tt4846340/" }
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Dorothy_Vaughan" }
+    ],
+    mentorship: "Mentored many African American women mathematicians and programmers.",
+    fun_fact: "Her story was featured in the movie 'Hidden Figures.'",
+    career_path: {
+      first_job: "Mathematics teacher",
+      career_highlights: ["NASA mathematician", "Computer programming pioneer"],
+      advice_for_students: "Education is your key to opportunity. Learn everything you can and be ready for change."
+    },
+    student_resources: {
+      books_for_students: ["Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race"],
+      websites: ["nasa.gov", "blackgirlscode.org"],
+      programs: ["Computer science programs for girls", "STEM mentorship programs"],
+      advice: "Learn to adapt to new technologies. The future belongs to those who can learn and grow."
+    },
+    challenges: {
+      academic: ["Limited educational opportunities for African Americans"],
+      professional: ["Racial and gender discrimination in the workplace"],
+      personal: ["Balancing work with family responsibilities"],
+      how_overcame: "Focused on her work and adapted to new technologies"
+    },
+    education_details: {
+      high_school: "Graduated at age 15",
+      college_major: "Mathematics",
+      key_courses: ["Mathematics", "Computer Programming"],
+      study_tips: "Be adaptable and willing to learn new skills"
+    },
+    modern_impact: {
+      current_applications: "Computer programming, space exploration, diversity in STEM",
+      companies_using_her_work: ["NASA", "Technology companies"],
+      future_implications: "Continued diversity and inclusion in STEM fields"
+    },
+    personal_info: {
+      early_interests: ["Mathematics", "Problem-solving"],
+      family_background: "Supportive family valuing education",
+      hobbies: ["Reading", "Teaching"],
+      personality_traits: ["Adaptable", "Determined", "Mentoring"]
+    },
+    cultural_background: {
+      heritage: "African American",
+      cultural_influences: ["Black educational tradition", "NASA culture"],
+      cultural_challenges: ["Racial segregation", "Gender discrimination"],
+      cultural_contributions: "Pioneered African American women's participation in STEM"
+    }
+  },
+  {
+    name: "Grace Hopper",
+    photo: "./images/grace-hopper.jpg",
+    lifespan: "1906–1992",
+    country: "United States",
+    fields: ["Computer Science", "Mathematics"],
+    roles: ["Computer Scientist", "Navy Admiral"],
+    quote: "The most dangerous phrase in the language is 'We've always done it this way.'",
+    summary: "Pioneer of computer programming who developed the first compiler and popularized the term 'debugging.'",
+    shortDescription: "Grace Hopper was a brilliant computer scientist and Navy admiral who helped invent modern computer programming. She created the first compiler - a program that translates human language into computer language - and found the first computer 'bug' (a real insect!). Grace's work made computers easier to use and helped create the software we use today.",
+    detailed_description: {
+      early_life: "Born in New York, Grace showed early interest in mathematics and mechanical devices. She loved taking things apart to see how they worked.",
+      stem_journey: "Earned her Ph.D. in mathematics, joined the Navy during World War II, and became a pioneer in computer programming.",
+      challenges: "Faced gender discrimination in the military and computer industry, was often the only woman in technical meetings.",
+      achievements: "Developed the first compiler, popularized the term 'debugging,' became the first female admiral in the Navy.",
+      legacy: "Pioneered computer programming and inspired generations of women in computer science."
+    },
+    achievements: [
+      "Developed the first computer compiler",
+      "Popularized the term 'debugging'",
+      "First female admiral in the U.S. Navy",
+      "Pioneered computer programming languages"
+    ],
+    awards: ["Presidential Medal of Freedom", "National Medal of Technology"],
+    publications: [],
+    education: [
+      { degree: "Ph.D.", field: "Mathematics", institution: "Yale University" }
+    ],
+    timeline: [
+      { year: 1944, event: "Joined the Navy" },
+      { year: 1952, event: "Developed the first compiler" }
+    ],
+    barriers: ["Gender discrimination in military and technology", "Age restrictions in Navy"],
+    impact: "Revolutionized computer programming and opened doors for women in technology.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Grace_Hopper" }
+    ],
+    mentorship: "Mentored many women in computer science and technology.",
+    fun_fact: "Found the first computer 'bug' - a real moth stuck in the computer!",
+    career_path: {
+      first_job: "Mathematics professor",
+      career_highlights: ["Navy admiral", "Computer programming pioneer"],
+      advice_for_students: "Don't be afraid to challenge the status quo. Innovation requires thinking differently."
+    },
+    student_resources: {
+      books_for_students: ["Grace Hopper: Queen of Computer Code"],
+      websites: ["code.org", "girlswhocode.com"],
+      programs: ["Computer science camps", "Coding programs for girls"],
+      advice: "Learn to program and don't be afraid to break things - that's how you learn!"
+    },
+    challenges: {
+      academic: ["Few women in mathematics and computer science"],
+      professional: ["Gender discrimination in military and technology"],
+      personal: ["Balancing military career with personal life"],
+      how_overcame: "Focused on her work and challenged gender stereotypes"
+    },
+    education_details: {
+      high_school: "Excelled in mathematics"],
+      college_major: "Mathematics",
+      graduate_school: "Ph.D. in Mathematics",
+      key_courses: ["Mathematics", "Computer Science", "Programming"],
+      study_tips: "Learn by doing and don't be afraid to experiment"
+    },
+    modern_impact: {
+      current_applications: "Computer programming, software development, artificial intelligence"],
+      companies_using_her_work: ["All major technology companies", "Software companies"],
+      future_implications: "Continued development of programming languages and software"
+    },
+    personal_info: {
+      early_interests: ["Mathematics", "Mechanical devices", "Problem-solving"],
+      family_background: "Supportive family encouraging education"],
+      hobbies: ["Taking things apart", "Teaching", "Military service"],
+      personality_traits: ["Innovative", "Determined", "Mentoring"]
+    },
+    cultural_background: {
+      heritage: "American",
+      cultural_influences: ["American military tradition", "Early computer culture"],
+      cultural_challenges: ["Gender barriers in military and technology"],
+      cultural_contributions: "Pioneered women's participation in computer science and military technology"
+    }
+  },
+  {
+    name: "Katherine Johnson",
+    photo: "./images/katherine-johnson.jpg",
+    lifespan: "1918–2020",
+    country: "United States",
+    fields: ["Mathematics", "Aerospace"],
+    roles: ["Mathematician", "NASA Scientist"],
+    quote: "Girls are capable of doing everything men are capable of doing.",
+    summary: "Trailblazing NASA mathematician whose calculations enabled the first U.S. spaceflights.",
+    shortDescription: "Katherine Johnson was a mathematician whose calculations helped launch the first American astronauts into space. She worked at NASA when 'computers' were people who did math by hand, and her work was so trusted that John Glenn asked her to double-check the numbers before his historic flight. Despite facing racial and gender barriers, Katherine's talent and perseverance made her a trailblazer for women and African Americans in STEM.",
+    detailed_description: {
+      early_life: "Born in 1918 in West Virginia, Katherine showed exceptional mathematical ability from childhood. She graduated high school at 14 and entered college at 15, where she excelled in mathematics.",
+      stem_journey: "Katherine became a teacher after college, then joined NASA in 1953 as a 'computer' - someone who performed mathematical calculations. She quickly proved her abilities and became trusted with critical calculations.",
+      challenges: "As an African American woman in the segregated South, Katherine faced both racial and gender discrimination. She was often the only woman in meetings and had to fight for recognition of her work.",
+      achievements: "Katherine calculated trajectories for Alan Shepard's first space flight and John Glenn's orbital flight. Her calculations were so trusted that Glenn insisted she verify the computer's work before his flight.",
+      legacy: "Katherine opened doors for women and African Americans in STEM and inspired millions with her story of perseverance and excellence."
+    },
+    achievements: [
+      "Calculated trajectories for first American space flights",
+      "Verified computer calculations for John Glenn's orbital flight",
+      "Contributed to Apollo 11 moon landing",
+      "Received Presidential Medal of Freedom"
+    ],
+    awards: ["Presidential Medal of Freedom", "Congressional Gold Medal"],
+    publications: [],
+    education: [
+      { degree: "Bachelor's", field: "Mathematics", institution: "West Virginia State University" }
+    ],
+    timeline: [
+      { year: 1953, event: "Joined NASA" },
+      { year: 1962, event: "Verified calculations for John Glenn's flight" }
+    ],
+    barriers: ["Racial segregation", "Gender discrimination in STEM"],
+    impact: "Pioneered space exploration and inspired generations of women and African Americans in STEM.",
+    media: [
+      { type: "movie", title: "Hidden Figures", url: "https://www.imdb.com/title/tt4846340/" }
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Katherine_Johnson" }
+    ],
+    mentorship: "Mentored many young mathematicians and inspired women in STEM.",
+    fun_fact: "Her story was featured in the movie 'Hidden Figures.'",
+    career_path: {
+      first_job: "Mathematics teacher",
+      career_highlights: ["NASA mathematician", "Space flight calculations"],
+      advice_for_students: "Find what you love and pursue it with passion. Don't let anyone tell you what you can't do."
+    },
+    student_resources: {
+      books_for_students: ["Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race"],
+      websites: ["nasa.gov", "blackgirlscode.org"],
+      programs: ["Mathematics programs for girls", "STEM mentorship programs"],
+      advice: "Practice your math skills and don't be afraid to ask questions. Every question is a good question."
+    },
+    challenges: {
+      academic: ["Limited educational opportunities for African Americans"],
+      professional: ["Racial and gender discrimination in the workplace"],
+      personal: ["Balancing work with family responsibilities"],
+      how_overcame: "Focused on her work and demonstrated exceptional mathematical ability"
+    },
+    education_details: {
+      high_school: "Graduated at age 14"],
+      college_major: "Mathematics",
+      key_courses: ["Mathematics", "Physics", "Calculus"],
+      study_tips: "Practice regularly and don't be afraid to make mistakes"
+    },
+    modern_impact: {
+      current_applications: "Space exploration, satellite technology, mathematical modeling",
+      companies_using_her_work: ["NASA", "Space companies"],
+      future_implications: "Continued space exploration and mathematical innovation"
+    },
+    personal_info: {
+      early_interests: ["Mathematics", "Problem-solving", "Space"],
+      family_background: "Supportive family valuing education",
+      hobbies: ["Reading", "Teaching", "Solving puzzles"],
+      personality_traits: ["Precise", "Determined", "Mentoring"]
+    },
+    cultural_background: {
+      heritage: "African American",
+      cultural_influences: ["Black educational tradition", "NASA culture"],
+      cultural_challenges: ["Racial segregation", "Gender discrimination"],
+      cultural_contributions: "Pioneered African American women's participation in space exploration"
+    }
+  },
+  {
+    name: "Mae Jemison",
+    photo: "./images/mae-jemison.jpg",
+    lifespan: "1956–",
+    country: "United States",
+    fields: ["Engineering", "Medicine", "Astronomy"],
+    roles: ["Astronaut", "Engineer", "Physician"],
+    quote: "Never be limited by other people's limited imaginations.",
+    summary: "First African American woman in space, physician, engineer, and advocate for science education.",
+    shortDescription: "Mae Jemison was the first African American woman to travel in space! She's also a doctor, engineer, and dancer. Mae shows that you can be many things at once - she studied science and medicine, became an astronaut, and even appeared on Star Trek. Her journey inspires people to dream big and not let anyone limit what they can achieve.",
+    detailed_description: {
+      early_life: "Born in Alabama and raised in Chicago, Mae showed early interest in science and space. She was inspired by Star Trek and dreamed of becoming an astronaut.",
+      stem_journey: "Earned degrees in chemical engineering and medicine, worked as a doctor, then became an astronaut with NASA.",
+      challenges: "Faced racial and gender discrimination in STEM fields, limited opportunities for African American women in space program.",
+      achievements: "Became the first African American woman in space, worked as a physician, founded a technology company.",
+      legacy: "Inspired generations of women and African Americans to pursue careers in STEM and space exploration."
+    },
+    achievements: [
+      "First African American woman in space",
+      "Medical doctor and engineer",
+      "Founded technology company",
+      "Appeared on Star Trek: The Next Generation"
+    ],
+    awards: ["NASA Space Flight Medal", "National Women's Hall of Fame"],
+    publications: [],
+    education: [
+      { degree: "M.D.", field: "Medicine", institution: "Cornell University" },
+      { degree: "Bachelor's", field: "Chemical Engineering", institution: "Stanford University" }
+    ],
+    timeline: [
+      { year: 1992, event: "Became first African American woman in space" },
+      { year: 1993, event: "Appeared on Star Trek: The Next Generation" }
+    ],
+    barriers: ["Racial and gender discrimination in STEM", "Limited opportunities for African American women in space program"],
+    impact: "Inspired generations to pursue careers in STEM and space exploration.",
+    media: [
+      { type: "TV", title: "Star Trek: The Next Generation", url: "https://www.imdb.com/title/tt0092455/" }
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mae_Jemison" }
+    ],
+    mentorship: "Advocates for science education and mentors young people in STEM.",
+    fun_fact: "Appeared on an episode of Star Trek: The Next Generation!",
+    career_path: {
+      first_job: "Medical doctor",
+      career_highlights: ["NASA astronaut", "Technology company founder"],
+      advice_for_students: "Don't let anyone limit your dreams. You can be anything you want to be."
+    },
+    student_resources: {
+      books_for_students: ["Find Where the Wind Goes: Moments from My Life"],
+      websites: ["maejemison.com", "nasa.gov"],
+      programs: ["Space camps", "STEM programs for girls"],
+      advice: "Follow your interests and don't be afraid to try new things. You can have multiple careers!"
+    },
+    challenges: {
+      academic: ["Limited opportunities for African American women in STEM"],
+      professional: ["Racial and gender discrimination in space program"],
+      personal: ["Balancing multiple careers and interests"],
+      how_overcame: "Pursued her passions with determination and excellence"
+    },
+    education_details: {
+      high_school: "Excelled in science and mathematics",
+      college_major: "Chemical Engineering",
+      graduate_school: "M.D. in Medicine",
+      key_courses: ["Engineering", "Medicine", "Astronomy"],
+      study_tips: "Follow your curiosity and don't limit yourself to one field"
+    },
+    modern_impact: {
+      current_applications: "Space exploration, medical technology, science education",
+      companies_using_her_work: ["NASA", "Technology companies"],
+      future_implications: "Continued diversity in space exploration and STEM fields"
+    },
+    personal_info: {
+      early_interests: ["Science", "Space", "Dance", "Medicine"],
+      family_background: "Supportive family encouraging education",
+      hobbies: ["Dancing", "Reading", "Teaching"],
+      personality_traits: ["Multi-talented", "Determined", "Inspiring"]
+    },
+    cultural_background: {
+      heritage: "African American",
+      cultural_influences: ["Black educational tradition", "American space program"],
+      cultural_challenges: ["Racial discrimination", "Gender barriers in STEM"],
+      cultural_contributions: "Pioneered African American women's participation in space exploration"
+    }
+  },
+  {
+    name: "Radia Perlman",
+    photo: "./images/radia-perlman.jpg",
+    lifespan: "1951–",
+    country: "United States",
+    fields: ["Computer Science", "Engineering"],
+    roles: ["Computer Scientist", "Engineer"],
+    quote: "The world would be a better place if more engineers, like me, hated technology.",
+    summary: "Known as the 'Mother of the Internet' for inventing the spanning tree protocol that made the internet possible.",
+    shortDescription: "Radia Perlman is a computer scientist known as the 'Mother of the Internet' because she invented a way for computers to talk to each other safely. Her work made the internet work properly and helped create the network we use today. Radia shows that women can be leaders in technology and that good engineering makes technology work better for everyone.",
+    detailed_description: {
+      early_life: "Born in New Jersey, Radia showed early interest in mathematics and problem-solving. She loved puzzles and logical thinking.",
+      stem_journey: "Earned degrees in mathematics and computer science, then worked on networking protocols that made the internet possible.",
+      challenges: "Faced gender discrimination in computer science and engineering, often the only woman in technical meetings.",
+      achievements: "Invented the spanning tree protocol, holds over 100 patents, known as 'Mother of the Internet.'",
+      legacy: "Pioneered internet networking and inspired women in computer science and engineering."
+    },
+    achievements: [
+      "Invented spanning tree protocol",
+      "Holds over 100 patents",
+      "Known as 'Mother of the Internet'",
+      "Pioneered network security protocols"
+    ],
+    awards: ["National Inventors Hall of Fame", "Internet Hall of Fame"],
+    publications: [],
+    education: [
+      { degree: "Ph.D.", field: "Computer Science", institution: "MIT" }
+    ],
+    timeline: [
+      { year: 1985, event: "Invented spanning tree protocol" },
+      { year: 2016, event: "Inducted into National Inventors Hall of Fame" }
+    ],
+    barriers: ["Gender discrimination in computer science", "Limited recognition for women's contributions"],
+    impact: "Pioneered internet networking and opened doors for women in computer science.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Radia_Perlman" }
+    ],
+    mentorship: "Advocates for women in computer science and mentors young engineers.",
+    fun_fact: "Known as the 'Mother of the Internet' for her networking innovations.",
+    career_path: {
+      first_job: "Computer scientist",
+      career_highlights: ["Internet pioneer", "Patent holder"],
+      advice_for_students: "Focus on solving real problems and don't worry about being the only woman in the room."
+    },
+    student_resources: {
+      books_for_students: ["Interconnections: Bridges, Routers, Switches, and Internetworking Protocols"],
+      websites: ["code.org", "womenintechnology.org"],
+      programs: ["Computer science camps", "Coding programs for girls"],
+      advice: "Learn to program and understand how networks work. The internet needs diverse perspectives."
+    },
+    challenges: {
+      academic: ["Few women in computer science and engineering"],
+      professional: ["Gender discrimination in technology industry"],
+      personal: ["Being the only woman in technical meetings"],
+      how_overcame: "Focused on her work and built a strong technical reputation"
+    },
+    education_details: {
+      high_school: "Excelled in mathematics",
+      college_major: "Mathematics",
+      graduate_school: "Ph.D. in Computer Science",
+      key_courses: ["Computer Science", "Networking", "Mathematics"],
+      study_tips: "Practice by building and experimenting"
+    },
+    modern_impact: {
+      current_applications: "Internet, cloud computing, cybersecurity",
+      companies_using_her_work: ["Cisco", "Intel", "Google"],
+      future_implications: "Secure, scalable networks for the future"
+    },
+    personal_info: {
+      early_interests: ["Mathematics", "Puzzles", "Programming"],
+      family_background: "Engineer parents",
+      hobbies: ["Writing", "Teaching"],
+      personality_traits: ["Logical", "Creative"]
+    },
+    cultural_background: {
+      heritage: "Jewish-American",
+      cultural_influences: ["MIT culture"],
+      cultural_challenges: ["Gender imbalance in tech"],
+      cultural_contributions: "Pioneered diversity in networking"
+    }
   }
 ];
 
