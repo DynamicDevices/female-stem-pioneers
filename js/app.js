@@ -150,6 +150,31 @@ class PioneersApp {
       `<li>${achievement}</li>`
     ).join('');
 
+    const detailedDescription = pioneer.detailed_description ? `
+      <div class="pioneer-detailed-description">
+        <div class="description-section">
+          <h4>Early Life</h4>
+          <p>${pioneer.detailed_description.early_life}</p>
+        </div>
+        <div class="description-section">
+          <h4>STEM Journey</h4>
+          <p>${pioneer.detailed_description.stem_journey}</p>
+        </div>
+        <div class="description-section">
+          <h4>Challenges</h4>
+          <p>${pioneer.detailed_description.challenges}</p>
+        </div>
+        <div class="description-section">
+          <h4>Achievements</h4>
+          <p>${pioneer.detailed_description.achievements}</p>
+        </div>
+        <div class="description-section">
+          <h4>Legacy</h4>
+          <p>${pioneer.detailed_description.legacy}</p>
+        </div>
+      </div>
+    ` : '';
+
     card.innerHTML = `
       <div class="pioneer-card-header">
         <div class="pioneer-portrait">
@@ -184,6 +209,8 @@ class PioneersApp {
         <div class="pioneer-fun-fact">
           <strong>Fun Fact:</strong> ${pioneer.fun_fact}
         </div>
+
+        ${detailedDescription}
 
         <div class="pioneer-actions">
           ${this.createActionButtons(pioneer)}
