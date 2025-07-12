@@ -1884,6 +1884,9 @@ body.light-theme .mobile-menu-toggle span {
     animation: cardIntro 0.6s ease-out forwards;
     opacity: 0;
     transform: translateY(20px);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .pioneer-card::before {
@@ -2053,6 +2056,9 @@ body.light-theme .mobile-menu-toggle span {
 .pioneer-content {
     color: #e2e8f0;
     line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
 
 .pioneer-quote {
@@ -2139,9 +2145,10 @@ body.light-theme .mobile-menu-toggle span {
 .pioneer-actions {
     display: flex;
     gap: 8px;
-    margin-top: 16px;
+    margin-top: auto;
     flex-wrap: wrap;
     justify-content: flex-start;
+    padding-top: 16px;
 }
 
 .pioneer-short-description {
