@@ -169,6 +169,24 @@ body {
     color: #f1f5f9;
 }
 
+.dynamic-devices-credit {
+    font-size: 0.85rem;
+    opacity: 0.8;
+    margin: 0.5rem 0 0 0;
+    color: #cbd5e1;
+}
+
+.dynamic-devices-credit a {
+    color: #e2e8f0;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.dynamic-devices-credit a:hover {
+    color: #f1f5f9;
+}
+
 /* Mobile responsiveness for header */
 @media (max-width: 768px) {
     .header {
@@ -190,6 +208,11 @@ body {
     .header .creator-info {
         font-size: 0.85rem;
         padding: 0 0.5rem;
+    }
+
+    .dynamic-devices-credit {
+        font-size: 0.8rem;
+        margin: 0.25rem 0 0 0;
     }
 }
 
