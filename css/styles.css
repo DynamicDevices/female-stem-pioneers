@@ -1954,12 +1954,14 @@ body.light-theme .mobile-menu-toggle span {
 }
 
 .pioneer-subtitle {
-    color: #cbd5e1;
-    font-size: 0.9rem;
-    font-weight: 400;
-    margin-bottom: 8px;
+    color: #60a5fa;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 12px;
     line-height: 1.4;
-    opacity: 0.9;
+    font-style: italic;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    letter-spacing: 0.3px;
 }
 
 .pioneer-meta {
