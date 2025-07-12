@@ -143,9 +143,10 @@ class PioneersApp {
     card.className = 'pioneer-card';
     card.style.animationDelay = `${index * 0.1}s`;
 
-    const fieldsBadges = pioneer.fields.map(field => 
-      `<span class="pioneer-field-badge" data-field="${field}">${field}</span>`
-    ).join('');
+    const fieldsBadges = pioneer.fields.map(field => {
+      const fieldClass = this.getFieldClass(field);
+      return `<span class="field-badge ${fieldClass}">${field}</span>`;
+    }).join('');
 
     const achievementsList = pioneer.achievements.slice(0, 3).map(achievement => 
       `<li>${achievement}</li>`
@@ -169,13 +170,11 @@ class PioneersApp {
         </div>
         <div class="pioneer-header-info">
           <h3 class="pioneer-name">${pioneer.name}</h3>
+          <div class="pioneer-field">${fieldsBadges}</div>
           <p class="pioneer-subtitle">${pioneer.summary}</p>
           <div class="pioneer-meta">
             <span class="pioneer-lifespan">${pioneer.lifespan}</span>
             <span class="pioneer-country">${pioneer.country}</span>
-          </div>
-          <div class="pioneer-fields">
-            ${fieldsBadges}
           </div>
         </div>
       </div>
@@ -199,11 +198,9 @@ class PioneersApp {
           <h4>Fun Fact:</h4>
           <p>${pioneer.fun_fact}</p>
         </div>
-
-        <div class="pioneer-actions">
-          ${this.createActionButtons(pioneer)}
-        </div>
       </div>
+
+      ${this.createActionButtons(pioneer)}
     `;
 
     return card;
@@ -315,6 +312,20 @@ class PioneersApp {
     const modal = document.getElementById('imageModal');
     modal.style.display = 'none';
     document.body.style.overflow = ''; // Restore scrolling
+  }
+
+  getFieldClass(field) {
+    const fieldMap = {
+      'Mathematics': 'mathematics',
+      'Physics': 'physics',
+      'Chemistry': 'chemistry',
+      'Biology': 'biology',
+      'Computer Science': 'computer-science',
+      'Engineering': 'engineering',
+      'Astronomy': 'astronomy',
+      'Medicine': 'medicine'
+    };
+    return fieldMap[field] || 'mathematics'; // Default to mathematics if field not found
   }
 }
 
