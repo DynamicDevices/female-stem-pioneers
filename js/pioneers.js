@@ -5,7 +5,8 @@ const pioneers = [
   {
     name: "Ada Lovelace",
     photo: "./images/ada-lovelace.jpg",
-    birthday: "1815–1852",
+    birthDate: "1815",
+    deathDate: "1852",
     country: "United Kingdom",
     fields: ["Mathematics", "Computing"],
     roles: ["Mathematician", "Writer"],
@@ -93,7 +94,8 @@ const pioneers = [
   {
     name: "Marie Curie",
     photo: "./images/marie-curie.jpg",
-    lifespan: "1867–1934",
+    birthDate: "1867",
+    deathDate: "1934",
     country: "Poland/France",
     fields: ["Physics", "Chemistry"],
     roles: ["Physicist", "Chemist", "Professor"],
@@ -186,7 +188,8 @@ const pioneers = [
   {
     name: "Katherine Johnson",
     photo: "./images/katherine-johnson.jpg",
-    lifespan: "1918–2020",
+    birthDate: "1918",
+    deathDate: "2020",
     country: "United States",
     fields: ["Mathematics", "Aerospace"],
     roles: ["Mathematician", "NASA Scientist"],
@@ -278,7 +281,8 @@ const pioneers = [
   {
     name: "Grace Hopper",
     photo: "./images/grace-hopper.jpg",
-    lifespan: "1906–1992",
+    birthDate: "1906",
+    deathDate: "1992",
     country: "United States",
     fields: ["Computer Science", "Mathematics"],
     roles: ["Computer Scientist", "Rear Admiral, U.S. Navy"],
@@ -369,7 +373,8 @@ const pioneers = [
   {
     name: "Rosalind Franklin",
     photo: "./images/rosalind-franklin.png",
-    lifespan: "1920–1958",
+    birthDate: "1920",
+    deathDate: "1958",
     country: "United Kingdom",
     fields: ["Chemistry", "Biology"],
     roles: ["Chemist", "X-ray Crystallographer"],
@@ -457,7 +462,8 @@ const pioneers = [
   {
     name: "Chien-Shiung Wu",
     photo: "./images/chien-shiung-wu.jpg",
-    lifespan: "1912–1997",
+    birthDate: "1912",
+    deathDate: "1997",
     country: "China/United States",
     fields: ["Physics"],
     roles: ["Experimental Physicist", "Professor"],
@@ -509,7 +515,7 @@ const pioneers = [
       advice_for_students: "Don't let stereotypes or expectations limit you. Your abilities and hard work will open doors."
     },
     student_resources: {
-      books_for_students: ["Queen of Physics: How Wu Chien Shiung Helped Unlock the Secrets of the Atom", "The Physics of the Manhattan Project"],
+      books_for_students: ["Queen of Physics: How Wu Chien Shiung Helped Unlock the Secrets of the Atom"],
       websites: ["aps.org", "physicsgirl.org", "womeninphysics.org"],
       programs: ["Physics summer programs", "Women in Physics initiatives", "Nuclear physics workshops"],
       advice: "Develop strong mathematical skills and don't be afraid to ask questions in class."
@@ -549,7 +555,8 @@ const pioneers = [
   {
     name: "Dorothy Vaughan",
     photo: "./images/dorothy-vaughan.jpg",
-    lifespan: "1910–2008",
+    birthDate: "1910",
+    deathDate: "2008",
     country: "United States",
     fields: ["Mathematics", "Computer Science"],
     roles: ["Mathematician", "Computer Programmer", "NASA Supervisor"],
@@ -631,7 +638,8 @@ const pioneers = [
   {
     name: "Mae Jemison",
     photo: "./images/mae-jemison.jpg",
-    lifespan: "1956–",
+    birthDate: "1956",
+    deathDate: "",
     country: "United States",
     fields: ["Astronautics", "Medicine", "Engineering"],
     roles: ["Astronaut", "Physician", "Engineer"],
@@ -713,7 +721,8 @@ const pioneers = [
   {
     name: "Radia Perlman",
     photo: "./images/radia-perlman.jpg",
-    lifespan: "1951–",
+    birthDate: "1951",
+    deathDate: "",
     country: "United States",
     fields: ["Computer Science", "Networking"],
     roles: ["Computer Scientist", "Engineer"],
@@ -796,7 +805,8 @@ const pioneers = [
   {
     name: "Tu Youyou",
     photo: "./images/tu-youyou.jpg",
-    lifespan: "1930–",
+    birthDate: "1930",
+    deathDate: "",
     country: "China",
     fields: ["Chemistry", "Medicine"],
     roles: ["Pharmacologist", "Chemist"],
@@ -878,8 +888,9 @@ const pioneers = [
   {
     name: "Maryam Mirzakhani",
     photo: "./images/maryam-mirzakhani.jpg",
-    lifespan: "1977–2017",
-    country: "Iran",
+    birthDate: "1977",
+    deathDate: "2017",
+    country: "Iran/United States",
     fields: ["Mathematics"],
     roles: ["Mathematician", "Professor"],
     quote: "The beauty of mathematics only shows itself to more patient followers.",
@@ -959,7 +970,8 @@ const pioneers = [
   {
     name: "Asima Chatterjee",
     photo: "./images/asima-chatterjee.jpg",
-    lifespan: "1917–2006",
+    birthDate: "1917",
+    deathDate: "2006",
     country: "India",
     fields: ["Chemistry", "Medicine"],
     roles: ["Organic Chemist", "Professor"],
@@ -1041,7 +1053,8 @@ const pioneers = [
   {
     name: "Mária Telkes",
     photo: "./images/maria-telkes.jpg",
-    lifespan: "1900–1995",
+    birthDate: "1900",
+    deathDate: "1995",
     country: "Hungary/United States",
     fields: ["Physics", "Engineering"],
     roles: ["Biophysicist", "Engineer", "Inventor"],
@@ -1123,7 +1136,8 @@ const pioneers = [
   {
     name: "Mariam Al-Astrulabi",
     photo: "./images/mariam-al-astrulabi.jpg",
-    lifespan: "944–967",
+    birthDate: "944",
+    deathDate: "967",
     country: "Syria",
     fields: ["Astronomy", "Engineering"],
     roles: ["Astronomer", "Engineer", "Inventor"],
@@ -1204,7 +1218,8 @@ const pioneers = [
   {
     name: "Chien-Shiung Wu",
     photo: "./images/chien-shiung-wu.jpg",
-    lifespan: "1912–1997",
+    birthDate: "1912",
+    deathDate: "1997",
     country: "China/United States",
     fields: ["Physics"],
     roles: ["Nuclear Physicist", "Professor"],
@@ -1286,7 +1301,8 @@ const pioneers = [
   {
     name: "Dorothy Vaughan",
     photo: "./images/dorothy-vaughan.jpg",
-    lifespan: "1910–2008",
+    birthDate: "1910",
+    deathDate: "2008",
     country: "United States",
     fields: ["Mathematics", "Computer Science"],
     roles: ["Mathematician", "Computer Programmer"],
@@ -1369,7 +1385,8 @@ const pioneers = [
   {
     name: "Grace Hopper",
     photo: "./images/grace-hopper.jpg",
-    lifespan: "1906–1992",
+    birthDate: "1906",
+    deathDate: "1992",
     country: "United States",
     fields: ["Computer Science", "Mathematics"],
     roles: ["Computer Scientist", "Navy Admiral"],
@@ -1451,7 +1468,8 @@ const pioneers = [
   {
     name: "Katherine Johnson",
     photo: "./images/katherine-johnson.jpg",
-    lifespan: "1918–2020",
+    birthDate: "1918",
+    deathDate: "2020",
     country: "United States",
     fields: ["Mathematics", "Aerospace"],
     roles: ["Mathematician", "NASA Scientist"],
@@ -1534,7 +1552,8 @@ const pioneers = [
   {
     name: "Mae Jemison",
     photo: "./images/mae-jemison.jpg",
-    lifespan: "1956–",
+    birthDate: "1956",
+    deathDate: "",
     country: "United States",
     fields: ["Engineering", "Medicine", "Astronomy"],
     roles: ["Astronaut", "Engineer", "Physician"],
@@ -1580,7 +1599,7 @@ const pioneers = [
       advice_for_students: "Don't let anyone limit your dreams. You can be anything you want to be."
     },
     student_resources: {
-      books_for_students: ["Find Where the Wind Goes: Moments from My Life"],
+      books_for_students: ["Find Where the Wind Goes by Mae Jemison"],
       websites: ["maejemison.com", "nasa.gov"],
       programs: ["Space camps", "STEM programs for girls"],
       advice: "Follow your interests and don't be afraid to try new things. You can have multiple careers!"
@@ -1619,7 +1638,8 @@ const pioneers = [
   {
     name: "Radia Perlman",
     photo: "./images/radia-perlman.jpg",
-    lifespan: "1951–",
+    birthDate: "1951",
+    deathDate: "",
     country: "United States",
     fields: ["Computer Science", "Engineering"],
     roles: ["Computer Scientist", "Engineer"],
@@ -1630,7 +1650,7 @@ const pioneers = [
       early_life: "Born in New Jersey, Radia showed early interest in mathematics and problem-solving. She loved puzzles and logical thinking.",
       stem_journey: "Earned degrees in mathematics and computer science, then worked on networking protocols that made the internet possible.",
       challenges: "Faced gender discrimination in computer science and engineering, often the only woman in technical meetings.",
-      achievements: "Invented the spanning tree protocol, holds over 100 patents, known as 'Mother of the Internet.'",
+      achievements: "Invented spanning tree protocol, holds over 100 patents, known as 'Mother of the Internet.'",
       legacy: "Pioneered internet networking and inspired women in computer science and engineering."
     },
     achievements: [
@@ -1701,12 +1721,13 @@ const pioneers = [
   {
     name: "Ellen Ochoa",
     photo: "./images/ellen-ochoa.jpg",
-    lifespan: "1958–",
+    birthDate: "1958",
+    deathDate: "",
     country: "United States",
     fields: ["Engineering", "Astronautics"],
     roles: ["Astronaut", "Engineer", "Director"],
     quote: "Don't be afraid to reach for the stars!",
-    summary: "First Hispanic woman in space and former Director of Johnson Space Center.",
+    summary: "First Hispanic woman in space and former Director of the Johnson Space Center.",
     shortDescription: "Ellen Ochoa is an engineer, astronaut, and the first Hispanic woman to go to space. She later became the Director of NASA's Johnson Space Center, inspiring countless young people to pursue STEM careers.",
     detailed_description: {
       early_life: "Born in Los Angeles, California, Ellen excelled in math and science from a young age.",
@@ -1782,7 +1803,8 @@ const pioneers = [
   {
     name: "Yvonne Brill",
     photo: "./images/yvonne-brill.jpg",
-    lifespan: "1924–2013",
+    birthDate: "1924",
+    deathDate: "2013",
     country: "Canada/United States",
     fields: ["Engineering", "Rocket Science"],
     roles: ["Rocket Scientist", "Engineer"],
@@ -1860,7 +1882,8 @@ const pioneers = [
   {
     name: "Wang Zhenyi",
     photo: "./images/wang-zhenyi.jpg",
-    lifespan: "1768–1797",
+    birthDate: "944",
+    deathDate: "967",
     country: "China",
     fields: ["Astronomy", "Mathematics"],
     roles: ["Astronomer", "Mathematician", "Poet"],
@@ -1941,7 +1964,8 @@ const pioneers = [
   {
     name: "Janaki Ammal",
     photo: "./images/janaki-ammal.jpg",
-    lifespan: "1897–1984",
+    birthDate: "1897",
+    deathDate: "1984",
     country: "India",
     fields: ["Botany", "Cytogenetics"],
     roles: ["Botanist", "Cytogeneticist"],
@@ -2020,7 +2044,8 @@ const pioneers = [
   {
     name: "Mary Golda Ross",
     photo: "./images/mary-golda-ross.jpg",
-    lifespan: "1908–2008",
+    birthDate: "1908",
+    deathDate: "2008",
     country: "United States (Cherokee Nation)",
     fields: ["Engineering", "Mathematics", "Aerospace"],
     roles: ["Engineer", "Mathematician"],
@@ -2099,7 +2124,8 @@ const pioneers = [
   {
     name: "Tu Youyou",
     photo: "./images/tu-youyou.jpg",
-    lifespan: "1930–",
+    birthDate: "1930",
+    deathDate: "",
     country: "China",
     fields: ["Chemistry", "Medicine"],
     roles: ["Pharmacologist", "Chemist"],
@@ -2181,8 +2207,9 @@ const pioneers = [
   {
     name: "Maryam Mirzakhani",
     photo: "./images/maryam-mirzakhani.jpg",
-    lifespan: "1977–2017",
-    country: "Iran",
+    birthDate: "1977",
+    deathDate: "2017",
+    country: "Iran/United States",
     fields: ["Mathematics"],
     roles: ["Mathematician", "Professor"],
     quote: "The beauty of mathematics only shows itself to more patient followers.",
@@ -2258,6 +2285,407 @@ const pioneers = [
       cultural_challenges: ["Gender imbalance"],
       cultural_contributions: "First Iranian and first woman Fields Medalist."
     }
+  },
+  {
+    name: "Asima Chatterjee",
+    photo: "./images/asima-chatterjee.jpg",
+    birthDate: "1917",
+    deathDate: "2006",
+    country: "India",
+    fields: ["Chemistry", "Medicine"],
+    roles: ["Organic Chemist", "Professor"],
+    quote: "Science is not just about discovery, but about making life better for humanity.",
+    summary: "First Indian woman to earn a doctorate in science, pioneer in phytomedicine and anti-malarial drugs.",
+    shortDescription: "Asima Chatterjee was a brilliant chemist from India who became the first Indian woman to earn a doctorate in science. She discovered important medicines from plants, including treatments for epilepsy and malaria. Her work showed how traditional knowledge and modern science can work together to help people.",
+    detailed_description: {
+      early_life: "Born in Kolkata, India, Asima showed early interest in chemistry and medicine. Her father encouraged her scientific pursuits.",
+      stem_journey: "Earned her doctorate in organic chemistry in 1944, becoming the first Indian woman to achieve this milestone.",
+      challenges: "Faced gender barriers in Indian academia and limited opportunities for women in science.",
+      achievements: "Discovered vinca alkaloids and developed anti-epileptic and anti-malarial drugs from natural products.",
+      legacy: "Pioneered phytomedicine research and opened doors for Indian women in science."
+    },
+    achievements: [
+      "First Indian woman to earn a doctorate in science",
+      "Discovered vinca alkaloids for cancer treatment",
+      "Developed anti-epileptic and anti-malarial drugs",
+      "Published over 400 scientific papers"
+    ],
+    awards: ["P.C. Ray Award", "First woman president of Indian Science Congress"],
+    publications: [],
+    education: [
+      { degree: "Ph.D.", field: "Organic Chemistry", institution: "University of Calcutta" }
+    ],
+    timeline: [
+      { year: 1944, event: "Earned doctorate in organic chemistry" },
+      { year: 1975, event: "Became first woman president of Indian Science Congress" }
+    ],
+    barriers: ["Gender discrimination in Indian academia", "Limited research funding for women"],
+    impact: "Pioneered phytomedicine research and inspired generations of Indian women scientists.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Asima_Chatterjee" }
+    ],
+    mentorship: "Mentored many students and advocated for women in science.",
+    fun_fact: "Published over 400 papers on medicinal plants.",
+    career_path: {
+      first_job: "Research chemist",
+      career_highlights: ["Professor at University of Calcutta", "President of Indian Science Congress"],
+      advice_for_students: "Persistence and passion can overcome any barrier. Science knows no gender."
+    },
+    student_resources: {
+      books_for_students: ["Women in Science: 50 Fearless Pioneers"],
+      websites: ["stemettes.org", "womeninscience.org"],
+      programs: ["Chemistry summer camps", "Women in STEM programs"],
+      advice: "Follow your curiosity and don't let stereotypes define your path."
+    },
+    challenges: {
+      academic: ["Limited opportunities for women in higher education"],
+      professional: ["Gender bias in Indian scientific community"],
+      personal: ["Balancing research with family responsibilities"],
+      how_overcame: "Focused on her research and built a strong scientific reputation"
+    },
+    education_details: {
+      high_school: "Excelled in chemistry and mathematics",
+      college_major: "Chemistry",
+      graduate_school: "Ph.D. in Organic Chemistry",
+      key_courses: ["Organic Chemistry", "Botany", "Pharmacology"],
+      study_tips: "Connect theory with practical applications"
+    },
+    modern_impact: {
+      current_applications: "Natural product drug discovery, cancer treatments",
+      companies_using_her_work: ["Pharmaceutical companies", "Research institutions"],
+      future_implications: "Continued development of plant-based medicines"
+    },
+    personal_info: {
+      early_interests: ["Chemistry", "Medicine", "Plants"],
+      family_background: "Supportive family encouraging education",
+      hobbies: ["Reading scientific literature", "Teaching"],
+      personality_traits: ["Dedicated", "Innovative", "Persistent"]
+    },
+    cultural_background: {
+      heritage: "Indian Bengali",
+      cultural_influences: ["Indian scientific tradition", "Bengali intellectual culture"],
+      cultural_challenges: ["Traditional gender roles in India", "Colonial education system"],
+      cultural_contributions: "Bridged traditional Indian medicine with modern chemistry"
+    }
+  },
+  {
+    name: "Mária Telkes",
+    photo: "./images/maria-telkes.jpg",
+    birthDate: "1900",
+    deathDate: "1995",
+    country: "Hungary/United States",
+    fields: ["Physics", "Engineering"],
+    roles: ["Biophysicist", "Engineer", "Inventor"],
+    quote: "It is the things supposed to be impossible that interest me. I like to do things they say cannot be done.",
+    summary: "Pioneer of solar energy technology, known as 'The Sun Queen' for her innovations in solar heating and power storage.",
+    shortDescription: "Mária Telkes was a brilliant scientist who became known as 'The Sun Queen' for her groundbreaking work with solar energy. She invented solar-powered heating systems, solar ovens, and devices that could turn saltwater into drinking water using only sunlight. Her inventions helped soldiers during World War II and continue to help people around the world today.",
+    detailed_description: {
+      early_life: "Born in Budapest, Hungary, Mária was fascinated by chemistry from age 10. She made her own chemistry set and dreamed of harnessing solar energy.",
+      stem_journey: "Earned her doctorate in physical chemistry, then moved to the United States to work on solar energy research at MIT.",
+      challenges: "Faced skepticism about solar energy and gender discrimination in engineering fields.",
+      achievements: "Invented solar heating systems, solar ovens, and solar water distillation devices. Held over 20 patents.",
+      legacy: "Pioneered practical solar energy applications and inspired future renewable energy research."
+    },
+    achievements: [
+      "Invented solar heating systems for homes",
+      "Developed solar-powered water distillation",
+      "Created portable solar ovens",
+      "Held over 20 patents for solar technology"
+    ],
+    awards: ["Society of Women Engineers Achievement Award (1952)", "National Inventors Hall of Fame"],
+    publications: [],
+    education: [
+      { degree: "Ph.D.", field: "Physical Chemistry", institution: "University of Budapest" }
+    ],
+    timeline: [
+      { year: 1948, event: "Built the Dover Sun House" },
+      { year: 1952, event: "First recipient of SWE Achievement Award" }
+    ],
+    barriers: ["Gender discrimination in engineering", "Skepticism about solar energy"],
+    impact: "Pioneered practical solar energy applications that continue to benefit humanity.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mária_Telkes" }
+    ],
+    mentorship: "Inspired generations of women engineers and solar energy researchers.",
+    fun_fact: "Known as 'The Sun Queen' by her colleagues.",
+    career_path: {
+      first_job: "Biophysicist at Cleveland Clinic",
+      career_highlights: ["MIT researcher", "Solar energy pioneer"],
+      advice_for_students: "Don't be afraid to pursue what others think is impossible. Innovation requires persistence."
+    },
+    student_resources: {
+      books_for_students: ["The Sun Queen: The Untold Story of Mária Telkes"],
+      websites: ["swe.org", "solarhousehistory.com"],
+      programs: ["Solar energy camps", "Engineering programs for girls"],
+      advice: "Explore renewable energy and sustainable technology. The future needs innovative thinkers."
+    },
+    challenges: {
+      academic: ["Limited opportunities for women in engineering"],
+      professional: ["Skepticism about solar energy technology"],
+      personal: ["Immigrating to a new country"],
+      how_overcame: "Focused on practical applications and demonstrated results"
+    },
+    education_details: {
+      high_school: "Excelled in chemistry and physics",
+      college_major: "Physical Chemistry",
+      graduate_school: "Ph.D. in Physical Chemistry",
+      key_courses: ["Chemistry", "Physics", "Engineering"],
+      study_tips: "Combine theoretical knowledge with practical experimentation"
+    },
+    modern_impact: {
+      current_applications: "Solar heating, renewable energy, water purification",
+      companies_using_her_work: ["Solar energy companies", "Environmental organizations"],
+      future_implications: "Continued development of sustainable energy solutions"
+    },
+    personal_info: {
+      early_interests: ["Chemistry", "Solar energy", "Innovation"],
+      family_background: "Supportive family encouraging scientific exploration",
+      hobbies: ["Scientific research", "Inventing"],
+      personality_traits: ["Innovative", "Determined", "Visionary"]
+    },
+    cultural_background: {
+      heritage: "Hungarian Jewish",
+      cultural_influences: ["Hungarian scientific tradition", "American innovation culture"],
+      cultural_challenges: ["Anti-Semitism in Europe", "Gender barriers in engineering"],
+      cultural_contributions: "Bridged European scientific rigor with American practical innovation"
+    }
+  },
+  {
+    name: "Mariam Al-Astrulabi",
+    photo: "./images/mariam-al-astrulabi.jpg",
+    birthDate: "944",
+    deathDate: "967",
+    country: "Syria",
+    fields: ["Astronomy", "Engineering"],
+    roles: ["Astronomer", "Engineer", "Inventor"],
+    quote: "The stars guide us not just in navigation, but in understanding our place in the universe.",
+    summary: "10th-century Muslim astronomer and engineer who improved astrolabe design for navigation and timekeeping.",
+    shortDescription: "Mariam Al-Astrulabi was a brilliant astronomer and engineer from 10th-century Syria who improved the design of astrolabes - ancient tools for navigation and timekeeping. Her work helped sailors navigate the seas and helped people tell time and find direction. Mariam showed that women have been contributing to science and engineering for centuries.",
+    detailed_description: {
+      early_life: "Born in Aleppo, Syria, Mariam came from a family of astronomers and engineers. Her father was an astrolabe maker.",
+      stem_journey: "Learned astrolabe making from her father and became renowned for her improvements to the design.",
+      challenges: "Few historical records of women scientists from this era, limited recognition of women's contributions.",
+      achievements: "Improved astrolabe design for better accuracy in navigation and timekeeping, employed by the Emir of Aleppo.",
+      legacy: "Demonstrated women's contributions to science throughout history and inspired modern Muslim women in STEM."
+    },
+    achievements: [
+      "Improved astrolabe design for navigation",
+      "Enhanced timekeeping accuracy",
+      "Employed by the Emir of Aleppo",
+      "Pioneered women's role in medieval astronomy"
+    ],
+    awards: ["Asteroid 7060 Al-'Ijliya named in her honor"],
+    publications: [],
+    education: [
+      { degree: "Apprenticeship", field: "Astronomy and Engineering", institution: "Family workshop" }
+    ],
+    timeline: [
+      { year: 944, event: "Born in Aleppo, Syria" },
+      { year: 967, event: "Died, leaving legacy of improved astrolabes" }
+    ],
+    barriers: ["Limited historical recognition of women scientists", "Medieval gender roles"],
+    impact: "Advanced navigation technology and demonstrated women's contributions to medieval science.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mariam_al-Astrulabi" }
+    ],
+    mentorship: "Inspired future generations of Muslim women in science and engineering.",
+    fun_fact: "An asteroid is named after her: 7060 Al-'Ijliya.",
+    career_path: {
+      first_job: "Astrolabe maker",
+      career_highlights: ["Court astronomer for Emir of Aleppo"],
+      advice_for_students: "Your contributions to science matter, regardless of when you lived or where you're from."
+    },
+    student_resources: {
+      books_for_students: ["1001 Inventions: The Enduring Legacy of Muslim Civilization"],
+      websites: ["1001inventions.com", "islamicscience.org"],
+      programs: ["Islamic science history programs", "Astronomy clubs"],
+      advice: "Learn about the rich history of science in different cultures and time periods."
+    },
+    challenges: {
+      academic: ["Limited formal education opportunities for women"],
+      professional: ["Medieval gender roles and expectations"],
+      personal: ["Working in a male-dominated field"],
+      how_overcame: "Demonstrated exceptional skill and innovation in her craft"
+    },
+    education_details: {
+      high_school: "Learned from family workshop",
+      college_major: "Apprenticeship in astronomy and engineering",
+      key_courses: ["Astronomy", "Engineering", "Mathematics"],
+      study_tips: "Learn from family traditions and combine with modern knowledge"
+    },
+    modern_impact: {
+      current_applications: "Navigation technology, timekeeping devices",
+      companies_using_her_work: ["Navigation companies", "Astronomical societies"],
+      future_implications: "Continued recognition of historical women scientists"
+    },
+    personal_info: {
+      early_interests: ["Astronomy", "Engineering", "Navigation"],
+      family_background: "Family of astronomers and engineers",
+      hobbies: ["Studying the stars", "Improving instruments"],
+      personality_traits: ["Innovative", "Precise", "Dedicated"]
+    },
+    cultural_background: {
+      heritage: "Syrian Muslim",
+      cultural_influences: ["Islamic Golden Age", "Syrian scientific tradition"],
+      cultural_challenges: ["Medieval gender roles", "Limited historical documentation"],
+      cultural_contributions: "Contributed to Islamic Golden Age scientific achievements"
+    }
+  },
+  {
+    name: "Chien-Shiung Wu",
+    photo: "./images/chien-shiung-wu.jpg",
+    birthDate: "1912",
+    deathDate: "1997",
+    country: "China/United States",
+    fields: ["Physics"],
+    roles: ["Experimental Physicist"],
+    quote: "I was a laboratory worker, that was, and still is, my identity.",
+    summary: "Experimental physicist who made significant contributions to nuclear physics, including the Manhattan Project and the Wu experiment.",
+    achievements: [
+      "Conducted the Wu experiment disproving parity conservation",
+      "Worked on the Manhattan Project",
+      "First female president of the American Physical Society"
+    ]
+  },
+  {
+    name: "Tu Youyou",
+    photo: "./images/tu-youyou.jpg",
+    birthDate: "1930",
+    deathDate: "",
+    country: "China",
+    fields: ["Pharmacology", "Chemistry"],
+    roles: ["Pharmacologist", "Chemist"],
+    quote: "Every scientist dreams of doing something that can help the world.",
+    summary: "Discovered artemisinin, a groundbreaking treatment for malaria, saving millions of lives.",
+    achievements: [
+      "Discovered artemisinin for malaria treatment",
+      "First Chinese woman to win a Nobel Prize in Physiology or Medicine"
+    ]
+  },
+  {
+    name: "Maryam Mirzakhani",
+    photo: "./images/maryam-mirzakhani.jpg",
+    birthDate: "1977",
+    deathDate: "2017",
+    country: "Iran",
+    fields: ["Mathematics"],
+    roles: ["Mathematician", "Professor"],
+    quote: "The beauty of mathematics only shows itself to more patient followers.",
+    summary: "First woman and first Iranian to win the Fields Medal, the highest honor in mathematics.",
+    achievements: [
+      "Fields Medal in Mathematics (2014)",
+      "Pioneering work in geometry and dynamical systems"
+    ]
+  },
+  {
+    name: "Asima Chatterjee",
+    photo: "./images/asima-chatterjee.jpg",
+    birthDate: "1917",
+    deathDate: "2006",
+    country: "India",
+    fields: ["Chemistry", "Phytomedicine"],
+    roles: ["Organic Chemist"],
+    quote: "I wish to be remembered for my work, not for being a woman in science.",
+    summary: "Pioneering Indian chemist known for her work in organic chemistry and anti-malarial drugs.",
+    achievements: [
+      "Developed anti-epileptic and anti-malarial drugs",
+      "First woman to earn a Doctorate of Science from an Indian university"
+    ]
+  },
+  {
+    name: "Ellen Ochoa",
+    photo: "./images/ellen-ochoa.jpg",
+    birthDate: "1958",
+    deathDate: "",
+    country: "United States",
+    fields: ["Astronautics", "Engineering"],
+    roles: ["Astronaut", "Engineer"],
+    quote: "Don't be afraid to reach for the stars.",
+    summary: "First Hispanic woman in space and former Director of the Johnson Space Center.",
+    achievements: [
+      "First Hispanic woman in space",
+      "Director of NASA's Johnson Space Center"
+    ]
+  },
+  {
+    name: "Yvonne Brill",
+    photo: "./images/yvonne-brill.jpg",
+    birthDate: "1924",
+    deathDate: "2013",
+    country: "Canada/United States",
+    fields: ["Engineering", "Rocket Science"],
+    roles: ["Rocket Scientist", "Engineer"],
+    quote: "Take advantage of every opportunity; where there is none, make it for yourself.",
+    summary: "Invented the propulsion system that keeps communications satellites in orbit.",
+    achievements: [
+      "Invented the hydrazine resistojet propulsion system",
+      "Pioneered satellite propulsion technology"
+    ]
+  },
+  {
+    name: "Janaki Ammal",
+    photo: "./images/janaki-ammal.jpg",
+    birthDate: "1897",
+    deathDate: "1984",
+    country: "India",
+    fields: ["Botany", "Cytogenetics"],
+    roles: ["Botanist", "Cytogeneticist"],
+    quote: "Science is a beautiful gift to humanity; we should not distort it.",
+    summary: "Renowned botanist who made significant contributions to plant cytogenetics and biodiversity in India.",
+    achievements: [
+      "Developed high-yielding sugarcane varieties",
+      "Contributed to plant cytogenetics and biodiversity conservation"
+    ]
+  },
+  {
+    name: "Wang Zhenyi",
+    photo: "./images/wang-zhenyi.jpg",
+    birthDate: "1768",
+    deathDate: "1797",
+    country: "China",
+    fields: ["Astronomy", "Mathematics"],
+    roles: ["Astronomer", "Mathematician", "Poet"],
+    quote: "Among all the things in the universe, the stars are the most mysterious.",
+    summary: "18th-century Chinese astronomer, mathematician, and poet who explained lunar eclipses and wrote influential works.",
+    achievements: [
+      "Explained and modeled lunar eclipses",
+      "Wrote influential works on mathematics and astronomy"
+    ]
+  },
+  {
+    name: "Hypatia of Alexandria",
+    photo: "./images/hypatia.jpg",
+    birthDate: "c. 360",
+    deathDate: "415",
+    country: "Egypt (Roman Empire)",
+    fields: ["Mathematics", "Astronomy", "Philosophy"],
+    roles: ["Mathematician", "Astronomer", "Philosopher"],
+    quote: "Reserve your right to think, for even to think wrongly is better than not to think at all.",
+    summary: "One of the first known female mathematicians and philosophers, led the Neoplatonic school in Alexandria.",
+    achievements: [
+      "Head of the Neoplatonic school of Alexandria",
+      "Contributed to mathematics, astronomy, and philosophy",
+      "Symbol of learning and science in a turbulent era"
+    ]
+  },
+  {
+    name: "Mary Anning",
+    photo: "./images/mary-anning.jpg",
+    birthDate: "1799",
+    deathDate: "1847",
+    country: "United Kingdom",
+    fields: ["Paleontology", "Geology"],
+    roles: ["Fossil Collector", "Paleontologist"],
+    quote: "The world has used me so unkindly, I fear it has made me suspicious of everyone.",
+    summary: "Discovered Jurassic marine fossils; her work contributed to important changes in scientific thinking about prehistoric life.",
+    achievements: [
+      "Discovered the first complete Ichthyosaurus skeleton",
+      "Pioneered paleontology as a science",
+      "Contributed to the understanding of prehistoric life"
+    ]
   }
 ];
 
