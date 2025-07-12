@@ -1,6 +1,12 @@
-# Women Pioneers in STEM 🌟
+# Female STEM Pioneers
 
-A digital resource celebrating the achievements and stories of women who have been pioneers in Science, Technology, Engineering, and Mathematics (STEM).
+A celebration of women pioneers in Science, Technology, Engineering, and Mathematics (STEM) - inspiring the next generation of female innovators.
+
+<!-- Test deployment trigger -->
+
+## About This Project
+
+This project showcases remarkable women who have made groundbreaking contributions to STEM fields. Our mission is to inspire girls and young women considering STEM careers, while providing valuable resources for educators.
 
 ## 🌐 Mission
 
