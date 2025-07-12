@@ -2147,7 +2147,7 @@ body.light-theme .mobile-menu-toggle span {
     gap: 8px;
     margin-top: auto;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: center;
     padding-top: 16px;
 }
 
