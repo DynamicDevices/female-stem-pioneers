@@ -109,14 +109,21 @@ body {
 .header {
     text-align: center;
     padding: 3rem 1rem 2rem;
-    background: url('../images/stem-female-pattern.svg'), linear-gradient(135deg, #1e293b 0%, #334155 100%);
+    background: 
+        url('../images/stem-female-pattern.svg'),
+        linear-gradient(135deg, 
+            #1e293b 0%, 
+            #334155 25%, 
+            #475569 50%, 
+            #64748b 75%, 
+            #334155 100%);
     background-repeat: repeat;
     background-size: 120px 120px, cover;
     color: white;
     margin: 2rem auto;
     max-width: 1200px;
     border-radius: 16px;
-    border: 1px solid rgba(148, 163, 184, 0.2);
+    border: 1px solid rgba(96, 165, 250, 0.3);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
     position: relative;
     overflow: hidden;
@@ -1886,21 +1893,17 @@ body.light-theme .mobile-menu-toggle span {
     margin-right: auto;
 }
 
+/* Pioneer Card Styles */
 .pioneer-card {
-    background: #1e293b;
-    border: 1px solid #334155;
-    border-radius: 16px;
-    padding: 24px;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+    border: 1px solid rgba(148, 163, 184, 0.2);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
     position: relative;
     overflow: hidden;
-    animation: cardIntro 0.6s ease-out forwards;
-    opacity: 0;
-    transform: translateY(20px);
-    display: flex;
-    flex-direction: column;
-    height: 100%;
 }
 
 .pioneer-card::before {
@@ -1911,13 +1914,167 @@ body.light-theme .mobile-menu-toggle span {
     right: 0;
     height: 3px;
     background: linear-gradient(90deg, #60a5fa, #a78bfa, #f472b6);
-    opacity: 0.8;
+    opacity: 0;
+    transition: opacity 0.3s ease;
 }
 
 .pioneer-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    border-color: #60a5fa;
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: 0 20px 25px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.1);
+    border-color: rgba(96, 165, 250, 0.3);
+    background: linear-gradient(135deg, #1e293b 0%, #475569 100%);
+}
+
+.pioneer-card:hover::before {
+    opacity: 1;
+}
+
+.pioneer-card:active {
+    transform: translateY(-4px) scale(1.01);
+    transition: all 0.1s ease;
+}
+
+/* Pioneer card header with enhanced hover effects */
+.pioneer-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    transition: all 0.3s ease;
+}
+
+.pioneer-card:hover .pioneer-header {
+    transform: translateX(4px);
+}
+
+/* Pioneer image with hover effects */
+.pioneer-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+    transition: all 0.3s ease;
+    border: 3px solid transparent;
+}
+
+.pioneer-card:hover .pioneer-image {
+    transform: scale(1.1);
+    border-color: rgba(96, 165, 250, 0.3);
+    box-shadow: 0 8px 16px rgba(96, 165, 250, 0.2);
+}
+
+/* Pioneer name with hover effects */
+.pioneer-name {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #f8fafc;
+    margin-bottom: 5px;
+    transition: color 0.3s ease;
+}
+
+.pioneer-card:hover .pioneer-name {
+    color: #60a5fa;
+}
+
+/* Pioneer field with enhanced styling */
+.pioneer-field {
+    font-size: 1rem;
+    color: #94a3b8;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    padding: 4px 12px;
+    background: rgba(148, 163, 184, 0.1);
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.pioneer-card:hover .pioneer-field {
+    background: rgba(96, 165, 250, 0.2);
+    color: #60a5fa;
+    transform: scale(1.05);
+}
+
+/* Pioneer description with subtle hover effect */
+.pioneer-description {
+    color: #cbd5e1;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    transition: color 0.3s ease;
+}
+
+.pioneer-card:hover .pioneer-description {
+    color: #e2e8f0;
+}
+
+/* Pioneer details with hover effects */
+.pioneer-details {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 15px;
+    transition: all 0.3s ease;
+}
+
+.pioneer-card:hover .pioneer-details {
+    transform: translateX(2px);
+}
+
+/* Pioneer detail items with enhanced styling */
+.pioneer-detail {
+    background: rgba(148, 163, 184, 0.1);
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    color: #94a3b8;
+    transition: all 0.3s ease;
+    border: 1px solid transparent;
+}
+
+.pioneer-card:hover .pioneer-detail {
+    background: rgba(96, 165, 250, 0.1);
+    color: #60a5fa;
+    border-color: rgba(96, 165, 250, 0.2);
+    transform: scale(1.05);
+}
+
+/* Learn more button with enhanced hover effects */
+.learn-more-btn {
+    background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.learn-more-btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s ease;
+}
+
+.learn-more-btn:hover {
+    background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px rgba(59, 130, 246, 0.3);
+}
+
+.learn-more-btn:hover::before {
+    left: 100%;
+}
+
+.learn-more-btn:active {
+    transform: translateY(0);
+    transition: all 0.1s ease;
 }
 
 .pioneer-card-header {
@@ -1935,10 +2092,6 @@ body.light-theme .mobile-menu-toggle span {
     flex-shrink: 0;
     border: 3px solid #334155;
     transition: border-color 0.3s ease;
-}
-
-.pioneer-card:hover .pioneer-image {
-    border-color: #60a5fa;
 }
 
 .pioneer-image img {
