@@ -2104,10 +2104,10 @@ body.light-theme .mobile-menu-toggle span {
 .pioneer-content {
     color: #e2e8f0;
     line-height: 1.6;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 16px;
+    display: flex;
+    flex-direction: column;
     flex: 1;
+    align-items: stretch;
     margin-bottom: 20px;
 }
 
@@ -2424,10 +2424,7 @@ body.light-theme .mobile-menu-toggle span {
         gap: 4px;
     }
 
-    .pioneer-content {
-        grid-template-columns: 1fr;
-        gap: 12px;
-    }
+
 
     .pioneer-actions {
         flex-direction: row;
