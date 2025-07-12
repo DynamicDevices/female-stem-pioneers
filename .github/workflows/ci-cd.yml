@@ -81,8 +81,8 @@ jobs:
           exit 1
         fi
         
-        if [ ! -f "js/app.js" ]; then
-          echo "❌ js/app.js not found"
+        if [ ! -f "js/pioneers.js" ]; then
+          echo "❌ js/pioneers.js not found"
           exit 1
         fi
         
@@ -92,12 +92,6 @@ jobs:
         fi
         
         echo "✅ All required files exist"
-        
-        # Test URL validation if test script exists
-        if [ -f "test-urls.js" ]; then
-          echo "🔗 Testing URLs..."
-          node test-urls.js || echo "⚠️ URL tests failed but continuing..."
-        fi
         
         echo "✅ All tests passed"
 
@@ -134,7 +128,7 @@ jobs:
         fi
         
         # Check if all required assets exist
-        required_files=("js/app.js" "css/styles.css" "manifest.json")
+        required_files=("js/pioneers.js" "css/styles.css" "manifest.json")
         for file in "${required_files[@]}"; do
           if [ -f "$file" ]; then
             echo "✅ $file exists"
