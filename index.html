@@ -83,19 +83,23 @@
         card.className = 'pioneer-card';
         card.innerHTML = `
           <div class="pioneer-image">
-            <img src="${p.image}" alt="Portrait of ${p.name}" onerror="this.src='icons/icon-192.png'">
+            <img src="${p.photo}" alt="Portrait of ${p.name}" onerror="this.src='icons/icon-192.png'">
           </div>
           <div class="pioneer-info">
             <h3 class="pioneer-name">${p.name}</h3>
-            <p class="pioneer-field"><strong>Field:</strong> ${p.field}</p>
+            <p class="pioneer-quote">"${p.quote}"</p>
+            <p class="pioneer-summary">${p.summary}</p>
+            <p class="pioneer-fields"><strong>Fields:</strong> ${p.fields.join(', ')}</p>
+            <p class="pioneer-lifespan"><strong>Lifespan:</strong> ${p.lifespan}</p>
             <p class="pioneer-country"><strong>Country:</strong> ${p.country}</p>
-            <p class="pioneer-era"><strong>Era:</strong> ${p.era}</p>
             <ul class="pioneer-achievements">
-              ${p.achievements.map(a => `<li>${a}</li>`).join('')}
+              ${p.achievements.slice(0, 2).map(a => `<li>${a}</li>`).join('')}
             </ul>
-            <p class="pioneer-bio">${p.bio}</p>
-            <div class="pioneer-links">
-              ${p.links.map(l => `<a href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`).join(' ')}
+            <div class="pioneer-fun-fact">
+              <strong>Fun Fact:</strong> ${p.fun_fact}
+            </div>
+            <div class="pioneer-references">
+              ${p.references.slice(0, 1).map(r => `<a href="${r.url}" target="_blank" rel="noopener">${r.title}</a>`).join(' ')}
             </div>
           </div>
         `;
