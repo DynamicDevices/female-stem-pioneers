@@ -1,0 +1,30 @@
+
+/data_drive/ai/female-stem-pioneers/female-stem-pioneers/index.html
+    6:1   error  Trailing whitespace                               no-trailing-whitespace
+    8:83  error  Raw "&" must be encoded as "&amp;"                no-raw-characters
+    8:96  error  title text cannot be longer than 70 characters    long-title
+   13:1   error  Trailing whitespace                               no-trailing-whitespace
+   22:1   error  Trailing whitespace                               no-trailing-whitespace
+   29:1   error  Trailing whitespace                               no-trailing-whitespace
+   36:1   error  Trailing whitespace                               no-trailing-whitespace
+   39:1   error  Trailing whitespace                               no-trailing-whitespace
+   43:1   error  Trailing whitespace                               no-trailing-whitespace
+   52:1   error  Trailing whitespace                               no-trailing-whitespace
+   76:1   error  Trailing whitespace                               no-trailing-whitespace
+  104:71  error  Trailing whitespace                               no-trailing-whitespace
+  115:1   error  Trailing whitespace                               no-trailing-whitespace
+  127:1   error  Trailing whitespace                               no-trailing-whitespace
+  143:8   error  <button> is missing recommended "type" attribute  no-implicit-button-type
+  188:28  error  Attribute "src" has invalid value ""              attribute-allowed-values
+  190:10  error  <h3> cannot be empty, must have text content      empty-heading
+
+✖ 17 problems (17 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/no-trailing-whitespace.html
+  https://html-validate.org/rules/no-raw-characters.html
+  https://html-validate.org/rules/long-title.html
+  https://html-validate.org/rules/no-implicit-button-type.html
+  https://html-validate.org/rules/attribute-allowed-values.html
+  https://html-validate.org/rules/empty-heading.html
+
