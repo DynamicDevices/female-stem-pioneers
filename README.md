@@ -14,9 +14,12 @@ To inspire, educate, and empower by highlighting the contributions of women who 
 
 - **Comprehensive Pioneer Profiles**: Rich biographies with detailed metadata including career paths, educational advice, and cultural context
 - **Interactive Search & Filter**: Find pioneers by name, field, country, era, or keywords
+- **Data Visualizations**: Interactive D3.js charts showing pioneers by field, country, era, and a historical timeline
+- **Study Path Suggestions**: Each pioneer card includes "Follow in Her Footsteps" section with specific study recommendations
 - **Educational Resources**: Student resources, career guidance, and study tips from successful women in STEM
 - **Cultural Context**: Heritage, challenges, and contributions that shaped their journeys
 - **Modern Impact**: Current applications and future implications of their work
+- **Performance Optimized**: Lazy loading images, enhanced service worker caching, and smooth animations
 - **Responsive Design**: Works beautifully on all devices
 - **Progressive Web App**: Can be installed and used offline
 
@@ -24,9 +27,11 @@ To inspire, educate, and empower by highlighting the contributions of women who 
 
 - **Static Web App**: Built with HTML, CSS, and JavaScript. No backend required.
 - **Data-Driven**: All pioneer profiles are stored in a comprehensive JavaScript data file (`js/pioneers.js`).
+- **Interactive Visualizations**: D3.js charts and timeline for data exploration
+- **Performance Optimized**: Lazy loading, service worker caching, and optimized assets
 - **Accessible & Responsive**: Works on all devices and is accessible to all users.
-- **Image Management**: High-quality portrait images from Wikimedia Commons
-- **Performance Optimized**: Fast loading and smooth interactions
+- **Image Management**: High-quality portrait images with lazy loading and fallbacks
+- **Modern CSS**: Flexbox layouts, CSS Grid, and smooth animations
 
 ## 🤝 Contributing
 
