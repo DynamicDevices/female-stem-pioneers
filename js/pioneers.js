@@ -38,7 +38,43 @@ const pioneers = [
       { title: "Biography.com", url: "https://www.biography.com/scientist/ada-lovelace" }
     ],
     mentorship: "Advocated for the potential of women in science and mathematics.",
-    fun_fact: "Ada was the daughter of the poet Lord Byron."
+    fun_fact: "Ada was the daughter of the poet Lord Byron.",
+    
+    // High Priority - New Metadata
+    career_path: {
+      first_job: "Mathematical assistant to Charles Babbage",
+      career_highlights: ["Collaborated with leading scientists", "Published influential mathematical papers"],
+      advice_for_students: "Follow your curiosity and don't let anyone tell you what you can't do. Mathematics and computing are for everyone."
+    },
+    student_resources: {
+      books_for_students: ["Ada's Algorithm: How Lord Byron's Daughter Launched the Digital Age", "The Innovators by Walter Isaacson"],
+      websites: ["code.org", "girlswhocode.com", "ada-lovelace-day.com"],
+      programs: ["Computer Science summer camps", "Women in STEM mentorship programs"],
+      advice: "Start with what excites you most - whether it's math, science, or building things. The connections will follow."
+    },
+    challenges: {
+      academic: ["Limited formal education opportunities for women"],
+      professional: ["Societal expectations that women shouldn't pursue science"],
+      personal: ["Health issues throughout her life"],
+      how_overcame: "Found supportive mentors like Charles Babbage and focused on her mathematical talents"
+    },
+    education_details: {
+      high_school: "Private tutoring in mathematics and science",
+      college_major: "Self-taught in advanced mathematics",
+      key_courses: ["Advanced Mathematics", "Scientific Writing", "Logic"],
+      study_tips: "Connect abstract concepts to real-world applications"
+    },
+    modern_impact: {
+      current_applications: "Her work forms the foundation of modern computer programming",
+      companies_using_her_work: ["All major tech companies", "Universities worldwide"],
+      future_implications: "AI and machine learning build on her algorithmic concepts"
+    },
+    personal_info: {
+      early_interests: ["Mathematics", "Poetry", "Science", "Logic"],
+      family_background: "Daughter of famous poet Lord Byron",
+      hobbies: ["Writing poetry", "Studying mathematics", "Scientific correspondence"],
+      personality_traits: ["Analytical", "Creative", "Determined", "Visionary"]
+    }
   },
   {
     name: "Marie Curie",
@@ -80,7 +116,44 @@ const pioneers = [
       { title: "Nobel Prize", url: "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/" }
     ],
     mentorship: "Supported the scientific careers of her daughter Irène and other women.",
-    fun_fact: "Her notebooks are still radioactive."
+    fun_fact: "Her notebooks are still radioactive.",
+    
+    // High Priority - New Metadata
+    career_path: {
+      first_job: "Research assistant at the University of Paris",
+      career_highlights: ["Led groundbreaking radioactivity research", "Became the first female professor at the University of Paris"],
+      advice_for_students: "Persistence is key in science. Don't be afraid to work hard and question everything. Your gender doesn't determine your abilities."
+    },
+    student_resources: {
+      books_for_students: ["Radioactive: Marie & Pierre Curie", "Marie Curie: A Life by Susan Quinn"],
+      websites: ["nobelprize.org", "sciencegirls.org", "curie-museum.org"],
+      programs: ["Physics summer programs", "Women in Science initiatives"],
+      advice: "Find what fascinates you and pursue it with passion. Science needs diverse perspectives."
+    },
+    challenges: {
+      academic: ["Limited access to higher education for women in Poland"],
+      professional: ["Gender discrimination in academia", "Lack of funding for women researchers"],
+      personal: ["Working while raising children", "Health issues from radiation exposure"],
+      how_overcame: "Focused on her research despite obstacles and built a supportive scientific community"
+    },
+    education_details: {
+      high_school: "Excelled in mathematics and science",
+      college_major: "Physics and Mathematics",
+      graduate_school: "Ph.D. in Physics from University of Paris",
+      key_courses: ["Physics", "Chemistry", "Mathematics", "Research Methods"],
+      study_tips: "Combine theoretical knowledge with hands-on experimentation"
+    },
+    modern_impact: {
+      current_applications: "Her discoveries led to medical treatments and nuclear technology",
+      companies_using_her_work: ["Medical imaging companies", "Nuclear power plants", "Research institutions"],
+      future_implications: "Radioactivity research continues in cancer treatment and clean energy"
+    },
+    personal_info: {
+      early_interests: ["Physics", "Chemistry", "Mathematics", "Scientific research"],
+      family_background: "First in family to pursue higher education",
+      hobbies: ["Reading scientific literature", "Laboratory work", "Teaching"],
+      personality_traits: ["Dedicated", "Curious", "Persistent", "Innovative"]
+    }
   },
   {
     name: "Katherine Johnson",
@@ -121,7 +194,44 @@ const pioneers = [
       { title: "NASA Biography", url: "https://www.nasa.gov/content/katherine-johnson-biography" }
     ],
     mentorship: "Advocated for women in STEM throughout her career.",
-    fun_fact: "Graduated high school at 14."
+    fun_fact: "Graduated high school at 14.",
+    
+    // High Priority - New Metadata
+    career_path: {
+      first_job: "Teacher at a segregated school",
+      career_highlights: ["Joined NASA as a 'computer'", "Became a key figure in space missions", "Received Presidential Medal of Freedom"],
+      advice_for_students: "Don't let anyone tell you that you can't do something because of who you are. Your abilities matter more than your background."
+    },
+    student_resources: {
+      books_for_students: ["Hidden Figures by Margot Lee Shetterly", "Reaching for the Moon by Katherine Johnson"],
+      websites: ["nasa.gov", "blackgirlscode.org", "mathcounts.org"],
+      programs: ["NASA STEM programs", "Mathematics competitions", "Space camp"],
+      advice: "Mathematics is everywhere - look for it in the world around you and practice every day."
+    },
+    challenges: {
+      academic: ["Limited educational opportunities due to segregation"],
+      professional: ["Racial and gender discrimination at NASA", "Being overlooked for promotions"],
+      personal: ["Balancing work and family", "Being the only woman in many meetings"],
+      how_overcame: "Focused on her mathematical abilities and proved her worth through excellent work"
+    },
+    education_details: {
+      high_school: "Graduated at age 14 with highest honors",
+      college_major: "Mathematics with French minor",
+      graduate_school: "Completed graduate courses in mathematics",
+      key_courses: ["Advanced Mathematics", "Calculus", "Analytical Geometry"],
+      study_tips: "Practice problems daily and understand the 'why' behind formulas"
+    },
+    modern_impact: {
+      current_applications: "Her calculations methods are still used in space missions",
+      companies_using_her_work: ["NASA", "SpaceX", "Boeing", "Aerospace companies"],
+      future_implications: "Her work continues to inspire space exploration and STEM education"
+    },
+    personal_info: {
+      early_interests: ["Mathematics", "Numbers", "Space", "Problem-solving"],
+      family_background: "Fourth of five children, parents emphasized education",
+      hobbies: ["Reading", "Mathematics puzzles", "Teaching"],
+      personality_traits: ["Precise", "Determined", "Humble", "Brilliant"]
+    }
   },
   {
     name: "Grace Hopper",
@@ -161,7 +271,44 @@ const pioneers = [
       { title: "Biography.com", url: "https://www.biography.com/scientist/grace-hopper" }
     ],
     mentorship: "Mentored young programmers and advocated for computer science education.",
-    fun_fact: "Had a clock in her office that ran backwards."
+    fun_fact: "Had a clock in her office that ran backwards.",
+    
+    // High Priority - New Metadata
+    career_path: {
+      first_job: "Mathematics professor at Vassar College",
+      career_highlights: ["Joined the Navy during WWII", "Developed the first compiler", "Became Rear Admiral"],
+      advice_for_students: "Don't be afraid to try new things and think differently. The best innovations often come from asking 'why not?'"
+    },
+    student_resources: {
+      books_for_students: ["Grace Hopper and the Invention of the Information Age", "The Computer and the Brain by John von Neumann"],
+      websites: ["code.org", "girlswhocode.com", "gracehopper.org"],
+      programs: ["Computer Science summer camps", "Navy STEM programs", "Coding bootcamps"],
+      advice: "Learn to code early and often. Programming is a language that opens doors to countless opportunities."
+    },
+    challenges: {
+      academic: ["Being one of few women in mathematics"],
+      professional: ["Gender barriers in military and technology", "Skepticism about high-level programming"],
+      personal: ["Balancing military career with personal life"],
+      how_overcame: "Proved her ideas through demonstration and built strong professional networks"
+    },
+    education_details: {
+      high_school: "Excelled in mathematics and science",
+      college_major: "Mathematics and Physics",
+      graduate_school: "Ph.D. in Mathematics from Yale University",
+      key_courses: ["Mathematics", "Physics", "Computer Science", "Military Science"],
+      study_tips: "Learn the fundamentals thoroughly - they're the foundation for everything else"
+    },
+    modern_impact: {
+      current_applications: "Her compiler concepts are used in all modern programming languages",
+      companies_using_her_work: ["All software companies", "Universities", "Government agencies"],
+      future_implications: "Her work enables AI, machine learning, and all modern software development"
+    },
+    personal_info: {
+      early_interests: ["Mathematics", "Mechanical devices", "Problem-solving", "Military service"],
+      family_background: "Encouraged to pursue education and independence",
+      hobbies: ["Sailing", "Teaching", "Military history"],
+      personality_traits: ["Innovative", "Determined", "Practical", "Leadership-oriented"]
+    }
   },
   {
     name: "Rosalind Franklin",
@@ -198,7 +345,44 @@ const pioneers = [
       { title: "Biography.com", url: "https://www.biography.com/scientist/rosalind-franklin" }
     ],
     mentorship: "Supported and collaborated with other scientists, especially women.",
-    fun_fact: "Enjoyed hiking and traveling."
+    fun_fact: "Enjoyed hiking and traveling.",
+    
+    // High Priority - New Metadata
+    career_path: {
+      first_job: "Research scientist at the British Coal Utilization Research Association",
+      career_highlights: ["Pioneered X-ray crystallography techniques", "Made crucial contributions to DNA structure discovery"],
+      advice_for_students: "Focus on the quality of your work rather than seeking recognition. Good science speaks for itself."
+    },
+    student_resources: {
+      books_for_students: ["Rosalind Franklin: The Dark Lady of DNA", "The Double Helix by James Watson"],
+      websites: ["dnaftb.org", "sciencegirls.org", "crystallography.org"],
+      programs: ["Chemistry summer programs", "Women in Science initiatives", "X-ray crystallography workshops"],
+      advice: "Develop strong technical skills and maintain high standards in your research."
+    },
+    challenges: {
+      academic: ["Gender bias in scientific institutions"],
+      professional: ["Lack of recognition for her contributions", "Competitive and sometimes hostile work environment"],
+      personal: ["Working in male-dominated field", "Health issues later in life"],
+      how_overcame: "Maintained focus on scientific excellence and built collaborative relationships"
+    },
+    education_details: {
+      high_school: "Excelled in science and mathematics",
+      college_major: "Physical Chemistry",
+      graduate_school: "Ph.D. in Physical Chemistry from Cambridge University",
+      key_courses: ["Chemistry", "Physics", "Mathematics", "X-ray Crystallography"],
+      study_tips: "Master the technical skills and understand the underlying principles"
+    },
+    modern_impact: {
+      current_applications: "Her X-ray techniques are used in drug discovery and materials science",
+      companies_using_her_work: ["Pharmaceutical companies", "Research institutions", "Biotech firms"],
+      future_implications: "Her methods continue to advance structural biology and drug development"
+    },
+    personal_info: {
+      early_interests: ["Chemistry", "Physics", "Mathematics", "Scientific research"],
+      family_background: "Well-educated family that supported her scientific interests",
+      hobbies: ["Hiking", "Traveling", "Reading scientific literature"],
+      personality_traits: ["Precise", "Independent", "Thorough", "Dedicated"]
+    }
   },
   {
     name: "Chien-Shiung Wu",
@@ -238,7 +422,44 @@ const pioneers = [
       { title: "Biography.com", url: "https://www.biography.com/scientist/chien-shiung-wu" }
     ],
     mentorship: "Mentored many students and advocated for women in science.",
-    fun_fact: "Nicknamed the 'Chinese Madame Curie'."
+    fun_fact: "Nicknamed the 'Chinese Madame Curie'.",
+    
+    // High Priority - New Metadata
+    career_path: {
+      first_job: "Research assistant at University of California, Berkeley",
+      career_highlights: ["Led groundbreaking physics experiments", "Became first female president of American Physical Society"],
+      advice_for_students: "Don't let stereotypes or expectations limit you. Your abilities and hard work will open doors."
+    },
+    student_resources: {
+      books_for_students: ["Queen of Physics: How Wu Chien Shiung Helped Unlock the Secrets of the Atom", "The Physics of the Manhattan Project"],
+      websites: ["aps.org", "physicsgirl.org", "womeninphysics.org"],
+      programs: ["Physics summer programs", "Women in Physics initiatives", "Nuclear physics workshops"],
+      advice: "Develop strong mathematical skills and don't be afraid to ask questions in class."
+    },
+    challenges: {
+      academic: ["Limited educational opportunities for women in China"],
+      professional: ["Gender and racial discrimination in academia", "Being overlooked for promotions"],
+      personal: ["Immigrating to a new country", "Balancing family and career"],
+      how_overcame: "Focused on excellence in research and built strong professional relationships"
+    },
+    education_details: {
+      high_school: "Excelled in mathematics and science",
+      college_major: "Physics",
+      graduate_school: "Ph.D. in Physics from University of California, Berkeley",
+      key_courses: ["Physics", "Mathematics", "Nuclear Physics", "Experimental Methods"],
+      study_tips: "Understand the fundamentals deeply and practice problem-solving regularly"
+    },
+    modern_impact: {
+      current_applications: "Her experimental methods are used in particle physics research",
+      companies_using_her_work: ["CERN", "Research institutions", "Particle physics labs"],
+      future_implications: "Her work continues to advance our understanding of fundamental physics"
+    },
+    personal_info: {
+      early_interests: ["Physics", "Mathematics", "Scientific experiments", "Problem-solving"],
+      family_background: "Encouraged by parents to pursue education despite gender barriers",
+      hobbies: ["Reading scientific literature", "Teaching", "Traveling"],
+      personality_traits: ["Precise", "Determined", "Innovative", "Mentoring"]
+    }
   }
 ];
 
