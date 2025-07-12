@@ -60,7 +60,7 @@ Each pioneer profile should follow this format (see `js/pioneers.js`):
 
 ## 🚀 Deployment
 
-This site is automatically deployed to GitHub Pages after every successful update. See [CI-CD-README.md](CI-CD-README.md) for details.
+This site is automatically deployed to GitHub Pages after every successful update.
 
 ## 📚 License
 
