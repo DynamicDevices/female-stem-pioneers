@@ -2134,27 +2134,13 @@ body.light-theme .mobile-menu-toggle span {
 
 .pioneer-quote blockquote {
     font-family: 'Inter', sans-serif;
-    font-size: 1.1rem;
-    font-weight: 500;
-    font-style: italic;
+    font-size: 0.9rem;
+    font-weight: 400;
     color: #e2e8f0;
     line-height: 1.6;
     letter-spacing: 0.02em;
-    padding-left: 1rem;
-    margin: 1rem 0;
+    margin: 0;
     position: relative;
-}
-
-.pioneer-quote blockquote::before {
-    content: '"';
-    font-family: 'Playfair Display', serif;
-    font-size: 3rem;
-    font-weight: 300;
-    color: #60a5fa;
-    position: absolute;
-    top: -0.5rem;
-    left: -0.5rem;
-    opacity: 0.3;
 }
 
 .pioneer-summary {
