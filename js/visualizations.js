@@ -1,3 +1,4 @@
+/* global d3 */
 // D3.js visualizations for Female STEM Pioneers
 // Assumes window.pioneers is available from pioneers.js
 
@@ -231,7 +232,7 @@ function renderTimeline(pioneers) {
     });
 
   // Tooltip
-  let tooltip = d3.select('body').selectAll('.d3-tooltip').data([null]).join('div')
+  const tooltip = d3.select('body').selectAll('.d3-tooltip').data([null]).join('div')
     .attr('class', 'd3-tooltip')
     .style('position', 'absolute')
     .style('pointer-events', 'none')
