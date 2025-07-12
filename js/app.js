@@ -152,9 +152,9 @@ class PioneersApp {
 
     card.innerHTML = `
       <div class="pioneer-card-header">
-        <div class="pioneer-image">
+        <div class="pioneer-portrait">
           <img src="${pioneer.photo}" alt="Portrait of ${pioneer.name}" 
-               onerror="this.src='icons/icon-192.png'">
+               onerror="this.style.display='none'">
         </div>
         <div class="pioneer-header-info">
           <h3 class="pioneer-name">${pioneer.name}</h3>
