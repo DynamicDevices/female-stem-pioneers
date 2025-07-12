@@ -1927,6 +1927,9 @@ body.light-theme .mobile-menu-toggle span {
     cursor: pointer;
     position: relative;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 300px;
 }
 
 .pioneer-card::before {
@@ -2073,6 +2076,8 @@ body.light-theme .mobile-menu-toggle span {
     transition: all 0.3s ease;
     position: relative;
     overflow: hidden;
+    align-self: flex-start;
+    margin-top: auto;
 }
 
 .learn-more-btn::before {
@@ -2252,6 +2257,7 @@ body.light-theme .mobile-menu-toggle span {
     flex-direction: column;
     flex: 1;
     align-items: stretch;
+    margin-bottom: 20px;
 }
 
 .pioneer-quote {
