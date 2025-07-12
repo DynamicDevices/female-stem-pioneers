@@ -11,8 +11,7 @@
 const fs = require('fs');
 const path = require('path');
 
-// Import the image fetcher
-const { fetchPioneerImages, CONFIG } = require('./fetch-pioneer-images.js');
+// Note: Images should be manually downloaded from Wikimedia Commons
 
 // Template for new pioneer data
 const PIONEER_TEMPLATE = {
@@ -141,26 +140,12 @@ function addPioneer(pioneerName) {
 }
 
 /**
- * Update the pioneers array in fetch-pioneer-images.js
+ * Note: Images should be manually downloaded from Wikimedia Commons
+ * Example: curl -L "https://upload.wikimedia.org/wikipedia/commons/..." -o images/pioneer-name.jpg
  */
 function updatePioneersArray(pioneerName) {
-  const fetcherPath = path.join(__dirname, 'fetch-pioneer-images.js');
-  let fetcherContent = fs.readFileSync(fetcherPath, 'utf8');
-  
-  // Find the PIONEERS array
-  const pioneersArrayMatch = fetcherContent.match(/const PIONEERS = \[([\s\S]*?)\];/);
-  if (pioneersArrayMatch) {
-    const pioneersList = pioneersArrayMatch[1];
-    const newPioneersList = pioneersList.trim() + `\n  "${pioneerName}",`;
-    
-    const updatedContent = fetcherContent.replace(
-      /const PIONEERS = \[([\s\S]*?)\];/,
-      `const PIONEERS = [${newPioneersList}\n];`
-    );
-    
-    fs.writeFileSync(fetcherPath, updatedContent);
-    console.log(`✅ Added ${pioneerName} to fetch-pioneer-images.js`);
-  }
+  console.log(`📸 Remember to manually download an image for ${pioneerName} from Wikimedia Commons`);
+  console.log(`   Example: curl -L "https://upload.wikimedia.org/wikipedia/commons/..." -o images/${generateFilename(pioneerName)}`);
 }
 
 /**
@@ -181,18 +166,15 @@ async function main() {
     // Add to pioneers.js
     addPioneer(pioneerName);
     
-    // Update fetch-pioneer-images.js
+    // Remind about manual image download
     updatePioneersArray(pioneerName);
-    
-    // Fetch images for all pioneers (including the new one)
-    console.log('\n📸 Fetching images...');
-    await fetchPioneerImages();
     
     console.log(`\n🎉 Successfully added ${pioneerName} to the dataset!`);
     console.log('\nNext steps:');
     console.log('1. Edit js/pioneers.js to fill in the pioneer details');
-    console.log('2. Test the website to ensure everything works');
-    console.log('3. Commit your changes');
+    console.log('2. Download an image from Wikimedia Commons and save it to images/');
+    console.log('3. Test the website to ensure everything works');
+    console.log('4. Commit your changes');
     
   } catch (error) {
     console.error('❌ Error:', error.message);

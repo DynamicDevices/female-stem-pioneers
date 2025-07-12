@@ -35,12 +35,7 @@ female-stem-pioneers/
 ├── icons/                          # App icons and images
 ├── manifest.json                   # PWA manifest
 ├── sw.js                           # Service worker (PWA)
-├── fetch-pioneer-images.js         # Image fetcher script
 ├── add-pioneer.js                  # Helper script for adding new pioneers
-├── image-fetcher-config.json       # Image fetcher configuration
-├── IMAGE-FETCHER-README.md         # Image fetcher documentation
-├── IMAGE-FETCHER-SUMMARY.md        # Image fetcher summary
-├── UPDATED-IMAGE-FETCHER-SUMMARY.md # Updated image fetcher summary
 ├── CONTRIBUTING.md                 # Contribution guidelines
 ├── README.md                       # Project overview and mission
 ├── PROJECT-REFERENCE.md            # (This file) Technical/content reference
@@ -137,10 +132,10 @@ Each entry in `js/pioneers.js` follows this comprehensive format:
 - **Modern Impact**: Current applications and future implications
 
 ### **Image Management System**
-- **Automatic Image Fetching**: Scripts to retrieve portrait images from multiple sources
-- **Quality Control**: Size and format filtering for optimal display
-- **Multiple Sources**: Wikimedia Commons (primary), Google Custom Search, Unsplash
-- **Easy Expansion**: Helper scripts for adding new pioneers
+- **Manual Image Download**: High-quality portrait images downloaded from Wikimedia Commons
+- **Quality Control**: Proper file sizes and formats for optimal display
+- **Reliable Sources**: Wikimedia Commons for public domain and licensed images
+- **Easy Expansion**: Manual download process for adding new pioneer images
 
 ### **Technical Features**
 - **PWA**: Installable, works offline
@@ -167,7 +162,7 @@ Each entry in `js/pioneers.js` follows this comprehensive format:
 ### **Adding New Pioneers**
 1. **Automatic Method**: Use `node add-pioneer.js "Pioneer Name"`
 2. **Manual Method**: Add to `js/pioneers.js` following the data structure above
-3. **Image Fetching**: Run `node fetch-pioneer-images.js` to get portrait images
+3. **Image Download**: Manually download high-quality portrait images from Wikimedia Commons
 
 ### **Content Guidelines**
 - Focus on women who made significant contributions to STEM
@@ -189,10 +184,10 @@ Each entry in `js/pioneers.js` follows this comprehensive format:
 - Images stored locally in `images/` folder
 
 ### **Image Management**
-- **Automatic Fetching**: `node fetch-pioneer-images.js`
-- **Quality Control**: 200-2000px size range, multiple formats
-- **Source Priority**: Wikimedia Commons → Google Custom Search → Unsplash
-- **Easy Expansion**: Scripts handle adding new pioneers and images
+- **Manual Download**: High-quality images from Wikimedia Commons using curl/wget
+- **Quality Control**: Proper file sizes and formats for optimal display
+- **Source Priority**: Wikimedia Commons for reliable, licensed images
+- **Easy Expansion**: Manual download process for adding new pioneer images
 
 ### **Data Management**
 - Rich metadata structure for comprehensive profiles
