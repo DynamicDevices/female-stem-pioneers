@@ -159,7 +159,7 @@ class PioneersApp {
 
     card.innerHTML = `
       <div class="pioneer-card-header">
-        <div class="pioneer-portrait">
+        <div class="pioneer-image">
           <img src="${pioneer.photo}" alt="Portrait of ${pioneer.name}" 
                onerror="this.onerror=null;this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojZjBmMGYwO3N0b3Atb3BhY2l0eToxIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6I2UwZTBmMDtzdG9wLW9wYWNpdHk6MSIgLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNiZykiIHJ4PSIxMCIvPjxjaXJjbGUgY3g9IjEwMCIgY3k9IjcwIiByPSIyNSIgZmlsbD0iI2NjY2NjYyIvPjxwYXRoIGQ9Ik0gNTAgMTIwIFEgMTAwIDE4MCAxNTAgMTIwIiBzdHJva2U9IiNjY2NjY2MiIHN0cm9rZS13aWR0aD0iMyIgZmlsbD0ibm9uZSIvPjx0ZXh0IHg9IjEwMCIgeT0iMTkwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM5OTk5OTkiPkltYWdlIE5vdCBBdmFpbGFibGU8L3RleHQ+PC9zdmc+';" 
                onload="this.style.display='block'">
