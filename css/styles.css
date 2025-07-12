@@ -1922,9 +1922,18 @@ body.light-theme .mobile-menu-toggle span {
 .pioneer-name {
     font-size: 1.5rem;
     font-weight: 700;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
     color: #f8fafc;
     line-height: 1.2;
+}
+
+.pioneer-subtitle {
+    color: #cbd5e1;
+    font-size: 0.9rem;
+    font-weight: 400;
+    margin-bottom: 8px;
+    line-height: 1.4;
+    opacity: 0.9;
 }
 
 .pioneer-meta {
@@ -2254,6 +2263,10 @@ body.light-theme .mobile-menu-toggle span {
 
     .pioneer-name {
         font-size: 1.3rem;
+    }
+
+    .pioneer-subtitle {
+        font-size: 0.85rem;
     }
 
     .pioneer-meta {

@@ -169,6 +169,7 @@ class PioneersApp {
         </div>
         <div class="pioneer-header-info">
           <h3 class="pioneer-name">${pioneer.name}</h3>
+          <p class="pioneer-subtitle">${pioneer.summary}</p>
           <div class="pioneer-meta">
             <span class="pioneer-lifespan">${pioneer.lifespan}</span>
             <span class="pioneer-country">${pioneer.country}</span>
