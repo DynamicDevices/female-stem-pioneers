@@ -125,7 +125,7 @@ class PioneersApp {
 
     const shortDescription = pioneer.shortDescription ? `
       <div class="pioneer-short-description">
-        <h4>About ${pioneer.name}:</h4>
+        <h4>About ${pioneer.name}</h4>
         <p>${pioneer.shortDescription}</p>
       </div>
     ` : '';
@@ -154,26 +154,26 @@ class PioneersApp {
 
       <div class="pioneer-content">
         <div class="pioneer-quote">
-          <h4>Quote:</h4>
+          <h4>Quote</h4>
           <blockquote>
             "${pioneer.quote}"
           </blockquote>
         </div>
         
         <div class="pioneer-achievements">
-          <h4>Key Achievements:</h4>
+          <h4>Key Achievements</h4>
           <ul>${achievementsList}</ul>
         </div>
 
         ${shortDescription}
 
         <div class="pioneer-fun-fact">
-          <h4>Fun Fact:</h4>
+          <h4>Fun Fact</h4>
           <p>${pioneer.fun_fact}</p>
         </div>
 
         <div class="pioneer-study-path">
-          <h4>Follow in Her Footsteps:</h4>
+          <h4>Follow in Her Footsteps</h4>
           <p>${this.getStudyPath(pioneer)}</p>
         </div>
       </div>
