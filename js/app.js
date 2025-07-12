@@ -194,7 +194,8 @@ class PioneersApp {
         ${shortDescription}
 
         <div class="pioneer-fun-fact">
-          <strong>Fun Fact:</strong> ${pioneer.fun_fact}
+          <h4>Fun Fact:</h4>
+          <p>${pioneer.fun_fact}</p>
         </div>
 
         <div class="pioneer-actions">

@@ -2048,9 +2048,11 @@ body.light-theme .mobile-menu-toggle span {
 
 .pioneer-achievements h4 {
     color: #60a5fa;
-    margin-bottom: 8px;
-    font-size: 0.95rem;
+    font-size: 1rem;
     font-weight: 600;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
 }
 
 .pioneer-achievements ul {
@@ -2080,12 +2082,22 @@ body.light-theme .mobile-menu-toggle span {
     border-radius: 8px;
     margin: 16px 0;
     border-left: 3px solid #60a5fa;
-    font-size: 0.9rem;
 }
 
-.pioneer-fun-fact strong {
+.pioneer-fun-fact h4 {
     color: #60a5fa;
+    font-size: 1rem;
     font-weight: 600;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.pioneer-fun-fact p {
+    color: #e2e8f0;
+    line-height: 1.6;
+    font-size: 0.9rem;
+    margin: 0;
 }
 
 .pioneer-actions {
