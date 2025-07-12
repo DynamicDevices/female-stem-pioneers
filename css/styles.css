@@ -2003,8 +2003,8 @@ body.light-theme .mobile-menu-toggle span {
 .pioneer-subtitle {
     font-family: 'Inter', sans-serif;
     font-size: 1rem;
-    font-weight: 400;
-    color: #94a3b8;
+    font-weight: 500;
+    color: #e2e8f0;
     margin-bottom: 15px;
     line-height: 1.6;
     letter-spacing: 0.01em;
@@ -2019,8 +2019,8 @@ body.light-theme .mobile-menu-toggle span {
 
 .pioneer-lifespan,
 .pioneer-country {
-    color: #94a3b8;
-    font-weight: 500;
+    color: #cbd5e1;
+    font-weight: 600;
 }
 
 .pioneer-portrait {
