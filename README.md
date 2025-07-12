@@ -2,8 +2,6 @@
 
 A celebration of women pioneers in Science, Technology, Engineering, and Mathematics (STEM) - inspiring the next generation of female innovators.
 
-<!-- Test deployment trigger -->
-
 ## About This Project
 
 This project showcases remarkable women who have made groundbreaking contributions to STEM fields. Our mission is to inspire girls and young women considering STEM careers, while providing valuable resources for educators.
@@ -14,18 +12,21 @@ To inspire, educate, and empower by highlighting the contributions of women who 
 
 ## ✨ Features
 
-- **Profiles of Pioneers**: Biographies, achievements, and impact of women in STEM from history to the present day.
-- **Search & Filter**: Find pioneers by name, field, country, era, or keywords.
-- **Timeline & Visualizations**: Explore the evolution of women's contributions in STEM over time and across disciplines.
-- **Educational Resource**: Designed for students, educators, and anyone interested in STEM history and role models.
-- **Open & Collaborative**: Community-driven—anyone can suggest new profiles or improvements.
+- **Comprehensive Pioneer Profiles**: Rich biographies with detailed metadata including career paths, educational advice, and cultural context
+- **Interactive Search & Filter**: Find pioneers by name, field, country, era, or keywords
+- **Educational Resources**: Student resources, career guidance, and study tips from successful women in STEM
+- **Cultural Context**: Heritage, challenges, and contributions that shaped their journeys
+- **Modern Impact**: Current applications and future implications of their work
+- **Responsive Design**: Works beautifully on all devices
+- **Progressive Web App**: Can be installed and used offline
 
 ## 🏗️ Technical Overview
 
 - **Static Web App**: Built with HTML, CSS, and JavaScript. No backend required.
-- **Data-Driven**: All pioneer profiles are stored in a JavaScript data file (`js/pioneers.js`).
+- **Data-Driven**: All pioneer profiles are stored in a comprehensive JavaScript data file (`js/pioneers.js`).
 - **Accessible & Responsive**: Works on all devices and is accessible to all users.
-- **Progressive Web App**: Can be installed and used offline.
+- **Image Management**: High-quality portrait images from Wikimedia Commons
+- **Performance Optimized**: Fast loading and smooth interactions
 
 ## 🤝 Contributing
 
@@ -38,23 +39,28 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## 📝 Data Structure Example
 
-Each pioneer profile should follow this format (see `js/pioneers.js`):
+Each pioneer profile includes comprehensive metadata (see `js/pioneers.js`):
 
 ```js
 {
   name: "Ada Lovelace",
-  field: "Mathematics, Computing",
+  photo: "./images/ada-lovelace.jpg",
+  lifespan: "1815–1852",
   country: "United Kingdom",
-  era: "19th Century",
-  achievements: [
-    "First computer programmer",
-    "Worked on Charles Babbage's Analytical Engine"
-  ],
-  bio: "Ada Lovelace is often regarded as the first computer programmer for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.",
-  image: "images/ada_lovelace.jpg",
-  links: [
-    { label: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ada_Lovelace" }
-  ]
+  fields: ["Mathematics", "Computing"],
+  quote: "That brain of mine is something more than merely mortal; as time will show.",
+  summary: "Often regarded as the first computer programmer for her work on Babbage's Analytical Engine.",
+  shortDescription: "Ada Lovelace is often called the world's first computer programmer...",
+  achievements: ["First computer programmer", "Worked on Charles Babbage's Analytical Engine"],
+  career_path: {
+    first_job: "Mathematical assistant to Charles Babbage",
+    advice_for_students: "Follow your curiosity and don't let anyone tell you what you can't do."
+  },
+  student_resources: {
+    books_for_students: ["Ada's Algorithm: How Lord Byron's Daughter Launched the Digital Age"],
+    websites: ["code.org", "girlswhocode.com"],
+    advice: "Start with what excites you most - whether it's math, science, or building things."
+  }
 }
 ```
 

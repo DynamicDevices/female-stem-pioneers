@@ -31,7 +31,9 @@ female-stem-pioneers/
 │   ├── katherine-johnson.jpg
 │   ├── grace-hopper.jpg
 │   ├── chien-shiung-wu.jpg
-│   └── download-report.json
+│   ├── dorothy-vaughan.jpg
+│   ├── mae-jemison.jpg
+│   └── radia-perlman.jpg
 ├── icons/                          # App icons and images
 ├── manifest.json                   # PWA manifest
 ├── sw.js                           # Service worker (PWA)
@@ -132,10 +134,11 @@ Each entry in `js/pioneers.js` follows this comprehensive format:
 - **Modern Impact**: Current applications and future implications
 
 ### **Image Management System**
-- **Manual Image Download**: High-quality portrait images downloaded from Wikimedia Commons
+- **Manual Image Download**: High-quality portrait images downloaded from Wikimedia Commons using curl/wget
 - **Quality Control**: Proper file sizes and formats for optimal display
 - **Reliable Sources**: Wikimedia Commons for public domain and licensed images
 - **Easy Expansion**: Manual download process for adding new pioneer images
+- **Robust Display**: CSS-based fade-in effects and fallback placeholders
 
 ### **Technical Features**
 - **PWA**: Installable, works offline
@@ -162,7 +165,7 @@ Each entry in `js/pioneers.js` follows this comprehensive format:
 ### **Adding New Pioneers**
 1. **Automatic Method**: Use `node add-pioneer.js "Pioneer Name"`
 2. **Manual Method**: Add to `js/pioneers.js` following the data structure above
-3. **Image Download**: Manually download high-quality portrait images from Wikimedia Commons
+3. **Image Download**: Manually download high-quality portrait images from Wikimedia Commons using curl/wget
 
 ### **Content Guidelines**
 - Focus on women who made significant contributions to STEM
@@ -188,6 +191,7 @@ Each entry in `js/pioneers.js` follows this comprehensive format:
 - **Quality Control**: Proper file sizes and formats for optimal display
 - **Source Priority**: Wikimedia Commons for reliable, licensed images
 - **Easy Expansion**: Manual download process for adding new pioneer images
+- **Display System**: CSS-based fade-in effects with fallback placeholders for missing images
 
 ### **Data Management**
 - Rich metadata structure for comprehensive profiles
