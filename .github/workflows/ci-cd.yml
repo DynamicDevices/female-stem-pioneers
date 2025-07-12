@@ -28,23 +28,21 @@ jobs:
     - name: Check JavaScript syntax
       run: |
         echo "🔍 Checking JavaScript syntax..."
-        
-        # Check all JS files for syntax errors
-        find . -name "*.js" -not -path "./node_modules/*" -not -path "./.git/*" | while read file; do
+        # Exclude node_modules, .git, and archive directories
+        find . -name "*.js" -not -path "./node_modules/*" -not -path "./.git/*" -not -path "./archive/*" | while read file; do
           echo "Checking: $file"
           node -c "$file" || exit 1
         done
-        
         echo "✅ All JavaScript files passed syntax check"
-        
+      
     - name: Run ESLint (if eslint config exists)
       run: |
         if [ -f ".eslintrc.js" ] || [ -f ".eslintrc.json" ] || [ -f ".eslintrc.yml" ]; then
-          npx eslint . --ext .js
+          npx eslint . --ext .js --ignore-pattern archive/
         else
           echo "No ESLint configuration found, skipping ESLint check"
         fi
-        
+      
     - name: Validate HTML
       run: |
         echo "🔍 Validating HTML..."
