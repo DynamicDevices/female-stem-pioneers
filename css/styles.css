@@ -2061,6 +2061,7 @@ body.light-theme .mobile-menu-toggle span {
     display: flex;
     flex-direction: column;
     flex: 1;
+    align-items: stretch;
 }
 
 .pioneer-quote {
@@ -2069,6 +2070,9 @@ body.light-theme .mobile-menu-toggle span {
     border-radius: 8px;
     margin: 16px 0;
     border-left: 3px solid #60a5fa;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 
 .pioneer-quote h4 {
@@ -2105,6 +2109,9 @@ body.light-theme .mobile-menu-toggle span {
     border-radius: 8px;
     margin: 16px 0;
     border-left: 3px solid #60a5fa;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 
 .pioneer-achievements h4 {
@@ -2143,6 +2150,9 @@ body.light-theme .mobile-menu-toggle span {
     border-radius: 8px;
     margin: 16px 0;
     border-left: 3px solid #60a5fa;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 
 .pioneer-fun-fact h4 {
@@ -2176,6 +2186,9 @@ body.light-theme .mobile-menu-toggle span {
     border-radius: 8px;
     margin: 16px 0;
     border-left: 3px solid #60a5fa;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 
 .pioneer-short-description h4 {
