@@ -2078,6 +2078,7 @@ body.light-theme .mobile-menu-toggle span {
     overflow: hidden;
     align-self: flex-start;
     margin-top: auto;
+    text-align: center;
 }
 
 .learn-more-btn::before {
