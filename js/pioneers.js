@@ -468,762 +468,6 @@ const pioneers = [
     fields: ["Physics"],
     roles: ["Experimental Physicist", "Professor"],
     quote: "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
-    summary: "Conducted the Wu experiment, disproving the law of conservation of parity in physics.",
-    shortDescription: "Chien-Shiung Wu was a groundbreaking physicist who made discoveries that changed how we understand the universe. She led the famous 'Wu experiment,' which showed that nature isn't always symmetrical—a huge surprise in physics! As a Chinese-American woman, she broke barriers in science and inspired many to follow in her footsteps.",
-    detailed_description: {
-      early_life: "Born in 1912 near Shanghai, China, Chien-Shiung showed exceptional academic ability from an early age. Her father was a school principal who believed strongly in education for girls.",
-      stem_journey: "Chien-Shiung earned a degree in physics in China, then moved to the United States in 1936 to pursue graduate studies at UC Berkeley. She earned her Ph.D. and began her research career.",
-      challenges: "As a Chinese immigrant woman in American science, Chien-Shiung faced both racial and gender discrimination. She was often the only woman in her physics classes and research groups.",
-      achievements: "Chien-Shiung conducted the famous 'Wu experiment,' which disproved the law of conservation of parity in physics. She became the first woman to serve as president of the American Physical Society.",
-      legacy: "Known as the 'First Lady of Physics,' Chien-Shiung inspired generations of Asian American women to pursue careers in physics. Her work fundamentally changed our understanding of the universe."
-    },
-    achievements: [
-      "Known as the 'First Lady of Physics'",
-      "Conducted the Wu experiment that disproved the law of conservation of parity",
-      "Worked on the Manhattan Project",
-      "First woman to serve as president of the American Physical Society"
-    ],
-    awards: [
-      "Wolf Prize in Physics (1978)",
-      "National Medal of Science (1975)"
-    ],
-    publications: [],
-    education: [
-      { degree: "Ph.D.", field: "Physics", institution: "University of California, Berkeley" }
-    ],
-    timeline: [
-      { year: 1956, event: "Conducted the Wu experiment" }
-    ],
-    barriers: [
-      "Faced gender and racial discrimination as an immigrant woman in science"
-    ],
-    impact: "Her work changed the understanding of fundamental laws in physics.",
-    media: [
-      { type: "biography", title: "Queen of Physics: How Wu Chien Shiung Helped Unlock the Secrets of the Atom", url: "https://www.goodreads.com/book/show/40538613-queen-of-physics" }
-    ],
-    references: [
-      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Chien-Shiung_Wu" },
-      { title: "Biography.com", url: "https://www.biography.com/scientist/chien-shiung-wu" }
-    ],
-    mentorship: "Mentored many students and advocated for women in science.",
-    fun_fact: "Nicknamed the 'Chinese Madame Curie'.",
-    
-    // High Priority - New Metadata
-    career_path: {
-      first_job: "Research assistant at University of California, Berkeley",
-      career_highlights: ["Led groundbreaking physics experiments", "Became first female president of American Physical Society"],
-      advice_for_students: "Don't let stereotypes or expectations limit you. Your abilities and hard work will open doors."
-    },
-    student_resources: {
-      books_for_students: ["Queen of Physics: How Wu Chien Shiung Helped Unlock the Secrets of the Atom"],
-      websites: ["aps.org", "physicsgirl.org", "womeninphysics.org"],
-      programs: ["Physics summer programs", "Women in Physics initiatives", "Nuclear physics workshops"],
-      advice: "Develop strong mathematical skills and don't be afraid to ask questions in class."
-    },
-    challenges: {
-      academic: ["Limited educational opportunities for women in China"],
-      professional: ["Gender and racial discrimination in academia", "Being overlooked for promotions"],
-      personal: ["Immigrating to a new country", "Balancing family and career"],
-      how_overcame: "Focused on excellence in research and built strong professional relationships"
-    },
-    education_details: {
-      high_school: "Excelled in mathematics and science",
-      college_major: "Physics",
-      graduate_school: "Ph.D. in Physics from University of California, Berkeley",
-      key_courses: ["Physics", "Mathematics", "Nuclear Physics", "Experimental Methods"],
-      study_tips: "Understand the fundamentals deeply and practice problem-solving regularly"
-    },
-    modern_impact: {
-      current_applications: "Her experimental methods are used in particle physics research",
-      companies_using_her_work: ["CERN", "Research institutions", "Particle physics labs"],
-      future_implications: "Her work continues to advance our understanding of fundamental physics"
-    },
-    personal_info: {
-      early_interests: ["Physics", "Mathematics", "Scientific experiments", "Problem-solving"],
-      family_background: "Encouraged by parents to pursue education despite gender barriers",
-      hobbies: ["Reading scientific literature", "Teaching", "Traveling"],
-      personality_traits: ["Precise", "Determined", "Innovative", "Mentoring"]
-    },
-    cultural_background: {
-      heritage: "Chinese intellectual and American immigrant traditions",
-      cultural_influences: ["Chinese emphasis on education", "American scientific community", "Immigrant work ethic"],
-      cultural_challenges: ["Anti-Asian discrimination", "Language barriers", "Gender barriers in both cultures", "Immigrant status in academia"],
-      cultural_contributions: "Bridged Chinese educational values with American scientific innovation, showing how immigrant perspectives enrich science"
-    }
-  },
-  // --- NEW MODERN & DIVERSE PIONEERS ---
-  {
-    name: "Dorothy Vaughan",
-    photo: "./images/dorothy-vaughan.jpg",
-    birthDate: "1910",
-    deathDate: "2008",
-    country: "United States",
-    fields: ["Mathematics", "Computer Science"],
-    roles: ["Mathematician", "Computer Programmer", "NASA Supervisor"],
-    quote: "I changed what I could, and what I couldn't, I endured.",
-    summary: "Trailblazing African-American mathematician and NASA's first Black supervisor, vital to early spaceflight.",
-    shortDescription: "Dorothy Vaughan was a brilliant mathematician and one of NASA's first Black supervisors. She taught herself computer programming and led a team of women who calculated flight paths for early space missions. Dorothy's leadership and determination helped break down racial and gender barriers, and her story was featured in the movie 'Hidden Figures.'",
-    detailed_description: {
-      early_life: "Born in Missouri, excelled in mathematics and graduated college at 19.",
-      stem_journey: "Joined NACA (later NASA) in 1943, became expert in FORTRAN and led the West Area Computers.",
-      challenges: "Faced racial and gender segregation at NASA.",
-      achievements: "First Black supervisor at NASA, key role in spaceflight calculations.",
-      legacy: "Paved the way for women and minorities in STEM, featured in 'Hidden Figures'."
-    },
-    achievements: [
-      "First Black supervisor at NASA",
-      "Expert in FORTRAN programming",
-      "Mentored many women in STEM"
-    ],
-    awards: ["Congressional Gold Medal (2019)"],
-    publications: [],
-    education: [
-      { degree: "B.A.", field: "Mathematics", institution: "Wilberforce University" }
-    ],
-    timeline: [
-      { year: 1943, event: "Joined NACA (NASA predecessor)" },
-      { year: 1949, event: "Became NASA's first Black supervisor" }
-    ],
-    barriers: ["Racial and gender segregation in the workplace"],
-    impact: "Role model for women and minorities in STEM.",
-    media: [
-      { type: "movie", title: "Hidden Figures", url: "https://www.imdb.com/title/tt4846340/" }
-    ],
-    references: [
-      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Dorothy_Vaughan" }
-    ],
-    mentorship: "Mentored many women at NASA.",
-    fun_fact: "Self-taught computer programming in her 40s.",
-    career_path: {
-      first_job: "Math teacher",
-      career_highlights: ["NASA supervisor", "FORTRAN expert"],
-      advice_for_students: "Never stop learning and help others along the way."
-    },
-    student_resources: {
-      books_for_students: ["Hidden Figures by Margot Lee Shetterly"],
-      websites: ["nasa.gov", "blackgirlscode.org"],
-      programs: ["NASA STEM programs"],
-      advice: "Teamwork and persistence open doors."
-    },
-    challenges: {
-      academic: ["Limited opportunities for Black women"],
-      professional: ["Segregation at NASA"],
-      personal: ["Balancing work and family"],
-      how_overcame: "Excelled in her field and mentored others."
-    },
-    education_details: {
-      high_school: "Valedictorian",
-      college_major: "Mathematics",
-      key_courses: ["Mathematics", "Programming"],
-      study_tips: "Practice and help others learn."
-    },
-    modern_impact: {
-      current_applications: "Diversity in tech and space programs",
-      companies_using_her_work: ["NASA"],
-      future_implications: "Inspiration for future generations."
-    },
-    personal_info: {
-      early_interests: ["Math", "Teaching"],
-      family_background: "Supportive family, strong work ethic",
-      hobbies: ["Reading", "Mentoring"],
-      personality_traits: ["Determined", "Supportive"]
-    },
-    cultural_background: {
-      heritage: "African-American",
-      cultural_influences: ["Civil Rights Era"],
-      cultural_challenges: ["Segregation"],
-      cultural_contributions: "Broke barriers for Black women in STEM."
-    }
-  },
-  {
-    name: "Mae Jemison",
-    photo: "./images/mae-jemison.jpg",
-    birthDate: "1956",
-    deathDate: "",
-    country: "United States",
-    fields: ["Astronautics", "Medicine", "Engineering"],
-    roles: ["Astronaut", "Physician", "Engineer"],
-    quote: "Never be limited by other people's limited imaginations.",
-    summary: "First Black woman in space, physician, engineer, and STEM advocate.",
-    shortDescription: "Mae Jemison is a doctor, engineer, and the first Black woman to travel to space. She flew aboard the Space Shuttle Endeavour and later founded a company to inspire students in science and technology. Mae believes that everyone should dream big and that curiosity can take you anywhere—even to the stars!",
-    detailed_description: {
-      early_life: "Born in Alabama, inspired by Star Trek and science fiction.",
-      stem_journey: "Earned degrees in engineering and medicine, joined NASA in 1987.",
-      challenges: "Faced both racial and gender bias in STEM fields.",
-      achievements: "Flew on Space Shuttle Endeavour in 1992.",
-      legacy: "Role model for girls in STEM and advocate for science education."
-    },
-    achievements: [
-      "First Black woman in space",
-      "Medical doctor and engineer",
-      "Founded STEM education foundation"
-    ],
-    awards: ["National Women's Hall of Fame (1993)"],
-    publications: [],
-    education: [
-      { degree: "M.D.", field: "Medicine", institution: "Cornell University" },
-      { degree: "B.S.", field: "Chemical Engineering", institution: "Stanford University" }
-    ],
-    timeline: [
-      { year: 1992, event: "Flew on Space Shuttle Endeavour" }
-    ],
-    barriers: ["Racial and gender bias in STEM"],
-    impact: "Inspires girls and minorities to pursue STEM careers.",
-    media: [
-      { type: "article", title: "Mae Jemison: First African American Woman in Space", url: "https://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/who-was-mae-jemison-k4.html" }
-    ],
-    references: [
-      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mae_Jemison" }
-    ],
-    mentorship: "Mentors students through her foundation.",
-    fun_fact: "Appeared on Star Trek: The Next Generation.",
-    career_path: {
-      first_job: "Medical doctor",
-      career_highlights: ["NASA astronaut", "Science educator"],
-      advice_for_students: "Dream big and work hard."
-    },
-    student_resources: {
-      books_for_students: ["Find Where the Wind Goes by Mae Jemison"],
-      websites: ["jemisonfoundation.org", "nasa.gov"],
-      programs: ["STEM camps"],
-      advice: "Don't let anyone else define your limits."
-    },
-    challenges: {
-      academic: ["Few role models in STEM"],
-      professional: ["Bias in medicine and engineering"],
-      personal: ["Breaking barriers as a woman of color"],
-      how_overcame: "Persevered and excelled in multiple fields."
-    },
-    education_details: {
-      high_school: "Graduated at 16",
-      college_major: "Chemical Engineering",
-      key_courses: ["Engineering", "Biology", "Medicine"],
-      study_tips: "Stay curious and ask questions."
-    },
-    modern_impact: {
-      current_applications: "STEM education and advocacy",
-      companies_using_her_work: ["NASA", "Jemison Group"],
-      future_implications: "Inspiring the next generation of explorers."
-    },
-    personal_info: {
-      early_interests: ["Science fiction", "Space", "Medicine"],
-      family_background: "Supportive parents, teachers",
-      hobbies: ["Dancing", "Reading"],
-      personality_traits: ["Curious", "Adventurous"]
-    },
-    cultural_background: {
-      heritage: "African-American",
-      cultural_influences: ["Civil Rights Movement"],
-      cultural_challenges: ["Bias in STEM"],
-      cultural_contributions: "First Black woman in space."
-    }
-  },
-  {
-    name: "Radia Perlman",
-    photo: "./images/radia-perlman.jpg",
-    birthDate: "1951",
-    deathDate: "",
-    country: "United States",
-    fields: ["Computer Science", "Networking"],
-    roles: ["Computer Scientist", "Engineer"],
-    quote: "The world would be a better place if more people could see the beauty in logic.",
-    summary: "Inventor of spanning tree protocol, known as the 'Mother of the Internet'.",
-    shortDescription: "Radia Perlman is known as the 'Mother of the Internet' for inventing the spanning tree protocol, which makes modern computer networks possible. She loved solving puzzles and turned her passion for logic into technology that connects the world. Radia's work shows that creativity and persistence can change how we all communicate.",
-    detailed_description: {
-      early_life: "Grew up loving math and logic puzzles, inspired by her engineer parents.",
-      stem_journey: "Studied math at MIT, became a leader in computer networking.",
-      challenges: "Few women in computer science in the 1970s.",
-      achievements: "Invented spanning tree protocol, enabling modern networks.",
-      legacy: "Her work underpins the internet as we know it."
-    },
-    achievements: [
-      "Invented spanning tree protocol",
-      "Key contributor to network security",
-      "Authored influential textbooks"
-    ],
-    awards: ["Internet Hall of Fame (2014)"],
-    publications: [
-      { title: "Interconnections: Bridges, Routers, Switches, and Internetworking Protocols", url: "https://www.pearson.com/en-us/subject-catalog/p/interconnections-bridges-routers-switches-and-internetworking-protocols/P200000003978/9780201634488" }
-    ],
-    education: [
-      { degree: "Ph.D.", field: "Computer Science", institution: "MIT" }
-    ],
-    timeline: [
-      { year: 1985, event: "Invented spanning tree protocol" }
-    ],
-    barriers: ["Gender imbalance in tech"],
-    impact: "Her inventions make the internet possible.",
-    media: [
-      { type: "article", title: "Radia Perlman: Mother of the Internet", url: "https://www.internethalloffame.org/inductee/radia-perlman/" }
-    ],
-    references: [
-      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Radia_Perlman" }
-    ],
-    mentorship: "Mentors young engineers and students.",
-    fun_fact: "Wrote a poem to explain her protocol to engineers.",
-    career_path: {
-      first_job: "Software engineer",
-      career_highlights: ["Inventor", "Author"],
-      advice_for_students: "Find the beauty in logic and keep learning."
-    },
-    student_resources: {
-      books_for_students: ["Interconnections by Radia Perlman"],
-      websites: ["internethalloffame.org"],
-      programs: ["Computer science clubs"],
-      advice: "Don't be afraid to ask questions."
-    },
-    challenges: {
-      academic: ["Few women in CS"],
-      professional: ["Bias in tech"],
-      personal: ["Balancing work and family"],
-      how_overcame: "Focused on her passion for problem-solving."
-    },
-    education_details: {
-      high_school: "Excelled in math and science",
-      college_major: "Mathematics",
-      key_courses: ["Computer Science", "Networking"],
-      study_tips: "Practice by building and experimenting."
-    },
-    modern_impact: {
-      current_applications: "Internet, cloud computing, cybersecurity",
-      companies_using_her_work: ["Cisco", "Intel", "Google"],
-      future_implications: "Secure, scalable networks for the future."
-    },
-    personal_info: {
-      early_interests: ["Math", "Puzzles", "Programming"],
-      family_background: "Engineer parents",
-      hobbies: ["Writing", "Teaching"],
-      personality_traits: ["Logical", "Creative"]
-    },
-    cultural_background: {
-      heritage: "Jewish-American",
-      cultural_influences: ["MIT culture"],
-      cultural_challenges: ["Gender imbalance in tech"],
-      cultural_contributions: "Pioneered diversity in networking."
-    }
-  },
-  {
-    name: "Tu Youyou",
-    photo: "./images/tu-youyou.jpg",
-    birthDate: "1930",
-    deathDate: "",
-    country: "China",
-    fields: ["Chemistry", "Medicine"],
-    roles: ["Pharmacologist", "Chemist"],
-    quote: "Every scientist dreams of doing something that can help the world.",
-    summary: "Discovered artemisinin, saving millions from malaria; first Chinese woman Nobel laureate.",
-    shortDescription: "Tu Youyou is a Chinese scientist who discovered a life-saving medicine for malaria, a disease that affects millions. She combined traditional Chinese medicine with modern science to find a cure, saving countless lives. Tu Youyou's discovery earned her a Nobel Prize and showed the world the value of blending old and new ideas.",
-    detailed_description: {
-      early_life: "Born in Ningbo, China, inspired by traditional medicine.",
-      stem_journey: "Studied pharmacology, led malaria research in 1970s.",
-      challenges: "Worked during Cultural Revolution, limited resources.",
-      achievements: "Discovered artemisinin, revolutionized malaria treatment.",
-      legacy: "Her discovery has saved millions of lives."
-    },
-    achievements: [
-      "Discovered artemisinin for malaria treatment",
-      "First Chinese woman Nobel laureate",
-      "Pioneered modern use of traditional medicine"
-    ],
-    awards: ["Nobel Prize in Physiology or Medicine (2015)"],
-    publications: [],
-    education: [
-      { degree: "Pharmacology", field: "Pharmacology", institution: "Peking University" }
-    ],
-    timeline: [
-      { year: 1972, event: "Discovered artemisinin" },
-      { year: 2015, event: "Won Nobel Prize" }
-    ],
-    barriers: ["Limited resources, political turmoil"],
-    impact: "Saved millions from malaria worldwide.",
-    media: [
-      { type: "article", title: "Tu Youyou: Nobel Laureate", url: "https://www.nobelprize.org/prizes/medicine/2015/tu/facts/" }
-    ],
-    references: [
-      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Tu_Youyou" }
-    ],
-    mentorship: "Inspired young scientists in China.",
-    fun_fact: "Her Nobel-winning work was inspired by ancient Chinese texts.",
-    career_path: {
-      first_job: "Pharmacologist",
-      career_highlights: ["Nobel Prize winner"],
-      advice_for_students: "Be persistent and open to new ideas."
-    },
-    student_resources: {
-      books_for_students: ["Tu Youyou's Discovery"],
-      websites: ["nobelprize.org"],
-      programs: ["Science Olympiad"],
-      advice: "Learn from both tradition and innovation."
-    },
-    challenges: {
-      academic: ["Limited access to Western science"],
-      professional: ["Political challenges"],
-      personal: ["Balancing research and family"],
-      how_overcame: "Combined traditional knowledge with modern science."
-    },
-    education_details: {
-      high_school: "Excelled in science",
-      college_major: "Pharmacology",
-      key_courses: ["Chemistry", "Biology"],
-      study_tips: "Be curious and persistent."
-    },
-    modern_impact: {
-      current_applications: "Malaria treatment worldwide",
-      companies_using_her_work: ["WHO", "Pharma companies"],
-      future_implications: "New medicines from traditional sources."
-    },
-    personal_info: {
-      early_interests: ["Medicine", "Chemistry"],
-      family_background: "Traditional Chinese medicine",
-      hobbies: ["Reading", "Research"],
-      personality_traits: ["Persistent", "Innovative"]
-    },
-    cultural_background: {
-      heritage: "Chinese",
-      cultural_influences: ["Traditional medicine"],
-      cultural_challenges: ["Cultural Revolution"],
-      cultural_contributions: "Bridged traditional and modern science."
-    }
-  },
-  {
-    name: "Maryam Mirzakhani",
-    photo: "./images/maryam-mirzakhani.jpg",
-    birthDate: "1977",
-    deathDate: "2017",
-    country: "Iran/United States",
-    fields: ["Mathematics"],
-    roles: ["Mathematician", "Professor"],
-    quote: "The beauty of mathematics only shows itself to more patient followers.",
-    summary: "First woman and first Iranian to win the Fields Medal in mathematics.",
-    shortDescription: "Maryam Mirzakhani was a brilliant mathematician and the first woman to win the Fields Medal, the highest honor in math. She loved solving challenging problems and exploring the beauty of mathematics. Maryam's achievements inspired girls and women everywhere to pursue their passion for math and science.",
-    detailed_description: {
-      early_life: "Born in Tehran, loved reading and solving math problems.",
-      stem_journey: "Won gold at International Math Olympiad, became a math professor at Stanford.",
-      challenges: "Few women in advanced mathematics.",
-      achievements: "Fields Medal for work on geometry and dynamics.",
-      legacy: "Inspired women and Iranians in mathematics."
-    },
-    achievements: [
-      "First woman to win the Fields Medal",
-      "Gold medalist at International Math Olympiad",
-      "Professor at Stanford University"
-    ],
-    awards: ["Fields Medal (2014)"],
-    publications: [],
-    education: [
-      { degree: "Ph.D.", field: "Mathematics", institution: "Harvard University" }
-    ],
-    timeline: [
-      { year: 2014, event: "Won Fields Medal" }
-    ],
-    barriers: ["Gender imbalance in mathematics"],
-    impact: "Role model for women and Middle Eastern mathematicians.",
-    media: [
-      { type: "article", title: "Maryam Mirzakhani: Fields Medalist", url: "https://www.quantamagazine.org/maryam-mirzakhani-iranian-mathematician-dies-20170715/" }
-    ],
-    references: [
-      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Maryam_Mirzakhani" }
-    ],
-    mentorship: "Inspired young mathematicians worldwide.",
-    fun_fact: "Loved reading novels as a child.",
-    career_path: {
-      first_job: "Math researcher",
-      career_highlights: ["Fields Medal winner"],
-      advice_for_students: "Be patient and persistent."
-    },
-    student_resources: {
-      books_for_students: ["Maryam's Magic: The Story of Mathematician Maryam Mirzakhani"],
-      websites: ["mathunion.org"],
-      programs: ["Math Olympiad"],
-      advice: "Enjoy the process of discovery."
-    },
-    challenges: {
-      academic: ["Few women in math"],
-      professional: ["Bias in academia"],
-      personal: ["Balancing research and family"],
-      how_overcame: "Focused on her love of math."
-    },
-    education_details: {
-      high_school: "Won national math competitions",
-      college_major: "Mathematics",
-      key_courses: ["Geometry", "Dynamics"],
-      study_tips: "Practice and seek mentors."
-    },
-    modern_impact: {
-      current_applications: "Geometry, dynamics, and math research",
-      companies_using_her_work: ["Universities", "Research institutes"],
-      future_implications: "More women in advanced mathematics."
-    },
-    personal_info: {
-      early_interests: ["Math", "Reading"],
-      family_background: "Supportive family",
-      hobbies: ["Reading novels", "Math puzzles"],
-      personality_traits: ["Patient", "Creative"]
-    },
-    cultural_background: {
-      heritage: "Iranian",
-      cultural_influences: ["Persian culture"],
-      cultural_challenges: ["Gender imbalance"],
-      cultural_contributions: "First Iranian and first woman Fields Medalist."
-    }
-  },
-  {
-    name: "Asima Chatterjee",
-    photo: "./images/asima-chatterjee.jpg",
-    birthDate: "1917",
-    deathDate: "2006",
-    country: "India",
-    fields: ["Chemistry", "Medicine"],
-    roles: ["Organic Chemist", "Professor"],
-    quote: "Science is not just about discovery, but about making life better for humanity.",
-    summary: "First Indian woman to earn a doctorate in science, pioneer in phytomedicine and anti-malarial drugs.",
-    shortDescription: "Asima Chatterjee was a brilliant chemist from India who became the first Indian woman to earn a doctorate in science. She discovered important medicines from plants, including treatments for epilepsy and malaria. Her work showed how traditional knowledge and modern science can work together to help people.",
-    detailed_description: {
-      early_life: "Born in Kolkata, India, Asima showed early interest in chemistry and medicine. Her father encouraged her scientific pursuits.",
-      stem_journey: "Earned her doctorate in organic chemistry in 1944, becoming the first Indian woman to achieve this milestone.",
-      challenges: "Faced gender barriers in Indian academia and limited opportunities for women in science.",
-      achievements: "Discovered vinca alkaloids and developed anti-epileptic and anti-malarial drugs from natural products.",
-      legacy: "Pioneered phytomedicine research and opened doors for Indian women in science."
-    },
-    achievements: [
-      "First Indian woman to earn a doctorate in science",
-      "Discovered vinca alkaloids for cancer treatment",
-      "Developed anti-epileptic and anti-malarial drugs",
-      "Published over 400 scientific papers"
-    ],
-    awards: ["P.C. Ray Award", "First woman president of Indian Science Congress"],
-    publications: [],
-    education: [
-      { degree: "Ph.D.", field: "Organic Chemistry", institution: "University of Calcutta" }
-    ],
-    timeline: [
-      { year: 1944, event: "Earned doctorate in organic chemistry" },
-      { year: 1975, event: "Became first woman president of Indian Science Congress" }
-    ],
-    barriers: ["Gender discrimination in Indian academia", "Limited research funding for women"],
-    impact: "Pioneered phytomedicine research and inspired generations of Indian women scientists.",
-    media: [],
-    references: [
-      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Asima_Chatterjee" }
-    ],
-    mentorship: "Mentored many students and advocated for women in science.",
-    fun_fact: "Published over 400 papers on medicinal plants.",
-    career_path: {
-      first_job: "Research chemist",
-      career_highlights: ["Professor at University of Calcutta", "President of Indian Science Congress"],
-      advice_for_students: "Persistence and passion can overcome any barrier. Science knows no gender."
-    },
-    student_resources: {
-      books_for_students: ["Women in Science: 50 Fearless Pioneers"],
-      websites: ["stemettes.org", "womeninscience.org"],
-      programs: ["Chemistry summer camps", "Women in STEM programs"],
-      advice: "Follow your curiosity and don't let stereotypes define your path."
-    },
-    challenges: {
-      academic: ["Limited opportunities for women in higher education"],
-      professional: ["Gender bias in Indian scientific community"],
-      personal: ["Balancing research with family responsibilities"],
-      how_overcame: "Focused on her research and built a strong scientific reputation"
-    },
-    education_details: {
-      high_school: "Excelled in chemistry and mathematics",
-      college_major: "Chemistry",
-      graduate_school: "Ph.D. in Organic Chemistry",
-      key_courses: ["Organic Chemistry", "Botany", "Pharmacology"],
-      study_tips: "Connect theory with practical applications"
-    },
-    modern_impact: {
-      current_applications: "Natural product drug discovery, cancer treatments",
-      companies_using_her_work: ["Pharmaceutical companies", "Research institutions"],
-      future_implications: "Continued development of plant-based medicines"
-    },
-    personal_info: {
-      early_interests: ["Chemistry", "Medicine", "Plants"],
-      family_background: "Supportive family encouraging education",
-      hobbies: ["Reading scientific literature", "Teaching"],
-      personality_traits: ["Dedicated", "Innovative", "Persistent"]
-    },
-    cultural_background: {
-      heritage: "Indian Bengali",
-      cultural_influences: ["Indian scientific tradition", "Bengali intellectual culture"],
-      cultural_challenges: ["Traditional gender roles in India", "Colonial education system"],
-      cultural_contributions: "Bridged traditional Indian medicine with modern chemistry"
-    }
-  },
-  {
-    name: "Mária Telkes",
-    photo: "./images/maria-telkes.jpg",
-    birthDate: "1900",
-    deathDate: "1995",
-    country: "Hungary/United States",
-    fields: ["Physics", "Engineering"],
-    roles: ["Biophysicist", "Engineer", "Inventor"],
-    quote: "It is the things supposed to be impossible that interest me. I like to do things they say cannot be done.",
-    summary: "Pioneer of solar energy technology, known as 'The Sun Queen' for her innovations in solar heating and power storage.",
-    shortDescription: "Mária Telkes was a brilliant scientist who became known as 'The Sun Queen' for her groundbreaking work with solar energy. She invented solar-powered heating systems, solar ovens, and devices that could turn saltwater into drinking water using only sunlight. Her inventions helped soldiers during World War II and continue to help people around the world today.",
-    detailed_description: {
-      early_life: "Born in Budapest, Hungary, Mária was fascinated by chemistry from age 10. She made her own chemistry set and dreamed of harnessing solar energy.",
-      stem_journey: "Earned her doctorate in physical chemistry, then moved to the United States to work on solar energy research at MIT.",
-      challenges: "Faced skepticism about solar energy and gender discrimination in engineering fields.",
-      achievements: "Invented solar heating systems, solar ovens, and solar water distillation devices. Held over 20 patents.",
-      legacy: "Pioneered practical solar energy applications and inspired future renewable energy research."
-    },
-    achievements: [
-      "Invented solar heating systems for homes",
-      "Developed solar-powered water distillation",
-      "Created portable solar ovens",
-      "Held over 20 patents for solar technology"
-    ],
-    awards: ["Society of Women Engineers Achievement Award (1952)", "National Inventors Hall of Fame"],
-    publications: [],
-    education: [
-      { degree: "Ph.D.", field: "Physical Chemistry", institution: "University of Budapest" }
-    ],
-    timeline: [
-      { year: 1948, event: "Built the Dover Sun House" },
-      { year: 1952, event: "First recipient of SWE Achievement Award" }
-    ],
-    barriers: ["Gender discrimination in engineering", "Skepticism about solar energy"],
-    impact: "Pioneered practical solar energy applications that continue to benefit humanity.",
-    media: [],
-    references: [
-      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mária_Telkes" }
-    ],
-    mentorship: "Inspired generations of women engineers and solar energy researchers.",
-    fun_fact: "Known as 'The Sun Queen' by her colleagues.",
-    career_path: {
-      first_job: "Biophysicist at Cleveland Clinic",
-      career_highlights: ["MIT researcher", "Solar energy pioneer"],
-      advice_for_students: "Don't be afraid to pursue what others think is impossible. Innovation requires persistence."
-    },
-    student_resources: {
-      books_for_students: ["The Sun Queen: The Untold Story of Mária Telkes"],
-      websites: ["swe.org", "solarhousehistory.com"],
-      programs: ["Solar energy camps", "Engineering programs for girls"],
-      advice: "Explore renewable energy and sustainable technology. The future needs innovative thinkers."
-    },
-    challenges: {
-      academic: ["Limited opportunities for women in engineering"],
-      professional: ["Skepticism about solar energy technology"],
-      personal: ["Immigrating to a new country"],
-      how_overcame: "Focused on practical applications and demonstrated results"
-    },
-    education_details: {
-      high_school: "Excelled in chemistry and physics",
-      college_major: "Physical Chemistry",
-      graduate_school: "Ph.D. in Physical Chemistry",
-      key_courses: ["Chemistry", "Physics", "Engineering"],
-      study_tips: "Combine theoretical knowledge with practical experimentation"
-    },
-    modern_impact: {
-      current_applications: "Solar heating, renewable energy, water purification",
-      companies_using_her_work: ["Solar energy companies", "Environmental organizations"],
-      future_implications: "Continued development of sustainable energy solutions"
-    },
-    personal_info: {
-      early_interests: ["Chemistry", "Solar energy", "Innovation"],
-      family_background: "Supportive family encouraging scientific exploration",
-      hobbies: ["Scientific research", "Inventing"],
-      personality_traits: ["Innovative", "Determined", "Visionary"]
-    },
-    cultural_background: {
-      heritage: "Hungarian Jewish",
-      cultural_influences: ["Hungarian scientific tradition", "American innovation culture"],
-      cultural_challenges: ["Anti-Semitism in Europe", "Gender barriers in engineering"],
-      cultural_contributions: "Bridged European scientific rigor with American practical innovation"
-    }
-  },
-  {
-    name: "Mariam Al-Astrulabi",
-    photo: "./images/mariam-al-astrulabi.jpg",
-    birthDate: "944",
-    deathDate: "967",
-    country: "Syria",
-    fields: ["Astronomy", "Engineering"],
-    roles: ["Astronomer", "Engineer", "Inventor"],
-    quote: "The stars guide us not just in navigation, but in understanding our place in the universe.",
-    summary: "10th-century Muslim astronomer and engineer who improved astrolabe design for navigation and timekeeping.",
-    shortDescription: "Mariam Al-Astrulabi was a brilliant astronomer and engineer from 10th-century Syria who improved the design of astrolabes - ancient tools for navigation and timekeeping. Her work helped sailors navigate the seas and helped people tell time and find direction. Mariam showed that women have been contributing to science and engineering for centuries.",
-    detailed_description: {
-      early_life: "Born in Aleppo, Syria, Mariam came from a family of astronomers and engineers. Her father was an astrolabe maker.",
-      stem_journey: "Learned astrolabe making from her father and became renowned for her improvements to the design.",
-      challenges: "Few historical records of women scientists from this era, limited recognition of women's contributions.",
-      achievements: "Improved astrolabe design for better accuracy in navigation and timekeeping, employed by the Emir of Aleppo.",
-      legacy: "Demonstrated women's contributions to science throughout history and inspired modern Muslim women in STEM."
-    },
-    achievements: [
-      "Improved astrolabe design for navigation",
-      "Enhanced timekeeping accuracy",
-      "Employed by the Emir of Aleppo",
-      "Pioneered women's role in medieval astronomy"
-    ],
-    awards: ["Asteroid 7060 Al-'Ijliya named in her honor"],
-    publications: [],
-    education: [
-      { degree: "Apprenticeship", field: "Astronomy and Engineering", institution: "Family workshop" }
-    ],
-    timeline: [
-      { year: 944, event: "Born in Aleppo, Syria" },
-      { year: 967, event: "Died, leaving legacy of improved astrolabes" }
-    ],
-    barriers: ["Limited historical recognition of women scientists", "Medieval gender roles"],
-    impact: "Advanced navigation technology and demonstrated women's contributions to medieval science.",
-    media: [],
-    references: [
-      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mariam_al-Astrulabi" }
-    ],
-    mentorship: "Inspired future generations of Muslim women in science and engineering.",
-    fun_fact: "An asteroid is named after her: 7060 Al-'Ijliya.",
-    career_path: {
-      first_job: "Astrolabe maker",
-      career_highlights: ["Court astronomer for Emir of Aleppo"],
-      advice_for_students: "Your contributions to science matter, regardless of when you lived or where you're from."
-    },
-    student_resources: {
-      books_for_students: ["1001 Inventions: The Enduring Legacy of Muslim Civilization"],
-      websites: ["1001inventions.com", "islamicscience.org"],
-      programs: ["Islamic science history programs", "Astronomy clubs"],
-      advice: "Learn about the rich history of science in different cultures and time periods."
-    },
-    challenges: {
-      academic: ["Limited formal education opportunities for women"],
-      professional: ["Medieval gender roles and expectations"],
-      personal: ["Working in a male-dominated field"],
-      how_overcame: "Demonstrated exceptional skill and innovation in her craft"
-    },
-    education_details: {
-      high_school: "Learned from family workshop",
-      college_major: "Apprenticeship in astronomy and engineering",
-      key_courses: ["Astronomy", "Engineering", "Mathematics"],
-      study_tips: "Learn from family traditions and combine with modern knowledge"
-    },
-    modern_impact: {
-      current_applications: "Navigation technology, timekeeping devices",
-      companies_using_her_work: ["Navigation companies", "Astronomical societies"],
-      future_implications: "Continued recognition of historical women scientists"
-    },
-    personal_info: {
-      early_interests: ["Astronomy", "Engineering", "Navigation"],
-      family_background: "Family of astronomers and engineers",
-      hobbies: ["Studying the stars", "Improving instruments"],
-      personality_traits: ["Innovative", "Precise", "Dedicated"]
-    },
-    cultural_background: {
-      heritage: "Syrian Muslim",
-      cultural_influences: ["Islamic Golden Age", "Syrian scientific tradition"],
-      cultural_challenges: ["Medieval gender roles", "Limited historical documentation"],
-      cultural_contributions: "Contributed to Islamic Golden Age scientific achievements"
-    }
-  },
-  {
-    name: "Chien-Shiung Wu",
-    photo: "./images/chien-shiung-wu.jpg",
-    birthDate: "1912",
-    deathDate: "1997",
-    country: "China/United States",
-    fields: ["Physics"],
-    roles: ["Experimental Physicist"],
-    quote: "I was a laboratory worker, that was, and still is, my identity.",
     summary: "Experimental physicist who made significant contributions to nuclear physics, including the Manhattan Project and the Wu experiment.",
     achievements: [
       "Conducted the Wu experiment disproving parity conservation",
@@ -1386,7 +630,7 @@ const pioneers = [
   },
   {
     name: "Sofia Kovalevskaya",
-    photo: "./images/sofia-kovalevskaya.jpg",
+    photo: "./images/sofia-kovalevskaya.svg",
     birthDate: "1850",
     deathDate: "1891",
     country: "Russia/Sweden",
@@ -1402,7 +646,7 @@ const pioneers = [
   },
   {
     name: "Dorothy Hodgkin",
-    photo: "./images/dorothy-hodgkin.jpg",
+    photo: "./images/dorothy-hodgkin.svg",
     birthDate: "1910",
     deathDate: "1994",
     country: "United Kingdom",
@@ -1542,6 +786,127 @@ const pioneers = [
       "Nobel Prize in Physiology or Medicine (2008)",
       "Co-discovered HIV virus",
       "Pioneered AIDS research and treatment"
+    ]
+  },
+  {
+    name: "Mae Carol Jemison",
+    photo: "./images/mae-jemison.jpg",
+    birthDate: "1956",
+    deathDate: "",
+    country: "United States",
+    fields: ["Astronautics", "Medicine", "Engineering"],
+    roles: ["Astronaut", "Physician", "Engineer"],
+    quote: "Never be limited by other people's limited imaginations.",
+    summary: "First African American woman in space, physician, engineer, and advocate for science education.",
+    achievements: [
+      "First African American woman in space",
+      "Founded technology research company",
+      "Advocate for STEM education"
+    ]
+  },
+  {
+    name: "Annie Easley",
+    photo: "./images/annie-easley.jpg",
+    birthDate: "1933",
+    deathDate: "2011",
+    country: "United States",
+    fields: ["Computer Science", "Mathematics", "Rocket Science"],
+    roles: ["Computer Scientist", "Mathematician", "Rocket Scientist"],
+    quote: "You're not going to change the world sitting around talking about it. You've got to get out and do it.",
+    summary: "NASA computer scientist and mathematician who developed software for rocket launches.",
+    achievements: [
+      "Developed software for Centaur rocket",
+      "Advocated for diversity at NASA"
+    ]
+  },
+  {
+    name: "Evelyn Boyd Granville",
+    photo: "./images/evelyn-boyd-granville.jpg",
+    birthDate: "1924",
+    deathDate: "2023",
+    country: "United States",
+    fields: ["Mathematics", "Computer Science"],
+    roles: ["Mathematician", "Educator"],
+    quote: "I always smile when I hear that women cannot excel in mathematics.",
+    summary: "Second African American woman to earn a Ph.D. in mathematics, contributed to NASA space programs.",
+    achievements: [
+      "Worked on Apollo and Vanguard programs",
+      "Pioneered math education for women and minorities"
+    ]
+  },
+  {
+    name: "Kalpana Chawla",
+    photo: "./images/kalpana-chawla.jpg",
+    birthDate: "1962",
+    deathDate: "2003",
+    country: "India/United States",
+    fields: ["Astronautics", "Engineering"],
+    roles: ["Astronaut", "Engineer"],
+    quote: "The path from dreams to success does exist.",
+    summary: "First woman of Indian origin in space, flew on two Space Shuttle missions.",
+    achievements: [
+      "First Indian-born woman in space",
+      "Flew on Space Shuttle Columbia"
+    ]
+  },
+  {
+    name: "Mary Jackson",
+    photo: "./images/mary-jackson.jpg",
+    birthDate: "1921",
+    deathDate: "2005",
+    country: "United States",
+    fields: ["Mathematics", "Aerospace Engineering"],
+    roles: ["Mathematician", "Aerospace Engineer"],
+    quote: "We have to do the best we can with what we have.",
+    summary: "NASA's first Black female engineer, broke barriers for women and minorities in engineering.",
+    achievements: [
+      "First Black female engineer at NASA",
+      "Advocated for women in STEM"
+    ]
+  },
+  {
+    name: "Ada Yonath",
+    photo: "./images/ada-yonath.jpg",
+    birthDate: "1939",
+    deathDate: "",
+    country: "Israel",
+    fields: ["Chemistry", "Crystallography"],
+    roles: ["Crystallographer", "Professor"],
+    quote: "Curiosity is the driving force for discovery.",
+    summary: "Nobel Prize-winning crystallographer who revealed the structure of the ribosome.",
+    achievements: [
+      "Nobel Prize in Chemistry (2009)",
+      "Determined ribosome structure"
+    ]
+  },
+  {
+    name: "Kimberly Bryant",
+    photo: "./images/kimberly-bryant.jpg",
+    birthDate: "1967",
+    deathDate: "",
+    country: "United States",
+    fields: ["Engineering", "Computer Science"],
+    roles: ["Engineer", "Nonprofit Founder"],
+    quote: "You can't be what you can't see.",
+    summary: "Founder of Black Girls Code, empowering girls of color in technology.",
+    achievements: [
+      "Founded Black Girls Code",
+      "Advocate for diversity in tech"
+    ]
+  },
+  {
+    name: "Fabiola Gianotti",
+    photo: "./images/fabiola-gianotti.jpg",
+    birthDate: "1960",
+    deathDate: "",
+    country: "Italy",
+    fields: ["Physics", "Particle Physics"],
+    roles: ["Physicist", "CERN Director-General"],
+    quote: "Science is a beautiful adventure.",
+    summary: "Particle physicist and first woman Director-General of CERN, led the discovery of the Higgs boson.",
+    achievements: [
+      "Led ATLAS experiment at CERN",
+      "First woman Director-General of CERN"
     ]
   }
 ];
