@@ -160,8 +160,21 @@
       </div>
     </div>
 
+    <!-- Visualization Toggle -->
+    <div class="visualization-toggle">
+      <button id="toggleVisualizations" class="visualization-toggle-btn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M3 3v18h18"/>
+          <path d="M18 17V9"/>
+          <path d="M13 17V5"/>
+          <path d="M8 17v-3"/>
+        </svg>
+        Show Data Visualizations
+      </button>
+    </div>
+
     <!-- D3.js Charts Section -->
-    <section id="charts-section" class="visualization-container">
+    <section id="charts-section" class="visualization-container hidden">
       <h2>Pioneers by Field</h2>
       <div id="field-chart"></div>
       <h2>Pioneers by Country</h2>
@@ -171,7 +184,7 @@
     </section>
 
     <!-- D3.js Timeline Section -->
-    <section id="timeline-section" class="visualization-container">
+    <section id="timeline-section" class="visualization-container hidden">
       <h2>STEM History Timeline</h2>
       <div id="timeline"></div>
     </section>

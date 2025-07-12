@@ -1462,6 +1462,11 @@ body {
 }
 
 /* Visualization Styles */
+.visualization-toggle {
+    text-align: center;
+    margin: 2rem 0;
+}
+
 .visualization-toggle-btn {
     background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
     color: white;

@@ -3,10 +3,53 @@
 
 document.addEventListener('DOMContentLoaded', function () {
   if (!window.pioneers || !Array.isArray(window.pioneers)) return;
-  renderFieldChart(window.pioneers);
-  renderCountryChart(window.pioneers);
-  renderEraChart(window.pioneers);
-  renderTimeline(window.pioneers);
+  
+  // Set up toggle functionality
+  const toggleBtn = document.getElementById('toggleVisualizations');
+  const chartsSection = document.getElementById('charts-section');
+  const timelineSection = document.getElementById('timeline-section');
+  
+  if (toggleBtn) {
+    toggleBtn.addEventListener('click', function() {
+      const isHidden = chartsSection.classList.contains('hidden');
+      
+      if (isHidden) {
+        // Show visualizations
+        chartsSection.classList.remove('hidden');
+        timelineSection.classList.remove('hidden');
+        toggleBtn.innerHTML = `
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M3 3v18h18"/>
+            <path d="M18 17V9"/>
+            <path d="M13 17V5"/>
+            <path d="M8 17v-3"/>
+          </svg>
+          Hide Data Visualizations
+        `;
+        
+        // Render charts if not already rendered
+        if (!chartsSection.querySelector('svg')) {
+          renderFieldChart(window.pioneers);
+          renderCountryChart(window.pioneers);
+          renderEraChart(window.pioneers);
+          renderTimeline(window.pioneers);
+        }
+      } else {
+        // Hide visualizations
+        chartsSection.classList.add('hidden');
+        timelineSection.classList.add('hidden');
+        toggleBtn.innerHTML = `
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M3 3v18h18"/>
+            <path d="M18 17V9"/>
+            <path d="M13 17V5"/>
+            <path d="M8 17v-3"/>
+          </svg>
+          Show Data Visualizations
+        `;
+      }
+    });
+  }
 });
 
 function renderFieldChart(pioneers) {
