@@ -171,6 +171,11 @@ class PioneersApp {
           <h4>Fun Fact:</h4>
           <p>${pioneer.fun_fact}</p>
         </div>
+
+        <div class="pioneer-study-path">
+          <h4>Follow in Her Footsteps:</h4>
+          <p>${this.getStudyPath(pioneer)}</p>
+        </div>
       </div>
 
       ${this.createActionButtons(pioneer)}
@@ -354,6 +359,32 @@ class PioneersApp {
     this.setupLazyLoading();
     
     console.log('Rendered', this.filteredPioneers.length, 'pioneer cards');
+  }
+
+  getStudyPath(pioneer) {
+    // Use existing education details if available, otherwise generate based on fields
+    if (pioneer.education_details && pioneer.education_details.key_courses) {
+      const courses = pioneer.education_details.key_courses.join(', ');
+      const advice = pioneer.career_path?.advice_for_students || '';
+      return `Study: ${courses}. ${advice}`;
+    }
+    
+    // Fallback: generate study path based on pioneer's fields
+    const fieldStudyPaths = {
+      'Mathematics': 'Study calculus, linear algebra, and statistics. Focus on problem-solving and logical thinking.',
+      'Physics': 'Study physics, calculus, and laboratory methods. Develop strong mathematical foundations.',
+      'Chemistry': 'Study chemistry, physics, and laboratory techniques. Learn to work safely with chemicals.',
+      'Biology': 'Study biology, chemistry, and laboratory methods. Develop strong research and observation skills.',
+      'Computer Science': 'Study programming, algorithms, and computer systems. Practice coding regularly.',
+      'Engineering': 'Study mathematics, physics, and engineering principles. Develop problem-solving and design skills.',
+      'Astronomy': 'Study physics, mathematics, and astronomy. Learn to use telescopes and analyze data.',
+      'Medicine': 'Study biology, chemistry, and human anatomy. Develop strong research and patient care skills.'
+    };
+    
+    const primaryField = pioneer.fields[0];
+    const studyPath = fieldStudyPaths[primaryField] || 'Study mathematics and science. Follow your curiosity and passion.';
+    
+    return studyPath;
   }
 }
 
