@@ -185,8 +185,6 @@ class PioneersApp {
           "${pioneer.quote}"
         </blockquote>
         
-        <p class="pioneer-summary">${pioneer.summary}</p>
-        
         <div class="pioneer-achievements">
           <h4>Key Achievements:</h4>
           <ul>${achievementsList}</ul>
