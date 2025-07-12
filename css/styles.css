@@ -1957,7 +1957,7 @@ body.light-theme .mobile-menu-toggle span {
     opacity: 0;
 }
 
-.pioneer-portrait img[style*="display: block"] {
+.pioneer-portrait img[style*="display:block"] {
     opacity: 1;
 }
 
