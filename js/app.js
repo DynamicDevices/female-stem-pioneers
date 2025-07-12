@@ -9,6 +9,8 @@ class PioneersApp {
     this.sortBy = 'name';
     this.fieldFilter = '';
     
+    console.log('PioneersApp initialized with', this.pioneers.length, 'pioneers');
+    
     this.init();
   }
 
@@ -110,11 +112,17 @@ class PioneersApp {
     const container = document.getElementById('pioneersContainer');
     const noResults = document.getElementById('noResults');
     
-    if (!container) return;
+    console.log('Rendering pioneers:', this.filteredPioneers.length);
+    
+    if (!container) {
+      console.error('Pioneers container not found');
+      return;
+    }
 
     container.innerHTML = '';
 
     if (this.filteredPioneers.length === 0) {
+      console.log('No pioneers to display');
       if (noResults) noResults.style.display = 'block';
       return;
     }
@@ -125,6 +133,8 @@ class PioneersApp {
       const card = this.createPioneerCard(pioneer, index);
       container.appendChild(card);
     });
+    
+    console.log('Rendered', this.filteredPioneers.length, 'pioneer cards');
   }
 
   createPioneerCard(pioneer, index) {

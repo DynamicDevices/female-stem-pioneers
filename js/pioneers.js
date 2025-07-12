@@ -245,4 +245,9 @@ const pioneers = [
 // Export for use in other files
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = pioneers;
+}
+
+// Make available globally for browser
+if (typeof window !== 'undefined') {
+  window.pioneers = pioneers;
 } 
