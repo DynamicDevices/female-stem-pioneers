@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://DynamicDevices.github.io/say-hello-code/sitemap.xml
