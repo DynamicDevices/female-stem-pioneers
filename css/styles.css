@@ -220,13 +220,11 @@ body {
 }
 
 .search-bar {
-    max-width: 600px;
-    margin: 0 auto 20px;
-    position: relative;
+    display: none; /* Hide the separate search bar */
 }
 
 .controls {
-    max-width: 800px;
+    max-width: 1200px;
     margin: 0 auto 30px;
     display: flex;
     gap: 15px;
@@ -237,7 +235,8 @@ body {
 
 .search-input {
     flex: 1;
-    min-width: 300px;
+    min-width: 200px;
+    max-width: 300px;
     padding: 10px 14px;
     font-size: 0.95rem;
     background: #1e293b;
@@ -1001,6 +1000,7 @@ body {
 
     .search-input {
         min-width: auto;
+        max-width: none;
         width: 100%;
     }
 
