@@ -1,0 +1,47 @@
+{
+  "name": "women-pioneers-stem",
+  "version": "1.0.0",
+  "description": "A digital resource celebrating women pioneers in STEM to inspire girls and young women",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server . -p 8000",
+    "build": "echo 'GitHub Pages builds automatically'",
+    "test": "echo \"No tests specified\" && exit 0",
+    "validate": "html-validate index.html",
+    "lighthouse": "lighthouse http://localhost:8000 --output html --output-path ./lighthouse-report.html",
+    "deploy": "echo 'Push to main branch to deploy to GitHub Pages'",
+    "add-pioneer": "echo 'Add new pioneer to js/pioneers.js'",
+    "lint": "eslint . --ext .js",
+    "lint:fix": "eslint . --ext .js --fix",
+    "check-syntax": "find . -name \"*.js\" -not -path \"./node_modules/*\" -not -path \"./.git/*\" -exec node -c {} \\;",
+    "ci": "npm run check-syntax && npm run lint && npm run validate"
+  },
+  "keywords": [
+    "women-in-stem",
+    "stem-education",
+    "role-models",
+    "girls-in-stem",
+    "educators",
+    "inspiration"
+  ],
+  "author": "Women Pioneers in STEM Project",
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "html-validate": "^8.29.0",
+    "http-server": "^14.1.1",
+    "lighthouse": "^10.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/women-pioneers-stem.git"
+  },
+  "homepage": "https://your-username.github.io/women-pioneers-stem",
+  "bugs": {
+    "url": "https://github.com/your-username/women-pioneers-stem/issues"
+  },
+  "dependencies": {
+    "canvas": "^3.1.2"
+  }
+}

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Women Pioneers in STEM | Inspire the Next Generation</title>
+  <meta name="description" content="Inspiring girls and young women to pursue STEM careers by celebrating women pioneers in science, technology, engineering, and mathematics. Includes educator resources.">
+  <meta name="keywords" content="women in STEM, girls in STEM, STEM careers, female scientists, female engineers, STEM education, role models, educators, pioneers">
+  <meta name="author" content="Women Pioneers in STEM">
+  <meta name="robots" content="index, follow">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <div class="main-content">
+    <!-- Header -->
+    <header class="header">
+      <h1 class="title">Women Pioneers in STEM</h1>
+      <p class="subtitle">Inspiring the next generation of scientists, technologists, engineers, and mathematicians</p>
+      <p class="audience-message">For girls and young women considering a future in STEM &mdash; and for the educators who support them.</p>
+    </header>
+
+    <!-- Welcome Section -->
+    <section class="welcome-section">
+      <h2>Welcome!</h2>
+      <p>
+        Are you curious about science, technology, engineering, or math? Do you wonder what it's like to change the world through discovery, invention, or innovation? This site celebrates women who have done just that&mdash;and shows you how you can follow in their footsteps!
+      </p>
+    </section>
+
+    <!-- Why STEM Section -->
+    <section class="why-stem-section">
+      <h2>Why Choose STEM?</h2>
+      <ul>
+        <li><strong>Make a Difference:</strong> STEM careers solve real-world problems and improve lives.</li>
+        <li><strong>Be Creative:</strong> Science and technology are about curiosity, creativity, and building the future.</li>
+        <li><strong>Opportunities:</strong> STEM fields offer exciting, well-paid, and meaningful jobs.</li>
+        <li><strong>Everyone Belongs:</strong> Women and girls are needed in every STEM field. Your ideas matter!</li>
+      </ul>
+    </section>
+
+    <!-- Featured Pioneers Section -->
+    <section class="featured-pioneers-section">
+      <h2>Featured Women Pioneers</h2>
+      <div class="pioneers-container" id="pioneersContainer">
+        <!-- Pioneer cards will be rendered here by JS -->
+      </div>
+      <p class="more-pioneers">Explore more inspiring stories in our full collection!</p>
+    </section>
+
+    <!-- For Educators Section -->
+    <section class="educators-section">
+      <h2>For Educators</h2>
+      <ul>
+        <li>Use these profiles as discussion starters or research projects.</li>
+        <li>Encourage students to find local or contemporary role models.</li>
+        <li>Connect STEM topics to real-world impact through these stories.</li>
+        <li>Share your own lesson ideas or resources with our community!</li>
+      </ul>
+      <p>See our <a href="CONTRIBUTING.md">contribution guide</a> to add new pioneers or teaching resources.</p>
+    </section>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-content">
+      <p><strong>Women Pioneers in STEM</strong> &mdash; Inspiring girls, young women, and educators worldwide.</p>
+      <p>Content licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>.</p>
+    </div>
+  </footer>
+
+  <!-- JavaScript: Load and render pioneers -->
+  <script src="js/pioneers.js"></script>
+  <script>
+    // Render featured pioneers (first 3 as example)
+    function renderPioneers() {
+      const container = document.getElementById('pioneersContainer');
+      if (!container || typeof pioneers === 'undefined') return;
+      container.innerHTML = '';
+      const featured = pioneers.slice(0, 3);
+      featured.forEach(p => {
+        const card = document.createElement('div');
+        card.className = 'pioneer-card';
+        card.innerHTML = `
+          <div class="pioneer-image">
+            <img src="${p.image}" alt="Portrait of ${p.name}" onerror="this.src='icons/icon-192.png'">
+          </div>
+          <div class="pioneer-info">
+            <h3 class="pioneer-name">${p.name}</h3>
+            <p class="pioneer-field"><strong>Field:</strong> ${p.field}</p>
+            <p class="pioneer-country"><strong>Country:</strong> ${p.country}</p>
+            <p class="pioneer-era"><strong>Era:</strong> ${p.era}</p>
+            <ul class="pioneer-achievements">
+              ${p.achievements.map(a => `<li>${a}</li>`).join('')}
+            </ul>
+            <p class="pioneer-bio">${p.bio}</p>
+            <div class="pioneer-links">
+              ${p.links.map(l => `<a href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`).join(' ')}
+            </div>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+    document.addEventListener('DOMContentLoaded', renderPioneers);
+  </script>
+</body>
+</html>
