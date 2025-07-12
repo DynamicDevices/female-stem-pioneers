@@ -140,17 +140,21 @@ body {
     background-blend-mode: overlay, overlay, overlay, overlay, normal, normal;
 }
 
-/* Add a subtle overlay to ensure text readability */
-.header::after {
+/* Elegant hero background with single pioneer image */
+.header::before {
     content: '';
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(30, 41, 59, 0.7);
-    pointer-events: none;
-    z-index: 1;
+    background: 
+        linear-gradient(135deg, rgba(30, 41, 59, 0.9) 0%, rgba(51, 65, 85, 0.9) 100%),
+        url('../images/ada-lovelace.jpg');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.15;
+    z-index: 0;
 }
 
 /* Ensure header content stays above the overlay */
@@ -160,17 +164,6 @@ body {
 .header .dynamic-devices-credit {
     position: relative;
     z-index: 2;
-}
-
-.header::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 3px;
-    background: linear-gradient(90deg, #60a5fa, #a78bfa, #f472b6);
-    opacity: 0.8;
 }
 
 .header h1 {
