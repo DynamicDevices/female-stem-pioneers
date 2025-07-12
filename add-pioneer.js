@@ -17,7 +17,7 @@ const path = require('path');
 const PIONEER_TEMPLATE = {
   name: "PIONEER_NAME",
   photo: "./images/pioneer-name.jpg",
-  lifespan: "YYYY–YYYY",
+  birthday: "YYYY–YYYY",
   country: "Country",
   fields: ["Field1", "Field2"],
   roles: ["Role1", "Role2"],

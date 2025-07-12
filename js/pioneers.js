@@ -5,13 +5,13 @@ const pioneers = [
   {
     name: "Ada Lovelace",
     photo: "./images/ada-lovelace.jpg",
-    lifespan: "1815–1852",
+    birthday: "1815–1852",
     country: "United Kingdom",
     fields: ["Mathematics", "Computing"],
     roles: ["Mathematician", "Writer"],
     quote: "That brain of mine is something more than merely mortal; as time will show.",
     summary: "Often regarded as the first computer programmer for her work on Babbage's Analytical Engine.",
-    shortDescription: "Ada Lovelace is often called the world’s first computer programmer. She worked with Charles Babbage on his Analytical Engine and wrote the first algorithm meant for a machine. Ada believed that computers could do more than just math—they could create music and art, too! Her creative ideas inspire people to combine technology and imagination.",
+    shortDescription: "Ada Lovelace is often called the world's first computer programmer. She worked with Charles Babbage on his Analytical Engine and wrote the first algorithm meant for a machine. Ada believed that computers could do more than just math—they could create music and art, too! Her creative ideas inspire people to combine technology and imagination.",
     detailed_description: {
       early_life: "Born in 1815 to the famous poet Lord Byron, Ada was encouraged by her mother to study mathematics and science. She showed exceptional talent from an early age and was tutored by leading scientists of the day.",
       stem_journey: "At age 17, Ada met Charles Babbage and became fascinated by his mechanical computer, the Analytical Engine. She translated an article about it and added her own notes, including the first computer program ever written.",
@@ -99,7 +99,7 @@ const pioneers = [
     roles: ["Physicist", "Chemist", "Professor"],
     quote: "One never notices what has been done; one can only see what remains to be done.",
     summary: "First woman to win a Nobel Prize and the only person to win in two different sciences.",
-    shortDescription: "Marie Curie was a brilliant scientist who discovered the elements polonium and radium. She was the first woman to win a Nobel Prize and the only person to win in two different sciences—Physics and Chemistry. Her research led to life-saving medical advances like X-rays and cancer treatments. Marie’s determination and curiosity opened doors for women in science everywhere.",
+    shortDescription: "Marie Curie was a brilliant scientist who discovered the elements polonium and radium. She was the first woman to win a Nobel Prize and the only person to win in two different sciences—Physics and Chemistry. Her research led to life-saving medical advances like X-rays and cancer treatments. Marie's determination and curiosity opened doors for women in science everywhere.",
     detailed_description: {
       early_life: "Born in Poland in 1867, Marie showed exceptional talent in school despite restrictions on Polish students. Her parents were teachers who emphasized education, and she worked as a governess to save money for university.",
       stem_journey: "Marie moved to Paris in 1891 to study at the Sorbonne, often going without food to afford her studies. She earned degrees in physics and mathematics, then began research with Pierre Curie, whom she married.",
@@ -192,7 +192,7 @@ const pioneers = [
     roles: ["Mathematician", "NASA Scientist"],
     quote: "Girls are capable of doing everything men are capable of doing.",
     summary: "Trailblazing NASA mathematician whose calculations enabled the first U.S. spaceflights.",
-    shortDescription: "Katherine Johnson was a mathematician whose calculations helped launch the first American astronauts into space. She worked at NASA when ‘computers’ were people who did math by hand, and her work was so trusted that John Glenn asked her to double-check the numbers before his historic flight. Despite facing racial and gender barriers, Katherine’s talent and perseverance made her a trailblazer for women and African Americans in STEM.",
+    shortDescription: "Katherine Johnson was a mathematician whose calculations helped launch the first American astronauts into space. She worked at NASA when 'computers' were people who did math by hand, and her work was so trusted that John Glenn asked her to double-check the numbers before his historic flight. Despite facing racial and gender barriers, Katherine's talent and perseverance made her a trailblazer for women and African Americans in STEM.",
     detailed_description: {
       early_life: "Born in 1918 in West Virginia, Katherine showed exceptional mathematical ability from childhood. She graduated high school at 14 and entered college at 15, where she excelled in mathematics.",
       stem_journey: "Katherine became a teacher after college, then joined NASA in 1953 as a 'computer' - someone who performed mathematical calculations. She quickly proved her abilities and became trusted with critical calculations.",
@@ -284,7 +284,7 @@ const pioneers = [
     roles: ["Computer Scientist", "Rear Admiral, U.S. Navy"],
     quote: "The most dangerous phrase in the language is, 'We've always done it this way.'",
     summary: "Developed the first compiler and popularized the term 'debugging' in computing.",
-    shortDescription: "Grace Hopper was a computer scientist and Navy Rear Admiral who helped invent the first computer compiler, making it possible for people to write programs in English-like languages. She loved solving problems and wasn’t afraid to challenge the status quo—she even found the first real computer ‘bug’! Grace’s work made computers easier for everyone to use, and she inspired generations of women in technology and the military.",
+    shortDescription: "Grace Hopper was a computer scientist and Navy Rear Admiral who helped invent the first computer compiler, making it possible for people to write programs in English-like languages. She loved solving problems and wasn't afraid to challenge the status quo—she even found the first real computer 'bug'! Grace's work made computers easier for everyone to use, and she inspired generations of women in technology and the military.",
     detailed_description: {
       early_life: "Born in 1906 in New York City, Grace showed curiosity about how things worked from an early age. Her parents believed in equal education for boys and girls, which was unusual for the time.",
       stem_journey: "Grace earned degrees in mathematics and physics from Vassar College, then a Ph.D. from Yale. During World War II, she joined the Navy and was assigned to work on the Harvard Mark I computer.",
@@ -375,7 +375,7 @@ const pioneers = [
     roles: ["Chemist", "X-ray Crystallographer"],
     quote: "Science and everyday life cannot and should not be separated.",
     summary: "Her X-ray diffraction work was key to understanding the structure of DNA.",
-    shortDescription: "Rosalind Franklin was a chemist whose X-ray photographs revealed the structure of DNA, the molecule that carries our genetic code. Her famous ‘Photo 51’ was key to understanding how DNA works. Even though she faced challenges and wasn’t fully recognized during her lifetime, Rosalind’s careful research changed science forever and paved the way for discoveries in genetics and medicine.",
+    shortDescription: "Rosalind Franklin was a chemist whose X-ray photographs revealed the structure of DNA, the molecule that carries our genetic code. Her famous 'Photo 51' was key to understanding how DNA works. Even though she faced challenges and wasn't fully recognized during her lifetime, Rosalind's careful research changed science forever and paved the way for discoveries in genetics and medicine.",
     detailed_description: {
       early_life: "Born in 1920 in London to a wealthy Jewish family, Rosalind showed exceptional academic ability from an early age. Her family encouraged her education, and she attended St. Paul's Girls' School.",
       stem_journey: "Rosalind earned a degree in chemistry from Cambridge University, then a Ph.D. in physical chemistry. She worked on coal structures before moving to Paris to study X-ray crystallography.",
@@ -463,7 +463,7 @@ const pioneers = [
     roles: ["Experimental Physicist", "Professor"],
     quote: "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
     summary: "Conducted the Wu experiment, disproving the law of conservation of parity in physics.",
-    shortDescription: "Chien-Shiung Wu was a groundbreaking physicist who made discoveries that changed how we understand the universe. She led the famous ‘Wu experiment,’ which showed that nature isn’t always symmetrical—a huge surprise in physics! As a Chinese-American woman, she broke barriers in science and inspired many to follow in her footsteps.",
+    shortDescription: "Chien-Shiung Wu was a groundbreaking physicist who made discoveries that changed how we understand the universe. She led the famous 'Wu experiment,' which showed that nature isn't always symmetrical—a huge surprise in physics! As a Chinese-American woman, she broke barriers in science and inspired many to follow in her footsteps.",
     detailed_description: {
       early_life: "Born in 1912 near Shanghai, China, Chien-Shiung showed exceptional academic ability from an early age. Her father was a school principal who believed strongly in education for girls.",
       stem_journey: "Chien-Shiung earned a degree in physics in China, then moved to the United States in 1936 to pursue graduate studies at UC Berkeley. She earned her Ph.D. and began her research career.",
@@ -555,7 +555,7 @@ const pioneers = [
     roles: ["Mathematician", "Computer Programmer", "NASA Supervisor"],
     quote: "I changed what I could, and what I couldn't, I endured.",
     summary: "Trailblazing African-American mathematician and NASA's first Black supervisor, vital to early spaceflight.",
-    shortDescription: "Dorothy Vaughan was a brilliant mathematician and one of NASA’s first Black supervisors. She taught herself computer programming and led a team of women who calculated flight paths for early space missions. Dorothy’s leadership and determination helped break down racial and gender barriers, and her story was featured in the movie ‘Hidden Figures.’",
+    shortDescription: "Dorothy Vaughan was a brilliant mathematician and one of NASA's first Black supervisors. She taught herself computer programming and led a team of women who calculated flight paths for early space missions. Dorothy's leadership and determination helped break down racial and gender barriers, and her story was featured in the movie 'Hidden Figures.'",
     detailed_description: {
       early_life: "Born in Missouri, excelled in mathematics and graduated college at 19.",
       stem_journey: "Joined NACA (later NASA) in 1943, became expert in FORTRAN and led the West Area Computers.",
@@ -635,7 +635,7 @@ const pioneers = [
     country: "United States",
     fields: ["Astronautics", "Medicine", "Engineering"],
     roles: ["Astronaut", "Physician", "Engineer"],
-    quote: "Never be limited by other people’s limited imaginations.",
+    quote: "Never be limited by other people's limited imaginations.",
     summary: "First Black woman in space, physician, engineer, and STEM advocate.",
     shortDescription: "Mae Jemison is a doctor, engineer, and the first Black woman to travel to space. She flew aboard the Space Shuttle Endeavour and later founded a company to inspire students in science and technology. Mae believes that everyone should dream big and that curiosity can take you anywhere—even to the stars!",
     detailed_description: {
@@ -719,7 +719,7 @@ const pioneers = [
     roles: ["Computer Scientist", "Engineer"],
     quote: "The world would be a better place if more people could see the beauty in logic.",
     summary: "Inventor of spanning tree protocol, known as the 'Mother of the Internet'.",
-    shortDescription: "Radia Perlman is known as the ‘Mother of the Internet’ for inventing the spanning tree protocol, which makes modern computer networks possible. She loved solving puzzles and turned her passion for logic into technology that connects the world. Radia’s work shows that creativity and persistence can change how we all communicate.",
+    shortDescription: "Radia Perlman is known as the 'Mother of the Internet' for inventing the spanning tree protocol, which makes modern computer networks possible. She loved solving puzzles and turned her passion for logic into technology that connects the world. Radia's work shows that creativity and persistence can change how we all communicate.",
     detailed_description: {
       early_life: "Grew up loving math and logic puzzles, inspired by her engineer parents.",
       stem_journey: "Studied math at MIT, became a leader in computer networking.",
@@ -802,7 +802,7 @@ const pioneers = [
     roles: ["Pharmacologist", "Chemist"],
     quote: "Every scientist dreams of doing something that can help the world.",
     summary: "Discovered artemisinin, saving millions from malaria; first Chinese woman Nobel laureate.",
-    shortDescription: "Tu Youyou is a Chinese scientist who discovered a life-saving medicine for malaria, a disease that affects millions. She combined traditional Chinese medicine with modern science to find a cure, saving countless lives. Tu Youyou’s discovery earned her a Nobel Prize and showed the world the value of blending old and new ideas.",
+    shortDescription: "Tu Youyou is a Chinese scientist who discovered a life-saving medicine for malaria, a disease that affects millions. She combined traditional Chinese medicine with modern science to find a cure, saving countless lives. Tu Youyou's discovery earned her a Nobel Prize and showed the world the value of blending old and new ideas.",
     detailed_description: {
       early_life: "Born in Ningbo, China, inspired by traditional medicine.",
       stem_journey: "Studied pharmacology, led malaria research in 1970s.",
@@ -884,7 +884,7 @@ const pioneers = [
     roles: ["Mathematician", "Professor"],
     quote: "The beauty of mathematics only shows itself to more patient followers.",
     summary: "First woman and first Iranian to win the Fields Medal in mathematics.",
-    shortDescription: "Maryam Mirzakhani was a brilliant mathematician and the first woman to win the Fields Medal, the highest honor in math. She loved solving challenging problems and exploring the beauty of mathematics. Maryam’s achievements inspired girls and women everywhere to pursue their passion for math and science.",
+    shortDescription: "Maryam Mirzakhani was a brilliant mathematician and the first woman to win the Fields Medal, the highest honor in math. She loved solving challenging problems and exploring the beauty of mathematics. Maryam's achievements inspired girls and women everywhere to pursue their passion for math and science.",
     detailed_description: {
       early_life: "Born in Tehran, loved reading and solving math problems.",
       stem_journey: "Won gold at International Math Olympiad, became a math professor at Stanford.",
@@ -1424,20 +1424,20 @@ const pioneers = [
       how_overcame: "Focused on her work and challenged gender stereotypes"
     },
     education_details: {
-      high_school: "Excelled in mathematics"],
+      high_school: "Excelled in mathematics",
       college_major: "Mathematics",
       graduate_school: "Ph.D. in Mathematics",
       key_courses: ["Mathematics", "Computer Science", "Programming"],
       study_tips: "Learn by doing and don't be afraid to experiment"
     },
     modern_impact: {
-      current_applications: "Computer programming, software development, artificial intelligence"],
+      current_applications: "Computer programming, software development, artificial intelligence",
       companies_using_her_work: ["All major technology companies", "Software companies"],
       future_implications: "Continued development of programming languages and software"
     },
     personal_info: {
       early_interests: ["Mathematics", "Mechanical devices", "Problem-solving"],
-      family_background: "Supportive family encouraging education"],
+      family_background: "Supportive family encouraging education",
       hobbies: ["Taking things apart", "Teaching", "Military service"],
       personality_traits: ["Innovative", "Determined", "Mentoring"]
     },
@@ -1508,7 +1508,7 @@ const pioneers = [
       how_overcame: "Focused on her work and demonstrated exceptional mathematical ability"
     },
     education_details: {
-      high_school: "Graduated at age 14"],
+      high_school: "Graduated at age 14",
       college_major: "Mathematics",
       key_courses: ["Mathematics", "Physics", "Calculus"],
       study_tips: "Practice regularly and don't be afraid to make mistakes"
@@ -1558,7 +1558,7 @@ const pioneers = [
     publications: [],
     education: [
       { degree: "M.D.", field: "Medicine", institution: "Cornell University" },
-      { degree: "Bachelor's", field: "Chemical Engineering", institution: "Stanford University" }
+      { degree: "B.S.", field: "Chemical Engineering", institution: "Stanford University" }
     ],
     timeline: [
       { year: 1992, event: "Became first African American woman in space" },
@@ -1696,6 +1696,567 @@ const pioneers = [
       cultural_influences: ["MIT culture"],
       cultural_challenges: ["Gender imbalance in tech"],
       cultural_contributions: "Pioneered diversity in networking"
+    }
+  },
+  {
+    name: "Ellen Ochoa",
+    photo: "./images/ellen-ochoa.jpg",
+    lifespan: "1958–",
+    country: "United States",
+    fields: ["Engineering", "Astronautics"],
+    roles: ["Astronaut", "Engineer", "Director"],
+    quote: "Don't be afraid to reach for the stars!",
+    summary: "First Hispanic woman in space and former Director of Johnson Space Center.",
+    shortDescription: "Ellen Ochoa is an engineer, astronaut, and the first Hispanic woman to go to space. She later became the Director of NASA's Johnson Space Center, inspiring countless young people to pursue STEM careers.",
+    detailed_description: {
+      early_life: "Born in Los Angeles, California, Ellen excelled in math and science from a young age.",
+      stem_journey: "Earned a Ph.D. in electrical engineering, became a research engineer, and was selected as a NASA astronaut in 1990.",
+      challenges: "Faced gender and ethnic barriers in engineering and space exploration.",
+      achievements: "Flew on four space missions, logged nearly 1,000 hours in space, and became the first Hispanic director of Johnson Space Center.",
+      legacy: "Paved the way for Hispanic women in STEM and space exploration."
+    },
+    achievements: [
+      "First Hispanic woman in space",
+      "Director of Johnson Space Center",
+      "Flew on four space missions"
+    ],
+    awards: ["NASA Distinguished Service Medal", "Congressional Hispanic Caucus Medallion of Excellence"],
+    publications: [],
+    education: [
+      { degree: "Ph.D.", field: "Electrical Engineering", institution: "Stanford University" }
+    ],
+    timeline: [
+      { year: 1993, event: "First spaceflight on STS-56" },
+      { year: 2013, event: "Became Director of Johnson Space Center" }
+    ],
+    barriers: ["Gender and ethnic barriers in STEM"],
+    impact: "Inspired Hispanic and female students to pursue STEM careers.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ellen_Ochoa" }
+    ],
+    mentorship: "Mentors young women and minorities in STEM.",
+    fun_fact: "Plays the flute and brought it to space!",
+    career_path: {
+      first_job: "Research engineer",
+      career_highlights: ["NASA astronaut", "Director of Johnson Space Center"],
+      advice_for_students: "Don't let anyone tell you what you can't do."
+    },
+    student_resources: {
+      books_for_students: ["The Astronaut With a Song for the Stars"],
+      websites: ["nasa.gov", "latinasinstem.com"],
+      programs: ["Space camps", "STEM outreach for minorities"],
+      advice: "Reach for the stars and work hard for your dreams."
+    },
+    challenges: {
+      academic: ["Few Hispanic women in engineering"],
+      professional: ["Breaking barriers at NASA"],
+      personal: ["Balancing family and career"],
+      how_overcame: "Persevered and sought mentors."
+    },
+    education_details: {
+      high_school: "Excelled in math and science",
+      college_major: "Physics",
+      graduate_school: "Ph.D. in Electrical Engineering",
+      key_courses: ["Physics", "Engineering", "Mathematics"],
+      study_tips: "Practice problem-solving and seek help when needed."
+    },
+    modern_impact: {
+      current_applications: "Space technology, STEM leadership",
+      companies_using_her_work: ["NASA", "Aerospace companies"],
+      future_implications: "More diversity in space exploration."
+    },
+    personal_info: {
+      early_interests: ["Math", "Science", "Music"],
+      family_background: "Mexican-American heritage",
+      hobbies: ["Playing flute", "Reading"],
+      personality_traits: ["Determined", "Inspiring"]
+    },
+    cultural_background: {
+      heritage: "Mexican-American",
+      cultural_influences: ["Latina heritage", "American STEM culture"],
+      cultural_challenges: ["Underrepresentation in STEM"],
+      cultural_contributions: "Role model for Latinas in science."
+    }
+  },
+  {
+    name: "Yvonne Brill",
+    photo: "./images/yvonne-brill.jpg",
+    lifespan: "1924–2013",
+    country: "Canada/United States",
+    fields: ["Engineering", "Rocket Science"],
+    roles: ["Rocket Scientist", "Engineer"],
+    quote: "If you have a good idea, pursue it.",
+    summary: "Invented the hydrazine resistojet, a breakthrough in rocket propulsion.",
+    shortDescription: "Yvonne Brill was a rocket scientist who invented a revolutionary propulsion system for satellites. Her work keeps satellites in orbit today.",
+    detailed_description: {
+      early_life: "Born in Canada, Yvonne was fascinated by science and math.",
+      stem_journey: "Studied engineering, became one of the few women in rocket science in the 1950s.",
+      challenges: "Faced gender discrimination in engineering.",
+      achievements: "Invented the hydrazine resistojet, worked on major satellite projects.",
+      legacy: "Her invention is still used in satellites today."
+    },
+    achievements: [
+      "Invented hydrazine resistojet",
+      "Worked on major satellite projects"
+    ],
+    awards: ["National Medal of Technology and Innovation"],
+    publications: [],
+    education: [
+      { degree: "Bachelor's", field: "Engineering", institution: "University of Manitoba" }
+    ],
+    timeline: [
+      { year: 1960, event: "Invented hydrazine resistojet" }
+    ],
+    barriers: ["Gender discrimination in engineering"],
+    impact: "Enabled long-term satellite operation.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Yvonne_Brill" }
+    ],
+    mentorship: "Mentored young engineers, especially women.",
+    fun_fact: "Her son is a Nobel Prize-winning physicist.",
+    career_path: {
+      first_job: "Engineer",
+      career_highlights: ["Inventor of resistojet", "Satellite propulsion expert"],
+      advice_for_students: "Don't be afraid to be the only woman in the room."
+    },
+    student_resources: {
+      books_for_students: ["Women in Space: 23 Stories of First Flights"],
+      websites: ["nasa.gov", "engineergirl.org"],
+      programs: ["Engineering camps", "Rocketry clubs"],
+      advice: "Pursue your ideas and don't give up."
+    },
+    challenges: {
+      academic: ["Few women in engineering"],
+      professional: ["Gender bias in aerospace"],
+      personal: ["Balancing work and family"],
+      how_overcame: "Focused on her work and built a reputation for excellence."
+    },
+    education_details: {
+      high_school: "Excelled in science",
+      college_major: "Engineering",
+      key_courses: ["Physics", "Engineering", "Mathematics"],
+      study_tips: "Work hard and seek mentors."
+    },
+    modern_impact: {
+      current_applications: "Satellite propulsion",
+      companies_using_her_work: ["NASA", "Satellite companies"],
+      future_implications: "Continued innovation in space technology."
+    },
+    personal_info: {
+      early_interests: ["Science", "Math"],
+      family_background: "Canadian immigrant family",
+      hobbies: ["Reading", "Mentoring"],
+      personality_traits: ["Inventive", "Persistent"]
+    },
+    cultural_background: {
+      heritage: "Canadian-American",
+      cultural_influences: ["North American engineering culture"],
+      cultural_challenges: ["Gender roles in the 1950s"],
+      cultural_contributions: "Paved the way for women in aerospace."
+    }
+  },
+  {
+    name: "Wang Zhenyi",
+    photo: "./images/wang-zhenyi.jpg",
+    lifespan: "1768–1797",
+    country: "China",
+    fields: ["Astronomy", "Mathematics"],
+    roles: ["Astronomer", "Mathematician", "Poet"],
+    quote: "It is difficult to be a woman and to be learned.",
+    summary: "18th-century Chinese astronomer and mathematician who broke gender barriers.",
+    shortDescription: "Wang Zhenyi was a pioneering Chinese astronomer and mathematician who explained eclipses and wrote books to make science accessible.",
+    detailed_description: {
+      early_life: "Born in Qing Dynasty China, Wang was educated by her grandfather and father.",
+      stem_journey: "Studied astronomy, mathematics, and medicine, and published scientific works.",
+      challenges: "Faced strict gender roles in 18th-century China.",
+      achievements: "Explained lunar eclipses, simplified math texts, and promoted science for all.",
+      legacy: "Inspired future generations of Chinese women in science."
+    },
+    achievements: [
+      "Explained lunar eclipses",
+      "Simplified math texts",
+      "Promoted science education"
+    ],
+    awards: [],
+    publications: [
+      { title: "Dispute of the Procession of the Equinoxes", url: "https://en.wikipedia.org/wiki/Wang_Zhenyi" }
+    ],
+    education: [
+      { degree: "Self-taught", field: "Astronomy, Mathematics", institution: "Family education" }
+    ],
+    timeline: [
+      { year: 1790, event: "Published works on astronomy and math" }
+    ],
+    barriers: ["Strict gender roles in Qing Dynasty China"],
+    impact: "Made science accessible in 18th-century China.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Wang_Zhenyi" }
+    ],
+    mentorship: "Inspired women in science through her writings.",
+    fun_fact: "Also wrote poetry and medicine texts.",
+    career_path: {
+      first_job: "Science writer",
+      career_highlights: ["Published scientific books", "Explained eclipses"],
+      advice_for_students: "Never stop learning, even if society says you shouldn't."
+    },
+    student_resources: {
+      books_for_students: ["Women in Science: 50 Fearless Pioneers"],
+      websites: ["womenofchina.cn"],
+      programs: ["Astronomy clubs", "Math circles"],
+      advice: "Ask questions and seek knowledge everywhere."
+    },
+    challenges: {
+      academic: ["No formal schooling for girls"],
+      professional: ["Lack of recognition for women scientists"],
+      personal: ["Balancing family and scholarship"],
+      how_overcame: "Used family resources and self-study."
+    },
+    education_details: {
+      high_school: "Educated at home",
+      college_major: "Self-taught",
+      key_courses: ["Astronomy", "Mathematics", "Literature"],
+      study_tips: "Read widely and experiment."
+    },
+    modern_impact: {
+      current_applications: "Science education in China",
+      companies_using_her_work: ["Chinese science academies"],
+      future_implications: "More women in Chinese STEM fields."
+    },
+    personal_info: {
+      early_interests: ["Astronomy", "Math", "Poetry"],
+      family_background: "Scholarly family",
+      hobbies: ["Writing", "Observing the sky"],
+      personality_traits: ["Curious", "Resilient"]
+    },
+    cultural_background: {
+      heritage: "Chinese",
+      cultural_influences: ["Qing Dynasty scholarship"],
+      cultural_challenges: ["Patriarchal society"],
+      cultural_contributions: "Made science accessible to all."
+    }
+  },
+  {
+    name: "Janaki Ammal",
+    photo: "./images/janaki-ammal.jpg",
+    lifespan: "1897–1984",
+    country: "India",
+    fields: ["Botany", "Cytogenetics"],
+    roles: ["Botanist", "Cytogeneticist"],
+    quote: "Science is a universal language.",
+    summary: "Indian botanist who made major contributions to plant genetics and biodiversity.",
+    shortDescription: "Janaki Ammal was a pioneering Indian botanist who developed new plant varieties and worked to preserve India's biodiversity.",
+    detailed_description: {
+      early_life: "Born in Kerala, India, Janaki was passionate about plants from a young age.",
+      stem_journey: "Earned a doctorate in botany, worked in India and the UK, and developed new sugarcane varieties.",
+      challenges: "Faced gender and caste barriers in science.",
+      achievements: "Developed hybrid sugarcane, worked on biodiversity conservation.",
+      legacy: "Her work is foundational for Indian agriculture and conservation."
+    },
+    achievements: [
+      "Developed hybrid sugarcane",
+      "Worked on biodiversity conservation"
+    ],
+    awards: ["Padma Shri (India's fourth highest civilian award)"],
+    publications: [],
+    education: [
+      { degree: "Ph.D.", field: "Botany", institution: "University of Michigan" }
+    ],
+    timeline: [
+      { year: 1931, event: "Earned Ph.D. in Botany" }
+    ],
+    barriers: ["Gender and caste discrimination"],
+    impact: "Improved Indian agriculture and conservation.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Janaki_Ammal" }
+    ],
+    mentorship: "Mentored young botanists in India.",
+    fun_fact: "A flower, Magnolia kobus janakiammal, is named after her.",
+    career_path: {
+      first_job: "Botanist",
+      career_highlights: ["Developed new plant varieties", "Worked at Royal Horticultural Society"],
+      advice_for_students: "Be curious and persistent."
+    },
+    student_resources: {
+      books_for_students: ["Women in Science: 50 Fearless Pioneers"],
+      websites: ["biodiversity.org"],
+      programs: ["Botany clubs", "Science fairs"],
+      advice: "Explore the natural world and ask questions."
+    },
+    challenges: {
+      academic: ["Few women in science in early 20th-century India"],
+      professional: ["Caste and gender bias"],
+      personal: ["Working abroad as an Indian woman"],
+      how_overcame: "Focused on research and built international collaborations."
+    },
+    education_details: {
+      high_school: "Excelled in science",
+      college_major: "Botany",
+      graduate_school: "Ph.D. in Botany",
+      key_courses: ["Botany", "Genetics", "Ecology"],
+      study_tips: "Observe nature closely and keep a journal."
+    },
+    modern_impact: {
+      current_applications: "Plant genetics, biodiversity conservation",
+      companies_using_her_work: ["Agricultural research centers"],
+      future_implications: "Sustainable agriculture and conservation."
+    },
+    personal_info: {
+      early_interests: ["Plants", "Nature"],
+      family_background: "Educated family in Kerala",
+      hobbies: ["Gardening", "Traveling"],
+      personality_traits: ["Curious", "Persistent"]
+    },
+    cultural_background: {
+      heritage: "Indian",
+      cultural_influences: ["Kerala's biodiversity"],
+      cultural_challenges: ["Caste system", "Gender roles"],
+      cultural_contributions: "Advanced plant science in India."
+    }
+  },
+  {
+    name: "Mary Golda Ross",
+    photo: "./images/mary-golda-ross.jpg",
+    lifespan: "1908–2008",
+    country: "United States (Cherokee Nation)",
+    fields: ["Engineering", "Mathematics", "Aerospace"],
+    roles: ["Engineer", "Mathematician"],
+    quote: "To function efficiently, any group of people must have faith in their leader.",
+    summary: "First known Native American female engineer, worked on space and missile projects.",
+    shortDescription: "Mary Golda Ross was a Cherokee engineer who helped design spacecraft and missiles for NASA and Lockheed.",
+    detailed_description: {
+      early_life: "Born in Oklahoma, Mary was proud of her Cherokee heritage and excelled in math.",
+      stem_journey: "Became a math teacher, then an engineer at Lockheed, working on top-secret aerospace projects.",
+      challenges: "Faced gender and racial barriers in engineering.",
+      achievements: "Worked on Apollo and interplanetary missions, helped write NASA's Planetary Flight Handbook.",
+      legacy: "Paved the way for Native Americans and women in engineering."
+    },
+    achievements: [
+      "First Native American female engineer",
+      "Worked on Apollo and interplanetary missions"
+    ],
+    awards: ["Society of Women Engineers Achievement Award"],
+    publications: [],
+    education: [
+      { degree: "Master's", field: "Mathematics", institution: "Colorado State Teachers College" }
+    ],
+    timeline: [
+      { year: 1942, event: "Joined Lockheed as engineer" }
+    ],
+    barriers: ["Gender and racial discrimination"],
+    impact: "Inspired Native Americans and women to pursue engineering.",
+    media: [],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mary_Golda_Ross" }
+    ],
+    mentorship: "Mentored Native American students in STEM.",
+    fun_fact: "Helped write NASA's Planetary Flight Handbook.",
+    career_path: {
+      first_job: "Math teacher",
+      career_highlights: ["Lockheed engineer", "Spacecraft designer"],
+      advice_for_students: "Be proud of your heritage and pursue your dreams."
+    },
+    student_resources: {
+      books_for_students: ["Classified: The Secret Career of Mary Golda Ross"],
+      websites: ["swe.org", "nasa.gov"],
+      programs: ["Engineering camps", "Native American STEM programs"],
+      advice: "Seek mentors and support networks."
+    },
+    challenges: {
+      academic: ["Few Native American women in engineering"],
+      professional: ["Gender and racial bias"],
+      personal: ["Working in secret programs"],
+      how_overcame: "Excelled in her work and built strong professional relationships."
+    },
+    education_details: {
+      high_school: "Excelled in math",
+      college_major: "Mathematics",
+      graduate_school: "Master's in Mathematics",
+      key_courses: ["Mathematics", "Engineering", "Physics"],
+      study_tips: "Work hard and ask questions."
+    },
+    modern_impact: {
+      current_applications: "Aerospace engineering, space exploration",
+      companies_using_her_work: ["NASA", "Lockheed Martin"],
+      future_implications: "More Native Americans in STEM."
+    },
+    personal_info: {
+      early_interests: ["Math", "Engineering"],
+      family_background: "Cherokee Nation",
+      hobbies: ["Reading", "Mentoring"],
+      personality_traits: ["Proud", "Determined"]
+    },
+    cultural_background: {
+      heritage: "Cherokee",
+      cultural_influences: ["Cherokee values", "STEM education"],
+      cultural_challenges: ["Underrepresentation in engineering"],
+      cultural_contributions: "Role model for Native Americans in STEM."
+    }
+  },
+  {
+    name: "Tu Youyou",
+    photo: "./images/tu-youyou.jpg",
+    lifespan: "1930–",
+    country: "China",
+    fields: ["Chemistry", "Medicine"],
+    roles: ["Pharmacologist", "Chemist"],
+    quote: "Every scientist dreams of doing something that can help the world.",
+    summary: "Discovered artemisinin, saving millions from malaria; first Chinese woman Nobel laureate.",
+    shortDescription: "Tu Youyou is a Chinese scientist who discovered a life-saving medicine for malaria, a disease that affects millions. She combined traditional Chinese medicine with modern science to find a cure, saving countless lives. Tu Youyou's discovery earned her a Nobel Prize and showed the world the value of blending old and new ideas.",
+    detailed_description: {
+      early_life: "Born in Ningbo, China, inspired by traditional medicine.",
+      stem_journey: "Studied pharmacology, led malaria research in 1970s.",
+      challenges: "Worked during Cultural Revolution, limited resources.",
+      achievements: "Discovered artemisinin, revolutionized malaria treatment.",
+      legacy: "Her discovery has saved millions of lives."
+    },
+    achievements: [
+      "Discovered artemisinin for malaria treatment",
+      "First Chinese woman Nobel laureate",
+      "Pioneered modern use of traditional medicine"
+    ],
+    awards: ["Nobel Prize in Physiology or Medicine (2015)"],
+    publications: [],
+    education: [
+      { degree: "Pharmacology", field: "Pharmacology", institution: "Peking University" }
+    ],
+    timeline: [
+      { year: 1972, event: "Discovered artemisinin" },
+      { year: 2015, event: "Won Nobel Prize" }
+    ],
+    barriers: ["Limited resources, political turmoil"],
+    impact: "Saved millions from malaria worldwide.",
+    media: [
+      { type: "article", title: "Tu Youyou: Nobel Laureate", url: "https://www.nobelprize.org/prizes/medicine/2015/tu/facts/" }
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Tu_Youyou" }
+    ],
+    mentorship: "Inspired young scientists in China.",
+    fun_fact: "Her Nobel-winning work was inspired by ancient Chinese texts.",
+    career_path: {
+      first_job: "Pharmacologist",
+      career_highlights: ["Nobel Prize winner"],
+      advice_for_students: "Be persistent and open to new ideas."
+    },
+    student_resources: {
+      books_for_students: ["Tu Youyou's Discovery"],
+      websites: ["nobelprize.org"],
+      programs: ["Science Olympiad"],
+      advice: "Learn from both tradition and innovation."
+    },
+    challenges: {
+      academic: ["Limited access to Western science"],
+      professional: ["Political challenges"],
+      personal: ["Balancing research and family"],
+      how_overcame: "Combined traditional knowledge with modern science."
+    },
+    education_details: {
+      high_school: "Excelled in science",
+      college_major: "Pharmacology",
+      key_courses: ["Chemistry", "Biology"],
+      study_tips: "Be curious and persistent."
+    },
+    modern_impact: {
+      current_applications: "Malaria treatment worldwide",
+      companies_using_her_work: ["WHO", "Pharma companies"],
+      future_implications: "New medicines from traditional sources."
+    },
+    personal_info: {
+      early_interests: ["Medicine", "Chemistry"],
+      family_background: "Traditional Chinese medicine",
+      hobbies: ["Reading", "Research"],
+      personality_traits: ["Persistent", "Innovative"]
+    },
+    cultural_background: {
+      heritage: "Chinese",
+      cultural_influences: ["Traditional medicine"],
+      cultural_challenges: ["Cultural Revolution"],
+      cultural_contributions: "Bridged traditional and modern science."
+    }
+  },
+  {
+    name: "Maryam Mirzakhani",
+    photo: "./images/maryam-mirzakhani.jpg",
+    lifespan: "1977–2017",
+    country: "Iran",
+    fields: ["Mathematics"],
+    roles: ["Mathematician", "Professor"],
+    quote: "The beauty of mathematics only shows itself to more patient followers.",
+    summary: "First woman and first Iranian to win the Fields Medal in mathematics.",
+    shortDescription: "Maryam Mirzakhani was a brilliant mathematician and the first woman to win the Fields Medal, the highest honor in math. She loved solving challenging problems and exploring the beauty of mathematics. Maryam's achievements inspired girls and women everywhere to pursue their passion for math and science.",
+    detailed_description: {
+      early_life: "Born in Tehran, loved reading and solving math problems.",
+      stem_journey: "Won gold at International Math Olympiad, became a math professor at Stanford.",
+      challenges: "Few women in advanced mathematics.",
+      achievements: "Fields Medal for work on geometry and dynamics.",
+      legacy: "Inspired women and Iranians in mathematics."
+    },
+    achievements: [
+      "First woman to win the Fields Medal",
+      "Gold medalist at International Math Olympiad",
+      "Professor at Stanford University"
+    ],
+    awards: ["Fields Medal (2014)"],
+    publications: [],
+    education: [
+      { degree: "Ph.D.", field: "Mathematics", institution: "Harvard University" }
+    ],
+    timeline: [
+      { year: 2014, event: "Won Fields Medal" }
+    ],
+    barriers: ["Gender imbalance in mathematics"],
+    impact: "Role model for women and Middle Eastern mathematicians.",
+    media: [
+      { type: "article", title: "Maryam Mirzakhani: Fields Medalist", url: "https://www.quantamagazine.org/maryam-mirzakhani-iranian-mathematician-dies-20170715/" }
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Maryam_Mirzakhani" }
+    ],
+    mentorship: "Inspired young mathematicians worldwide.",
+    fun_fact: "Loved reading novels as a child.",
+    career_path: {
+      first_job: "Math researcher",
+      career_highlights: ["Fields Medal winner"],
+      advice_for_students: "Be patient and persistent."
+    },
+    student_resources: {
+      books_for_students: ["Maryam's Magic: The Story of Mathematician Maryam Mirzakhani"],
+      websites: ["mathunion.org"],
+      programs: ["Math Olympiad"],
+      advice: "Enjoy the process of discovery."
+    },
+    challenges: {
+      academic: ["Few women in math"],
+      professional: ["Bias in academia"],
+      personal: ["Balancing research and family"],
+      how_overcame: "Focused on her love of math."
+    },
+    education_details: {
+      high_school: "Won national math competitions",
+      college_major: "Mathematics",
+      key_courses: ["Geometry", "Dynamics"],
+      study_tips: "Practice and seek mentors."
+    },
+    modern_impact: {
+      current_applications: "Geometry, dynamics, and math research",
+      companies_using_her_work: ["Universities", "Research institutes"],
+      future_implications: "More women in advanced mathematics."
+    },
+    personal_info: {
+      early_interests: ["Math", "Reading"],
+      family_background: "Supportive family",
+      hobbies: ["Reading novels", "Math puzzles"],
+      personality_traits: ["Patient", "Creative"]
+    },
+    cultural_background: {
+      heritage: "Iranian",
+      cultural_influences: ["Persian culture"],
+      cultural_challenges: ["Gender imbalance"],
+      cultural_contributions: "First Iranian and first woman Fields Medalist."
     }
   }
 ];
