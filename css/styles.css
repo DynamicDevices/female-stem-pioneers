@@ -1905,6 +1905,13 @@ body.light-theme .mobile-menu-toggle span {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    opacity: 0;
+    transition: opacity 0.3s;
+    position: relative;
+    z-index: 2;
+}
+.pioneer-image img.loaded {
+    opacity: 1;
 }
 
 .pioneer-header-info {
