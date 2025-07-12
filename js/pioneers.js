@@ -74,6 +74,12 @@ const pioneers = [
       family_background: "Daughter of famous poet Lord Byron",
       hobbies: ["Writing poetry", "Studying mathematics", "Scientific correspondence"],
       personality_traits: ["Analytical", "Creative", "Determined", "Visionary"]
+    },
+    cultural_background: {
+      heritage: "British aristocracy and intellectual elite",
+      cultural_influences: ["Victorian era scientific circles", "Romantic poetry movement", "British mathematical tradition"],
+      cultural_challenges: ["Victorian gender roles", "Aristocratic expectations vs. scientific pursuits"],
+      cultural_contributions: "Bridged romantic poetry and mathematical logic, showing how creativity and logic can coexist"
     }
   },
   {
@@ -153,6 +159,12 @@ const pioneers = [
       family_background: "First in family to pursue higher education",
       hobbies: ["Reading scientific literature", "Laboratory work", "Teaching"],
       personality_traits: ["Dedicated", "Curious", "Persistent", "Innovative"]
+    },
+    cultural_background: {
+      heritage: "Polish Jewish and French intellectual traditions",
+      cultural_influences: ["Polish resistance to Russian occupation", "French scientific community", "Jewish intellectual tradition"],
+      cultural_challenges: ["Anti-Semitism in Europe", "Polish nationalism vs. French assimilation", "Gender barriers in both cultures"],
+      cultural_contributions: "Brought Polish determination and French scientific rigor to her work, transcending national boundaries"
     }
   },
   {
@@ -231,6 +243,12 @@ const pioneers = [
       family_background: "Fourth of five children, parents emphasized education",
       hobbies: ["Reading", "Mathematics puzzles", "Teaching"],
       personality_traits: ["Precise", "Determined", "Humble", "Brilliant"]
+    },
+    cultural_background: {
+      heritage: "African American community in segregated West Virginia",
+      cultural_influences: ["Black church community", "Historically Black Colleges", "Civil Rights Movement"],
+      cultural_challenges: ["Jim Crow segregation", "Limited educational opportunities", "Racial discrimination in STEM"],
+      cultural_contributions: "Pioneered African American representation in space science and inspired generations of Black women in STEM"
     }
   },
   {
@@ -308,6 +326,12 @@ const pioneers = [
       family_background: "Encouraged to pursue education and independence",
       hobbies: ["Sailing", "Teaching", "Military history"],
       personality_traits: ["Innovative", "Determined", "Practical", "Leadership-oriented"]
+    },
+    cultural_background: {
+      heritage: "American Protestant and military traditions",
+      cultural_influences: ["American individualism", "Military discipline and service", "Yale University academic culture"],
+      cultural_challenges: ["Gender barriers in military", "Academic elitism", "Traditional gender roles in 1940s America"],
+      cultural_contributions: "Broke barriers for women in both military and technology, showing American innovation and determination"
     }
   },
   {
@@ -382,6 +406,12 @@ const pioneers = [
       family_background: "Well-educated family that supported her scientific interests",
       hobbies: ["Hiking", "Traveling", "Reading scientific literature"],
       personality_traits: ["Precise", "Independent", "Thorough", "Dedicated"]
+    },
+    cultural_background: {
+      heritage: "British Jewish intellectual and scientific community",
+      cultural_influences: ["British scientific tradition", "Jewish intellectual heritage", "Cambridge University culture"],
+      cultural_challenges: ["Anti-Semitism in British society", "Gender barriers in British academia", "Class distinctions in British science"],
+      cultural_contributions: "Brought Jewish intellectual rigor and British scientific precision to her groundbreaking research"
     }
   },
   {
@@ -459,6 +489,12 @@ const pioneers = [
       family_background: "Encouraged by parents to pursue education despite gender barriers",
       hobbies: ["Reading scientific literature", "Teaching", "Traveling"],
       personality_traits: ["Precise", "Determined", "Innovative", "Mentoring"]
+    },
+    cultural_background: {
+      heritage: "Chinese intellectual and American immigrant traditions",
+      cultural_influences: ["Chinese emphasis on education", "American scientific community", "Immigrant work ethic"],
+      cultural_challenges: ["Anti-Asian discrimination", "Language barriers", "Gender barriers in both cultures", "Immigrant status in academia"],
+      cultural_contributions: "Bridged Chinese educational values with American scientific innovation, showing how immigrant perspectives enrich science"
     }
   }
 ];
