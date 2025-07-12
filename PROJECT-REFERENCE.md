@@ -1,81 +1,216 @@
 
-# Women Pioneers in STEM – Project Reference
+# Female STEM Pioneers – Project Reference
 
-A digital resource to inspire girls, young women, and educators by celebrating the achievements and stories of women pioneers in Science, Technology, Engineering, and Mathematics (STEM).
+A comprehensive digital resource to inspire girls, young women, and educators by celebrating the achievements and stories of women pioneers in Science, Technology, Engineering, and Mathematics (STEM).
 
 ## 🎯 Purpose
-- Inspire girls and young women to consider and pursue STEM careers.
-- Provide accessible, engaging profiles of women who have made significant contributions to STEM.
-- Serve as a resource for educators to introduce students to diverse role models and STEM career paths.
+- Inspire girls and young women to consider and pursue STEM careers
+- Provide accessible, engaging profiles of women who have made significant contributions to STEM
+- Serve as a resource for educators to introduce students to diverse role models and STEM career paths
+- Showcase the rich history and ongoing contributions of women in STEM fields
 
 ## 👩‍🔬 Audience
-- **Primary:** Girls and young women (ages 10–20) considering STEM education or careers.
-- **Secondary:** Educators, mentors, and outreach coordinators seeking classroom or club resources.
+- **Primary:** Girls and young women (ages 10–20) considering STEM education or careers
+- **Secondary:** Educators, mentors, and outreach coordinators seeking classroom or club resources
+- **Tertiary:** Anyone interested in learning about women's contributions to STEM
 
 ## 🏗️ Project Structure
 ```
-├── index.html              # Main homepage (welcome, why STEM, featured pioneers, educator resources)
+female-stem-pioneers/
+├── index.html                      # Main homepage with interactive pioneer display
 ├── js/
-│   └── pioneers.js         # Data: array of women pioneers in STEM
-├── css/styles.css          # Styling
-├── icons/                  # App icons and images
-├── manifest.json           # PWA manifest
-├── sw.js                   # Service worker (PWA)
-├── CONTRIBUTING.md         # Contribution guidelines
-├── README.md               # Project overview and mission
-├── PROJECT-REFERENCE.md    # (This file) Technical/content reference
+│   ├── pioneers.js                 # Comprehensive pioneer data with rich metadata
+│   ├── app.js                      # Main application logic and UI interactions
+│   ├── performance.js              # Performance optimizations
+│   └── visualizations.js           # Data visualization components
+├── css/
+│   └── styles.css                  # Modern, responsive styling
+├── images/                         # Pioneer portrait images
+│   ├── ada-lovelace.jpg
+│   ├── marie-curie.jpg
+│   ├── katherine-johnson.jpg
+│   ├── grace-hopper.jpg
+│   ├── chien-shiung-wu.jpg
+│   └── download-report.json
+├── icons/                          # App icons and images
+├── manifest.json                   # PWA manifest
+├── sw.js                           # Service worker (PWA)
+├── fetch-pioneer-images.js         # Image fetcher script
+├── add-pioneer.js                  # Helper script for adding new pioneers
+├── image-fetcher-config.json       # Image fetcher configuration
+├── IMAGE-FETCHER-README.md         # Image fetcher documentation
+├── IMAGE-FETCHER-SUMMARY.md        # Image fetcher summary
+├── UPDATED-IMAGE-FETCHER-SUMMARY.md # Updated image fetcher summary
+├── CONTRIBUTING.md                 # Contribution guidelines
+├── README.md                       # Project overview and mission
+├── PROJECT-REFERENCE.md            # (This file) Technical/content reference
 └── ...
 ```
 
 ## 📝 Data Structure: Pioneer Profile
-Each entry in `js/pioneers.js` should follow this format:
+Each entry in `js/pioneers.js` follows this comprehensive format:
 ```js
 {
   name: "Ada Lovelace",
-  field: "Mathematics, Computing",
+  photo: "./images/ada-lovelace.jpg",
+  lifespan: "1815–1852",
   country: "United Kingdom",
-  era: "19th Century",
-  achievements: [
-    "First computer programmer",
-    "Worked on Charles Babbage's Analytical Engine"
-  ],
-  bio: "Ada Lovelace is often regarded as the first computer programmer for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.",
-  image: "images/ada_lovelace.jpg",
-  links: [
-    { label: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ada_Lovelace" }
-  ]
+  fields: ["Mathematics", "Computing"],
+  roles: ["Mathematician", "Writer"],
+  quote: "That brain of mine is something more than merely mortal; as time will show.",
+  summary: "Often regarded as the first computer programmer for her work on Babbage's Analytical Engine.",
+  detailed_description: {
+    early_life: "Brief description of their early life and background.",
+    stem_journey: "How they got into STEM and their educational path.",
+    challenges: "Key challenges they faced in their career.",
+    achievements: "Their most important achievements and contributions.",
+    legacy: "Their lasting impact and influence."
+  },
+  achievements: ["Achievement 1", "Achievement 2"],
+  awards: ["Award 1 (Year)", "Award 2 (Year)"],
+  publications: [],
+  education: [{ degree: "Degree", field: "Field", institution: "Institution" }],
+  timeline: [{ year: 1900, event: "Important event" }],
+  barriers: ["Barrier they faced"],
+  impact: "Description of their impact on STEM.",
+  media: [{ type: "article", title: "Title", url: "https://example.com" }],
+  references: [{ title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Pioneer" }],
+  mentorship: "Description of their mentoring or advocacy work.",
+  fun_fact: "An interesting fact about the pioneer.",
+  
+  // High Priority - New Metadata
+  career_path: {
+    first_job: "Their first job in STEM",
+    career_highlights: ["Highlight 1", "Highlight 2"],
+    advice_for_students: "Their advice for students pursuing STEM."
+  },
+  student_resources: {
+    books_for_students: ["Book 1", "Book 2"],
+    websites: ["website1.com", "website2.com"],
+    programs: ["Program 1", "Program 2"],
+    advice: "Their advice for students."
+  },
+  challenges: {
+    academic: ["Academic challenge 1"],
+    professional: ["Professional challenge 1"],
+    personal: ["Personal challenge 1"],
+    how_overcame: "How they overcame challenges."
+  },
+  education_details: {
+    high_school: "High school background",
+    college_major: "College major",
+    key_courses: ["Course 1", "Course 2"],
+    study_tips: "Their study advice."
+  },
+  modern_impact: {
+    current_applications: "How their work is used today",
+    companies_using_her_work: ["Company 1", "Company 2"],
+    future_implications: "Future implications of their work."
+  },
+  personal_info: {
+    early_interests: ["Interest 1", "Interest 2"],
+    family_background: "Family background",
+    hobbies: ["Hobby 1", "Hobby 2"],
+    personality_traits: ["Trait 1", "Trait 2"]
+  },
+  cultural_background: {
+    heritage: "Cultural heritage",
+    cultural_influences: ["Influence 1", "Influence 2"],
+    cultural_challenges: ["Challenge 1", "Challenge 2"],
+    cultural_contributions: "Their cultural contributions."
+  }
 }
 ```
-- **Required fields:** `name`, `field`, `bio`
-- **Optional fields:** `country`, `era`, `achievements`, `image`, `links`
 
 ## 🌟 Main Features
-- **Homepage:** Welcome, Why STEM, Featured Pioneers, For Educators
-- **Pioneer Profiles:** Cards with photo, bio, achievements, and links
-- **Search/Filter (future):** By name, field, country, era, or keyword
-- **Educator Resources:** Lesson ideas, discussion prompts, and contribution guide
-- **PWA:** Installable, works offline
-- **Accessible & Responsive:** Mobile-friendly, screen reader support
+
+### **Interactive Pioneer Display**
+- **Search & Filter**: Real-time search by name, field, country, or keyword
+- **Sort Options**: By name, field, country, or era
+- **Card Layout**: Modern, responsive cards with photos and key information
+- **Detailed Views**: Expandable sections with comprehensive information
+
+### **Rich Pioneer Profiles**
+- **Comprehensive Data**: 20+ fields per pioneer including detailed descriptions
+- **Educational Content**: Student resources, career advice, and study tips
+- **Cultural Context**: Heritage, challenges, and contributions
+- **Modern Impact**: Current applications and future implications
+
+### **Image Management System**
+- **Automatic Image Fetching**: Scripts to retrieve portrait images from multiple sources
+- **Quality Control**: Size and format filtering for optimal display
+- **Multiple Sources**: Wikimedia Commons (primary), Google Custom Search, Unsplash
+- **Easy Expansion**: Helper scripts for adding new pioneers
+
+### **Technical Features**
+- **PWA**: Installable, works offline
+- **Responsive Design**: Mobile-friendly interface
+- **Accessibility**: Screen reader support and keyboard navigation
+- **Performance**: Optimized loading and smooth interactions
 
 ## 🧑‍🏫 For Educators
-- Use profiles as discussion starters, research projects, or inspiration boards
-- Encourage students to find and add local or contemporary role models
+
+### **Classroom Resources**
+- Use profiles as discussion starters or research projects
 - Connect STEM topics to real-world impact through these stories
-- Share lesson ideas or resources via contributions
+- Encourage students to find and add local or contemporary role models
+- Access detailed career paths and educational advice
+
+### **Student Engagement**
+- Interactive search and filter functionality
+- Rich multimedia content with images and detailed descriptions
+- Career guidance and study tips from successful women in STEM
+- Cultural context and barrier-breaking stories
 
 ## 🤝 Contributing
-- Add a new pioneer profile to `js/pioneers.js` (see data structure above)
-- Suggest corrections or additional information for existing profiles
-- Improve design, accessibility, or features
-- See [CONTRIBUTING.md](CONTRIBUTING.md) for details
 
-## 🚀 Deployment
-- Static site, auto-deployed to GitHub Pages after CI passes
+### **Adding New Pioneers**
+1. **Automatic Method**: Use `node add-pioneer.js "Pioneer Name"`
+2. **Manual Method**: Add to `js/pioneers.js` following the data structure above
+3. **Image Fetching**: Run `node fetch-pioneer-images.js` to get portrait images
+
+### **Content Guidelines**
+- Focus on women who made significant contributions to STEM
+- Include diverse backgrounds, time periods, and STEM fields
+- Provide accurate, well-sourced information
+- Include educational and inspirational content
+
+### **Technical Contributions**
+- Improve design, accessibility, or features
+- Add new image sources or search functionality
+- Enhance performance or user experience
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines
+
+## 🚀 Deployment & Maintenance
+
+### **Current Deployment**
+- Static site, auto-deployed to GitHub Pages
 - PWA features for offline use
+- Images stored locally in `images/` folder
+
+### **Image Management**
+- **Automatic Fetching**: `node fetch-pioneer-images.js`
+- **Quality Control**: 200-2000px size range, multiple formats
+- **Source Priority**: Wikimedia Commons → Google Custom Search → Unsplash
+- **Easy Expansion**: Scripts handle adding new pioneers and images
+
+### **Data Management**
+- Rich metadata structure for comprehensive profiles
+- Automatic integration with image system
+- Scalable architecture for future expansion
+- Detailed documentation and helper scripts
 
 ## 📚 License
-- Content: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
-- Code: MIT or same as content (see LICENSE)
+- **Content**: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+- **Code**: MIT or same as content (see LICENSE)
+- **Images**: Various licenses (Wikimedia Commons public domain, Unsplash license, etc.)
+
+## 🔧 Technical Stack
+- **Frontend**: HTML5, CSS3, Vanilla JavaScript
+- **Data**: JSON structure in `js/pioneers.js`
+- **Images**: Local storage with automatic fetching
+- **PWA**: Service worker and manifest
+- **Deployment**: GitHub Pages with CI/CD
 
 ---
 

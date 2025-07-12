@@ -4,7 +4,7 @@
 const pioneers = [
   {
     name: "Ada Lovelace",
-    photo: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ada_lovelace.jpg",
+    photo: "./images/ada-lovelace.jpg",
     lifespan: "1815–1852",
     country: "United Kingdom",
     fields: ["Mathematics", "Computing"],
@@ -12,11 +12,11 @@ const pioneers = [
     quote: "That brain of mine is something more than merely mortal; as time will show.",
     summary: "Often regarded as the first computer programmer for her work on Babbage's Analytical Engine.",
     detailed_description: {
-      early_life: "Ada Lovelace was born in 1815 to the famous poet Lord Byron and mathematician Anne Isabella Milbanke. Her mother, fearing Ada would inherit her father's 'poetic madness,' insisted on a rigorous education in mathematics and science. From an early age, Ada showed exceptional mathematical talent and was tutored by some of the leading scientists of the day, including Mary Somerville and Augustus De Morgan.",
-      stem_journey: "Ada's journey into STEM began through her mother's insistence on mathematical education. At age 17, she met Charles Babbage, who was working on his Difference Engine. Fascinated by his work, she became deeply involved in his later project, the Analytical Engine. She translated an Italian article about the machine and added extensive notes that included the first algorithm designed specifically for computer processing.",
-      challenges: "Ada faced significant challenges as a woman in 19th-century England. Women were expected to focus on domestic roles, and scientific pursuits were considered inappropriate. She also struggled with health issues throughout her life, including severe headaches and paralysis. Additionally, her family's aristocratic background created both opportunities and expectations that were difficult to navigate.",
-      achievements: "Ada's most significant achievement was writing the first computer program - an algorithm for calculating Bernoulli numbers on the Analytical Engine. She also envisioned the potential of computers beyond mere calculation, predicting they could create music, graphics, and even artificial intelligence. Her notes were three times longer than the original article and included detailed explanations of how the machine could be programmed.",
-      legacy: "Ada Lovelace's legacy is profound and far-reaching. She is considered the first computer programmer, and the programming language Ada is named in her honor. Her vision of computers as creative tools rather than just calculators was revolutionary. Today, she inspires millions of women in computer science, and her story demonstrates how mathematical thinking can be combined with creative imagination."
+      early_life: "Born in 1815 to the famous poet Lord Byron, Ada was encouraged by her mother to study mathematics and science. She showed exceptional talent from an early age and was tutored by leading scientists of the day.",
+      stem_journey: "At age 17, Ada met Charles Babbage and became fascinated by his mechanical computer, the Analytical Engine. She translated an article about it and added her own notes, including the first computer program ever written.",
+      challenges: "As a woman in 19th-century England, Ada faced expectations to focus on domestic roles rather than science. She also struggled with health issues throughout her life.",
+      achievements: "Ada wrote the first computer program - an algorithm for calculating numbers. She also predicted that computers could create music and graphics, envisioning their creative potential long before others.",
+      legacy: "Ada is considered the first computer programmer, and the programming language Ada is named in her honor. She inspires millions of women in computer science today."
     },
     achievements: [
       "First computer programmer",
@@ -91,7 +91,7 @@ const pioneers = [
   },
   {
     name: "Marie Curie",
-    photo: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c1920.jpg",
+    photo: "./images/marie-curie.jpg",
     lifespan: "1867–1934",
     country: "Poland/France",
     fields: ["Physics", "Chemistry"],
@@ -99,11 +99,11 @@ const pioneers = [
     quote: "One never notices what has been done; one can only see what remains to be done.",
     summary: "First woman to win a Nobel Prize and the only person to win in two different sciences.",
     detailed_description: {
-      early_life: "Marie Curie was born Maria Sklodowska in 1867 in Warsaw, Poland, which was then under Russian rule. Her parents were teachers who emphasized education, and she excelled in school despite the restrictions placed on Polish students. Her mother died when she was 10, and her father was fired from his teaching position for his Polish nationalism. Despite these hardships, Marie and her sisters worked as governesses to support their education.",
-      stem_journey: "Marie's journey into STEM began with her determination to study at university, which was nearly impossible for women in Poland. She worked as a governess for several years to save money, then moved to Paris in 1891 to study at the Sorbonne. She lived in poverty, often going without food to afford her studies. She earned degrees in physics and mathematics, then began research with Pierre Curie, whom she married in 1895.",
-      challenges: "Marie faced enormous challenges as a woman in science. She was denied admission to the University of Warsaw because she was female. In Paris, she faced poverty and discrimination. After Pierre's death in 1906, she faced even more resistance as a widow in science. She was denied membership in the French Academy of Sciences because she was a woman, and her Nobel Prize nominations faced opposition from male colleagues.",
-      achievements: "Marie's achievements revolutionized science. She discovered two new elements - polonium and radium - and coined the term 'radioactivity.' She won Nobel Prizes in both Physics (1903) and Chemistry (1911), the first person to win in two different sciences. She established the Curie Institutes in Paris and Warsaw, and her research laid the foundation for nuclear physics and medical treatments.",
-      legacy: "Marie Curie's legacy is immense. She opened doors for women in science worldwide. Her research led to X-ray technology and cancer treatments. The Curie Institutes continue her work, and she remains a symbol of scientific excellence and determination. Her story inspires women to pursue science despite obstacles, and her methods are still used in laboratories today."
+      early_life: "Born in Poland in 1867, Marie showed exceptional talent in school despite restrictions on Polish students. Her parents were teachers who emphasized education, and she worked as a governess to save money for university.",
+      stem_journey: "Marie moved to Paris in 1891 to study at the Sorbonne, often going without food to afford her studies. She earned degrees in physics and mathematics, then began research with Pierre Curie, whom she married.",
+      challenges: "Marie faced discrimination as a woman in science and was denied admission to the University of Warsaw because she was female. She worked in poverty and faced resistance from male colleagues throughout her career.",
+      achievements: "Marie discovered two new elements - polonium and radium - and coined the term 'radioactivity.' She won Nobel Prizes in both Physics (1903) and Chemistry (1911), the first person to win in two different sciences.",
+      legacy: "Marie opened doors for women in science worldwide. Her research led to X-ray technology and cancer treatments. She remains a symbol of scientific excellence and determination."
     },
     achievements: [
       "First woman to win a Nobel Prize",
@@ -183,7 +183,7 @@ const pioneers = [
   },
   {
     name: "Katherine Johnson",
-    photo: "https://upload.wikimedia.org/wikipedia/commons/6/68/Katherine_Johnson_at_NASA%2C_in_1966.jpg",
+    photo: "./images/katherine-johnson.jpg",
     lifespan: "1918–2020",
     country: "United States",
     fields: ["Mathematics", "Aerospace"],
@@ -191,11 +191,11 @@ const pioneers = [
     quote: "Girls are capable of doing everything men are capable of doing.",
     summary: "Trailblazing NASA mathematician whose calculations enabled the first U.S. spaceflights.",
     detailed_description: {
-      early_life: "Katherine Johnson was born in 1918 in White Sulphur Springs, West Virginia, to a family that valued education highly. Her father was a farmer and handyman who could solve complex math problems in his head, and her mother was a teacher. From an early age, Katherine showed exceptional mathematical ability, counting everything and solving math problems for fun. She graduated high school at age 14 and entered college at 15.",
-      stem_journey: "Katherine's journey into STEM began with her natural mathematical talent and her family's emphasis on education. She attended West Virginia State College, where she excelled in mathematics and was mentored by W.W. Schieffelin Claytor, one of the first African Americans to earn a Ph.D. in mathematics. After graduating, she became a teacher, then joined NASA (then NACA) in 1953 as a 'computer' - someone who performed mathematical calculations.",
-      challenges: "Katherine faced significant challenges as an African American woman in the segregated South and in a male-dominated field. She experienced both racial and gender discrimination throughout her career. She was often the only woman in meetings and had to fight for recognition of her work. She also balanced her career with raising three daughters, often working late hours to complete calculations.",
-      achievements: "Katherine's achievements were crucial to the success of the U.S. space program. She calculated the trajectory for Alan Shepard's first space flight, verified the calculations for John Glenn's orbital flight, and worked on the Apollo 11 mission to the Moon. Her calculations were so trusted that John Glenn insisted she verify the computer's calculations before his flight. She received the Presidential Medal of Freedom in 2015.",
-      legacy: "Katherine Johnson's legacy is profound. She broke barriers for African American women in STEM and inspired generations of students. Her story was featured in the movie 'Hidden Figures,' bringing her achievements to worldwide attention. She continues to inspire women and minorities to pursue careers in mathematics and science, showing that talent and determination can overcome any obstacle."
+      early_life: "Born in 1918 in West Virginia, Katherine showed exceptional mathematical ability from childhood. She graduated high school at 14 and entered college at 15, where she excelled in mathematics.",
+      stem_journey: "Katherine became a teacher after college, then joined NASA in 1953 as a 'computer' - someone who performed mathematical calculations. She quickly proved her abilities and became trusted with critical calculations.",
+      challenges: "As an African American woman in the segregated South, Katherine faced both racial and gender discrimination. She was often the only woman in meetings and had to fight for recognition of her work.",
+      achievements: "Katherine calculated trajectories for Alan Shepard's first space flight and John Glenn's orbital flight. Her calculations were so trusted that Glenn insisted she verify the computer's work before his flight.",
+      legacy: "Katherine broke barriers for African American women in STEM and inspired generations of students. Her story was featured in 'Hidden Figures,' bringing her achievements to worldwide attention."
     },
     achievements: [
       "Calculated trajectories for NASA space missions",
@@ -274,7 +274,7 @@ const pioneers = [
   },
   {
     name: "Grace Hopper",
-    photo: "https://upload.wikimedia.org/wikipedia/commons/3/37/Grace_Hopper_and_UNIVAC.jpg",
+    photo: "./images/grace-hopper.jpg",
     lifespan: "1906–1992",
     country: "United States",
     fields: ["Computer Science", "Mathematics"],
@@ -282,11 +282,11 @@ const pioneers = [
     quote: "The most dangerous phrase in the language is, 'We've always done it this way.'",
     summary: "Developed the first compiler and popularized the term 'debugging' in computing.",
     detailed_description: {
-      early_life: "Grace Hopper was born in 1906 in New York City to a family that encouraged education and independence. Her parents believed in equal education for boys and girls, which was unusual for the time. From an early age, Grace showed curiosity about how things worked, often taking apart household items to understand their mechanisms. She attended Vassar College, where she excelled in mathematics and physics.",
-      stem_journey: "Grace's journey into STEM began with her education at Vassar College, where she earned a degree in mathematics and physics. She then earned a master's degree and Ph.D. in mathematics from Yale University. During World War II, she joined the U.S. Navy and was assigned to work on the Harvard Mark I computer. This marked the beginning of her revolutionary work in computer science.",
-      challenges: "Grace faced challenges as a woman in both the military and the emerging field of computer science. She was often the only woman in technical meetings and had to prove herself repeatedly. She also faced skepticism about her ideas for high-level programming languages, as many believed computers should only be programmed in machine code. Additionally, she had to balance her military career with her civilian work.",
-      achievements: "Grace's achievements revolutionized computing. She developed the first compiler, which translated high-level programming languages into machine code. She popularized the term 'debugging' after an actual bug (a moth) was found in a computer. She led the development of COBOL, one of the first high-level programming languages. She became a Rear Admiral in the U.S. Navy and received numerous awards.",
-      legacy: "Grace Hopper's legacy is foundational to modern computing. Her work on compilers and programming languages made computers accessible to non-specialists. She is known as the 'Queen of Code' and inspired generations of women in technology. The Grace Hopper Celebration of Women in Computing is named in her honor, and she remains a symbol of innovation and leadership in computer science."
+      early_life: "Born in 1906 in New York City, Grace showed curiosity about how things worked from an early age. Her parents believed in equal education for boys and girls, which was unusual for the time.",
+      stem_journey: "Grace earned degrees in mathematics and physics from Vassar College, then a Ph.D. from Yale. During World War II, she joined the Navy and was assigned to work on the Harvard Mark I computer.",
+      challenges: "Grace faced challenges as a woman in both the military and the emerging field of computer science. She was often the only woman in technical meetings and had to prove herself repeatedly.",
+      achievements: "Grace developed the first compiler, which translated high-level programming languages into machine code. She popularized the term 'debugging' and led the development of COBOL, one of the first programming languages.",
+      legacy: "Grace is known as the 'Queen of Code' and made computers accessible to non-specialists. The Grace Hopper Celebration of Women in Computing is named in her honor."
     },
     achievements: [
       "Developed the first compiler for a computer programming language",
@@ -372,11 +372,11 @@ const pioneers = [
     quote: "Science and everyday life cannot and should not be separated.",
     summary: "Her X-ray diffraction work was key to understanding the structure of DNA.",
     detailed_description: {
-      early_life: "Rosalind Franklin was born in 1920 in London to a wealthy Jewish family that valued education and intellectual pursuits. She showed exceptional academic ability from an early age, particularly in science and mathematics. Her family encouraged her education, and she attended St. Paul's Girls' School, one of the few schools that taught science to girls. She went on to study chemistry at Cambridge University.",
-      stem_journey: "Rosalind's journey into STEM began with her education at Cambridge University, where she earned a degree in chemistry. She then earned a Ph.D. in physical chemistry from Cambridge. She worked on coal and graphite structures before moving to Paris to study X-ray crystallography. In 1951, she joined King's College London, where she began her groundbreaking work on DNA structure using X-ray diffraction.",
-      challenges: "Rosalind faced significant challenges as a woman in science during the 1950s. She experienced gender discrimination and was often excluded from important meetings and discussions. Her work was sometimes overlooked or attributed to male colleagues. She also faced the challenge of working in a competitive and sometimes hostile environment, where her meticulous approach was sometimes misunderstood.",
-      achievements: "Rosalind's achievements were crucial to understanding the structure of DNA. She produced the famous 'Photo 51,' which showed the helical structure of DNA. Her work provided the key evidence that led to the discovery of the double helix structure. She also made significant contributions to understanding the structure of viruses, particularly tobacco mosaic virus. Her methods and techniques are still used in structural biology today.",
-      legacy: "Rosalind Franklin's legacy is profound, though it was not fully recognized during her lifetime. Her work was essential to the discovery of DNA's structure, though she was not included in the Nobel Prize awarded for this discovery. Today, she is recognized as a pioneer in structural biology, and her story highlights the importance of recognizing women's contributions in science. She inspires women to pursue careers in molecular biology and structural science."
+      early_life: "Born in 1920 in London to a wealthy Jewish family, Rosalind showed exceptional academic ability from an early age. Her family encouraged her education, and she attended St. Paul's Girls' School.",
+      stem_journey: "Rosalind earned a degree in chemistry from Cambridge University, then a Ph.D. in physical chemistry. She worked on coal structures before moving to Paris to study X-ray crystallography.",
+      challenges: "Rosalind faced gender discrimination in science during the 1950s. She was often excluded from important meetings and her work was sometimes overlooked or attributed to male colleagues.",
+      achievements: "Rosalind produced the famous 'Photo 51,' which showed the helical structure of DNA. Her work provided the key evidence that led to the discovery of the double helix structure.",
+      legacy: "Though not fully recognized during her lifetime, Rosalind is now recognized as a pioneer in structural biology. Her story highlights the importance of recognizing women's contributions in science."
     },
     achievements: [
       "Pioneered the use of X-ray diffraction to study DNA",
@@ -451,7 +451,7 @@ const pioneers = [
   },
   {
     name: "Chien-Shiung Wu",
-    photo: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chien-Shiung_Wu.jpg",
+    photo: "./images/chien-shiung-wu.jpg",
     lifespan: "1912–1997",
     country: "China/United States",
     fields: ["Physics"],
@@ -459,11 +459,11 @@ const pioneers = [
     quote: "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
     summary: "Conducted the Wu experiment, disproving the law of conservation of parity in physics.",
     detailed_description: {
-      early_life: "Chien-Shiung Wu was born in 1912 in a small town near Shanghai, China. Her father was a school principal who believed strongly in education for girls, which was unusual in China at that time. She showed exceptional academic ability from an early age and was encouraged by her family to pursue her education. She attended a girls' school in Shanghai and then went to National Central University in Nanjing.",
-      stem_journey: "Chien-Shiung's journey into STEM began with her education in China, where she earned a degree in physics. She then moved to the United States in 1936 to pursue graduate studies at the University of California, Berkeley. She earned her Ph.D. in physics and began her research career. During World War II, she worked on the Manhattan Project, and later joined Columbia University where she conducted her most famous experiments.",
-      challenges: "Chien-Shiung faced multiple challenges as a Chinese immigrant woman in American science. She experienced both racial and gender discrimination throughout her career. She was often the only woman in her physics classes and research groups. She also faced language barriers and cultural differences. Additionally, she had to balance her career with family responsibilities, as she was married and had a son.",
-      achievements: "Chien-Shiung's most famous achievement was the 'Wu experiment,' which disproved the law of conservation of parity in physics. This discovery earned her colleagues the Nobel Prize, though she was controversially excluded. She also made significant contributions to nuclear physics and was the first woman to serve as president of the American Physical Society. She received numerous awards and honors for her work.",
-      legacy: "Chien-Shiung Wu's legacy is profound in both physics and for women in science. Her work fundamentally changed our understanding of the universe and earned her the nickname 'The First Lady of Physics.' She inspired generations of Asian American women to pursue careers in physics and science. Her story demonstrates the importance of recognizing women's contributions in science and the value of diverse perspectives in research."
+      early_life: "Born in 1912 near Shanghai, China, Chien-Shiung showed exceptional academic ability from an early age. Her father was a school principal who believed strongly in education for girls.",
+      stem_journey: "Chien-Shiung earned a degree in physics in China, then moved to the United States in 1936 to pursue graduate studies at UC Berkeley. She earned her Ph.D. and began her research career.",
+      challenges: "As a Chinese immigrant woman in American science, Chien-Shiung faced both racial and gender discrimination. She was often the only woman in her physics classes and research groups.",
+      achievements: "Chien-Shiung conducted the famous 'Wu experiment,' which disproved the law of conservation of parity in physics. She became the first woman to serve as president of the American Physical Society.",
+      legacy: "Known as the 'First Lady of Physics,' Chien-Shiung inspired generations of Asian American women to pursue careers in physics. Her work fundamentally changed our understanding of the universe."
     },
     achievements: [
       "Known as the 'First Lady of Physics'",

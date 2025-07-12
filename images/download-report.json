@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-07-12T20:47:54.161Z",
+  "total_pioneers": 6,
+  "successful_downloads": 5,
+  "results": {
+    "Ada Lovelace": {
+      "filename": "ada-lovelace.jpg",
+      "filepath": "images/ada-lovelace.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ada_Lovelace_in_1852.jpg",
+      "source": "Wikimedia Commons",
+      "width": 1533,
+      "height": 1848,
+      "title": "File:Ada Lovelace in 1852.jpg"
+    },
+    "Marie Curie": {
+      "filename": "marie-curie.jpg",
+      "filepath": "images/marie-curie.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c1920.jpg",
+      "source": "Wikimedia Commons",
+      "width": 1460,
+      "height": 1984,
+      "title": "File:Marie Curie c1920.jpg"
+    },
+    "Katherine Johnson": {
+      "filename": "katherine-johnson.jpg",
+      "filepath": "images/katherine-johnson.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Katherine_johnson_john_glenn.png",
+      "source": "Wikimedia Commons",
+      "width": 1213,
+      "height": 617,
+      "title": "File:Katherine johnson john glenn.png"
+    },
+    "Grace Hopper": {
+      "filename": "grace-hopper.jpg",
+      "filepath": "images/grace-hopper.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Grace_Hopper.jpg",
+      "source": "Wikimedia Commons",
+      "width": 517,
+      "height": 606,
+      "title": "File:Grace Hopper.jpg"
+    },
+    "Chien-Shiung Wu": {
+      "filename": "chien-shiung-wu.jpg",
+      "filepath": "images/chien-shiung-wu.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Chien-Shiung_Wu_%281912-1997%29_in_1958.jpg",
+      "source": "Wikimedia Commons",
+      "width": 1576,
+      "height": 2000,
+      "title": "File:Chien-Shiung Wu (1912-1997) in 1958.jpg"
+    }
+  },
+  "config": {
+    "output_dir": "./images",
+    "min_image_size": 200,
+    "max_image_size": 2000,
+    "image_formats": [
+      "jpg",
+      "jpeg",
+      "png",
+      "webp"
+    ]
+  }
+}
