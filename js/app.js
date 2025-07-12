@@ -169,7 +169,7 @@ class PioneersApp {
         <div class="pioneer-quote">
           <h4>Quote</h4>
           <blockquote>
-            "${pioneer.quote}"
+            ${pioneer.quote}
           </blockquote>
         </div>
         
