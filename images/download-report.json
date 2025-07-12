@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-07-12T20:47:54.161Z",
-  "total_pioneers": 6,
-  "successful_downloads": 5,
+  "timestamp": "2025-07-12T21:15:28.273Z",
+  "total_pioneers": 8,
+  "successful_downloads": 7,
   "results": {
     "Ada Lovelace": {
       "filename": "ada-lovelace.jpg",
@@ -47,6 +47,24 @@
       "width": 1576,
       "height": 2000,
       "title": "File:Chien-Shiung Wu (1912-1997) in 1958.jpg"
+    },
+    "Dorothy Vaughan": {
+      "filename": "dorothy-vaughan.jpg",
+      "filepath": "images/dorothy-vaughan.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Dorothy_Vaughan%2C_vaudeville_entertainer_%28SAYRE_10044%29.jpg",
+      "source": "Wikimedia Commons",
+      "width": 1188,
+      "height": 1653,
+      "title": "File:Dorothy Vaughan, vaudeville entertainer (SAYRE 10044).jpg"
+    },
+    "Mae Jemison": {
+      "filename": "mae-jemison.jpg",
+      "filepath": "images/mae-jemison.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mae_Jemison_crop_2009_CHAO.jpg",
+      "source": "Wikimedia Commons",
+      "width": 1244,
+      "height": 1299,
+      "title": "File:Mae Jemison crop 2009 CHAO.jpg"
     }
   },
   "config": {

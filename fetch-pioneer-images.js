@@ -39,7 +39,9 @@ const PIONEERS = ["Ada Lovelace",
   "Katherine Johnson",
   "Grace Hopper",
   "Rosalind Franklin",
-  "Chien-Shiung Wu"
+  "Chien-Shiung Wu",
+  "Dorothy Vaughan",
+  "Mae Jemison",
 ];
 
 /**
