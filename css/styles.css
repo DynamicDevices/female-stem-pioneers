@@ -2084,6 +2084,23 @@ body.light-theme .mobile-menu-toggle span {
     gap: 8px;
     margin-top: 16px;
     flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.pioneer-short-description h4 {
+    color: #60a5fa;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.pioneer-short-description p {
+    color: #e2e8f0;
+    line-height: 1.6;
+    font-size: 0.9rem;
+    margin: 0;
 }
 
 .action-btn {
@@ -2224,7 +2241,8 @@ body.light-theme .mobile-menu-toggle span {
     }
 
     .pioneer-actions {
-        flex-direction: column;
+        flex-direction: row;
+        justify-content: center;
     }
 
     .action-btn {

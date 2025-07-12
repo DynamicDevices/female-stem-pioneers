@@ -152,6 +152,7 @@ class PioneersApp {
 
     const shortDescription = pioneer.shortDescription ? `
       <div class="pioneer-short-description">
+        <h4>About ${pioneer.name}:</h4>
         <p>${pioneer.shortDescription}</p>
       </div>
     ` : '';
@@ -187,11 +188,11 @@ class PioneersApp {
           <ul>${achievementsList}</ul>
         </div>
 
+        ${shortDescription}
+
         <div class="pioneer-fun-fact">
           <strong>Fun Fact:</strong> ${pioneer.fun_fact}
         </div>
-
-        ${shortDescription}
 
         <div class="pioneer-actions">
           ${this.createActionButtons(pioneer)}
