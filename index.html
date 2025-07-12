@@ -44,6 +44,12 @@
   <!-- Stylesheets -->
   <link rel="stylesheet" href="css/styles.css">
   <link rel="manifest" href="manifest.json">
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <!-- D3.js CDN -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
   
   <!-- Structured Data -->
   <script type="application/ld+json">
@@ -154,6 +160,22 @@
       </div>
     </div>
 
+    <!-- D3.js Charts Section -->
+    <section id="charts-section" class="visualization-container">
+      <h2>Pioneers by Field</h2>
+      <div id="field-chart"></div>
+      <h2>Pioneers by Country</h2>
+      <div id="country-chart"></div>
+      <h2>Pioneers by Era</h2>
+      <div id="era-chart"></div>
+    </section>
+
+    <!-- D3.js Timeline Section -->
+    <section id="timeline-section" class="visualization-container">
+      <h2>STEM History Timeline</h2>
+      <div id="timeline"></div>
+    </section>
+
     <!-- Pioneers Container -->
     <div class="pioneers-container" id="pioneersContainer">
       <!-- Pioneer cards will be rendered here by JavaScript -->
@@ -189,5 +211,6 @@
   <!-- JavaScript -->
   <script src="js/pioneers.js"></script>
   <script src="js/app.js"></script>
+  <script src="js/visualizations.js"></script>
 </body>
 </html>
