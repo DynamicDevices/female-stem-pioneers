@@ -120,6 +120,46 @@ body {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
     position: relative;
     overflow: hidden;
+    /* Hero collage background */
+    background-image: 
+        url('../images/ada-lovelace.jpg'),
+        url('../images/marie-curie.jpg'),
+        url('../images/katherine-johnson.jpg'),
+        url('../images/grace-hopper.jpg'),
+        url('../images/stem-female-pattern.svg'),
+        linear-gradient(135deg, #1e293b 0%, #334155 100%);
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, repeat, cover;
+    background-size: 80px 80px, 60px 60px, 70px 70px, 65px 65px, 120px 120px, cover;
+    background-position: 
+        20px 20px,    /* Ada Lovelace - top left */
+        calc(100% - 80px) 30px,  /* Marie Curie - top right */
+        30px calc(100% - 90px),   /* Katherine Johnson - bottom left */
+        calc(100% - 70px) calc(100% - 80px), /* Grace Hopper - bottom right */
+        repeat, repeat;
+    /* Add overlay to ensure text readability */
+    background-blend-mode: overlay, overlay, overlay, overlay, normal, normal;
+}
+
+/* Add a subtle overlay to ensure text readability */
+.header::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(30, 41, 59, 0.7);
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* Ensure header content stays above the overlay */
+.header h1,
+.header .subtitle,
+.header .creator-subtitle,
+.header .dynamic-devices-credit {
+    position: relative;
+    z-index: 2;
 }
 
 .header::before {
