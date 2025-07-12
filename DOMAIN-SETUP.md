@@ -3,16 +3,16 @@
 ## Current Configuration
 
 The repository is configured to work with GitHub Pages at:
-**https://dynamicdevices.github.io/say-hello-code**
+**https://dynamicdevices.github.io/female-stem-pioneers**
 
 ## Custom Domain (Optional)
 
-If you want to use a custom domain like `sayhellocode.com`:
+If you want to use a custom domain like `femalestempioneers.com`:
 
 1. **Purchase and configure domain** with your DNS provider
 2. **Add CNAME file** to repository root:
    ```
-   sayhellocode.com
+   femalestempioneers.com
    ```
 3. **Configure DNS records:**
    - Add CNAME record: `www` → `DynamicDevices.github.io`
@@ -28,7 +28,7 @@ If you want to use a custom domain like `sayhellocode.com`:
 
 ## Current CNAME File
 
-The CNAME file currently contains `sayhellocode.com`. 
+The CNAME file currently contains `femalestempioneers.com`. 
 
 **To use GitHub Pages URL only:**
 - Delete the CNAME file
@@ -41,6 +41,6 @@ The CNAME file currently contains `sayhellocode.com`.
 
 ## Current Site URLs
 
-- **GitHub Pages:** https://DynamicDevices.github.io/say-hello-code
-- **Repository:** https://github.com/DynamicDevices/say-hello-code
-- **Custom Domain:** sayhellocode.com (if CNAME configured)
+- **GitHub Pages:** https://DynamicDevices.github.io/female-stem-pioneers
+- **Repository:** https://github.com/DynamicDevices/female-stem-pioneers
+- **Custom Domain:** femalestempioneers.com (if CNAME configured)

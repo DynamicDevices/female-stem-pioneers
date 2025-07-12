@@ -1,6 +1,6 @@
-# Contributing to Say Hello Code
+# Contributing to Women Pioneers in STEM
 
-Thank you for your interest in contributing to Say Hello Code! This project aims to provide educational resources for learning programming languages through "Hello, World!" examples.
+Thank you for your interest in contributing to Women Pioneers in STEM! This project aims to inspire girls, young women, and educators by celebrating the achievements and stories of women who have been pioneers in Science, Technology, Engineering, and Mathematics.
 
 ## 📄 License Agreement
 
@@ -8,42 +8,38 @@ By contributing to this project, you agree that your contributions will be licen
 
 ## How to Contribute
 
-### Adding New Languages
+### Adding New Pioneer Profiles
 
 1. **Fork the repository**
-2. **Add your language to `js/languages.js`** following this structure:
+2. **Add your pioneer to `js/pioneers.js`** following this structure:
    ```javascript
    {
-       "name": "LanguageName",
-       "year": 2023,
-       "creator": "Creator Name",
-       "code": "print(\"Hello, World!\")",
-       "desc": "Brief description of the language",
-       "popularity": 50, // 1-100 scale
-       "categories": ["Web", "Systems"], // See categories below
-       "primaryCategory": "Web",
-       "paradigms": ["Object-Oriented", "Functional"],
-       "domains": ["Web Development"],
-       "difficulty": "Beginner", // Beginner, Intermediate, Advanced
-       "typing": "Dynamic", // Static, Dynamic, Mixed
-       "sourceFile": "category-languages.js"
+     name: "Ada Lovelace",
+     field: "Mathematics, Computing",
+     country: "United Kingdom",
+     era: "19th Century",
+     achievements: [
+       "First computer programmer",
+       "Worked on Charles Babbage's Analytical Engine"
+     ],
+     bio: "Ada Lovelace is often regarded as the first computer programmer for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.",
+     image: "images/ada_lovelace.jpg",
+     links: [
+       { label: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ada_Lovelace" }
+     ]
    }
    ```
 
-3. **Categories Available:**
-   - Popular, Web, Systems, Functional, Data Science
-   - Mobile, Game Development, Academic, Legacy
-   - Emerging, Esoteric, Specialized, Configuration
-   - Markup, Shell, Scripting, Scientific, Vintage
-   - Object-Oriented, Additional
+3. **Required fields:** `name`, `field`, `bio`
+4. **Optional fields:** `country`, `era`, `achievements`, `image`, `links`
 
-### Code Guidelines
+### Content Guidelines
 
-- Ensure "Hello, World!" code is syntactically correct
-- Use proper escaping for special characters
-- Include accurate metadata (year, creator, description)
-- Test your additions locally before submitting
-- Verify information accuracy from reliable sources
+- Ensure biographical information is accurate and well-sourced
+- Focus on achievements and impact that would inspire young women
+- Include diverse representation across STEM fields, countries, and time periods
+- Write in an engaging, accessible style appropriate for the target audience
+- Verify information from reliable sources before submitting
 
 ### Submitting Changes
 
@@ -65,27 +61,34 @@ When contributing:
 ## Code of Conduct
 
 - Be respectful and inclusive
-- Focus on educational value
+- Focus on educational and inspirational value
 - Ensure accuracy of information
 - Help maintain code quality
 - Respect intellectual property rights
+- Support the mission of inspiring girls and young women in STEM
 
 ## Types of Contributions Welcome
 
-- **New programming languages** - Add missing languages
-- **Accuracy improvements** - Fix incorrect information
-- **Documentation** - Improve guides and explanations
-- **Accessibility** - Enhance usability features
+- **New pioneer profiles** - Add women who have made significant contributions to STEM
+- **Content improvements** - Enhance existing profiles with more details or better writing
+- **Educator resources** - Add lesson plans, discussion prompts, or classroom activities
+- **Accessibility** - Enhance usability features for diverse learners
 - **Performance** - Optimize loading and functionality
 - **Translations** - Help make content accessible globally
+- **Design improvements** - Enhance the visual appeal and user experience
+
+## For Educators
+
+We especially welcome contributions from educators who can:
+- Suggest pioneer profiles that work well in classroom settings
+- Share lesson ideas that use these profiles effectively
+- Provide feedback on how to make content more engaging for students
+- Contribute resources for different age groups and learning styles
 
 ## Questions?
 
-Open an issue for questions or suggestions! We're here to help make programming education more accessible.
-
-**Contact:** [info@dynamicdevices.co.uk](mailto:info@dynamicdevices.co.uk)
-**Repository:** https://github.com/DynamicDevices/say-hello-code
+Open an issue for questions or suggestions! We're here to help make STEM education more inspiring and accessible for girls and young women.
 
 ---
 
-*By contributing, you're helping make programming education freely available to everyone under Creative Commons licensing.*
+*By contributing, you're helping inspire the next generation of women in STEM under Creative Commons licensing.*

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://DynamicDevices.github.io/say-hello-code/sitemap.xml
+Sitemap: https://DynamicDevices.github.io/female-stem-pioneers/sitemap.xml

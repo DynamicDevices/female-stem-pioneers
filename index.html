@@ -1,300 +1,108 @@
-<!--
-Say Hello Code - Programming Languages Collection
-Copyright (c) 2025 Dynamic Devices Ltd
-
-This work is licensed under the Creative Commons Attribution 4.0 International License.
-To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
-or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially
-
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license,
-  and indicate if changes were made.
-
-Created by Dynamic Devices Ltd in collaboration with Claude.ai
-Website: https://sayhellocode.com
--->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Say Hello Code - Programming Languages | Learn to Code</title>
-
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="Explore Hello World programs in programming languages from 1949 to today. Perfect for students learning to code, comparing syntax, and discovering new programming languages.">
-    <meta name="keywords" content="hello world, programming languages, learn to code, programming tutorial, coding examples, computer science, programming education, syntax comparison, coding bootcamp, programming reference">
-    <meta name="author" content="Dynamic Devices Ltd">
-    <meta name="robots" content="index, follow">
-
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://DynamicDevices.github.io/say-hello-code/">
-    <meta property="og:title" content="Say Hello Code - Programming Languages">
-    <meta property="og:description" content="Explore Hello World programs in programming languages. Perfect for students learning to code and discovering new programming languages.">
-    <meta property="og:image" content="https://DynamicDevices.github.io/say-hello-code/og-image.png">
-
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://DynamicDevices.github.io/say-hello-code/">
-    <meta property="twitter:title" content="Say Hello Code - Programming Languages">
-    <meta property="twitter:description" content="Explore Hello World programs in programming languages. Perfect for students learning to code.">
-    <meta property="twitter:image" content="https://DynamicDevices.github.io/say-hello-code/og-image.png">
-
-    <!-- Security headers via meta tags (GitHub Pages compatible) -->
-    <meta http-equiv="X-Content-Type-Options" content="nosniff">
-    <meta http-equiv="X-XSS-Protection" content="1; mode=block">
-    <meta name="referrer" content="strict-origin-when-cross-origin">
-
-    <!-- Performance optimizations -->
-    <meta name="theme-color" content="#3b82f6">
-    <link rel="manifest" href="manifest.json">
-
-    <!-- Additional SEO improvements -->
-    <meta name="language" content="en">
-    <meta name="revisit-after" content="7 days">
-    <meta name="rating" content="general">
-
-    <!-- Creative Commons License -->
-    <link rel="license" href="https://creativecommons.org/licenses/by/4.0/">
-    <meta name="license" content="CC BY 4.0">
-
-    <!-- Canonical URL -->
-    <link rel="canonical" href="https://DynamicDevices.github.io/say-hello-code/">
-
-    <!-- Structured Data -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "Say Hello Code",
-        "description": "A comprehensive collection of Hello World programs in programming languages for educational purposes",
-        "url": "https://DynamicDevices.github.io/say-hello-code",
-        "author": {
-            "@type": "Organization",
-            "name": "Dynamic Devices Ltd",
-            "url": "https://www.dynamicdevices.co.uk"
-        },
-        "educationalUse": "Educational resource for learning programming languages",
-        "audience": {
-            "@type": "EducationalAudience",
-            "educationalRole": "student"
-        },
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://DynamicDevices.github.io/say-hello-code/?search={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <!-- CSS Styles -->
-    <link rel="stylesheet" href="css/styles.css">
-
-    <!-- Cache busting script -->
-    <script>
-        // Force cache refresh for all JavaScript files
-        var currentVersion = 'v=2.6';
-        if (window.location.search.indexOf(currentVersion) === -1) {
-            var separator = window.location.search ? '&' : '?';
-            window.location.search = window.location.search + separator + currentVersion;
-        }
-    </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Women Pioneers in STEM | Inspire the Next Generation</title>
+  <meta name="description" content="Inspiring girls and young women to pursue STEM careers by celebrating women pioneers in science, technology, engineering, and mathematics. Includes educator resources.">
+  <meta name="keywords" content="women in STEM, girls in STEM, STEM careers, female scientists, female engineers, STEM education, role models, educators, pioneers">
+  <meta name="author" content="Women Pioneers in STEM">
+  <meta name="robots" content="index, follow">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="manifest" href="manifest.json">
 </head>
 <body>
-    <div class="main-content">
-        <!-- Header section with title, subtitle, search, and sorting -->
-        <div class="header">
-            <h1 class="title">Say Hello Code</h1>
-            <p class="subtitle">Explore "Hello, World!" programs in programming languages from 1949 to today</p>
-            <p class="creator">Created by <a href="https://www.dynamicdevices.co.uk" target="_blank" rel="noopener noreferrer">Dynamic Devices Ltd</a> in collaboration with <a href="https://claude.ai" target="_blank" rel="noopener noreferrer">Claude.ai</a></p>
+  <div class="main-content">
+    <!-- Header -->
+    <header class="header">
+      <h1 class="title">Women Pioneers in STEM</h1>
+      <p class="subtitle">Inspiring the next generation of scientists, technologists, engineers, and mathematicians</p>
+      <p class="audience-message">For girls and young women considering a future in STEM &mdash; and for the educators who support them.</p>
+    </header>
 
-            <!-- Theme toggle -->
-            <div class="theme-toggle-container">
-                <button class="theme-toggle-btn" id="themeToggle" aria-label="Toggle dark/light theme" type="button">
-                    <svg class="theme-icon sun-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                    <svg class="theme-icon moon-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                </button>
-            </div>
+    <!-- Welcome Section -->
+    <section class="welcome-section">
+      <h2>Welcome!</h2>
+      <p>
+        Are you curious about science, technology, engineering, or math? Do you wonder what it's like to change the world through discovery, invention, or innovation? This site celebrates women who have done just that&mdash;and shows you how you can follow in their footsteps!
+      </p>
+    </section>
 
-            <!-- Search input -->
-            <label for="searchInput" class="sr-only">Search programming languages</label>
-            <input type="text" class="search-input" id="searchInput" placeholder="Search by name (e.g., 'C', 'Python'), creator, or year..." aria-label="Search programming languages by name, creator, or year">
+    <!-- Why STEM Section -->
+    <section class="why-stem-section">
+      <h2>Why Choose STEM?</h2>
+      <ul>
+        <li><strong>Make a Difference:</strong> STEM careers solve real-world problems and improve lives.</li>
+        <li><strong>Be Creative:</strong> Science and technology are about curiosity, creativity, and building the future.</li>
+        <li><strong>Opportunities:</strong> STEM fields offer exciting, well-paid, and meaningful jobs.</li>
+        <li><strong>Everyone Belongs:</strong> Women and girls are needed in every STEM field. Your ideas matter!</li>
+      </ul>
+    </section>
 
-            <!-- Advanced filters container -->
-            <div class="advanced-filters" id="advancedFilters">
-                <!-- Basic filters row -->
-                <div class="filter-row">
-                    <!-- Category filter -->
-                    <label for="categoryFilter" class="sr-only">Filter by category</label>
-                    <select class="sort-select" id="categoryFilter" aria-label="Filter languages by category">
-                        <option value="">All Categories</option>
-                        <option value="Popular">Popular</option>
-                        <option value="Web">Web</option>
-                        <option value="Systems">Systems</option>
-                        <option value="Functional">Functional</option>
-                        <option value="Data Science">Data Science</option>
-                        <option value="Mobile">Mobile</option>
-                        <option value="Game Development">Game Development</option>
-                        <option value="Academic">Academic</option>
-                        <option value="Legacy">Legacy</option>
-                        <option value="Emerging">Emerging</option>
-                        <option value="Esoteric">Esoteric</option>
-                        <option value="Specialized">Specialized</option>
-                        <option value="Configuration">Configuration</option>
-                        <option value="Markup">Markup</option>
-                        <option value="Shell">Shell</option>
-                        <option value="Scripting">Scripting</option>
-                        <option value="Scientific">Scientific</option>
-                        <option value="Vintage">Vintage</option>
-                        <option value="Object-Oriented">Object-Oriented</option>
-                        <option value="Additional">Additional</option>
-                    </select>
+    <!-- Featured Pioneers Section -->
+    <section class="featured-pioneers-section">
+      <h2>Featured Women Pioneers</h2>
+      <div class="pioneers-container" id="pioneersContainer">
+        <!-- Pioneer cards will be rendered here by JS -->
+      </div>
+      <p class="more-pioneers">Explore more inspiring stories in our full collection!</p>
+    </section>
 
-                    <!-- Year range filter -->
-                    <label for="yearRangeFilter" class="sr-only">Filter by year range</label>
-                    <select class="sort-select" id="yearRangeFilter" aria-label="Filter languages by year range">
-                        <option value="">All Years</option>
-                        <option value="2020-2025">2020-2025 (Modern)</option>
-                        <option value="2010-2019">2010-2019 (Recent)</option>
-                        <option value="2000-2009">2000-2009 (Millennium)</option>
-                        <option value="1990-1999">1990-1999 (90s)</option>
-                        <option value="1980-1989">1980-1989 (80s)</option>
-                        <option value="1970-1979">1970-1979 (70s)</option>
-                        <option value="1960-1969">1960-1969 (60s)</option>
-                        <option value="1950-1959">1950-1959 (50s)</option>
-                        <option value="1940-1949">1940-1949 (40s)</option>
-                    </select>
+    <!-- For Educators Section -->
+    <section class="educators-section">
+      <h2>For Educators</h2>
+      <ul>
+        <li>Use these profiles as discussion starters or research projects.</li>
+        <li>Encourage students to find local or contemporary role models.</li>
+        <li>Connect STEM topics to real-world impact through these stories.</li>
+        <li>Share your own lesson ideas or resources with our community!</li>
+      </ul>
+      <p>See our <a href="CONTRIBUTING.md">contribution guide</a> to add new pioneers or teaching resources.</p>
+    </section>
+  </div>
 
-                    <!-- Difficulty filter -->
-                    <label for="difficultyFilter" class="sr-only">Filter by difficulty</label>
-                    <select class="sort-select" id="difficultyFilter" aria-label="Filter languages by difficulty level">
-                        <option value="">All Difficulties</option>
-                        <option value="Beginner">Beginner</option>
-                        <option value="Intermediate">Intermediate</option>
-                        <option value="Advanced">Advanced</option>
-                    </select>
-
-                    <!-- Typing system filter -->
-                    <label for="typingFilter" class="sr-only">Filter by typing system</label>
-                    <select class="sort-select" id="typingFilter" aria-label="Filter languages by typing system">
-                        <option value="">All Typing</option>
-                        <option value="Static">Static</option>
-                        <option value="Dynamic">Dynamic</option>
-                        <option value="Mixed">Mixed</option>
-                        <option value="Gradual">Gradual</option>
-                    </select>
-                </div>
-
-                <!-- Quick filter buttons -->
-                <div class="quick-filters">
-                    <button class="quick-filter-btn" data-filter="popular" aria-label="Show popular languages" type="button">Popular</button>
-                    <button class="quick-filter-btn" data-filter="new" aria-label="Show new languages" type="button">New</button>
-                    <button class="quick-filter-btn" data-filter="vintage" aria-label="Show vintage languages" type="button">Vintage</button>
-                    <button class="quick-filter-btn" data-filter="favorites" aria-label="Show favorite languages" type="button">Favorites</button>
-                    <button class="quick-filter-btn" data-filter="web" aria-label="Show web languages" type="button">Web</button>
-                    <button class="quick-filter-btn" data-filter="mobile" aria-label="Show mobile languages" type="button">Mobile</button>
-                </div>
-            </div>
-
-            <!-- Sort and clear controls -->
-            <div class="controls-row">
-                <!-- Sort select -->
-                <label for="sortSelect" class="sr-only">Sort languages</label>
-                <select class="sort-select" id="sortSelect" aria-label="Sort languages by different criteria">
-                    <option value="popularity">Sort by Popularity</option>
-                    <option value="alphabetical">Sort Alphabetically</option>
-                    <option value="year">Sort by Year</option>
-                    <option value="creator">Sort by Creator</option>
-                </select>
-
-                <!-- Clear filters button -->
-                <button class="clear-filters-btn" id="clearFilters" type="button">Clear Filters</button>
-
-                <!-- Mobile menu toggle -->
-                <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle mobile menu" type="button">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </button>
-            </div>
-        </div>
-
-        <!-- Statistics section -->
-        <div class="stats">
-            <div class="stat-item">
-                <span class="stat-number" id="totalLanguages">Loading...</span>
-                <span class="stat-label">Languages</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number" id="yearRange">Loading...</span>
-                <span class="stat-label">Year Range</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number" id="visibleLanguages">Loading...</span>
-                <span class="stat-label">Showing</span>
-            </div>
-        </div>
-
-        <!-- Container for language cards -->
-        <div class="languages-container" id="languagesContainer"></div>
-
-        <!-- Message when no results are found -->
-        <div class="no-results" id="noResults" style="display: none;">
-            <h3>No languages found</h3>
-            <p>Try adjusting your search terms</p>
-        </div>
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-content">
+      <p><strong>Women Pioneers in STEM</strong> &mdash; Inspiring girls, young women, and educators worldwide.</p>
+      <p>Content licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>.</p>
     </div>
+  </footer>
 
-    <!-- Footer section with copyright information -->
-    <footer class="footer">
-        <div class="footer-content">
-            <p><strong>Educational Programming Resource</strong> - Learn coding with Hello World examples in multiple languages</p>
-            <p>&copy; 2025 <a href="https://www.dynamicdevices.co.uk" target="_blank" rel="noopener noreferrer" title="Dynamic Devices - Software Development Company">Dynamic Devices Ltd</a>.
-            Licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer" title="Creative Commons Attribution 4.0">CC BY 4.0</a>.</p>
-            <p>Created in collaboration with <a href="https://claude.ai" target="_blank" rel="noopener noreferrer" title="Claude AI Assistant">Claude.ai</a> | Perfect for students, educators, and developers</p>
-            <div class="cc-license">
-                <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer" class="cc-license-link">
-                    <svg width="80" height="15" viewBox="0 0 80 15" class="cc-license-svg">
-                        <g fill="#cbd5e1">
-                            <!-- CC logo -->
-                            <circle cx="7.5" cy="7.5" r="7" stroke="#cbd5e1" stroke-width="1" fill="none"/>
-                            <path d="M5 5.5c-.8 0-1.5.7-1.5 1.5s.7 1.5 1.5 1.5c.4 0 .8-.2 1-.5h1c-.4.9-1.3 1.5-2 1.5-1.4 0-2.5-1.1-2.5-2.5S3.6 4.5 5 4.5c.7 0 1.6.6 2 1.5H6c-.2-.3-.6-.5-1-.5z"/>
-                            <path d="M10 5.5c-.8 0-1.5.7-1.5 1.5s.7 1.5 1.5 1.5c.4 0 .8-.2 1-.5h1c-.4.9-1.3 1.5-2 1.5-1.4 0-2.5-1.1-2.5-2.5S8.6 4.5 10 4.5c.7 0 1.6.6 2 1.5h-1c-.2-.3-.6-.5-1-.5z"/>
-                            <!-- BY -->
-                            <circle cx="25" cy="7.5" r="7" stroke="#cbd5e1" stroke-width="1" fill="none"/>
-                            <circle cx="25" cy="5.5" r="1.5" fill="#cbd5e1"/>
-                            <rect x="23" y="7.5" width="4" height="4" rx="0.5" fill="#cbd5e1"/>
-                        </g>
-                    </svg>
-                    This work is licensed under Creative Commons Attribution 4.0
-                </a>
+  <!-- JavaScript: Load and render pioneers -->
+  <script src="js/pioneers.js"></script>
+  <script>
+    // Render featured pioneers (first 3 as example)
+    function renderPioneers() {
+      const container = document.getElementById('pioneersContainer');
+      if (!container || typeof pioneers === 'undefined') return;
+      container.innerHTML = '';
+      const featured = pioneers.slice(0, 3);
+      featured.forEach(p => {
+        const card = document.createElement('div');
+        card.className = 'pioneer-card';
+        card.innerHTML = `
+          <div class="pioneer-image">
+            <img src="${p.image}" alt="Portrait of ${p.name}" onerror="this.src='icons/icon-192.png'">
+          </div>
+          <div class="pioneer-info">
+            <h3 class="pioneer-name">${p.name}</h3>
+            <p class="pioneer-field"><strong>Field:</strong> ${p.field}</p>
+            <p class="pioneer-country"><strong>Country:</strong> ${p.country}</p>
+            <p class="pioneer-era"><strong>Era:</strong> ${p.era}</p>
+            <ul class="pioneer-achievements">
+              ${p.achievements.map(a => `<li>${a}</li>`).join('')}
+            </ul>
+            <p class="pioneer-bio">${p.bio}</p>
+            <div class="pioneer-links">
+              ${p.links.map(l => `<a href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`).join(' ')}
             </div>
-        </div>
-    </footer>
-
-    <!-- JavaScript Files -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
-    <script src="js/language-urls.js?v=2.6"></script>
-    <script src="js/languages.js?v=2.7"></script>
-    <script src="js/performance.js?v=2.6"></script>
-    <script src="js/app.js?v=2.6"></script>
-    <script src="js/visualizations.js?v=1.1"></script>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+    document.addEventListener('DOMContentLoaded', renderPioneers);
+  </script>
 </body>
 </html>

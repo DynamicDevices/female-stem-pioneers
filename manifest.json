@@ -1,7 +1,7 @@
 {
-  "name": "Say Hello Code - Programming Languages Collection",
-  "short_name": "Say Hello Code",
-  "description": "Explore Hello World programs in 200+ programming languages",
+  "name": "Women Pioneers in STEM",
+  "short_name": "Women STEM",
+  "description": "Inspiring girls and young women through stories of women pioneers in STEM",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#3b82f6",
@@ -21,7 +21,7 @@
       "purpose": "any maskable"
     }
   ],
-  "categories": ["education", "developer", "reference"],
+  "categories": ["education", "inspiration", "reference"],
   "lang": "en",
   "scope": "./"
 }

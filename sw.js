@@ -1,5 +1,5 @@
 /*
-Say Hello Code - Programming Languages Collection
+Female STEM Pioneers - Inspiring the Next Generation
 Copyright (c) 2025 Dynamic Devices Ltd
 
 This work is licensed under the Creative Commons Attribution 4.0 International License.
@@ -15,14 +15,14 @@ Under the following terms:
   and indicate if changes were made.
 
 Created by Dynamic Devices Ltd in collaboration with Claude.ai
-Website: https://sayhellocode.com
+Contact: info@dynamicdevices.co.uk
 */
 
 // Service Worker for caching and offline functionality
 
-const CACHE_NAME = 'say-hello-code-v6';
-const STATIC_CACHE = 'say-hello-static-v6';
-const DYNAMIC_CACHE = 'say-hello-dynamic-v6';
+const CACHE_NAME = 'female-stem-pioneers-v1';
+const STATIC_CACHE = 'female-stem-pioneers-static-v1';
+const DYNAMIC_CACHE = 'female-stem-pioneers-dynamic-v1';
 
 // Static resources that don't change often
 const staticUrlsToCache = [
@@ -37,7 +37,7 @@ const staticUrlsToCache = [
 
 // Dynamic resources that may change frequently
 const dynamicUrls = [
-    './js/languages.js'
+    './js/pioneers.js'
 ];
 
 self.addEventListener('install', function(event) {
@@ -60,8 +60,8 @@ self.addEventListener('install', function(event) {
 self.addEventListener('fetch', function(event) {
     const requestUrl = new URL(event.request.url);
 
-    // Handle languages.js with network-first strategy
-    if (requestUrl.pathname.endsWith('/js/languages.js')) {
+    // Handle pioneers.js with network-first strategy
+    if (requestUrl.pathname.endsWith('/js/pioneers.js')) {
         event.respondWith(
             fetch(event.request)
                 .then(function(response) {

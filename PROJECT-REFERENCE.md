@@ -1,122 +1,82 @@
 
-# Say Hello Code - Project Reference
+# Women Pioneers in STEM – Project Reference
 
-**Say Hello Code** (sayhellocode.com) - "Hello, World!" programs in 240+ programming languages.
+A digital resource to inspire girls, young women, and educators by celebrating the achievements and stories of women pioneers in Science, Technology, Engineering, and Mathematics (STEM).
 
-## Repository
-```bash
-git remote -v
-origin  git@github.com:DynamicDevices/say-hello-code.git (fetch)
-origin  git@github.com:DynamicDevices/say-hello-code.git (push)
+## 🎯 Purpose
+- Inspire girls and young women to consider and pursue STEM careers.
+- Provide accessible, engaging profiles of women who have made significant contributions to STEM.
+- Serve as a resource for educators to introduce students to diverse role models and STEM career paths.
+
+## 👩‍🔬 Audience
+- **Primary:** Girls and young women (ages 10–20) considering STEM education or careers.
+- **Secondary:** Educators, mentors, and outreach coordinators seeking classroom or club resources.
+
+## 🏗️ Project Structure
 ```
-
-## File Structure
-```
-├── index.html              # Main webpage
+├── index.html              # Main homepage (welcome, why STEM, featured pioneers, educator resources)
 ├── js/
-│   ├── languages.js        # Core data: 240+ language entries
-│   └── app.js             # Frontend logic + deduplication
-├── css/styles.css         # Styling
-├── sw.js                  # Service worker (PWA)
-├── test-urls.js           # URL testing script
-└── .github/workflows/     # CI/CD
+│   └── pioneers.js         # Data: array of women pioneers in STEM
+├── css/styles.css          # Styling
+├── icons/                  # App icons and images
+├── manifest.json           # PWA manifest
+├── sw.js                   # Service worker (PWA)
+├── CONTRIBUTING.md         # Contribution guidelines
+├── README.md               # Project overview and mission
+├── PROJECT-REFERENCE.md    # (This file) Technical/content reference
+└── ...
 ```
 
-## Language Data Structure
-```javascript
+## 📝 Data Structure: Pioneer Profile
+Each entry in `js/pioneers.js` should follow this format:
+```js
 {
-    "name": "Python",
-    "year": 1991,
-    "creator": "Guido van Rossum",
-    "code": "print(\"Hello, World!\")",
-    "desc": "Description...",
-    "popularity": 95,
-    "categories": ["Scripting"],
-    "primaryCategory": "Scripting",
-    "paradigms": ["Object-oriented"],
-    "domains": ["Web Development"],
-    "difficulty": "Beginner",
-    "typing": "Dynamic"
+  name: "Ada Lovelace",
+  field: "Mathematics, Computing",
+  country: "United Kingdom",
+  era: "19th Century",
+  achievements: [
+    "First computer programmer",
+    "Worked on Charles Babbage's Analytical Engine"
+  ],
+  bio: "Ada Lovelace is often regarded as the first computer programmer for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.",
+  image: "images/ada_lovelace.jpg",
+  links: [
+    { label: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ada_Lovelace" }
+  ]
 }
 ```
+- **Required fields:** `name`, `field`, `bio`
+- **Optional fields:** `country`, `era`, `achievements`, `image`, `links`
 
-## Critical Technical Details
+## 🌟 Main Features
+- **Homepage:** Welcome, Why STEM, Featured Pioneers, For Educators
+- **Pioneer Profiles:** Cards with photo, bio, achievements, and links
+- **Search/Filter (future):** By name, field, country, era, or keyword
+- **Educator Resources:** Lesson ideas, discussion prompts, and contribution guide
+- **PWA:** Installable, works offline
+- **Accessible & Responsive:** Mobile-friendly, screen reader support
 
-### ⚠️ Deduplication Logic (app.js)
-**MUST preserve special characters** to prevent C#/C++/F# being treated as duplicates of C:
-```javascript
-normalizedName = normalizedName
-    .replace(/\s+/g, '')           // Remove spaces
-    .replace(/[^\w#\+\-\.]/g, ''); // Keep #, +, -, .
-```
+## 🧑‍🏫 For Educators
+- Use profiles as discussion starters, research projects, or inspiration boards
+- Encourage students to find and add local or contemporary role models
+- Connect STEM topics to real-world impact through these stories
+- Share lesson ideas or resources via contributions
 
-### URL Testing (test-urls.js)
-- **Timeout**: 60 seconds
-- **Batch**: 20 URLs at a time with 1s delays
-- **CI**: Auto-runs on push/PR, creates issues for failures
+## 🤝 Contributing
+- Add a new pioneer profile to `js/pioneers.js` (see data structure above)
+- Suggest corrections or additional information for existing profiles
+- Improve design, accessibility, or features
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for details
 
-### Reference Links (app.js)
-Uses `baseUrls` object for known languages, Google search fallback for others.
+## 🚀 Deployment
+- Static site, auto-deployed to GitHub Pages after CI passes
+- PWA features for offline use
 
-## Common Tasks
+## 📚 License
+- Content: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+- Code: MIT or same as content (see LICENSE)
 
-### Add New Language
-1. Add entry to `js/languages.js`
-2. Optionally add URL to `baseUrls` in `js/app.js`
-3. Test: `node -e "require('./js/languages.js'); console.log(languages.length)"`
+---
 
-### Fix Missing Languages
-- Check deduplication logic if languages disappear
-- Verify no syntax errors in languages.js
-
-### Fix URL Issues
-- Update `baseUrls` in `js/app.js`
-- Test: `node test-urls.js`
-- Check CI artifacts for detailed reports
-
-### Recent URL Fixes (December 2024)
-**Fixed 16 broken/timeout URLs achieving 100% success rate:**
-- **Broken URLs Fixed**: ActionScript, MATLAB, Ksh, Oberon, Ook!, V, Xamarin, Deno, Batch, X10, Creole
-- **Timeout Issues Resolved**: AWK, Bash, Makefile, Octave, Sed (GNU.org sites replaced with faster alternatives)
-- **Timeout Setting**: Increased from 15s to 60s for better reliability
-- **Strategy**: Prioritized best available documentation sources regardless of year
-- **Result**: 242/242 URLs working (100% success rate, 0 timeouts, 0 failures)
-
-**Key Replacements Made:**
-- GNU.org URLs → Alternative sources (TutorialsPoint, W3Schools, Wikipedia, official sites)
-- Adobe ActionScript → AIR SDK documentation
-- MathWorks MATLAB → Wikipedia (403 bypass)
-- Various 404s → Current working documentation
-
-### Bot-Restricted URLs (403 Handling)
-**New Feature**: 403 Forbidden errors are now treated as informational warnings rather than failures:
-- **Rationale**: 403 errors are typically due to bot/automated access restrictions, not broken URLs
-- **Behavior**: URLs returning 403 are logged separately and don't cause CI failures
-- **Display**: Shows with 🤖 icon and "Bot Restricted" category in summary
-- **Exit Code**: Script exits with success (0) even with 403 errors present
-- **Use Case**: Allows human users to access URLs that block automated requests
-
-## Deployment
-- **Host**: GitHub Pages
-- **Domain**: sayhellocode.com (Cloudflare CDN)
-- **CI**: Auto-deploys after URL testing passes
-
-## Debug Commands
-```bash
-# Test language loading
-node -e "require('./js/languages.js'); console.log('Languages:', languages.length)"
-
-# Test URLs
-node test-urls.js
-
-# Local server
-python3 -m http.server 8000
-```
-
-## License
-Creative Commons Attribution 4.0 International - Commercial use allowed with attribution.
-
-## Contributors
-- **Creator**: Faisal Shahzad Khan
-- **Contributors**: Andy Stanford-Clark, Dynamic Devices Ltd, [Jim Hunt (V2G-Ltd)](https://github.com/V2G-Ltd)
-- **AI Assistant**: Claude.ai
+*This file is the technical and content reference for all contributors and AI assistants. Please review before making changes or starting a new chat.*

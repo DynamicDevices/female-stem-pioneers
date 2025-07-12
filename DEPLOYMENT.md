@@ -37,19 +37,19 @@
 2. **Wait for deployment** (usually 1-10 minutes)
 
 3. **Your site will be available at:**
-   `https://DynamicDevices.github.io/say-hello-code`
+   `https://your-username.github.io/women-pioneers-stem`
 
 ## Custom Domain (Optional)
 
 **Option 1: Use GitHub Pages URL (Default)**
-- Site available at: `https://dynamicdevices.github.io/say-hello-code`
+- Site available at: `https://your-username.github.io/women-pioneers-stem`
 - Delete CNAME file if you don't want custom domain
 - All URLs already configured for GitHub Pages
 
 **Option 2: Use Custom Domain**
 1. Add `CNAME` file with your domain:
    ```
-   yourdomain.com
+   women-pioneers-stem.com
    ```
 
 2. Configure DNS with your domain provider:
