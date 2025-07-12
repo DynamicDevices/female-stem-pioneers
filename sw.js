@@ -31,12 +31,12 @@ const staticUrlsToCache = [
     './css/styles.css',
     './js/performance.js',
     './js/app.js',
-    './js/visualizations.js',
+
     './manifest.json',
     './404.html',
     './images/stem-female-pattern.svg',
     'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700;800;900&display=swap',
-    'https://d3js.org/d3.v7.min.js'
+
 ];
 
 // Dynamic resources that may change frequently
