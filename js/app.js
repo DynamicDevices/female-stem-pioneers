@@ -109,35 +109,6 @@ class PioneersApp {
     return match ? parseInt(match[1]) : 0;
   }
 
-  renderPioneers() {
-    const container = document.getElementById('pioneersContainer');
-    const noResults = document.getElementById('noResults');
-    
-    console.log('Rendering pioneers:', this.filteredPioneers.length);
-    
-    if (!container) {
-      console.error('Pioneers container not found');
-      return;
-    }
-
-    container.innerHTML = '';
-
-    if (this.filteredPioneers.length === 0) {
-      console.log('No pioneers to display');
-      if (noResults) noResults.style.display = 'block';
-      return;
-    }
-
-    if (noResults) noResults.style.display = 'none';
-
-    this.filteredPioneers.forEach((pioneer, index) => {
-      const card = this.createPioneerCard(pioneer, index);
-      container.appendChild(card);
-    });
-    
-    console.log('Rendered', this.filteredPioneers.length, 'pioneer cards');
-  }
-
   createPioneerCard(pioneer, index) {
     const card = document.createElement('div');
     card.className = 'pioneer-card';
@@ -162,7 +133,9 @@ class PioneersApp {
     card.innerHTML = `
       <div class="pioneer-card-header">
         <div class="pioneer-image">
-          <img src="${pioneer.photo}" alt="Portrait of ${pioneer.name}" 
+          <img data-src="${pioneer.photo}" alt="Portrait of ${pioneer.name}" 
+               class="lazy-image"
+               src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiBmaWxsPSIjMzM0MTU1IiByeD0iNDAiLz48L3N2Zz4="
                onerror="this.onerror=null;this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojZjhmYWZjO3N0b3Atb3BhY2l0eToxIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6I2UyZThmMDtzdG9wLW9wYWNpdHk6MSIgLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNiZykiIHJ4PSIxMCIvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEwMCwgMTAwKSI+PGNpcmNsZSBjeD0iMCIgY3k9Ii0yMCIgcj0iMjUiIGZpbGw9IiM2NDc0OGIiLz48cGF0aCBkPSJNIC0yNSAtNDUgUSAwIC0xMDAgMjUgLTQ1IiBzdHJva2U9IiM2NDc0OGIiIHN0cm9rZS13aWR0aD0iNCIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0gLTIwIC0zMCBRIDAgLTYwIDIwIC0zMCIgc3Ryb2tlPSIjNjQ3NDhiIiBzdHJva2Utd2lkdGg9IjMiIGZpbGw9Im5vbmUiLz48cGF0aCBkPSJNIC0xNSAtMzUgUSAwIC01MCAxNSAtMzUiIHN0cm9rZT0iIzY0NzQ4YiIgc3Ryb2tlLXdpZHRoPSIzIiBmaWxsPSJub25lIi8+PHBhdGggZD0iTSAtMTAgLTQwIFEgMCAtNTUgMTAgLTQwIiBzdHJva2U9IiM2NDc0OGIiIHN0cm9rZS13aWR0aD0iMyIgZmlsbD0ibm9uZSIvPjwvZz48dGV4dCB4PSIxMDAiIHk9IjE5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSIjNjQ3NDhiIj5QaW9uZWVyIFBvcnRyYWl0PC90ZXh0Pjwvc3ZnPg==';" 
                onload="this.classList.add('loaded')"
                onclick="window.pioneersApp.openImageModal('${pioneer.photo}', '${pioneer.name}', '${pioneer.lifespan}', '${pioneer.country}')"
@@ -326,6 +299,61 @@ class PioneersApp {
       'Medicine': 'medicine'
     };
     return fieldMap[field] || 'mathematics'; // Default to mathematics if field not found
+  }
+
+  setupLazyLoading() {
+    if ('IntersectionObserver' in window) {
+      const imageObserver = new IntersectionObserver((entries, observer) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const img = entry.target;
+            img.src = img.dataset.src;
+            img.classList.remove('lazy-image');
+            observer.unobserve(img);
+          }
+        });
+      }, {
+        rootMargin: '50px 0px',
+        threshold: 0.01
+      });
+
+      // Observe all lazy images
+      document.querySelectorAll('.lazy-image').forEach(img => {
+        imageObserver.observe(img);
+      });
+    }
+  }
+
+  renderPioneers() {
+    const container = document.getElementById('pioneersContainer');
+    const noResults = document.getElementById('noResults');
+    
+    console.log('Rendering pioneers:', this.filteredPioneers.length);
+    
+    if (!container) {
+      console.error('Pioneers container not found');
+      return;
+    }
+
+    container.innerHTML = '';
+
+    if (this.filteredPioneers.length === 0) {
+      console.log('No pioneers to display');
+      if (noResults) noResults.style.display = 'block';
+      return;
+    }
+
+    if (noResults) noResults.style.display = 'none';
+
+    this.filteredPioneers.forEach((pioneer, index) => {
+      const card = this.createPioneerCard(pioneer, index);
+      container.appendChild(card);
+    });
+    
+    // Setup lazy loading after rendering
+    this.setupLazyLoading();
+    
+    console.log('Rendered', this.filteredPioneers.length, 'pioneer cards');
   }
 }
 

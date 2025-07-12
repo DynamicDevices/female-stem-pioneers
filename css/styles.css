@@ -2900,3 +2900,44 @@ body.light-theme .mobile-menu-toggle span {
     color: #60a5fa;
     transform: scale(1.05);
 }
+
+/* Lazy Loading Styles */
+.lazy-image {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    filter: blur(2px);
+}
+
+.lazy-image.loaded {
+    opacity: 1;
+    filter: blur(0);
+}
+
+/* Loading placeholder */
+.pioneer-image {
+    position: relative;
+    overflow: hidden;
+}
+
+.pioneer-image::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    animation: loading-shimmer 1.5s infinite;
+}
+
+@keyframes loading-shimmer {
+    0% { left: -100%; }
+    100% { left: 100%; }
+}
+
+/* Optimize image rendering */
+.pioneer-image img {
+    will-change: opacity;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+}
