@@ -154,7 +154,8 @@ class PioneersApp {
       <div class="pioneer-card-header">
         <div class="pioneer-portrait">
           <img src="${pioneer.photo}" alt="Portrait of ${pioneer.name}" 
-               onerror="this.style.display='none'">
+               onerror="this.style.display='none'" 
+               onload="this.style.display='block'">
         </div>
         <div class="pioneer-header-info">
           <h3 class="pioneer-name">${pioneer.name}</h3>

@@ -1953,6 +1953,12 @@ body.light-theme .mobile-menu-toggle span {
     height: 100%;
     object-fit: cover;
     border-radius: 50%;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+}
+
+.pioneer-portrait img[style*="display: block"] {
+    opacity: 1;
 }
 
 .pioneer-portrait::before {

@@ -4,7 +4,7 @@
 const pioneers = [
   {
     name: "Ada Lovelace",
-    photo: "",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ada_lovelace.jpg",
     lifespan: "1815–1852",
     country: "United Kingdom",
     fields: ["Mathematics", "Computing"],
@@ -84,7 +84,7 @@ const pioneers = [
   },
   {
     name: "Marie Curie",
-    photo: "",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c1920.jpg",
     lifespan: "1867–1934",
     country: "Poland/France",
     fields: ["Physics", "Chemistry"],
@@ -169,7 +169,7 @@ const pioneers = [
   },
   {
     name: "Katherine Johnson",
-    photo: "",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/6/68/Katherine_Johnson_at_NASA%2C_in_1966.jpg",
     lifespan: "1918–2020",
     country: "United States",
     fields: ["Mathematics", "Aerospace"],
@@ -253,7 +253,7 @@ const pioneers = [
   },
   {
     name: "Grace Hopper",
-    photo: "",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/3/37/Grace_Hopper_and_UNIVAC.jpg",
     lifespan: "1906–1992",
     country: "United States",
     fields: ["Computer Science", "Mathematics"],
@@ -336,7 +336,7 @@ const pioneers = [
   },
   {
     name: "Rosalind Franklin",
-    photo: "",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Rosalind_Franklin.jpg",
     lifespan: "1920–1958",
     country: "United Kingdom",
     fields: ["Chemistry", "Biology"],
@@ -416,7 +416,7 @@ const pioneers = [
   },
   {
     name: "Chien-Shiung Wu",
-    photo: "",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chien-Shiung_Wu.jpg",
     lifespan: "1912–1997",
     country: "China/United States",
     fields: ["Physics"],
