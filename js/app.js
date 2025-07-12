@@ -144,11 +144,11 @@ class PioneersApp {
         <div class="pioneer-header-info">
           <h3 class="pioneer-name">${pioneer.name}</h3>
           <div class="pioneer-field">${fieldsBadges}</div>
-          <p class="pioneer-subtitle">${pioneer.summary}</p>
           <div class="pioneer-meta">
             <span class="pioneer-lifespan">${pioneer.lifespan}</span>
             <span class="pioneer-country">${pioneer.country}</span>
           </div>
+          <p class="pioneer-subtitle">${pioneer.summary}</p>
         </div>
       </div>
 
