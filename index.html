@@ -132,9 +132,6 @@
     </script>
   </head>
   <body>
-    <!-- Debug timestamp for GitHub Pages deployment -->
-    <div id="debug-timestamp" style="position: fixed; top: 10px; left: 10px; background: rgba(0,0,0,0.8); color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px; z-index: 9999; font-family: monospace;"></div>
-    
     <div class="main-content">
       <!-- Header -->
       <header class="header">
@@ -325,15 +322,18 @@
     
     <!-- Debug timestamp script -->
     <script>
-      function updateTimestamp() {
-        const commitHash = 'cb29c58fa39d60e95c120e8b3a632aec291fc648';
-        const commitDate = '2025-07-13 09:55:34 +0100';
+      function logCommitInfo() {
+        const commitHash = '34c590f0a39d60e95c120e8b3a632aec291fc648';
+        const commitDate = '2025-07-13 09:56:45 +0100';
         const shortHash = commitHash.substring(0, 8);
-        document.getElementById('debug-timestamp').textContent = `Commit: ${shortHash} (${commitDate})`;
+        console.log(`🚀 GitHub Pages Deployment Info:`);
+        console.log(`📝 Commit: ${shortHash} (${commitDate})`);
+        console.log(`🌐 Site: https://dynamicdevices.github.io/female-stem-pioneers/`);
+        console.log(`⏰ Deployed: ${new Date().toLocaleString()}`);
       }
       
-      // Update timestamp immediately
-      updateTimestamp();
+      // Log commit info immediately
+      logCommitInfo();
     </script>
   </body>
 </html>
