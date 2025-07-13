@@ -516,366 +516,143 @@ const pioneers = [
     "deathDate": "1997",
     "country": "China/United States",
     "fields": [
-      "Physics"
+      "Physics",
+      "Nuclear Physics"
     ],
     "roles": [
       "Physicist",
       "Professor"
     ],
     "quote": "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
-    "summary": "Experimental physicist known as the 'First Lady of Physics' for her work on the Manhattan Project and parity violation.",
-    "shortDescription": "Chien-Shiung Wu was an experimental physicist known as the 'First Lady of Physics' for her work on the Manhattan Project and parity violation. She conducted the Wu experiment proving parity violation, a fundamental principle in physics. Her work on nuclear physics was fundamental to our understanding of atomic energy and she became the first woman to receive the Wolf Prize in Physics.",
+    "summary": "Known as the 'First Lady of Physics' for her groundbreaking work in nuclear physics.",
+    "shortDescription": "Chien-Shiung Wu was a brilliant physicist known as the 'First Lady of Physics.' She disproved a fundamental law of physics called the Law of Conservation of Parity, which earned her colleagues the Nobel Prize. Despite her crucial contribution, she wasn't included in the award, highlighting the challenges women faced in science. Wu's work helped advance our understanding of the universe and opened doors for women in physics.",
     "achievements": [
-      "Conducted the Wu experiment proving parity violation",
-      "Worked on the Manhattan Project",
-      "Called the 'First Lady of Physics'"
+      "Disproved the Law of Conservation of Parity",
+      "Pioneered research in nuclear physics",
+      "First woman to serve as president of the American Physical Society",
+      "Developed the Wu experiment"
     ],
-    "references": [
+    "awards": [
+      "National Medal of Science (1975)",
+      "Wolf Prize in Physics (1978)",
+      "Comstock Prize in Physics (1964)"
+    ],
+    "education": [
       {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu"
+        "degree": "PhD",
+        "field": "Physics",
+        "institution": "University of California, Berkeley"
       }
-    ]
+    ],
+    "impact": "Revolutionized nuclear physics and paved the way for women in the field.",
+    "fun_fact": "Wu was the first woman to receive an honorary doctorate from Princeton University.",
+    "career_path": {
+      "first_job": "Research assistant at University of California, Berkeley",
+      "career_highlights": [
+        "Joined Manhattan Project during WWII",
+        "Conducted the Wu experiment in 1956",
+        "Became first female president of American Physical Society"
+      ],
+      "advice_for_students": "Don't let anyone tell you what you can't do. Physics is for everyone who is curious about how the universe works."
+    }
   },
   {
-    "name": "Caroline Keep",
-    "photo": "./images/placeholder-woman.svg",
-    "birthDate": "1980",
-    "country": "United Kingdom",
-    "fields": [
-      "Education",
-      "Technology"
-    ],
-    "roles": [
-      "Educator",
-      "STEM Advocate"
-    ],
-    "quote": "Education is the most powerful tool for changing the world.",
-    "summary": "Award-winning educator and advocate for makerspaces and STEM education in schools.",
-    "shortDescription": "Caroline Keep is an award-winning educator and advocate for makerspaces and STEM education in schools. She founded makerspaces in UK schools and promotes STEM and digital skills for girls. Her innovative approach to education has inspired teachers and students alike, showing how hands-on learning can make STEM subjects more accessible and engaging for all students.",
-    "achievements": [
-      "Winner of the TES New Teacher of the Year Award",
-      "Founded makerspaces in UK schools",
-      "Promotes STEM and digital skills for girls"
-    ],
-    "references": [
-      {
-        "title": "TES Awards",
-        "url": "https://www.tes.com/awards"
-      }
-    ]
-  },
-  {
-    "name": "Princy Johnson",
-    "photo": "./images/princy-johnson.jpg",
-    "birthDate": "1990",
-    "country": "India",
-    "fields": [
-      "Engineering",
-      "Robotics"
-    ],
-    "roles": [
-      "Engineer",
-      "Robotics Researcher"
-    ],
-    "quote": "Innovation is seeing what everybody has seen and thinking what nobody has thought.",
-    "summary": "Robotics engineer and researcher advancing automation and AI in India.",
-    "shortDescription": "Princy Johnson is a robotics engineer and researcher advancing automation and AI in India. She developed low-cost robotics solutions for education and published research on AI and automation. Her work demonstrates how technology can be used to solve real-world problems and make STEM education more accessible to students in developing countries.",
-    "achievements": [
-      "Developed low-cost robotics solutions for education",
-      "Published research on AI and automation",
-      "Mentors young women in engineering"
-    ],
-    "references": [
-      {
-        "title": "LinkedIn",
-        "url": "https://www.linkedin.com/in/princy-johnson"
-      }
-    ]
-  },
-  {
-    "name": "Maryam Mirzakhani",
-    "photo": "./images/maryam-mirzakhani.jpg",
-    "birthDate": "1977",
-    "deathDate": "2017",
-    "country": "Iran",
-    "fields": [
-      "Mathematics"
-    ],
-    "roles": [
-      "Mathematician",
-      "Professor"
-    ],
-    "quote": "The beauty of mathematics only shows itself to more patient followers.",
-    "summary": "First woman to win the Fields Medal, the highest honor in mathematics.",
-    "shortDescription": "Maryam Mirzakhani was the first woman to win the Fields Medal, the highest honor in mathematics. She pioneered research in geometry and dynamical systems, making groundbreaking contributions to the understanding of complex mathematical structures. Her work showed that women could excel at the highest levels of pure mathematics, inspiring countless young mathematicians around the world.",
-    "achievements": [
-      "First woman and first Iranian to win the Fields Medal",
-      "Pioneered research in geometry and dynamical systems",
-      "Professor at Stanford University"
-    ],
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Maryam_Mirzakhani"
-      }
-    ]
-  },
-  {
-    "name": "Tu Youyou",
-    "photo": "./images/tu-youyou.jpg",
-    "birthDate": "1930",
-    "country": "China",
-    "fields": [
-      "Medicine",
-      "Pharmacology"
-    ],
-    "roles": [
-      "Pharmacologist",
-      "Scientist"
-    ],
-    "quote": "Every scientist dreams of doing something that can help the world.",
-    "summary": "Discovered artemisinin, saving millions from malaria; Nobel Prize winner.",
-    "shortDescription": "Tu Youyou discovered artemisinin, a groundbreaking malaria treatment, saving millions of lives. She won the Nobel Prize in Physiology or Medicine for her discovery, becoming the first Chinese woman to win a Nobel Prize in science. Her work demonstrates how traditional medicine and modern scientific methods can be combined to solve global health challenges.",
-    "achievements": [
-      "Discovered artemisinin for malaria treatment",
-      "Nobel Prize in Physiology or Medicine (2015)",
-      "Transformed global malaria treatment"
-    ],
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tu_Youyou"
-      }
-    ]
-  },
-  {
-    "name": "Mae Jemison",
-    "photo": "./images/mae-jemison.jpg",
-    "birthDate": "1956",
+    "name": "Sally Ride",
+    "photo": "./images/sally-ride.jpg",
+    "birthDate": "1951",
+    "deathDate": "2012",
     "country": "United States",
     "fields": [
-      "Astronomy",
-      "Medicine"
+      "Physics",
+      "Astronautics"
     ],
     "roles": [
       "Astronaut",
-      "Physician"
+      "Physicist",
+      "Professor"
     ],
-    "quote": "Never be limited by other people's limited imaginations.",
-    "summary": "First African American woman in space; physician and engineer.",
-    "shortDescription": "Mae Jemison was the first African American woman in space. She was a physician and engineer, serving as a mission specialist on the Space Shuttle Endeavour. After her space career, she founded the Jemison Group to develop advanced technologies and has been a strong advocate for science education, especially for girls and minorities.",
+    "quote": "I would like to be remembered as someone who was not afraid to do what she wanted to do, and as someone who took risks along the way in order to achieve her goals.",
+    "summary": "First American woman in space and youngest American astronaut to travel to space.",
+    "shortDescription": "Sally Ride was the first American woman to travel to space, breaking barriers and inspiring millions of girls to pursue careers in science and engineering. She flew on the Space Shuttle Challenger in 1983 and later became a professor of physics. Sally founded a company to create science programs for students and wrote children's books about space. She showed that the sky is not the limit for women in STEM.",
     "achievements": [
-      "First African American woman to travel in space",
-      "Mission specialist on Space Shuttle Endeavour",
-      "Advocate for science education"
+      "First American woman in space",
+      "Youngest American astronaut to travel to space",
+      "Founded Sally Ride Science to inspire students",
+      "Wrote children's books about space"
     ],
-    "references": [
+    "awards": [
+      "National Space Society's Von Braun Award",
+      "NASA Space Flight Medal",
+      "Inducted into National Women's Hall of Fame"
+    ],
+    "education": [
       {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Mae_Jemison"
+        "degree": "PhD",
+        "field": "Physics",
+        "institution": "Stanford University"
       }
-    ]
+    ],
+    "impact": "Inspired generations of women to pursue careers in space exploration and STEM.",
+    "fun_fact": "Sally Ride was also a nationally ranked tennis player in college.",
+    "career_path": {
+      "first_job": "Physics researcher at Stanford University",
+      "career_highlights": [
+        "Selected as NASA astronaut in 1978",
+        "First space flight in 1983",
+        "Founded Sally Ride Science in 2001"
+      ],
+      "advice_for_students": "Follow your curiosity and don't let stereotypes limit your dreams. Space is for everyone."
+    }
   },
   {
-    "name": "Barbara McClintock",
-    "photo": "./images/barbara-mcclintock.jpg",
-    "birthDate": "1902",
-    "deathDate": "1992",
-    "country": "United States",
-    "fields": [
-      "Biology",
-      "Genetics"
-    ],
-    "roles": [
-      "Geneticist",
-      "Scientist"
-    ],
-    "quote": "If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off... no matter what they say.",
-    "summary": "Nobel Prize-winning geneticist who discovered transposable elements (jumping genes).",
-    "shortDescription": "Barbara McClintock was a Nobel Prize-winning geneticist who discovered transposable elements (jumping genes) in maize. Her work laid the foundation for understanding genetic inheritance and plant breeding. Despite initial skepticism from the scientific community, her discoveries revolutionized our understanding of genetics and earned her the Nobel Prize in Physiology or Medicine.",
-    "achievements": [
-      "Discovered genetic transposition",
-      "Nobel Prize in Physiology or Medicine (1983)",
-      "Pioneered maize cytogenetics"
-    ],
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Barbara_McClintock"
-      }
-    ]
-  },
-  {
-    "name": "Lise Meitner",
-    "photo": "./images/lise-meitner.jpg",
-    "birthDate": "1878",
-    "deathDate": "1968",
-    "country": "Austria/Germany/Sweden",
-    "fields": [
-      "Physics"
-    ],
-    "roles": [
-      "Physicist"
-    ],
-    "quote": "Science makes people reach selflessly for truth and objectivity.",
-    "summary": "Co-discovered nuclear fission; element Meitnerium named in her honor.",
-    "shortDescription": "Lise Meitner co-discovered nuclear fission and was the first woman full professor of physics in Germany. Her work on nuclear physics was fundamental to our understanding of atomic energy. Despite being forced to flee Nazi Germany, she continued her research and made crucial contributions to nuclear physics, though she was often overlooked in favor of her male colleagues.",
-    "achievements": [
-      "Co-discovered nuclear fission",
-      "First woman full professor of physics in Germany",
-      "Element 109 (Meitnerium) named after her"
-    ],
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Lise_Meitner"
-      }
-    ]
-  },
-  {
-    "name": "Dorothy Vaughan",
-    "photo": "./images/dorothy-vaughan.jpg",
-    "birthDate": "1910",
-    "deathDate": "2008",
+    "name": "Katherine Johnson",
+    "photo": "./images/katherine-johnson.jpg",
+    "birthDate": "1918",
+    "deathDate": "2020",
     "country": "United States",
     "fields": [
       "Mathematics",
-      "Computing"
+      "Physics"
     ],
     "roles": [
       "Mathematician",
-      "Computer Programmer"
+      "Computer"
     ],
-    "quote": "I changed what I could, and what I couldn't, I endured.",
-    "summary": "NASA mathematician and supervisor, featured in 'Hidden Figures'.",
-    "shortDescription": "Dorothy Vaughan was a NASA mathematician and supervisor, featured in the book and movie 'Hidden Figures'. She paved the way for women in computing and was the first African American supervisor at NASA. Her expertise in FORTRAN programming helped transition NASA from human computers to electronic computers, and she mentored many women who followed in her footsteps.",
+    "quote": "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed... anything that could be counted, I did.",
+    "summary": "NASA mathematician whose calculations were critical to the success of early space missions.",
+    "shortDescription": "Katherine Johnson was a brilliant mathematician who calculated the trajectories for NASA's first space missions, including the Apollo 11 moon landing. She worked at NASA when computers were people, not machines, and her precise calculations helped ensure the safety of astronauts. Katherine broke barriers as a Black woman in a male-dominated field and inspired the movie 'Hidden Figures.' Her work literally launched humanity into space.",
     "achievements": [
-      "First African American supervisor at NASA",
-      "Expert in FORTRAN programming",
-      "Paved the way for women in computing"
+      "Calculated trajectories for Apollo 11 moon landing",
+      "Verified computer calculations for John Glenn's flight",
+      "Worked on Space Shuttle program",
+      "Received Presidential Medal of Freedom"
     ],
-    "references": [
+    "awards": [
+      "Presidential Medal of Freedom (2015)",
+      "Congressional Gold Medal (2019)",
+      "NASA Group Achievement Award"
+    ],
+    "education": [
       {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Dorothy_Vaughan"
+        "degree": "Bachelor's",
+        "field": "Mathematics",
+        "institution": "West Virginia State University"
       }
-    ]
+    ],
+    "impact": "Her calculations were critical to the success of early space missions and inspired millions.",
+    "fun_fact": "Katherine graduated from high school at age 14 and college at age 18.",
+    "career_path": {
+      "first_job": "Teacher in West Virginia",
+      "career_highlights": [
+        "Joined NASA's predecessor NACA in 1953",
+        "Calculated trajectory for Alan Shepard's flight",
+        "Verified calculations for John Glenn's orbital flight"
+      ],
+      "advice_for_students": "Learn everything you can, then do what you want to do. Math is everywhere in the world around us."
+    }
   },
   {
-    "name": "Ellen Ochoa",
-    "photo": "./images/ellen-ochoa.jpg",
-    "birthDate": "1958",
-    "country": "United States",
-    "fields": [
-      "Astronomy",
-      "Engineering"
-    ],
-    "roles": [
-      "Astronaut",
-      "Engineer"
-    ],
-    "quote": "Don't be afraid to reach for the stars.",
-    "summary": "First Hispanic woman in space and former director of Johnson Space Center.",
-    "shortDescription": "Ellen Ochoa was the first Hispanic woman in space and former director of Johnson Space Center. She was an astronaut and engineer, serving as an inventor with multiple patents. Her leadership at NASA has inspired countless Hispanic students to pursue careers in STEM, and she continues to advocate for diversity in the space program.",
-    "achievements": [
-      "First Hispanic woman in space",
-      "Director of NASA Johnson Space Center",
-      "Inventor with multiple patents"
-    ],
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ellen_Ochoa"
-      }
-    ]
-  },
-  {
-    "name": "Ada Yonath",
-    "photo": "./images/ada-yonath.jpg",
-    "birthDate": "1939",
-    "country": "Israel",
-    "fields": [
-      "Chemistry",
-      "Biology"
-    ],
-    "roles": [
-      "Crystallographer",
-      "Professor"
-    ],
-    "quote": "Curiosity is the driving force for discovery.",
-    "summary": "Nobel Prize-winning crystallographer who revealed the structure of ribosomes.",
-    "shortDescription": "Ada Yonath was a Nobel Prize-winning crystallographer who revealed the structure of ribosomes. Her work on ribosomes is fundamental to our understanding of protein synthesis and antibiotic research. She was the first woman in 45 years to win the Nobel Prize in Chemistry, and her research has led to the development of new antibiotics that target bacterial ribosomes.",
-    "achievements": [
-      "First woman in 45 years to win Nobel Prize in Chemistry",
-      "Solved structure of ribosomes",
-      "Advanced antibiotic research"
-    ],
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ada_Yonath"
-      }
-    ]
-  },
-  {
-    "name": "Valentina Tereshkova",
-    "photo": "./images/valentina-tereshkova.jpg",
-    "birthDate": "1937",
-    "country": "Russia",
-    "fields": [
-      "Astronomy",
-      "Engineering"
-    ],
-    "roles": [
-      "Cosmonaut",
-      "Engineer"
-    ],
-    "quote": "Once you've been in space, you appreciate how small and fragile the Earth is.",
-    "summary": "First woman to fly in space, piloting Vostok 6 in 1963.",
-    "shortDescription": "Valentina Tereshkova was the first woman to fly in space, piloting Vostok 6 in 1963. She orbited Earth 48 times and became a role model for women in STEM worldwide. Her historic flight proved that women could handle the physical and mental demands of space travel, opening the door for future female astronauts and cosmonauts.",
-    "achievements": [
-      "First woman in space",
-      "Orbited Earth 48 times",
-      "Role model for women in STEM worldwide"
-    ],
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Valentina_Tereshkova"
-      }
-    ]
-  },
-  {
-    "name": "Radia Perlman",
-    "photo": "./images/radia-perlman.jpg",
-    "birthDate": "1951",
-    "country": "United States",
-    "fields": [
-      "Computer Science",
-      "Engineering"
-    ],
-    "roles": [
-      "Computer Scientist",
-      "Engineer"
-    ],
-    "quote": "I never thought of myself as a woman in science. I just thought of myself as a person who loves science.",
-    "summary": "Inventor of the spanning-tree protocol, known as the 'Mother of the Internet'.",
-    "shortDescription": "Radia Perlman is the inventor of the spanning-tree protocol, known as the 'Mother of the Internet'. She pioneered network design and security, and was inducted into the Internet Hall of Fame. Her work on network protocols has been fundamental to the development of the modern internet, and she continues to be a leading voice in computer networking and security.",
-    "achievements": [
-      "Invented the spanning-tree protocol",
-      "Pioneered network design and security",
-      "Inducted into the Internet Hall of Fame"
-    ],
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Radia_Perlman"
-      }
-    ]
-  },
-  {
-    "name": "Grace Chisholm Young",
+    "name": "Caroline Keep",
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1868",
     "deathDate": "1944",
@@ -1561,6 +1338,281 @@ const pioneers = [
         "url": "https://en.wikipedia.org/wiki/Hertha_Ayrton"
       }
     ]
+  },
+  {
+    "name": "Wangari Maathai",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1940",
+    "deathDate": "2011",
+    "country": "Kenya",
+    "fields": [
+      "Biology",
+      "Environmental Science"
+    ],
+    "roles": [
+      "Environmentalist",
+      "Biologist",
+      "Activist"
+    ],
+    "quote": "It's the little things citizens do. That's what will make the difference. My little thing is planting trees.",
+    "summary": "First African woman to win the Nobel Peace Prize for her environmental and women's rights work.",
+    "shortDescription": "Wangari Maathai was a Kenyan environmentalist who founded the Green Belt Movement, planting over 51 million trees across Africa. She was the first African woman to win the Nobel Peace Prize for her work combining environmental conservation with women's empowerment. Wangari showed how science and activism can work together to create positive change for communities and the planet.",
+    "achievements": [
+      "First African woman to win Nobel Peace Prize",
+      "Founded the Green Belt Movement",
+      "Planted over 51 million trees",
+      "Pioneered community-based environmental conservation"
+    ],
+    "awards": [
+      "Nobel Peace Prize (2004)",
+      "Right Livelihood Award (1984)"
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Biological Sciences",
+        "institution": "University of Nairobi"
+      }
+    ],
+    "impact": "Revolutionized environmental conservation in Africa and empowered women through tree planting.",
+    "fun_fact": "Wangari was the first woman in East and Central Africa to earn a doctorate degree.",
+    "career_path": {
+      "first_job": "Research assistant at University of Nairobi",
+      "career_highlights": [
+        "Founded Green Belt Movement in 1977",
+        "Elected to Kenyan Parliament",
+        "Won Nobel Peace Prize in 2004"
+      ],
+      "advice_for_students": "Start with small actions in your community. Every tree planted makes a difference."
+    }
+  },
+  {
+    "name": "Maya Angelou",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1928",
+    "deathDate": "2014",
+    "country": "United States",
+    "fields": [
+      "Literature",
+      "Education"
+    ],
+    "roles": [
+      "Poet",
+      "Author",
+      "Professor"
+    ],
+    "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "summary": "Renowned poet, author, and civil rights activist who inspired millions through her writing and teaching.",
+    "shortDescription": "Maya Angelou was a celebrated poet, author, and civil rights activist who used her powerful voice to inspire change. She wrote over 30 books and became the first Black woman to write a screenplay for a major film. Maya taught at universities and used her platform to advocate for equality and education. Her work continues to inspire students to find their voice and make a difference.",
+    "achievements": [
+      "First Black woman to write a screenplay for a major film",
+      "Published over 30 books",
+      "Recited poetry at President Clinton's inauguration",
+      "Awarded Presidential Medal of Freedom"
+    ],
+    "awards": [
+      "Presidential Medal of Freedom (2011)",
+      "National Medal of Arts (2000)",
+      "Grammy Award for Best Spoken Word Album"
+    ],
+    "education": [
+      {
+        "degree": "Honorary Doctorate",
+        "field": "Literature",
+        "institution": "Multiple Universities"
+      }
+    ],
+    "impact": "Inspired generations through literature and civil rights activism.",
+    "fun_fact": "Maya Angelou spoke six languages fluently.",
+    "career_path": {
+      "first_job": "Streetcar conductor in San Francisco",
+      "career_highlights": [
+        "Published 'I Know Why the Caged Bird Sings' in 1969",
+        "Worked with Martin Luther King Jr. and Malcolm X",
+        "Became Reynolds Professor at Wake Forest University"
+      ],
+      "advice_for_students": "Find your voice and use it to tell your story. Education is the key to freedom."
+    }
+  },
+  {
+    "name": "Hypatia",
+    "photo": "./images/hypatia.jpg",
+    "birthDate": "350",
+    "deathDate": "415",
+    "country": "Egypt",
+    "fields": [
+      "Mathematics",
+      "Astronomy",
+      "Philosophy"
+    ],
+    "roles": [
+      "Mathematician",
+      "Astronomer",
+      "Philosopher"
+    ],
+    "quote": "Reserve your right to think, for even to think wrongly is better than not to think at all.",
+    "summary": "Ancient Greek mathematician, astronomer, and philosopher who was one of the first women to study and teach mathematics.",
+    "shortDescription": "Hypatia was an ancient Greek mathematician, astronomer, and philosopher who lived in Alexandria, Egypt. She was one of the first women to study and teach mathematics, astronomy, and philosophy. Hypatia invented the astrolabe and hydrometer, tools still used in astronomy and science today. Her work helped preserve ancient knowledge and she became a symbol of learning and wisdom in a time when women's education was rare.",
+    "achievements": [
+      "Invented the astrolabe for astronomical measurements",
+      "Invented the hydrometer for measuring liquid density",
+      "One of the first women to teach mathematics",
+      "Preserved and commented on ancient mathematical texts"
+    ],
+    "awards": [],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Mathematics and Astronomy",
+        "institution": "Library of Alexandria"
+      }
+    ],
+    "impact": "Preserved ancient mathematical knowledge and pioneered women's participation in science.",
+    "fun_fact": "Hypatia was the head of the Neoplatonist school in Alexandria and taught students from all over the ancient world.",
+    "career_path": {
+      "first_job": "Teacher at the Library of Alexandria",
+      "career_highlights": [
+        "Became head of the Neoplatonist school",
+        "Invented scientific instruments",
+        "Wrote commentaries on mathematical texts"
+      ],
+      "advice_for_students": "Never stop learning and questioning. Knowledge is the most powerful tool you have."
+    }
+  },
+  {
+    "name": "Mary Anning",
+    "photo": "./images/mary-anning.jpg",
+    "birthDate": "1799",
+    "deathDate": "1847",
+    "country": "United Kingdom",
+    "fields": [
+      "Paleontology",
+      "Geology"
+    ],
+    "roles": [
+      "Fossil Hunter",
+      "Paleontologist"
+    ],
+    "quote": "I am well known throughout the whole of Europe.",
+    "summary": "Self-taught fossil hunter who discovered the first complete ichthyosaur skeleton and made groundbreaking paleontological discoveries.",
+    "shortDescription": "Mary Anning was a self-taught fossil hunter who discovered the first complete ichthyosaur skeleton and made groundbreaking paleontological discoveries. Despite having no formal education, she became one of the most important fossil hunters of the 19th century. Mary's discoveries helped establish the field of paleontology and proved that women could make significant contributions to science even without formal training.",
+    "achievements": [
+      "Discovered first complete ichthyosaur skeleton",
+      "Found first complete plesiosaur skeleton",
+      "Discovered first pterosaur outside Germany",
+      "Pioneered fossil hunting techniques"
+    ],
+    "awards": [],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Paleontology",
+        "institution": "Lyme Regis beaches"
+      }
+    ],
+    "impact": "Revolutionized paleontology and proved women could excel in science without formal education.",
+    "fun_fact": "Mary Anning was struck by lightning as a baby but survived, which her family said made her intelligent.",
+    "career_path": {
+      "first_job": "Fossil hunter with her father",
+      "career_highlights": [
+        "Discovered ichthyosaur at age 12",
+        "Found plesiosaur in 1823",
+        "Discovered pterosaur in 1828"
+      ],
+      "advice_for_students": "Follow your curiosity wherever it leads. You don't need formal education to make important discoveries."
+    }
+  },
+  {
+    "name": "Kalpana Chawla",
+    "photo": "./images/kalpana-chawla.jpg",
+    "birthDate": "1961",
+    "deathDate": "2003",
+    "country": "India/United States",
+    "fields": [
+      "Aerospace Engineering",
+      "Astronautics"
+    ],
+    "roles": [
+      "Astronaut",
+      "Engineer"
+    ],
+    "quote": "The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it.",
+    "summary": "First Indian-born woman in space and NASA astronaut who inspired millions in India and around the world.",
+    "shortDescription": "Kalpana Chawla was the first Indian-born woman in space and a NASA astronaut who inspired millions in India and around the world. She flew on the Space Shuttle Columbia and became a role model for women in STEM, especially in India. Kalpana showed that with determination and education, anyone can reach for the stars, regardless of their background or gender.",
+    "achievements": [
+      "First Indian-born woman in space",
+      "Flew on Space Shuttle Columbia",
+      "Earned PhD in aerospace engineering",
+      "Inspired millions of Indian students"
+    ],
+    "awards": [
+      "NASA Space Flight Medal",
+      "Congressional Space Medal of Honor (posthumous)"
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Aerospace Engineering",
+        "institution": "University of Colorado Boulder"
+      }
+    ],
+    "impact": "Inspired millions of Indian students, especially girls, to pursue careers in STEM and space exploration.",
+    "fun_fact": "Kalpana Chawla's name means 'imagination' in Hindi, which perfectly describes her dream of flying in space.",
+    "career_path": {
+      "first_job": "Research assistant at NASA Ames Research Center",
+      "career_highlights": [
+        "Selected as NASA astronaut in 1994",
+        "First space flight in 1997",
+        "Second space flight in 2003"
+      ],
+      "advice_for_students": "Dream big and work hard. Education is your ticket to the stars."
+    }
+  },
+  {
+    "name": "Fabiola Gianotti",
+    "photo": "./images/fabiola-gianotti.jpg",
+    "birthDate": "1960",
+    "country": "Italy",
+    "fields": [
+      "Particle Physics",
+      "Physics"
+    ],
+    "roles": [
+      "Physicist",
+      "Research Director"
+    ],
+    "quote": "Science is a universal language that transcends borders and cultures.",
+    "summary": "First woman to lead CERN, the world's largest particle physics laboratory, and discoverer of the Higgs boson.",
+    "shortDescription": "Fabiola Gianotti is the first woman to lead CERN, the world's largest particle physics laboratory. She was the spokesperson for the ATLAS experiment that discovered the Higgs boson, one of the most important discoveries in physics. Fabiola's leadership at CERN shows that women can lead the world's most advanced scientific collaborations and make groundbreaking discoveries.",
+    "achievements": [
+      "First woman Director-General of CERN",
+      "Led ATLAS experiment that discovered Higgs boson",
+      "Pioneered particle physics research",
+      "Inspired women in physics worldwide"
+    ],
+    "awards": [
+      "Enrico Fermi Prize (2013)",
+      "Breakthrough Prize in Fundamental Physics (2013)",
+      "Order of Merit of the Italian Republic"
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Particle Physics",
+        "institution": "University of Milan"
+      }
+    ],
+    "impact": "Led the discovery of the Higgs boson and became a role model for women in physics leadership.",
+    "fun_fact": "Fabiola Gianotti is also a trained classical pianist and sometimes plays piano for CERN events.",
+    "career_path": {
+      "first_job": "Research physicist at CERN",
+      "career_highlights": [
+        "Joined CERN in 1987",
+        "Led ATLAS experiment from 2009-2013",
+        "Became CERN Director-General in 2016"
+      ],
+      "advice_for_students": "Follow your passion for understanding how the universe works. Physics is for everyone who is curious."
+    }
   }
 ];
 
