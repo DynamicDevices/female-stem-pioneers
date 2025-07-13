@@ -375,7 +375,7 @@ class PioneersApp {
         
         ${pioneer.references && pioneer.references.length > 0 ? `
         <div class="expandable-section">
-          <h4>Learn More</h4>
+          <h4>More Resources</h4>
           <div class="reference-links">
             ${pioneer.references.map(ref => `
               <a href="${ref.url}" target="_blank" rel="noopener" class="reference-link">
