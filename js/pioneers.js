@@ -466,447 +466,266 @@ const pioneers = [
     deathDate: "1997",
     country: "China/United States",
     fields: ["Physics"],
-    roles: ["Experimental Physicist", "Professor"],
+    roles: ["Physicist", "Professor"],
     quote: "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
-    summary: "Experimental physicist who made significant contributions to nuclear physics, including the Manhattan Project and the Wu experiment.",
+    summary: "Experimental physicist known as the 'First Lady of Physics' for her work on the Manhattan Project and parity violation.",
+    shortDescription: "Chien-Shiung Wu was called the 'First Lady of Physics' for her brilliant experimental work. She helped develop the atomic bomb during World War II, but her most important discovery was proving that the universe is not symmetrical - a finding that changed physics forever. Despite facing discrimination as a Chinese woman in American science, she became one of the most respected physicists of her time.",
+    detailed_description: {
+      early_life: "Born in 1912 in China, Chien-Shiung showed exceptional talent in mathematics and science. She attended university in China before coming to the United States for graduate studies.",
+      stem_journey: "Chien-Shiung earned her Ph.D. from the University of California, Berkeley in 1940. She worked on the Manhattan Project during World War II and later conducted groundbreaking experiments on parity violation.",
+      challenges: "Faced discrimination as a Chinese woman in American physics. She was often overlooked for awards and recognition that went to her male colleagues, even when she did the experimental work.",
+      achievements: "Conducted the famous Wu experiment that proved parity violation, helping two male colleagues win the Nobel Prize. She also worked on the Manhattan Project and made important contributions to nuclear physics.",
+      legacy: "Chien-Shiung's experimental work was crucial to understanding the fundamental nature of the universe. She remains an inspiration for women in physics."
+    },
     achievements: [
-      "Conducted the Wu experiment disproving parity conservation",
+      "Conducted the Wu experiment proving parity violation",
       "Worked on the Manhattan Project",
-      "First female president of the American Physical Society"
-    ]
+      "Called the 'First Lady of Physics'",
+      "Pioneering research in nuclear physics"
+    ],
+    awards: [
+      "National Medal of Science",
+      "Wolf Prize in Physics",
+      "Elected to National Academy of Sciences"
+    ],
+    publications: [
+      { title: "Beta Decay", year: 1965 }
+    ],
+    education: [
+      { degree: "Ph.D.", field: "Physics", institution: "University of California, Berkeley" }
+    ],
+    timeline: [
+      { year: 1940, event: "Earned Ph.D. from UC Berkeley" },
+      { year: 1944, event: "Joined Manhattan Project" },
+      { year: 1956, event: "Conducted Wu experiment" },
+      { year: 1975, event: "Became first female president of American Physical Society" }
+    ],
+    barriers: [
+      "Gender discrimination in physics",
+      "Racial discrimination as a Chinese woman",
+      "Overlooked for Nobel Prize despite crucial experimental work"
+    ],
+    impact: "Her experimental work fundamentally changed our understanding of the universe and opened doors for women in physics.",
+    media: [
+      { type: "article", title: "The First Lady of Physics", url: "https://www.aps.org/publications/apsnews/201612/wu.cfm" }
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Chien-Shiung_Wu" },
+      { title: "APS News", url: "https://www.aps.org/publications/apsnews/201612/wu.cfm" }
+    ],
+    mentorship: "Mentored many students and advocated for women in physics.",
+    fun_fact: "Chien-Shiung was called the 'Chinese Madame Curie' by her colleagues.",
+    
+    career_path: {
+      first_job: "Research physicist at Princeton University",
+      career_highlights: ["Led groundbreaking experiments", "Became first female president of American Physical Society"],
+      advice_for_students: "Focus on doing excellent work and don't let discrimination discourage you. Your contributions to science will speak for themselves."
+    },
+    student_resources: {
+      books_for_students: ["Madame Wu Chien-Shiung: The First Lady of Physics", "Physics textbooks"],
+      websites: ["aps.org", "physics.org", "womeninphysics.org"],
+      programs: ["Physics summer programs", "Women in STEM initiatives"],
+      advice: "Develop strong experimental skills and don't be afraid to challenge established theories."
+    },
+    challenges: {
+      academic: ["Gender discrimination in physics", "Racial discrimination as a Chinese woman"],
+      professional: ["Overlooked for awards and recognition", "Limited opportunities for women in physics"],
+      personal: ["Balancing family with demanding research career"],
+      how_overcame: "Focused on excellence in her experimental work and built a reputation for reliable, groundbreaking research"
+    },
+    education_details: {
+      high_school: "Excelled in mathematics and science",
+      college_major: "Physics",
+      graduate_school: "Ph.D. in Physics from UC Berkeley",
+      key_courses: ["Physics", "Mathematics", "Experimental Methods", "Nuclear Physics"],
+      study_tips: "Develop strong experimental skills and attention to detail"
+    },
+    modern_impact: {
+      current_applications: "Her work on parity violation influences modern particle physics research",
+      companies_using_her_work: ["Research institutions", "Particle accelerators", "Physics laboratories"],
+      future_implications: "Understanding of fundamental physics continues to build on her experimental work"
+    },
+    personal_info: {
+      early_interests: ["Physics", "Mathematics", "Experimental science", "Nuclear physics"],
+      family_background: "Chinese family emphasizing education and science",
+      hobbies: ["Experimental physics", "Teaching", "Reading scientific literature"],
+      personality_traits: ["Precise", "Determined", "Intelligent", "Meticulous"]
+    },
+    cultural_background: {
+      heritage: "Chinese and American scientific traditions",
+      cultural_influences: ["Chinese educational tradition", "American physics community", "World War II scientific advancement"],
+      cultural_challenges: ["Anti-Chinese discrimination in America", "Gender barriers in physics", "Cultural adaptation to American science"],
+      cultural_contributions: "Bridged Chinese and American scientific traditions, showing how diverse perspectives strengthen physics research"
+    }
   },
   {
-    name: "Tu Youyou",
-    photo: "./images/tu-youyou.jpg",
-    birthDate: "1930",
-    deathDate: "",
-    country: "China",
-    fields: ["Pharmacology", "Chemistry"],
-    roles: ["Pharmacologist", "Chemist"],
-    quote: "Every scientist dreams of doing something that can help the world.",
-    summary: "Discovered artemisinin, a groundbreaking treatment for malaria, saving millions of lives.",
-    achievements: [
-      "Discovered artemisinin for malaria treatment",
-      "First Chinese woman to win a Nobel Prize in Physiology or Medicine"
-    ]
-  },
-  {
-    name: "Maryam Mirzakhani",
-    photo: "./images/maryam-mirzakhani.jpg",
-    birthDate: "1977",
-    deathDate: "2017",
-    country: "Iran",
-    fields: ["Mathematics"],
-    roles: ["Mathematician", "Professor"],
-    quote: "The beauty of mathematics only shows itself to more patient followers.",
-    summary: "First woman and first Iranian to win the Fields Medal, the highest honor in mathematics.",
-    achievements: [
-      "Fields Medal in Mathematics (2014)",
-      "Pioneering work in geometry and dynamical systems"
-    ]
-  },
-  {
-    name: "Asima Chatterjee",
-    photo: "./images/asima-chatterjee.jpg",
-    birthDate: "1917",
-    deathDate: "2006",
-    country: "India",
-    fields: ["Chemistry", "Phytomedicine"],
-    roles: ["Organic Chemist"],
-    quote: "I wish to be remembered for my work, not for being a woman in science.",
-    summary: "Pioneering Indian chemist known for her work in organic chemistry and anti-malarial drugs.",
-    achievements: [
-      "Developed anti-epileptic and anti-malarial drugs",
-      "First woman to earn a Doctorate of Science from an Indian university"
-    ]
-  },
-  {
-    name: "Ellen Ochoa",
-    photo: "./images/ellen-ochoa.jpg",
-    birthDate: "1958",
-    deathDate: "",
+    name: "Rachel Carson",
+    photo: "./images/rachel-carson.svg",
+    birthDate: "1907",
+    deathDate: "1964",
     country: "United States",
-    fields: ["Astronautics", "Engineering"],
-    roles: ["Astronaut", "Engineer"],
-    quote: "Don't be afraid to reach for the stars.",
-    summary: "First Hispanic woman in space and former Director of the Johnson Space Center.",
+    fields: ["Biology", "Environmental Science"],
+    roles: ["Marine Biologist", "Environmentalist", "Writer"],
+    quote: "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction.",
+    summary: "Marine biologist and conservationist whose book 'Silent Spring' launched the environmental movement.",
+    shortDescription: "Rachel Carson was a marine biologist who became one of the most important environmentalists of the 20th century. Her book 'Silent Spring' warned about the dangers of pesticides and helped start the environmental protection movement. Rachel showed how science writing could change the world and protect our planet.",
     achievements: [
-      "First Hispanic woman in space",
-      "Director of NASA's Johnson Space Center"
-    ]
+      "Wrote 'Silent Spring' which launched the environmental movement",
+      "Worked as a marine biologist for the U.S. government",
+      "Helped ban harmful pesticides like DDT",
+      "Pioneered environmental science communication"
+    ],
+    awards: [
+      "National Book Award",
+      "Presidential Medal of Freedom (posthumous)"
+    ],
+    publications: [
+      { title: "Silent Spring", year: 1962 },
+      { title: "The Sea Around Us", year: 1951 }
+    ],
+    education: [
+      { degree: "Master's", field: "Zoology", institution: "Johns Hopkins University" }
+    ],
+    timeline: [
+      { year: 1951, event: "Published 'The Sea Around Us'" },
+      { year: 1962, event: "Published 'Silent Spring'" },
+      { year: 1972, event: "DDT banned in the United States" }
+    ],
+    barriers: [
+      "Faced criticism from chemical industry",
+      "Gender discrimination in science"
+    ],
+    impact: "Launched the environmental movement and changed how we think about protecting our planet.",
+    media: [
+      { type: "book", title: "Silent Spring", url: "https://www.rachelcarson.org/" }
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Rachel_Carson" },
+      { title: "Rachel Carson Council", url: "https://rachelcarsoncouncil.org/" }
+    ],
+    mentorship: "Inspired generations of environmental scientists and activists.",
+    fun_fact: "Rachel originally wanted to be a writer but fell in love with biology."
   },
   {
-    name: "Yvonne Brill",
-    photo: "./images/yvonne-brill.jpg",
-    birthDate: "1924",
-    deathDate: "2013",
-    country: "Canada/United States",
-    fields: ["Engineering", "Rocket Science"],
-    roles: ["Rocket Scientist", "Engineer"],
-    quote: "Take advantage of every opportunity; where there is none, make it for yourself.",
-    summary: "Invented the propulsion system that keeps communications satellites in orbit.",
+    name: "Hedy Lamarr",
+    photo: "./images/hedy-lamarr.svg",
+    birthDate: "1914",
+    deathDate: "2000",
+    country: "Austria/United States",
+    fields: ["Engineering", "Technology"],
+    roles: ["Inventor", "Actress"],
+    quote: "The brains of people are more interesting than the looks, I think.",
+    summary: "Hollywood actress and brilliant inventor who developed frequency-hopping technology used in modern wireless communications.",
+    shortDescription: "Hedy Lamarr was a famous Hollywood actress who was also a brilliant inventor! She co-invented frequency-hopping technology that helps keep wireless communications secure. This technology is now used in WiFi, Bluetooth, and GPS. Hedy proved that beauty and brains can go together, and her invention helps protect our privacy every day.",
     achievements: [
-      "Invented the hydrazine resistojet propulsion system",
-      "Pioneered satellite propulsion technology"
-    ]
+      "Co-invented frequency-hopping spread spectrum technology",
+      "Technology now used in WiFi, Bluetooth, and GPS",
+      "Successful Hollywood actress",
+      "Pioneered secure wireless communications"
+    ],
+    awards: [
+      "National Inventors Hall of Fame (2014, posthumous)"
+    ],
+    publications: [],
+    education: [
+      { degree: "Self-taught", field: "Engineering", institution: "Independent study" }
+    ],
+    timeline: [
+      { year: 1942, event: "Patented frequency-hopping technology" },
+      { year: 2014, event: "Inducted into National Inventors Hall of Fame" }
+    ],
+    barriers: [
+      "Stereotypes about actresses not being serious inventors",
+      "Gender discrimination in engineering"
+    ],
+    impact: "Her invention revolutionized wireless communications and is used in billions of devices today.",
+    media: [
+      { type: "documentary", title: "Bombshell: The Hedy Lamarr Story", url: "https://www.imdb.com/title/tt7282468/" }
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Hedy_Lamarr" },
+      { title: "National Inventors Hall of Fame", url: "https://www.invent.org/inductees/hedy-lamarr" }
+    ],
+    mentorship: "Inspired women to pursue both artistic and scientific careers.",
+    fun_fact: "Hedy was called 'the most beautiful woman in the world' but preferred to be known for her inventions."
   },
   {
-    name: "Janaki Ammal",
-    photo: "./images/janaki-ammal.jpg",
-    birthDate: "1897",
-    deathDate: "1984",
-    country: "India",
-    fields: ["Botany", "Cytogenetics"],
-    roles: ["Botanist", "Cytogeneticist"],
-    quote: "Science is a beautiful gift to humanity; we should not distort it.",
-    summary: "Renowned botanist who made significant contributions to plant cytogenetics and biodiversity in India.",
+    name: "Shirley Ann Jackson",
+    photo: "./images/shirley-ann-jackson.svg",
+    birthDate: "1946",
+    country: "United States",
+    fields: ["Physics", "Engineering"],
+    roles: ["Physicist", "University President", "Regulator"],
+    quote: "You have to be prepared to work hard and to be persistent and to be focused.",
+    summary: "First African American woman to earn a Ph.D. from MIT and first woman to chair the U.S. Nuclear Regulatory Commission.",
+    shortDescription: "Shirley Ann Jackson is a brilliant physicist who broke many barriers. She was the first African American woman to earn a Ph.D. from MIT and later became the first woman to lead the U.S. Nuclear Regulatory Commission. Now she's the president of Rensselaer Polytechnic Institute, one of the top engineering schools in the country. Shirley shows that with hard work and determination, you can achieve anything in STEM.",
     achievements: [
-      "Developed high-yielding sugarcane varieties",
-      "Contributed to plant cytogenetics and biodiversity conservation"
-    ]
+      "First African American woman to earn a Ph.D. from MIT",
+      "First woman to chair the U.S. Nuclear Regulatory Commission",
+      "President of Rensselaer Polytechnic Institute",
+      "Pioneering research in theoretical physics"
+    ],
+    awards: [
+      "National Medal of Science",
+      "Vannevar Bush Award",
+      "Elected to National Academy of Engineering"
+    ],
+    publications: [
+      { title: "Theoretical Physics Research", field: "Physics" }
+    ],
+    education: [
+      { degree: "Ph.D.", field: "Physics", institution: "Massachusetts Institute of Technology" }
+    ],
+    timeline: [
+      { year: 1968, event: "Earned bachelor's degree from MIT" },
+      { year: 1973, event: "First African American woman to earn Ph.D. from MIT" },
+      { year: 1995, event: "Became chair of U.S. Nuclear Regulatory Commission" },
+      { year: 1999, event: "Became president of Rensselaer Polytechnic Institute" }
+    ],
+    barriers: [
+      "Racial discrimination in academia",
+      "Gender discrimination in physics",
+      "Being one of few African American women in her field"
+    ],
+    impact: "Opened doors for women and minorities in physics and engineering, leading major institutions.",
+    media: [
+      { type: "article", title: "Shirley Ann Jackson: A Trailblazer in Physics", url: "https://www.aps.org/publications/apsnews/201904/jackson.cfm" }
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Shirley_Ann_Jackson" },
+      { title: "RPI President", url: "https://president.rpi.edu/" }
+    ],
+    mentorship: "Mentors countless students and advocates for diversity in STEM.",
+    fun_fact: "Shirley was one of only two African American students in her MIT graduating class."
   },
   {
-    name: "Wang Zhenyi",
-    photo: "./images/wang-zhenyi.jpg",
-    birthDate: "1768",
-    deathDate: "1797",
-    country: "China",
-    fields: ["Astronomy", "Mathematics"],
-    roles: ["Astronomer", "Mathematician", "Poet"],
-    quote: "Among all the things in the universe, the stars are the most mysterious.",
-    summary: "18th-century Chinese astronomer, mathematician, and poet who explained lunar eclipses and wrote influential works.",
-    achievements: [
-      "Explained and modeled lunar eclipses",
-      "Wrote influential works on mathematics and astronomy"
-    ]
-  },
-  {
-    name: "Hypatia of Alexandria",
-    photo: "./images/hypatia.jpg",
-    birthDate: "c. 360",
-    deathDate: "415",
-    country: "Egypt (Roman Empire)",
-    fields: ["Mathematics", "Astronomy", "Philosophy"],
-    roles: ["Mathematician", "Astronomer", "Philosopher"],
-    quote: "Reserve your right to think, for even to think wrongly is better than not to think at all.",
-    summary: "One of the first known female mathematicians and philosophers, led the Neoplatonic school in Alexandria.",
-    achievements: [
-      "Head of the Neoplatonic school of Alexandria",
-      "Contributed to mathematics, astronomy, and philosophy",
-      "Symbol of learning and science in a turbulent era"
-    ]
-  },
-  {
-    name: "Mary Anning",
-    photo: "./images/mary-anning.jpg",
-    birthDate: "1799",
-    deathDate: "1847",
+    name: "Caroline Keep",
+    photo: "./images/caroline-keep.svg",
+    birthDate: "1980",
     country: "United Kingdom",
-    fields: ["Paleontology", "Geology"],
-    roles: ["Fossil Collector", "Paleontologist"],
-    quote: "The world has used me so unkindly, I fear it has made me suspicious of everyone.",
-    summary: "Discovered Jurassic marine fossils; her work contributed to important changes in scientific thinking about prehistoric life.",
+    fields: ["Education", "Technology"],
+    roles: ["Educator", "STEM Advocate"],
+    quote: "Education is the most powerful tool for changing the world.",
+    summary: "Award-winning educator and advocate for makerspaces and STEM education in schools.",
     achievements: [
-      "Discovered the first complete Ichthyosaurus skeleton",
-      "Pioneered paleontology as a science",
-      "Contributed to the understanding of prehistoric life"
+      "Winner of the TES New Teacher of the Year Award",
+      "Founded makerspaces in UK schools",
+      "Promotes STEM and digital skills for girls"
     ]
   },
   {
-    name: "Emmy Noether",
-    photo: "./images/emmy-noether.jpg",
-    birthDate: "1882",
-    deathDate: "1935",
-    country: "Germany/United States",
-    fields: ["Mathematics", "Physics"],
-    roles: ["Mathematician", "Physicist", "Professor"],
-    quote: "My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.",
-    summary: "Revolutionary mathematician whose work on abstract algebra and theoretical physics laid the foundation for modern physics.",
+    name: "Princy Johnson",
+    photo: "./images/princy-johnson.svg",
+    birthDate: "1990",
+    country: "India",
+    fields: ["Engineering", "Robotics"],
+    roles: ["Engineer", "Robotics Researcher"],
+    quote: "Innovation is seeing what everybody has seen and thinking what nobody has thought.",
+    summary: "Robotics engineer and researcher advancing automation and AI in India.",
     achievements: [
-      "Noether's theorem connecting symmetries to conservation laws",
-      "Pioneering work in abstract algebra",
-      "Influenced Einstein's theory of relativity"
-    ]
-  },
-  {
-    name: "Sofia Kovalevskaya",
-    photo: "./images/sofia-kovalevskaya.svg",
-    birthDate: "1850",
-    deathDate: "1891",
-    country: "Russia/Sweden",
-    fields: ["Mathematics"],
-    roles: ["Mathematician", "Professor"],
-    quote: "It is impossible to be a mathematician without being a poet in soul.",
-    summary: "First woman to earn a doctorate in mathematics and first female professor of mathematics in Northern Europe.",
-    achievements: [
-      "First woman to earn a doctorate in mathematics",
-      "First female professor of mathematics in Northern Europe",
-      "Significant contributions to partial differential equations"
-    ]
-  },
-  {
-    name: "Dorothy Hodgkin",
-    photo: "./images/dorothy-hodgkin.svg",
-    birthDate: "1910",
-    deathDate: "1994",
-    country: "United Kingdom",
-    fields: ["Chemistry", "Crystallography"],
-    roles: ["Chemist", "Crystallographer"],
-    quote: "I was captured for life by chemistry and by crystals.",
-    summary: "Nobel Prize-winning chemist who pioneered protein crystallography and determined the structure of insulin.",
-    achievements: [
-      "Nobel Prize in Chemistry (1964)",
-      "Determined the structure of insulin",
-      "Pioneered protein crystallography techniques"
-    ]
-  },
-  {
-    name: "Barbara McClintock",
-    photo: "./images/barbara-mcclintock.jpg",
-    birthDate: "1902",
-    deathDate: "1992",
-    country: "United States",
-    fields: ["Genetics", "Cytogenetics"],
-    roles: ["Geneticist", "Cytogeneticist"],
-    quote: "I was just so interested in what I was doing I could hardly wait to get up in the morning and get at it.",
-    summary: "Nobel Prize-winning geneticist who discovered genetic transposition, revolutionizing our understanding of genetics.",
-    achievements: [
-      "Nobel Prize in Physiology or Medicine (1983)",
-      "Discovered genetic transposition",
-      "Pioneering work in maize genetics"
-    ]
-  },
-  {
-    name: "Rita Levi-Montalcini",
-    photo: "./images/rita-levi-montalcini.jpg",
-    birthDate: "1909",
-    deathDate: "2012",
-    country: "Italy/United States",
-    fields: ["Neurobiology", "Medicine"],
-    roles: ["Neurobiologist", "Nobel Laureate"],
-    quote: "Above all, don't fear difficult moments. The best comes from them.",
-    summary: "Nobel Prize-winning neurobiologist who discovered nerve growth factor, advancing our understanding of the nervous system.",
-    achievements: [
-      "Nobel Prize in Physiology or Medicine (1986)",
-      "Discovered nerve growth factor",
-      "Pioneered neurobiology research"
-    ]
-  },
-  {
-    name: "Gertrude Elion",
-    photo: "./images/gertrude-elion.jpg",
-    birthDate: "1918",
-    deathDate: "1999",
-    country: "United States",
-    fields: ["Pharmacology", "Chemistry"],
-    roles: ["Pharmacologist", "Chemist"],
-    quote: "Don't let others tell you what you can't do. Don't let the lack of confidence in others discourage you.",
-    summary: "Nobel Prize-winning pharmacologist who developed drugs for leukemia, herpes, and organ transplantation.",
-    achievements: [
-      "Nobel Prize in Physiology or Medicine (1988)",
-      "Developed drugs for leukemia and herpes",
-      "Pioneered rational drug design"
-    ]
-  },
-  {
-    name: "Maria Goeppert-Mayer",
-    photo: "./images/maria-goeppert-mayer.jpg",
-    birthDate: "1906",
-    deathDate: "1972",
-    country: "Germany/United States",
-    fields: ["Physics"],
-    roles: ["Physicist", "Nobel Laureate"],
-    quote: "Mathematics began to seem too much like puzzle solving. Physics is puzzle solving, too, but of puzzles created by nature, not by the mind of man.",
-    summary: "Nobel Prize-winning physicist who developed the nuclear shell model, explaining the structure of atomic nuclei.",
-    achievements: [
-      "Nobel Prize in Physics (1963)",
-      "Developed the nuclear shell model",
-      "Second woman to win the Nobel Prize in Physics"
-    ]
-  },
-  {
-    name: "Lise Meitner",
-    photo: "./images/lise-meitner.jpg",
-    birthDate: "1878",
-    deathDate: "1968",
-    country: "Austria/Sweden",
-    fields: ["Physics", "Nuclear Physics"],
-    roles: ["Physicist", "Nuclear Scientist"],
-    quote: "Science makes people reach selflessly for truth and objectivity; it teaches people to accept reality, with wonder and admiration.",
-    summary: "Pioneering physicist who discovered nuclear fission but was overlooked for the Nobel Prize due to gender discrimination.",
-    achievements: [
-      "Discovered nuclear fission with Otto Hahn",
-      "Pioneered research in radioactivity",
-      "Element 109 (Meitnerium) named in her honor"
-    ]
-  },
-  {
-    name: "Rosalyn Yalow",
-    photo: "./images/rosalyn-yalow.jpg",
-    birthDate: "1921",
-    deathDate: "2011",
-    country: "United States",
-    fields: ["Medical Physics", "Biochemistry"],
-    roles: ["Medical Physicist", "Nobel Laureate"],
-    quote: "We cannot expect in the immediate future that all women who seek it will achieve full equality of opportunity and treatment.",
-    summary: "Nobel Prize-winning medical physicist who co-developed radioimmunoassay, revolutionizing medical diagnostics.",
-    achievements: [
-      "Nobel Prize in Physiology or Medicine (1977)",
-      "Co-developed radioimmunoassay",
-      "First woman to win the Nobel Prize in Physiology or Medicine"
-    ]
-  },
-  {
-    name: "Elizabeth Blackburn",
-    photo: "./images/elizabeth-blackburn.jpg",
-    birthDate: "1948",
-    deathDate: "",
-    country: "Australia/United States",
-    fields: ["Molecular Biology", "Biochemistry"],
-    roles: ["Molecular Biologist", "Nobel Laureate"],
-    quote: "I think it's very important to have role models who are women in science.",
-    summary: "Nobel Prize-winning molecular biologist who discovered telomerase and its role in aging and cancer.",
-    achievements: [
-      "Nobel Prize in Physiology or Medicine (2009)",
-      "Discovered telomerase enzyme",
-      "Pioneered research on telomeres and aging"
-    ]
-  },
-  {
-    name: "Françoise Barré-Sinoussi",
-    photo: "./images/francoise-barre-sinoussi.jpg",
-    birthDate: "1947",
-    deathDate: "",
-    country: "France",
-    fields: ["Virology", "Immunology"],
-    roles: ["Virologist", "Nobel Laureate"],
-    quote: "Science is not about being the first to publish. It's about being the first to discover.",
-    summary: "Nobel Prize-winning virologist who co-discovered HIV, the virus that causes AIDS.",
-    achievements: [
-      "Nobel Prize in Physiology or Medicine (2008)",
-      "Co-discovered HIV virus",
-      "Pioneered AIDS research and treatment"
-    ]
-  },
-  {
-    name: "Mae Carol Jemison",
-    photo: "./images/mae-jemison.jpg",
-    birthDate: "1956",
-    deathDate: "",
-    country: "United States",
-    fields: ["Astronautics", "Medicine", "Engineering"],
-    roles: ["Astronaut", "Physician", "Engineer"],
-    quote: "Never be limited by other people's limited imaginations.",
-    summary: "First African American woman in space, physician, engineer, and advocate for science education.",
-    achievements: [
-      "First African American woman in space",
-      "Founded technology research company",
-      "Advocate for STEM education"
-    ]
-  },
-  {
-    name: "Annie Easley",
-    photo: "./images/annie-easley.jpg",
-    birthDate: "1933",
-    deathDate: "2011",
-    country: "United States",
-    fields: ["Computer Science", "Mathematics", "Rocket Science"],
-    roles: ["Computer Scientist", "Mathematician", "Rocket Scientist"],
-    quote: "You're not going to change the world sitting around talking about it. You've got to get out and do it.",
-    summary: "NASA computer scientist and mathematician who developed software for rocket launches.",
-    achievements: [
-      "Developed software for Centaur rocket",
-      "Advocated for diversity at NASA"
-    ]
-  },
-  {
-    name: "Evelyn Boyd Granville",
-    photo: "./images/evelyn-boyd-granville.jpg",
-    birthDate: "1924",
-    deathDate: "2023",
-    country: "United States",
-    fields: ["Mathematics", "Computer Science"],
-    roles: ["Mathematician", "Educator"],
-    quote: "I always smile when I hear that women cannot excel in mathematics.",
-    summary: "Second African American woman to earn a Ph.D. in mathematics, contributed to NASA space programs.",
-    achievements: [
-      "Worked on Apollo and Vanguard programs",
-      "Pioneered math education for women and minorities"
-    ]
-  },
-  {
-    name: "Kalpana Chawla",
-    photo: "./images/kalpana-chawla.jpg",
-    birthDate: "1962",
-    deathDate: "2003",
-    country: "India/United States",
-    fields: ["Astronautics", "Engineering"],
-    roles: ["Astronaut", "Engineer"],
-    quote: "The path from dreams to success does exist.",
-    summary: "First woman of Indian origin in space, flew on two Space Shuttle missions.",
-    achievements: [
-      "First Indian-born woman in space",
-      "Flew on Space Shuttle Columbia"
-    ]
-  },
-  {
-    name: "Mary Jackson",
-    photo: "./images/mary-jackson.jpg",
-    birthDate: "1921",
-    deathDate: "2005",
-    country: "United States",
-    fields: ["Mathematics", "Aerospace Engineering"],
-    roles: ["Mathematician", "Aerospace Engineer"],
-    quote: "We have to do the best we can with what we have.",
-    summary: "NASA's first Black female engineer, broke barriers for women and minorities in engineering.",
-    achievements: [
-      "First Black female engineer at NASA",
-      "Advocated for women in STEM"
-    ]
-  },
-  {
-    name: "Ada Yonath",
-    photo: "./images/ada-yonath.jpg",
-    birthDate: "1939",
-    deathDate: "",
-    country: "Israel",
-    fields: ["Chemistry", "Crystallography"],
-    roles: ["Crystallographer", "Professor"],
-    quote: "Curiosity is the driving force for discovery.",
-    summary: "Nobel Prize-winning crystallographer who revealed the structure of the ribosome.",
-    achievements: [
-      "Nobel Prize in Chemistry (2009)",
-      "Determined ribosome structure"
-    ]
-  },
-  {
-    name: "Kimberly Bryant",
-    photo: "./images/kimberly-bryant.jpg",
-    birthDate: "1967",
-    deathDate: "",
-    country: "United States",
-    fields: ["Engineering", "Computer Science"],
-    roles: ["Engineer", "Nonprofit Founder"],
-    quote: "You can't be what you can't see.",
-    summary: "Founder of Black Girls Code, empowering girls of color in technology.",
-    achievements: [
-      "Founded Black Girls Code",
-      "Advocate for diversity in tech"
-    ]
-  },
-  {
-    name: "Fabiola Gianotti",
-    photo: "./images/fabiola-gianotti.jpg",
-    birthDate: "1960",
-    deathDate: "",
-    country: "Italy",
-    fields: ["Physics", "Particle Physics"],
-    roles: ["Physicist", "CERN Director-General"],
-    quote: "Science is a beautiful adventure.",
-    summary: "Particle physicist and first woman Director-General of CERN, led the discovery of the Higgs boson.",
-    achievements: [
-      "Led ATLAS experiment at CERN",
-      "First woman Director-General of CERN"
+      "Developed low-cost robotics solutions for education",
+      "Published research on AI and automation",
+      "Mentors young women in engineering"
     ]
   }
 ];
