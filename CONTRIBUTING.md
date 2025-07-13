@@ -6,6 +6,35 @@ Thank you for your interest in contributing to Women Pioneers in STEM! This proj
 
 By contributing to this project, you agree that your contributions will be licensed under the same [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) as the rest of the project.
 
+## 🖼️ Image Licensing Requirements
+
+**IMPORTANT**: All images submitted to this project must be properly licensed for reuse. We only accept images that are:
+
+- **Creative Commons licensed** (CC0, CC BY, CC BY-SA, etc.)
+- **Public domain** (no copyright restrictions)
+- **Open source** with appropriate attribution
+- **Your own original work** that you're willing to license under CC BY 4.0
+
+**We do NOT accept:**
+- Copyrighted images without explicit permission
+- Images from commercial stock photo sites (unless you own the rights)
+- Screenshots or images from other websites without proper licensing
+- AI-generated images unless you have the rights to use them commercially
+
+**When adding images:**
+1. **Verify the license** - Check that the image is actually CC licensed or public domain
+2. **Provide attribution** - Include source and license information in your pull request
+3. **Use descriptive filenames** - Name files as `firstname-lastname.jpg` (e.g., `ada-lovelace.jpg`)
+4. **Optimize file size** - Keep images under 1MB when possible
+5. **Use appropriate formats** - JPG for photos, PNG for graphics, SVG for icons
+
+**Examples of acceptable sources:**
+- Wikimedia Commons (check individual image licenses)
+- Smithsonian Institution (public domain)
+- Library of Congress (public domain)
+- Your own photography of public domain works
+- Original artwork you create
+
 ## How to Contribute
 
 ### Adding New Pioneer Profiles
@@ -16,10 +45,11 @@ By contributing to this project, you agree that your contributions will be licen
    - Only **female** pioneers are accepted. No male pioneers will be included.
    - Each pioneer must be unique by name. The system deduplicates by name, but please avoid adding duplicates. (Currently 100+ unique pioneers)
    - **Every pioneer must have a `shortDescription` field** with an engaging, student-friendly paragraph (2-3 sentences) explaining their impact and significance
-   - **Real images are strongly preferred** - use JPG, WEBP, or PNG files when available. Only use `./images/placeholder.jpg` if no suitable image can be found
+   - **Real images are strongly preferred** - use JPG, WEBP, or PNG files when available. Only use `./images/placeholder-woman.svg` if no suitable image can be found
    - Images should be placed in `images/` and use `.jpg`, `.png`, or `.svg` (see PROJECT-REFERENCE.md for details)
    - **Only valid, non-empty images are accepted. Do not add empty or broken image files.**
    - **All fields used in the data must have an explanation in the UI.**
+   - **All images must be properly licensed for reuse** (see Image Licensing Requirements above)
 
 3. **Required fields:** `name`, `fields`, `summary`
 4. **Optional fields:** See the template in `add-pioneer.js` or existing entries
@@ -32,6 +62,7 @@ By contributing to this project, you agree that your contributions will be licen
 - Write in an engaging, accessible style appropriate for the target audience
 - Verify information from reliable sources before submitting
 - Remove any duplicate entries by name for clarity
+- **Verify image licensing before submitting** - include source and license information
 
 ### Submitting Changes
 
@@ -40,6 +71,7 @@ By contributing to this project, you agree that your contributions will be licen
    - Clear description of changes
    - Reason for the addition/modification
    - Any relevant links or references
+   - **Image source and license information** (if adding images)
    - Confirmation that you agree to CC BY 4.0 licensing
    - **Run linting and formatting tools before submitting your pull request.**
 
@@ -51,6 +83,7 @@ When contributing:
 - Significant contributions may be acknowledged in documentation
 - All contributions become part of the CC BY 4.0 licensed work
 - You retain the right to be attributed for your specific contributions
+- **Image sources will be properly attributed** in the project documentation
 
 ## Code of Conduct
 
@@ -58,7 +91,7 @@ When contributing:
 - Focus on educational and inspirational value
 - Ensure accuracy of information
 - Help maintain code quality
-- Respect intellectual property rights
+- **Respect intellectual property rights** - only use properly licensed images
 - Support the mission of inspiring girls and young women in STEM
 
 ## Types of Contributions Welcome

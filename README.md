@@ -25,6 +25,7 @@ A static web app celebrating women pioneers in STEM fields. Features:
 - Add new pioneers in `js/pioneers.js` or use `add-pioneer.js`
 - Images go in the `images/` folder (photo, artistic, or symbolic SVG)
 - **Only valid, non-empty images are accepted. Broken or empty images will be removed.**
+- **All images must be Creative Commons licensed, public domain, or your own original work.**
 - See `CONTRIBUTING.md` for details
 - Remove any duplicate entries by name for clarity
 - **Run linting and formatting tools before submitting changes.**
@@ -35,9 +36,12 @@ We welcome contributions of new female STEM pioneers! To add a new pioneer:
 
 1. **Open an Issue or Pull Request** using our templates (see the 'New Pioneer Profile' templates).
 2. **Add your pioneer to `js/pioneers.js`** using the provided structure (see `add-pioneer.js` for a template).
-3. **Include an image** in the `images/` folder (JPG, PNG, SVG preferred; use a placeholder only if no real image is available).
+3. **Include an image** in the `images/` folder (JPG, PNG, SVG preferred; use `placeholder-woman.svg` only if no real image is available).
 4. **Provide a short, engaging description** for students.
-5. **Run linting and formatting tools before submitting.**
+5. **Ensure images are properly licensed** (Creative Commons, public domain, or your own work).
+6. **Run linting and formatting tools before submitting.**
+
+**🖼️ Image Licensing**: All images must be Creative Commons licensed, public domain, or your own original work. We do not accept copyrighted images without proper licensing. See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for full details and field explanations.
 
