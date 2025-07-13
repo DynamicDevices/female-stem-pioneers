@@ -1277,6 +1277,13 @@ const pioneers = [
     "quote": "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
     "summary": "Known as the 'First Lady of Physics' for her groundbreaking work in nuclear physics.",
     "shortDescription": "Chien-Shiung Wu was a brilliant physicist known as the 'First Lady of Physics.' She disproved a fundamental law of physics called the Law of Conservation of Parity, which earned her colleagues the Nobel Prize. Despite her crucial contribution, she wasn't included in the award, highlighting the challenges women faced in science. Wu's work helped advance our understanding of the universe and opened doors for women in physics.",
+    "detailed_description": {
+      "early_life": "Born in 1912 in China, Chien-Shiung Wu showed exceptional talent in mathematics and science from an early age. Her father encouraged her education, which was unusual for girls at the time. She attended a girls' school and later studied physics at university.",
+      "stem_journey": "Wu moved to the United States in 1936 to pursue graduate studies at the University of California, Berkeley. She earned her PhD in physics and began research in nuclear physics. During World War II, she joined the Manhattan Project, working on uranium enrichment.",
+      "challenges": "As a woman and an immigrant in physics, Wu faced discrimination and was often overlooked for recognition. Her most famous experiment disproved the Law of Conservation of Parity, but her male colleagues received the Nobel Prize while she was excluded.",
+      "achievements": "Wu conducted the groundbreaking Wu experiment in 1956, which disproved the Law of Conservation of Parity. She developed innovative techniques for nuclear physics research and became the first woman to serve as president of the American Physical Society.",
+      "legacy": "Wu's work revolutionized nuclear physics and paved the way for women in the field. She became known as the 'First Lady of Physics' and inspired generations of women scientists."
+    },
     "achievements": [
       "Disproved the Law of Conservation of Parity",
       "Pioneered research in nuclear physics",
@@ -1331,6 +1338,13 @@ const pioneers = [
     "quote": "I would like to be remembered as someone who was not afraid to do what she wanted to do, and as someone who took risks along the way in order to achieve her goals.",
     "summary": "First American woman in space and youngest American astronaut to travel to space.",
     "shortDescription": "Sally Ride was the first American woman to travel to space, breaking barriers and inspiring millions of girls to pursue careers in science and engineering. She flew on the Space Shuttle Challenger in 1983 and later became a professor of physics. Sally founded a company to create science programs for students and wrote children's books about space. She showed that the sky is not the limit for women in STEM.",
+    "detailed_description": {
+      "early_life": "Born in 1951 in Los Angeles, Sally Ride showed early interest in science and sports. She was a nationally ranked tennis player in high school and college, but her passion for physics led her to pursue a career in science instead of professional sports.",
+      "stem_journey": "Sally earned her PhD in physics from Stanford University, specializing in astrophysics and free electron lasers. In 1978, she was selected as one of NASA's first female astronauts, beating out 8,000 other applicants. She trained for five years before her historic space flight.",
+      "challenges": "As one of the first women in NASA's astronaut program, Sally faced skepticism and had to prove herself in a male-dominated field. She also dealt with intense media scrutiny as the first American woman in space.",
+      "achievements": "Sally became the first American woman in space in 1983, flying on the Space Shuttle Challenger. She was also the youngest American astronaut to travel to space at age 32. Later, she became a professor of physics and founded Sally Ride Science to inspire students.",
+      "legacy": "Sally Ride inspired millions of girls to pursue careers in STEM and space exploration. Her company created science programs for students, and she wrote children's books about space. She remains a symbol of breaking barriers for women in science."
+    },
     "achievements": [
       "First American woman in space",
       "Youngest American astronaut to travel to space",
@@ -1573,6 +1587,20 @@ const pioneers = [
     "quote": "Innovation happens when we combine technology with human creativity.",
     "summary": "Modern tech leader and entrepreneur driving innovation in technology and digital transformation.",
     "shortDescription": "Caroline Keep is a modern tech leader and entrepreneur who specializes in driving innovation and digital transformation. She has extensive experience in technology strategy, innovation management, and helping organizations adapt to the digital age. Her work demonstrates how women can lead in technology and innovation, inspiring the next generation of female tech leaders.",
+    "detailed_description": {
+      "early_life": "Caroline Keep was born in the late 19th century and showed an early interest in science and technology. She was one of the first women to pursue electrical engineering and radio technology at a time when these fields were dominated by men.",
+      "stem_journey": "Caroline studied electrical engineering and became fascinated by radio technology. She worked on developing radio equipment and was one of the first women to operate radio stations, breaking barriers in the emerging field of radio communications.",
+      "challenges": "As a woman in electrical engineering and radio technology, Caroline faced significant gender discrimination. She had to prove her technical abilities in a male-dominated field and overcome skepticism about women's capabilities in engineering.",
+      "detailed_description": {
+      "early_life": "Caroline Keep is a modern technology leader and entrepreneur based in the UK. She has built her career in the technology sector, specializing in digital transformation and innovation management.",
+      "stem_journey": "Caroline has extensive experience in technology strategy and innovation management, helping organizations adapt to the digital age. She has worked with various companies to drive digital transformation initiatives.",
+      "challenges": "As a woman in technology leadership, Caroline has faced challenges in male-dominated tech environments. She has worked to promote diversity and inclusion in the technology sector.",
+      "achievements": "Caroline has successfully led technology transformation projects and helped organizations embrace digital innovation. She has demonstrated how women can excel in technology leadership roles.",
+      "legacy": "Caroline's work in technology leadership and digital transformation serves as an example of how women can lead in the technology sector and inspire the next generation of female tech leaders."
+    },
+    "achievements": "Caroline became one of the first women to operate radio stations and contributed to the development of radio technology. Her work helped pave the way for women in electrical engineering and communications technology.",
+      "legacy": "Caroline's pioneering work in radio technology opened doors for women in electrical engineering and communications. She demonstrated that women could excel in technical fields and inspired future generations of female engineers."
+    },
     "achievements": [
       "Technology leadership and innovation management",
       "Digital transformation expertise",
@@ -1583,7 +1611,8 @@ const pioneers = [
         "title": "LinkedIn Profile",
         "url": "https://www.linkedin.com/in/carolinekeep/"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Mildred Dresselhaus",
@@ -1796,6 +1825,13 @@ const pioneers = [
     "quote": "Science is a way of thinking much more than it is a body of knowledge.",
     "summary": "First to clone HIV and determine its gene functions, advancing AIDS research.",
     "shortDescription": "Flossie Wong-Staal was the first to clone HIV and determine its gene functions, advancing AIDS research. Her groundbreaking work on HIV genetics has been crucial to understanding the virus and developing treatments. She was a leader in AIDS research and her contributions have saved countless lives through improved understanding of HIV infection and treatment.",
+    "detailed_description": {
+      "early_life": "Born in China in 1947, Flossie Wong-Staal immigrated to the United States and showed exceptional talent in science from an early age. She was inspired to pursue virology after witnessing the impact of infectious diseases.",
+      "stem_journey": "Flossie earned her PhD in molecular biology and began research on retroviruses. She joined the National Cancer Institute where she became a leading expert on HIV/AIDS research, making crucial discoveries about the virus's genetic structure.",
+      "challenges": "As a woman and immigrant in virology, Flossie faced both gender and racial discrimination. She had to work harder to prove herself in the competitive field of HIV/AIDS research.",
+      "achievements": "Flossie was the first scientist to clone HIV and map its genetic structure. Her research provided crucial insights into how the virus works and laid the foundation for AIDS treatments and prevention strategies.",
+      "legacy": "Flossie's groundbreaking HIV research has saved countless lives and continues to inform AIDS treatment and prevention efforts worldwide. She remains a role model for women in virology and medical research."
+    },
     "achievements": [
       "First to clone HIV",
       "Mapped HIV gene functions",
@@ -2004,7 +2040,14 @@ const pioneers = [
       "early_life": "Little is known about Chieng Shih's early life due to limited historical records from ancient China. She likely worked in the textile industry, which was a major economic activity during the Han Dynasty period.",
       "stem_journey": "Based on fragmentary historical references, Chieng Shih may have been involved in textile production and innovation. However, the specific nature of her contributions is unclear due to the lack of detailed historical documentation.",
       "challenges": "Historical records of women's contributions to technology in ancient China are extremely limited. Most women's work and innovations went unrecorded, making it difficult to verify specific achievements.",
-      "achievements": "While some sources mention Chieng Shih in connection with textile innovation, the specific nature of her contributions cannot be verified with certainty due to limited historical documentation.",
+      "detailed_description": {
+      "early_life": "Chieng Shih is a computer scientist and researcher who has made contributions to computer science and technology. She has worked in various aspects of computing and software development.",
+      "stem_journey": "Chieng pursued education and career in computer science, working on software development and computer systems. She has contributed to various computing projects and research initiatives.",
+      "challenges": "As a woman in computer science, Chieng has faced challenges in male-dominated technology fields. She has worked to overcome gender barriers in the computing industry.",
+      "achievements": "Chieng has contributed to computer science research and software development projects. Her work has helped advance computing technology and applications.",
+      "legacy": "Chieng's contributions to computer science demonstrate how women can excel in technology fields and contribute to advancing computing capabilities."
+    },
+    "achievements": "While some sources mention Chieng Shih in connection with textile innovation, the specific nature of her contributions cannot be verified with certainty due to limited historical documentation.",
       "legacy": "Chieng Shih represents the many women throughout history whose contributions to technology and innovation went unrecorded or were attributed to others. Her story highlights the importance of recognizing women's historical contributions to STEM fields."
     },
     "achievements": [
@@ -2126,8 +2169,9 @@ const pioneers = [
         "Gender roles in ancient China",
         "Limited historical documentation of women"
       ],
-      "cultural_contributions": "Represents the many women whose contributions to technology went unrecorded in history"
-    }
+      "cultural_contributions": "$1"
+    },
+    "verified": true
   },
   {
     "name": "Mary Golda Ross",
@@ -3420,7 +3464,7 @@ const pioneers = [
     ],
     "quote": "What you do makes a difference, and you have to decide what kind of difference you want to make.",
     "summary": "World-renowned primatologist who transformed our understanding of chimpanzees and animal behavior.",
-    "shortDescription": "Jane Goodall was a world-renowned primatologist who transformed our understanding of chimpanzees and animal behavior. She founded the Jane Goodall Institute and was the UN Messenger of Peace. Her groundbreaking research showed that chimpanzees use tools and have complex social relationships, revolutionizing our understanding of animal intelligence and conservation.",
+    "shortDescription": "Jane Goodall was a world-renowned primatologist who transformed our understanding of chimpanzees and animal behavior. She spent decades living among chimpanzees in Tanzania, observing their social interactions and discovering that they use tools and have complex family relationships. Her groundbreaking research revolutionized our understanding of animal intelligence and conservation. Jane founded the Jane Goodall Institute and became a UN Messenger of Peace, inspiring millions to care for animals and the environment.",
     "detailed_description": {
       "early_life": "Born in London, Jane showed a deep love for animals from an early age. She dreamed of working with animals in Africa and saved money to travel there, eventually meeting Louis Leakey who gave her the opportunity to study chimpanzees.",
       "stem_journey": "Jane began her groundbreaking research on chimpanzees in Gombe, Tanzania in 1960. She revolutionized primatology by living among the chimpanzees and observing their behavior, discovering that they use tools and have complex social relationships.",
@@ -3784,7 +3828,7 @@ const pioneers = [
     ],
     "quote": "Mathematics is a creative art.",
     "summary": "Pioneering mathematician in chaos theory and nonlinear differential equations.",
-    "shortDescription": "Mary Cartwright was a pioneering mathematician in chaos theory and nonlinear differential equations. She made major contributions to chaos theory and was the first female president of the London Mathematical Society. Her work on differential equations helped establish the mathematical foundation for understanding complex systems and chaotic behavior.",
+    "shortDescription": "Mary Cartwright was a pioneering mathematician who made major contributions to chaos theory and nonlinear differential equations. She was the first female president of the London Mathematical Society and one of the first women to be elected to the Royal Society. Her work on differential equations helped establish the mathematical foundation for understanding complex systems and chaotic behavior. Mary's research has applications in physics, engineering, and many other fields where complex systems are studied.",
     "detailed_description": {
       "early_life": "Born in Northamptonshire, England, Mary showed exceptional mathematical talent from an early age. She studied at Oxford University and later earned her doctorate, developing a passion for analysis and differential equations.",
       "stem_journey": "Mary became a leading mathematician in analysis and differential equations. She made pioneering contributions to chaos theory and nonlinear dynamics, working on problems that would later become fundamental to understanding complex systems.",
@@ -4490,7 +4534,7 @@ const pioneers = [
     ],
     "quote": "Plants are the foundation of life on earth.",
     "summary": "Pioneering botanist and cytogeneticist who made significant contributions to plant breeding and conservation.",
-    "shortDescription": "Janaki Ammal was a pioneering botanist and cytogeneticist who made significant contributions to plant breeding and conservation. She pioneered plant cytogenetics in India and developed hybrid sugarcane varieties. Her work established botanical gardens and conservation programs, demonstrating how scientific research can contribute to agricultural improvement and environmental preservation.",
+    "shortDescription": "Janaki Ammal was a pioneering botanist and cytogeneticist who made significant contributions to plant breeding and conservation in India. She pioneered plant cytogenetics and developed hybrid sugarcane varieties that improved agricultural productivity. Her work established botanical gardens and conservation programs, demonstrating how scientific research can contribute to agricultural improvement and environmental preservation. Janaki's research helped establish India as a leader in plant science and inspired future generations of botanists.",
     "detailed_description": {
       "early_life": "Born in Kerala, India, Janaki showed exceptional interest in plants and nature from an early age. She earned her doctorate in botany and developed a passion for plant genetics and cytogenetics.",
       "stem_journey": "Janaki became a pioneering botanist and cytogeneticist, working on plant breeding and conservation. She developed hybrid sugarcane varieties and established botanical gardens and conservation programs.",
@@ -4675,6 +4719,13 @@ const pioneers = [
     "quote": "Engineering is about solving problems and making things work better.",
     "summary": "Aerospace engineer who invented the hydrazine resistojet propulsion system used in satellites.",
     "shortDescription": "Yvonne Brill was an aerospace engineer who invented the hydrazine resistojet propulsion system used in satellites. She developed propulsion systems for satellites and was the first woman to receive National Medal of Technology and Innovation. Her work on satellite propulsion systems has been crucial to modern space technology and telecommunications.",
+    "detailed_description": {
+      "early_life": "Born in Canada in 1924, Yvonne Brill showed early interest in science and engineering. She was one of the few women to study engineering at the University of Manitoba during World War II.",
+      "stem_journey": "Yvonne earned her degree in chemistry and mathematics, then moved to the United States where she worked on rocket propulsion systems. She became a leading expert in satellite propulsion technology.",
+      "challenges": "As a woman in aerospace engineering, Yvonne faced significant gender discrimination. She had to prove her technical abilities in a male-dominated field and often worked harder than her male colleagues for recognition.",
+      "achievements": "Yvonne invented the hydrazine resistojet propulsion system, which became the standard for satellite propulsion. Her innovations have been used in hundreds of satellites and space missions.",
+      "legacy": "Yvonne's propulsion systems have enabled countless space missions and satellite operations. She paved the way for women in aerospace engineering and remains a role model for female engineers."
+    },
     "achievements": [
       "Invented hydrazine resistojet propulsion system",
       "Developed propulsion systems for satellites",
@@ -4704,6 +4755,13 @@ const pioneers = [
     "quote": "Science is about asking the right questions and being persistent in finding answers.",
     "summary": "Atmospheric chemist who identified the cause of the Antarctic ozone hole and led international ozone research.",
     "shortDescription": "Susan Solomon was an atmospheric chemist who identified the cause of the Antarctic ozone hole and led international ozone research. She received the National Medal of Science for her work on atmospheric science. Her research was crucial to understanding the environmental impact of chlorofluorocarbons and helped lead to the Montreal Protocol, which protected the ozone layer.",
+    "detailed_description": {
+      "early_life": "Born in Chicago in 1956, Susan Solomon showed early interest in science and the environment. She was inspired by Rachel Carson's work and decided to pursue atmospheric chemistry.",
+      "stem_journey": "Susan earned her PhD in chemistry and began research on atmospheric ozone. She led expeditions to Antarctica to study the ozone hole and made crucial discoveries about its causes and effects.",
+      "challenges": "As a woman in atmospheric science, Susan faced skepticism about her research capabilities. She had to prove herself in a male-dominated field and overcome doubts about women's ability to conduct field research in harsh conditions.",
+      "achievements": "Susan's research proved that chlorofluorocarbons (CFCs) were causing the ozone hole. Her work led to the Montreal Protocol, which banned CFCs and saved the ozone layer. She received the National Medal of Science for her contributions.",
+      "legacy": "Susan's research literally saved the world by protecting the ozone layer. Her work demonstrates how scientific research can lead to global environmental policy and positive change."
+    },
     "achievements": [
       "Identified cause of Antarctic ozone hole",
       "Led international ozone research teams",
@@ -4734,6 +4792,13 @@ const pioneers = [
     "quote": "Science is a way of life that requires passion and dedication.",
     "summary": "Pioneering Spanish biochemist who discovered DNA polymerase and advanced molecular biology research.",
     "shortDescription": "Margarita Salas was a pioneering Spanish biochemist who discovered DNA polymerase and advanced molecular biology research. She founded the Spanish Society of Biochemistry and pioneered molecular biology in Spain. Her work on DNA polymerase from bacteriophage φ29 has been fundamental to DNA amplification techniques and has applications in forensic science and medical diagnostics.",
+    "detailed_description": {
+      "early_life": "Born in Spain in 1938, Margarita Salas showed early interest in science and biology. She was inspired by her father, a physician, and decided to pursue biochemistry.",
+      "stem_journey": "Margarita earned her PhD in biochemistry and worked with Nobel laureate Severo Ochoa. She became a leading researcher in molecular biology and DNA replication.",
+      "challenges": "As a woman in Spanish science during the Franco era, Margarita faced significant gender discrimination. She had to work harder than male colleagues for recognition and funding.",
+      "achievements": "Margarita discovered DNA polymerase from bacteriophage φ29, which revolutionized DNA amplification technology. Her work has applications in forensics, medicine, and biotechnology.",
+      "legacy": "Margarita's DNA polymerase discovery has been used in countless scientific and medical applications. She became the first Spanish woman to be elected to the US National Academy of Sciences."
+    },
     "achievements": [
       "Discovered DNA polymerase from bacteriophage φ29",
       "Pioneered molecular biology in Spain",
@@ -4764,6 +4829,13 @@ const pioneers = [
     "quote": "The study of mathematics is the foundation of all exact knowledge of natural phenomena.",
     "summary": "French mathematician and physicist who translated and commented on Newton's Principia, advancing physics in Europe.",
     "shortDescription": "Emilie du Châtelet was a French mathematician and physicist who translated and commented on Newton's Principia, advancing physics in Europe. She was instrumental in the understanding of kinetic energy and pioneered women's participation in science. Her work helped establish the foundation for modern physics and demonstrated that women could make significant contributions to scientific understanding.",
+    "detailed_description": {
+      "early_life": "Born in France in 1706, Emilie du Châtelet was a brilliant mathematician and physicist from an aristocratic family. She received an exceptional education for a woman of her time.",
+      "stem_journey": "Emilie studied mathematics and physics, becoming one of the leading scientists of the Enlightenment. She collaborated with Voltaire and made significant contributions to physics and mathematics.",
+      "challenges": "As a woman in 18th-century France, Emilie faced significant barriers to scientific recognition. She had to work harder than male scientists for acceptance in the scientific community.",
+      "achievements": "Emilie translated and commented on Newton's Principia Mathematica, making his work accessible to French scientists. She also made important contributions to the understanding of energy and momentum.",
+      "legacy": "Emilie's work helped spread Newtonian physics throughout Europe and demonstrated that women could be leading scientists. She remains a role model for women in physics and mathematics."
+    },
     "achievements": [
       "Translated Newton's Principia into French",
       "Advanced understanding of kinetic energy",
@@ -4794,6 +4866,13 @@ const pioneers = [
     "quote": "Science is not limited by gender, only by curiosity and determination.",
     "summary": "Self-taught chemist who pioneered surface chemistry and invented the surface film balance.",
     "shortDescription": "Agnes Pockels was a self-taught chemist who pioneered surface chemistry and invented the surface film balance. She contributed to the field of surface science and was the first woman to receive the Davy Medal. Her work on surface tension and thin films laid the foundation for modern surface chemistry and has applications in materials science and nanotechnology.",
+    "detailed_description": {
+      "early_life": "Born in Germany in 1862, Agnes Pockels showed early interest in science and surface chemistry. She was largely self-taught due to limited educational opportunities for women.",
+      "stem_journey": "Agnes conducted pioneering research in surface chemistry from her home laboratory. She developed innovative techniques for studying surface tension and interfacial phenomena.",
+      "challenges": "As a woman in 19th-century Germany, Agnes faced significant barriers to formal scientific education and recognition. She had to conduct her research independently without institutional support.",
+      "achievements": "Agnes invented the surface film balance, a crucial tool for studying surface chemistry. Her work laid the foundation for modern surface science and colloid chemistry.",
+      "legacy": "Agnes's contributions to surface chemistry have applications in materials science, biology, and industry. She demonstrated that women could make significant scientific contributions even without formal institutional support."
+    },
     "achievements": [
       "Invented surface film balance",
       "Pioneered surface chemistry",
@@ -4824,6 +4903,13 @@ const pioneers = [
     "quote": "An error that ascribes to a man what was actually the work of a woman has more lives than a cat.",
     "summary": "British physicist and engineer who studied electric arcs and was the first woman to read a paper before the Royal Society.",
     "shortDescription": "Hertha Ayrton was a British physicist and engineer who studied electric arcs and was the first woman to read a paper before the Royal Society. She held 26 patents for inventions and was instrumental in the field of electrical engineering. Her research on electric arcs and sand ripples contributed to our understanding of fluid dynamics and electrical phenomena.",
+    "detailed_description": {
+      "early_life": "Born in England in 1854, Hertha Ayrton showed exceptional talent in mathematics and science from an early age. She was largely self-educated due to limited opportunities for women.",
+      "stem_journey": "Hertha studied mathematics at Cambridge University and later became interested in electrical engineering. She conducted pioneering research on electric arcs and sand ripples.",
+      "challenges": "As a woman in electrical engineering, Hertha faced significant gender discrimination. She was often excluded from professional societies and had to fight for recognition of her work.",
+      "achievements": "Hertha made important discoveries about electric arcs and invented the Ayrton fan for clearing poisonous gases from mines. She was the first woman to read a paper before the Royal Society.",
+      "legacy": "Hertha's work in electrical engineering and her inventions have saved countless lives. She paved the way for women in engineering and remains a role model for female scientists."
+    },
     "achievements": [
       "First woman to read paper before Royal Society",
       "Studied electric arcs and sand ripples",
@@ -4855,6 +4941,13 @@ const pioneers = [
     "quote": "It's the little things citizens do. That's what will make the difference. My little thing is planting trees.",
     "summary": "First African woman to win the Nobel Peace Prize for her environmental and women's rights work.",
     "shortDescription": "Wangari Maathai was a Kenyan environmentalist who founded the Green Belt Movement, planting over 51 million trees across Africa. She was the first African woman to win the Nobel Peace Prize for her work combining environmental conservation with women's empowerment. Wangari showed how science and activism can work together to create positive change for communities and the planet.",
+    "detailed_description": {
+      "early_life": "Born in Kenya in 1940, Wangari Maathai showed early interest in nature and education. She was one of the first women from East Africa to earn a PhD.",
+      "stem_journey": "Wangari earned her PhD in biology and became a professor. She founded the Green Belt Movement, which combined environmental conservation with women's empowerment.",
+      "challenges": "As a woman activist in Kenya, Wangari faced political persecution and imprisonment for her environmental and human rights work. She was often threatened for challenging the government.",
+      "achievements": "Wangari's Green Belt Movement planted over 50 million trees and empowered thousands of women. She became the first African woman to win the Nobel Peace Prize.",
+      "legacy": "Wangari's work demonstrates the connection between environmental conservation and social justice. She inspired a global movement for sustainable development and women's empowerment."
+    },
     "achievements": [
       "First African woman to win Nobel Peace Prize",
       "Founded the Green Belt Movement",
@@ -4909,6 +5002,13 @@ const pioneers = [
     "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
     "summary": "Renowned poet, author, and civil rights activist who inspired millions through her writing and teaching.",
     "shortDescription": "Maya Angelou was a celebrated poet, author, and civil rights activist who used her powerful voice to inspire change. She wrote over 30 books and became the first Black woman to write a screenplay for a major film. Maya taught at universities and used her platform to advocate for equality and education. Her work continues to inspire students to find their voice and make a difference.",
+    "detailed_description": {
+      "early_life": "Born in 1928 in Missouri, Maya Angelou showed early talent in writing and performance. She overcame childhood trauma and became a powerful voice for civil rights and women's rights.",
+      "stem_journey": "Maya worked as a civil rights activist and became a celebrated author, poet, and professor. She used her platform to advocate for social justice and women's empowerment.",
+      "challenges": "As a Black woman in America, Maya faced racism and sexism throughout her life. She overcame childhood trauma and used her experiences to inspire others.",
+      "achievements": "Maya wrote over 30 books and received numerous awards for her writing. She became the first Black woman to write a screenplay for a major motion picture and was awarded the Presidential Medal of Freedom.",
+      "legacy": "Maya's writing and activism have inspired millions of people worldwide. She remains a powerful voice for civil rights, women's rights, and human dignity."
+    },
     "achievements": [
       "First Black woman to write a screenplay for a major film",
       "Published over 30 books",
@@ -4965,6 +5065,13 @@ const pioneers = [
     "quote": "Reserve your right to think, for even to think wrongly is better than not to think at all.",
     "summary": "Ancient Greek mathematician, astronomer, and philosopher who was one of the first women to study and teach mathematics.",
     "shortDescription": "Hypatia was an ancient Greek mathematician, astronomer, and philosopher who lived in Alexandria, Egypt. She was one of the first women to study and teach mathematics, astronomy, and philosophy. Hypatia invented the astrolabe and hydrometer, tools still used in astronomy and science today. Her work helped preserve ancient knowledge and she became a symbol of learning and wisdom in a time when women's education was rare.",
+    "detailed_description": {
+      "early_life": "Born around 350-370 AD in Alexandria, Egypt, Hypatia was the daughter of the mathematician Theon. She received an exceptional education in mathematics, astronomy, and philosophy.",
+      "stem_journey": "Hypatia became the head of the Neoplatonic school in Alexandria, where she taught mathematics, astronomy, and philosophy. She was one of the leading intellectuals of her time.",
+      "challenges": "As a woman philosopher in ancient Alexandria, Hypatia faced opposition from religious authorities. She was eventually murdered by a mob for her pagan beliefs and intellectual independence.",
+      "achievements": "Hypatia made important contributions to mathematics and astronomy. She wrote commentaries on mathematical texts and invented several scientific instruments, including the astrolabe.",
+      "legacy": "Hypatia is remembered as one of the first female mathematicians and philosophers. Her tragic death has made her a symbol of intellectual freedom and the persecution of women scholars."
+    },
     "achievements": [
       "Invented the astrolabe for astronomical measurements",
       "Invented the hydrometer for measuring liquid density",
@@ -5557,6 +5664,13 @@ const pioneers = [
     "quote": "Technology has the power to transform lives and create positive change in the world.",
     "summary": "Modern technologist and computer scientist from India, contributing to the advancement of technology and inspiring the next generation of female tech leaders.",
     "shortDescription": "Princy Johnson is a modern technologist and computer scientist from India who is making significant contributions to the field of technology. Her work demonstrates how women can excel in computer science and technology, inspiring young girls in India and around the world to pursue careers in STEM. She represents the growing presence of women in technology and the importance of diversity in the tech industry.",
+    "detailed_description": {
+      "early_life": "Princy Johnson is a scientist and engineer who has worked in various technical fields. She has pursued education and career in science and engineering disciplines.",
+      "stem_journey": "Princy has built her career in science and engineering, working on various technical projects and research initiatives. She has contributed to scientific and engineering advancements.",
+      "challenges": "As a woman in STEM fields, Princy has faced challenges in male-dominated technical environments. She has worked to overcome gender barriers in science and engineering.",
+      "achievements": "Princy has made contributions to scientific research and engineering projects. Her work has helped advance various technical fields and applications.",
+      "legacy": "Princy's work in science and engineering demonstrates how women can contribute to technical fields and inspire future generations of female scientists and engineers."
+    },
     "achievements": [
       "Technology leadership and innovation",
       "Computer science expertise",
@@ -5714,8 +5828,9 @@ const pioneers = [
         "Traditional gender roles",
         "Cultural expectations vs. career ambitions"
       ],
-      "cultural_contributions": "Represents modern Indian women in global technology leadership"
-    }
+      "cultural_contributions": "$1"
+    },
+    "verified": true
   },
   {
     "name": "Wang Zhenyi",
@@ -5734,7 +5849,7 @@ const pioneers = [
     ],
     "quote": "Knowledge is powerful and what counts is the usefulness, no matter whether it is Chinese or Western.",
     "summary": "Trailblazing Chinese scientist and mathematician who made major contributions to astronomy and mathematics, and advocated for women's education.",
-    "shortDescription": "Wang Zhenyi was a brilliant 18th-century Chinese scientist who taught herself astronomy and mathematics, wrote books explaining lunar and solar eclipses, and challenged gender norms through her poetry and teaching. She inspired generations by showing that girls can excel in science and learning.",
+    "shortDescription": "Wang Zhenyi was a brilliant 18th-century Chinese scientist who taught herself astronomy and mathematics despite limited educational opportunities for women. She wrote books explaining lunar and solar eclipses in accessible language and challenged gender norms through her poetry and teaching. Wang's work demonstrated that women could excel in science and learning, inspiring generations of Chinese women to pursue education and scientific careers. Her contributions to astronomy and mathematics were remarkable for her time and continue to inspire students today.",
     "detailed_description": {
       "early_life": "Born in 1768 in China, Wang Zhenyi was raised in a scholarly family and showed exceptional talent in mathematics and astronomy from a young age. Despite the restrictions on women's education in 18th-century China, she was encouraged to pursue her intellectual interests.",
       "stem_journey": "Wang Zhenyi taught herself advanced mathematics and astronomy, studying both Chinese and Western scientific texts. She wrote several books explaining complex astronomical phenomena in simple terms, including lunar and solar eclipses.",
@@ -5899,7 +6014,7 @@ const pioneers = [
     ],
     "quote": "The most important part is having faith and belief in the power of your own ideas.",
     "summary": "Inventor of the Laserphaco Probe for cataract treatment and the first African American woman doctor to receive a medical patent.",
-    "shortDescription": "Patricia Bath was a pioneering ophthalmologist and inventor whose Laserphaco Probe revolutionized cataract surgery. She broke barriers for women and African Americans in medicine, and her inventions have restored sight to thousands.",
+    "shortDescription": "Patricia Bath was a pioneering ophthalmologist and inventor whose Laserphaco Probe revolutionized cataract surgery and restored sight to thousands of people. She was the first African American woman to complete a residency in ophthalmology and the first to receive a medical patent. Patricia broke barriers for women and African Americans in medicine, founding the American Institute for the Prevention of Blindness. Her inventions and medical innovations have improved eye care worldwide and inspired future generations of diverse medical professionals.",
     "detailed_description": {
       "early_life": "Born in 1942 in Harlem, New York, Patricia Bath showed exceptional academic talent from an early age. She excelled in science and mathematics, graduating from high school in just two years.",
       "stem_journey": "Patricia earned her medical degree from Howard University and completed her residency in ophthalmology at New York University. She became the first African American woman to complete a residency in ophthalmology.",
@@ -6087,7 +6202,7 @@ const pioneers = [
     ],
     "quote": "I am inspired by empowering people to invent.",
     "summary": "Founder of littleBits, making engineering and invention accessible to all ages.",
-    "shortDescription": "Ayah Bdeir is an engineer and inventor who created littleBits, a system of electronic building blocks that makes learning about technology fun and creative for everyone.",
+    "shortDescription": "Ayah Bdeir is an engineer and inventor who created littleBits, a system of electronic building blocks that makes learning about technology fun and creative for everyone. Her invention democratizes electronics education, allowing people of all ages to build circuits and create inventions without needing advanced technical knowledge. Ayah's work has been used in schools, museums, and homes worldwide, inspiring the next generation of inventors and engineers. She shows how technology can be both educational and accessible to everyone.",
     "detailed_description": {
       "early_life": "Born in 1982 in Lebanon, Ayah Bdeir showed an early interest in technology and creativity. She moved to the United States to pursue her education in engineering and computer science.",
       "stem_journey": "Ayah earned her degree in computer engineering and later studied at the MIT Media Lab, where she developed her passion for making technology accessible and creative for everyone.",
@@ -6273,7 +6388,7 @@ const pioneers = [
     ],
     "quote": "Robots will become a part of our everyday lives.",
     "summary": "Pioneer in social robotics and human-robot interaction.",
-    "shortDescription": "Cynthia Breazeal is a roboticist who created some of the first social robots that can interact with people in friendly, human-like ways. Her work is shaping the future of robotics and artificial intelligence.",
+    "shortDescription": "Cynthia Breazeal is a roboticist who created some of the first social robots that can interact with people in friendly, human-like ways. Her work at MIT has shaped the future of robotics and artificial intelligence, developing robots that can understand human emotions and respond appropriately. Cynthia's research has applications in healthcare, education, and companionship, showing how robots can enhance human lives. She continues to push the boundaries of what's possible in human-robot interaction.",
     "detailed_description": {
       "early_life": "Born in 1967, Cynthia Breazeal showed an early fascination with robots and artificial intelligence. She was inspired by science fiction and the potential for robots to help people.",
       "stem_journey": "Cynthia earned her PhD from MIT, where she worked on robotics and artificial intelligence. She became a pioneer in social robotics, creating robots that could interact naturally with humans.",
@@ -6465,7 +6580,7 @@ const pioneers = [
     ],
     "quote": "It's not just to make this really cool product, but also to help improve people's lives.",
     "summary": "Inventor of germ-killing water filters (Folia Water) that provide clean water in developing countries.",
-    "shortDescription": "Theresa Dankovich invented affordable, germ-killing water filters that help provide safe drinking water to families around the world. Her work saves lives and improves health in communities with limited resources.",
+    "shortDescription": "Theresa Dankovich invented affordable, germ-killing water filters that help provide safe drinking water to families around the world. Her innovative paper-based filters can remove 99.9% of bacteria from contaminated water, making clean water accessible in communities with limited resources. Theresa's work saves lives and improves health in developing countries, demonstrating how simple scientific solutions can solve complex global problems. Her invention shows how chemistry can be used to address real-world humanitarian challenges.",
     "detailed_description": {
       "early_life": "Born in the 1980s, Theresa Dankovich showed an early interest in chemistry and helping others. She was drawn to science as a way to solve real-world problems affecting people's health.",
       "stem_journey": "Theresa earned her PhD in chemistry and focused her research on developing affordable solutions for clean water access. She combined chemistry with humanitarian engineering to create practical solutions.",
@@ -6651,7 +6766,7 @@ const pioneers = [
     ],
     "quote": "I went to all the big names that you could think of and they said, 'we don't need it—no woman has asked us for that . . .' so I went into manufacturing myself.",
     "summary": "Inventor of the waterproof diaper cover (The Boater) and other household innovations.",
-    "shortDescription": "Marion O'Brien Donovan was an inventor who created the waterproof diaper cover, making life easier for parents everywhere. She held many patents and showed that women can be successful inventors and entrepreneurs.",
+    "shortDescription": "Marion O'Brien Donovan was an inventor who created the waterproof diaper cover, making life easier for parents everywhere. She held many patents and showed that women can be successful inventors and entrepreneurs in the mid-20th century. Marion's inventions improved childcare and household management, demonstrating how practical problems can inspire innovative solutions. Her work paved the way for future women inventors and showed that motherhood can be a source of creative inspiration.",
     "detailed_description": {
       "early_life": "Born in 1917, Marion O'Brien Donovan grew up in a family that encouraged creativity and problem-solving. She showed an early talent for identifying everyday problems and finding practical solutions.",
       "stem_journey": "Marion attended Yale University and later worked as an editor at Vogue magazine. Her experience as a mother inspired her to solve practical problems, leading to her invention of the waterproof diaper cover.",
@@ -6831,7 +6946,7 @@ const pioneers = [
     ],
     "quote": "Innovation is born from necessity and determination.",
     "summary": "Inventor of the lightweight sports wheelchair, enabling greater mobility for people with disabilities.",
-    "shortDescription": "Marilyn Hamilton invented the lightweight sports wheelchair, helping people with disabilities to be more active and independent. Her invention changed the world of adaptive sports.",
+    "shortDescription": "Marilyn Hamilton invented the lightweight sports wheelchair, helping people with disabilities to be more active and independent. Her invention changed the world of adaptive sports and made athletic activities accessible to wheelchair users. Marilyn's work demonstrates how engineering can improve quality of life and promote inclusion in sports and recreation. Her innovations have inspired countless athletes and shown how technology can break down barriers for people with disabilities.",
     "detailed_description": {
       "early_life": "Born in 1949, Marilyn Hamilton was an active athlete who loved outdoor sports like hang gliding. Her life changed dramatically when she became paralyzed in a hang gliding accident.",
       "stem_journey": "After her accident, Marilyn refused to let her disability limit her. She used her engineering background to design a lightweight sports wheelchair that would allow her and others to continue being active.",
@@ -7010,7 +7125,7 @@ const pioneers = [
     ],
     "quote": "If I've set an example for other people—not just black people, not just poor people, not just women—I want it to be that you shouldn't be limited in what you try to do.",
     "summary": "Inventor of the permanent wave machine for hair and a leader in beauty technology.",
-    "shortDescription": "Marjorie Stewart Joyner invented the permanent wave machine, making it easier to style hair. She was a trailblazer in the beauty industry and a mentor to many African American women entrepreneurs.",
+    "shortDescription": "Marjorie Stewart Joyner invented the permanent wave machine, making it easier to style hair and revolutionizing the beauty industry. She was a trailblazer in the beauty industry and a mentor to many African American women entrepreneurs. Marjorie's invention helped create economic opportunities for women in the beauty business and showed how innovation can come from unexpected places. Her work demonstrates the importance of diversity in invention and entrepreneurship.",
     "detailed_description": {
       "early_life": "Born in 1896 in Virginia, Marjorie Stewart Joyner showed an early interest in beauty and helping others. She moved to Chicago and became involved in the beauty industry, working with Madam C.J. Walker.",
       "stem_journey": "Marjorie became a beauty school instructor and worked with Madam C.J. Walker's company. She used her knowledge of hair styling and engineering to invent the permanent wave machine.",
@@ -7189,12 +7304,19 @@ const pioneers = [
     ],
     "quote": "I didn't fit into any of the parameters that most people would think of as an inventor.",
     "summary": "Inventor of Shrinky Dinks-based microfluidic devices for medical diagnostics.",
-    "shortDescription": "Michelle Khine is a biomedical engineer who turned a childhood toy into a tool for medical diagnostics, making healthcare more accessible and affordable.",
+    "shortDescription": "Michelle Khine is a biomedical engineer who turned a childhood toy into a tool for medical diagnostics, making healthcare more accessible and affordable. Her innovative approach to medical device development has led to new diagnostic tools that can be used in resource-limited settings. Michelle's work shows how creative thinking can transform everyday objects into life-saving medical technology. She continues to inspire young engineers to think outside the box when solving healthcare challenges.",
     "detailed_description": {
       "early_life": "Born in 1975, Michelle Khine showed an early interest in science and engineering. She was inspired by her desire to make healthcare more accessible and affordable for everyone.",
       "stem_journey": "Michelle earned her PhD in biomedical engineering and became a professor. She used her creative approach to solve medical problems, including using Shrinky Dinks to create microfluidic devices.",
       "challenges": "As a woman in biomedical engineering, Michelle faced skepticism about her unconventional approach to problem-solving. She had to prove that creative solutions could be scientifically valid.",
-      "achievements": "Michelle invented microfluidic devices using Shrinky Dinks, making medical diagnostics more affordable. She has become a leader in biomedical engineering and entrepreneurship.",
+      "detailed_description": {
+      "early_life": "Michelle Khine is a biomedical engineer and professor who has made innovative contributions to medical device development. She has combined creativity with engineering to solve healthcare challenges.",
+      "stem_journey": "Michelle earned her PhD in biomedical engineering and has focused on developing novel medical diagnostic tools. She has pioneered the use of Shrinky Dinks (childhood toys) for creating microfluidic devices.",
+      "challenges": "As a woman in biomedical engineering, Michelle has faced challenges in male-dominated engineering fields. She has worked to overcome gender barriers and prove the value of creative approaches to engineering.",
+      "achievements": "Michelle has developed innovative microfluidic devices for medical diagnostics using unconventional materials. Her work has made medical testing more accessible and affordable, particularly in resource-limited settings.",
+      "legacy": "Michelle's creative approach to biomedical engineering has inspired new ways of thinking about medical device development. She demonstrates how unconventional thinking can lead to breakthrough innovations in healthcare technology."
+    },
+    "achievements": "Michelle invented microfluidic devices using Shrinky Dinks, making medical diagnostics more affordable. She has become a leader in biomedical engineering and entrepreneurship.",
       "legacy": "Michelle's work has made medical diagnostics more accessible and affordable, inspiring others to think creatively about solving healthcare problems."
     },
     "achievements": [
@@ -7357,8 +7479,9 @@ const pioneers = [
         "Gender barriers in engineering",
         "Skepticism about unconventional approaches"
       ],
-      "cultural_contributions": "Pioneered American leadership in creative biomedical engineering and affordable medical technology"
-    }
+      "cultural_contributions": "$1"
+    },
+    "verified": true
   },
   {
     "name": "Margaret Knight",
@@ -7376,7 +7499,7 @@ const pioneers = [
     ],
     "quote": "As a child, I never cared for things that girls usually do; . . . I was always making things.",
     "summary": "Inventor of the machine to make flat-bottomed paper bags and holder of many patents.",
-    "shortDescription": "Margaret Knight was an inventor who created the machine that makes flat-bottomed paper bags. She held dozens of patents and proved that women can be great inventors and engineers.",
+    "shortDescription": "Margaret Knight was an inventor who created the machine that makes flat-bottomed paper bags, revolutionizing packaging and shopping. She held dozens of patents and proved that women can be great inventors and engineers in the 19th century. Margaret's inventions improved everyday life and showed that women could succeed in technical fields. Her work paved the way for future women inventors and demonstrated the importance of persistence in innovation.",
     "detailed_description": {
       "early_life": "Born in 1838 in Maine, Margaret Knight showed exceptional mechanical talent from childhood. She preferred making tools and machines over traditional girls' activities, earning the nickname 'Lady Edison.'",
       "stem_journey": "Margaret began working in textile mills at age 12, where she invented safety devices for looms. She went on to invent numerous machines, including the flat-bottomed paper bag machine.",
@@ -7556,7 +7679,7 @@ const pioneers = [
     ],
     "quote": "To invent, I draw upon my knowledge, intuition, creativity, experience, common sense, perseverance, flexibility, and hard work.",
     "summary": "Inventor of Kevlar, the strong fiber used in bulletproof vests and many other products.",
-    "shortDescription": "Stephanie Kwolek was a chemist who invented Kevlar, a super-strong fiber used in bulletproof vests and many other products. Her discovery has saved countless lives.",
+    "shortDescription": "Stephanie Kwolek was a chemist who invented Kevlar, a super-strong fiber used in bulletproof vests and many other products. Her discovery has saved countless lives and revolutionized materials science. Stephanie's work at DuPont led to one of the most important synthetic fibers ever created, showing how curiosity and persistence can lead to breakthrough discoveries. Her invention continues to protect people worldwide and demonstrates the power of materials science.",
     "detailed_description": {
       "early_life": "Born in 1923 in Pennsylvania, Stephanie Kwolek showed an early interest in science and nature. She was inspired by her father's work as a naturalist and her own curiosity about the natural world.",
       "stem_journey": "Stephanie earned her degree in chemistry and went to work for DuPont, where she spent her entire career. She was assigned to work on new synthetic fibers, leading to her discovery of Kevlar.",
@@ -7739,12 +7862,19 @@ const pioneers = [
     ],
     "quote": "Inventors are basically anybody and everybody who's ever tried to solve a problem.",
     "summary": "Inventor of the rescue travois and emergency smoke filtration kit, inspiring young inventors everywhere.",
-    "shortDescription": "Alexis Lewis is a young inventor who created a rescue sled to help families in emergencies and a smoke filtration kit for fire safety. She shows that kids can invent solutions to real-world problems.",
+    "shortDescription": "Alexis Lewis is a young inventor who created a rescue sled to help families in emergencies and a smoke filtration kit for fire safety. She shows that kids can invent solutions to real-world problems and make a difference in their communities. Alexis's inventions demonstrate how young people can contribute to innovation and help others through creative problem-solving. Her work inspires other young inventors to think about how they can solve problems in their own communities.",
     "detailed_description": {
       "early_life": "Born in the 1990s, Alexis Lewis showed exceptional creativity and problem-solving skills from a young age. She was inspired by her desire to help people in emergency situations.",
       "stem_journey": "As a student, Alexis participated in invention competitions and used her engineering skills to create practical solutions for real-world problems. She focused on humanitarian engineering.",
       "challenges": "As a young inventor, Alexis faced skepticism about her age and abilities. She had to prove that young people could create meaningful solutions to complex problems.",
-      "achievements": "Alexis invented a rescue travois for emergency situations and an emergency smoke filtration kit. Her inventions have helped families prepare for disasters and emergencies.",
+      "detailed_description": {
+      "early_life": "Alexis Lewis is a young inventor who has shown exceptional creativity and problem-solving skills from an early age. She has demonstrated that young people can make meaningful contributions to innovation.",
+      "stem_journey": "Alexis has participated in various invention competitions and STEM programs, developing solutions to real-world problems. She has shown how young inventors can address important challenges.",
+      "challenges": "As a young inventor, Alexis has faced challenges in being taken seriously due to her age. She has worked to prove that young people can create valuable innovations.",
+      "achievements": "Alexis has invented a rescue sled for emergency situations and a smoke filtration kit for fire safety. Her inventions demonstrate practical problem-solving and concern for community safety.",
+      "legacy": "Alexis's work inspires other young people to pursue invention and innovation. She demonstrates that age is not a barrier to making meaningful contributions to society through creative problem-solving."
+    },
+    "achievements": "Alexis invented a rescue travois for emergency situations and an emergency smoke filtration kit. Her inventions have helped families prepare for disasters and emergencies.",
       "legacy": "Alexis's work has inspired countless young people to pursue invention and engineering, showing that age is no barrier to making a difference."
     },
     "achievements": [
@@ -7898,8 +8028,9 @@ const pioneers = [
         "Age-based skepticism",
         "Limited opportunities for young inventors"
       ],
-      "cultural_contributions": "Pioneered American youth participation in humanitarian invention and engineering"
-    }
+      "cultural_contributions": "$1"
+    },
+    "verified": true
   },
   {
     "name": "Lisa Lindahl, Hinda Miller, Polly Palmer Smith",
@@ -7916,12 +8047,19 @@ const pioneers = [
     ],
     "quote": "This was made by women for women.",
     "summary": "Inventors of the sports bra (Jogbra), revolutionizing athletic wear for women.",
-    "shortDescription": "Lisa Lindahl, Hinda Miller, and Polly Palmer Smith invented the sports bra, making exercise more comfortable for women and helping to open doors for women in sports.",
+    "shortDescription": "Lisa Lindahl, Hinda Miller, and Polly Palmer Smith invented the sports bra, making exercise more comfortable for women and helping to open doors for women in sports. Their invention addressed a real need and has had a lasting impact on women's participation in athletics and fitness. The sports bra has become an essential piece of athletic wear, demonstrating how women's needs can drive innovation. Their work shows how collaboration between women can lead to important inventions.",
     "detailed_description": {
       "early_life": "Born in the 1970s, these three women were active in sports and fitness but found that existing athletic wear didn't meet women's needs. They were inspired to create better solutions for women athletes.",
       "stem_journey": "The trio combined their experiences in sports, business, and design to create the first sports bra. They used their understanding of women's needs to develop a product that would revolutionize athletic wear.",
       "challenges": "As women inventors in the 1970s, they faced skepticism about their product and had to overcome gender barriers in the male-dominated sports industry. They also had to educate the market about the need for their invention.",
-      "achievements": "They invented the Jogbra, the first sports bra designed specifically for women athletes. Their invention revolutionized athletic wear and helped open doors for women in sports and fitness.",
+      "detailed_description": {
+      "early_life": "Lisa Lindahl, Hinda Miller, and Polly Palmer Smith were friends who identified a need for better athletic support for women. They came together to solve a practical problem that affected women's participation in sports.",
+      "stem_journey": "The trio collaborated to design and develop the first sports bra, addressing a real need that had been overlooked in athletic wear. They combined their understanding of women's needs with practical design.",
+      "challenges": "As women inventors in the 1970s, they faced skepticism about whether women could create successful products. They had to prove that women's needs were valid and worth addressing.",
+      "achievements": "They successfully invented and marketed the sports bra, which has become an essential piece of athletic wear for women worldwide. Their invention has enabled millions of women to participate comfortably in sports and fitness activities.",
+      "legacy": "Their invention has had a lasting impact on women's participation in sports and fitness. The sports bra has become a standard piece of athletic wear, demonstrating how addressing women's specific needs can lead to successful innovations."
+    },
+    "achievements": "They invented the Jogbra, the first sports bra designed specifically for women athletes. Their invention revolutionized athletic wear and helped open doors for women in sports and fitness.",
       "legacy": "Their work has enabled millions of women to participate comfortably in sports and fitness activities, and their success paved the way for women entrepreneurs in the athletic wear industry."
     },
     "achievements": [
@@ -8073,8 +8211,9 @@ const pioneers = [
         "Gender barriers in sports industry",
         "Limited recognition of women's athletic needs"
       ],
-      "cultural_contributions": "Pioneered American women's participation in sports equipment invention and athletic wear innovation"
-    }
+      "cultural_contributions": "$1"
+    },
+    "verified": true
   },
   {
     "name": "Madison Maxey",
@@ -8092,12 +8231,19 @@ const pioneers = [
     ],
     "quote": "I felt like it was the right time to finally make my dreams come true.",
     "summary": "Innovator in electronic textiles and wearable technology.",
-    "shortDescription": "Madison Maxey is an engineer and entrepreneur who creates electronic textiles—fabrics that can sense, light up, or even heat up. Her work is changing how we think about clothing and technology.",
+    "shortDescription": "Madison Maxey is an engineer and entrepreneur who creates electronic textiles—fabrics that can sense, light up, or even heat up. Her work is changing how we think about clothing and technology, merging fashion with innovation. Madison's company develops smart fabrics that can monitor health, provide lighting, or offer other interactive features. She demonstrates how engineering can be applied to fashion and how technology can make clothing more functional and beautiful.",
     "detailed_description": {
       "early_life": "Born in the 1990s, Madison Maxey showed an early interest in both fashion and technology. She was inspired by the potential to combine these two fields to create innovative wearable technology.",
       "stem_journey": "Madison studied engineering and focused on electronic textiles, combining traditional textile knowledge with modern electronics. She founded her own company to develop wearable technology solutions.",
       "challenges": "As a young woman in the emerging field of e-textiles, Madison faced skepticism about the viability of her technology. She had to prove that electronic textiles could be both functional and fashionable.",
-      "achievements": "Madison pioneered electronic textiles technology and founded a successful company in the wearable technology space. Her work has advanced the field of smart clothing and wearable electronics.",
+      "detailed_description": {
+      "early_life": "Madison Maxey is an engineer and entrepreneur who has focused on the intersection of fashion and technology. She has shown how engineering can be applied to create innovative textiles and wearable technology.",
+      "stem_journey": "Madison has developed electronic textiles and smart fabrics that can sense, light up, or provide other interactive features. She has combined engineering expertise with fashion design to create new types of clothing.",
+      "challenges": "As a woman in engineering and entrepreneurship, Madison has faced challenges in male-dominated technical and business fields. She has worked to establish herself in both engineering and fashion industries.",
+      "achievements": "Madison has created electronic textiles and founded companies focused on smart fabrics. Her work has advanced the field of wearable technology and shown how technology can enhance clothing functionality.",
+      "legacy": "Madison's work in electronic textiles has helped advance the field of wearable technology. She demonstrates how engineering can be applied to fashion and how technology can make clothing more functional and innovative."
+    },
+    "achievements": "Madison pioneered electronic textiles technology and founded a successful company in the wearable technology space. Her work has advanced the field of smart clothing and wearable electronics.",
       "legacy": "Madison's work has helped establish electronic textiles as a viable field, inspiring future generations of engineers and designers to explore the intersection of fashion and technology."
     },
     "achievements": [
@@ -8251,8 +8397,9 @@ const pioneers = [
         "Gender barriers in engineering",
         "Skepticism about emerging technology"
       ],
-      "cultural_contributions": "Pioneered American leadership in electronic textiles and wearable technology innovation"
-    }
+      "cultural_contributions": "$1"
+    },
+    "verified": true
   },
   {
     "name": "Amy Prieto",
@@ -8270,12 +8417,19 @@ const pioneers = [
     ],
     "quote": "Innovation is about making things better for everyone.",
     "summary": "Inventor of advanced battery technologies for a cleaner energy future.",
-    "shortDescription": "Amy Prieto is a chemist and inventor who develops new types of batteries that are safer, more powerful, and better for the environment. Her work is helping to power the future.",
+    "shortDescription": "Amy Prieto is a chemist and inventor who develops new types of batteries that are safer, more powerful, and better for the environment. Her work is helping to power the future with sustainable energy storage solutions. Amy's research focuses on creating batteries that don't use toxic materials and can be manufactured more sustainably. She shows how chemistry can address environmental challenges and create technologies that benefit both people and the planet.",
     "detailed_description": {
       "early_life": "Born in 1976, Amy Prieto showed an early interest in chemistry and environmental science. She was inspired by the potential to use chemistry to solve environmental problems.",
       "stem_journey": "Amy earned her PhD in chemistry and became a professor, focusing on battery technology and sustainable energy solutions. She combined chemistry with environmental concerns to create better batteries.",
       "challenges": "As a woman in chemistry and battery technology, Amy faced gender barriers in a male-dominated field. She had to prove that sustainable battery technology could be both effective and commercially viable.",
-      "achievements": "Amy invented advanced battery technologies that are safer, more powerful, and environmentally friendly. Her work has advanced the field of sustainable energy storage.",
+      "detailed_description": {
+      "early_life": "Amy Prieto is a chemist and professor who has focused on developing safer and more sustainable battery technologies. She has combined chemistry expertise with environmental concerns to create better energy storage solutions.",
+      "stem_journey": "Amy has researched and developed new types of batteries that avoid toxic materials and can be manufactured more sustainably. She has worked to address environmental challenges in energy storage technology.",
+      "challenges": "As a woman in chemistry and materials science, Amy has faced challenges in male-dominated scientific fields. She has worked to establish herself as a leader in battery technology research.",
+      "achievements": "Amy has developed new battery chemistries that are safer and more environmentally friendly. Her work has contributed to advancing sustainable energy storage technology and reducing environmental impact.",
+      "legacy": "Amy's research in sustainable battery technology has helped advance the field of green energy storage. She demonstrates how chemistry can address environmental challenges and create technologies that benefit both people and the planet."
+    },
+    "achievements": "Amy invented advanced battery technologies that are safer, more powerful, and environmentally friendly. Her work has advanced the field of sustainable energy storage.",
       "legacy": "Amy's work has helped advance battery technology for a cleaner energy future, inspiring others to use chemistry for environmental solutions."
     },
     "achievements": [
@@ -8438,1251 +8592,28 @@ const pioneers = [
         "Gender barriers in chemistry",
         "Skepticism about sustainable solutions"
       ],
-      "cultural_contributions": "Pioneered American leadership in sustainable battery technology and environmental chemistry"
-    }
+      "cultural_contributions": "$1"
+    },
+    "verified": true
   },
   {
     "name": "Sharon Rogone",
-    "photo": "./images/placeholder-woman.svg",
-    "birthDate": "1950s",
-    "country": "United States",
-    "fields": [
-      "Medical Invention"
-    ],
-    "roles": [
-      "Nurse",
-      "Inventor"
-    ],
-    "quote": "Whatever you needed to do, you had to make up for yourself, because there weren't products out there.",
+    "quote": "",
+    "summary": "",
+    "shortDescription": "Sharon Rogone was a neonatal nurse who invented life-saving medical devices for premature infants. Working in the NICU, she saw firsthand the challenges of caring for the tiniest patients and used her practical experience to create better equipment. Her inventions have made neonatal care safer and more comfortable for vulnerable babies, proving that healthcare workers can be valuable innovators.",
+    "shortDescription": "Rita Levi-Montalcini was a Nobel Prize-winning neuroscientist who discovered nerve growth factor, a protein that helps nerve cells grow and survive. Despite facing discrimination as a Jewish woman in fascist Italy, she continued her research in secret and went on to win the Nobel Prize in Physiology or Medicine. Rita lived to 103 years old and continued doing research well into her 100s, showing that passion for science has no age limit.",
     "detailed_description": {
+      "early_life": "Born in Turin, Italy in 1909, Rita was inspired by her family's intellectual background. Her father encouraged her education despite societal expectations for women at the time.",
+      "stem_journey": "Rita studied medicine at the University of Turin and began research in neurology. During World War II, she was forced to work in secret due to anti-Jewish laws, setting up a laboratory in her bedroom.",
+      "challenges": "Faced discrimination as a Jewish woman in fascist Italy, had to work in secret during WWII, and overcame gender barriers in science throughout her career.",
+      "detailed_description": {
       "early_life": "Sharon Rogone worked as a neonatal intensive care nurse, where she witnessed the challenges of caring for premature infants. Her hands-on experience with the smallest patients inspired her to create better medical devices.",
       "stem_journey": "As a nurse working with premature babies, Sharon identified specific problems with existing medical equipment. She used her nursing knowledge and creativity to design solutions that would make care safer and more comfortable for these vulnerable patients.",
       "challenges": "As a nurse inventor, Sharon faced skepticism from the medical establishment about whether a nurse could design effective medical devices. She had to prove that her practical experience was valuable for medical innovation.",
       "achievements": "Sharon invented several medical devices specifically designed for premature infants, including improved feeding tubes and monitoring equipment. Her inventions have made neonatal care safer and more effective.",
       "legacy": "Sharon's work demonstrates how healthcare workers can be valuable inventors, using their practical experience to create better medical solutions for the most vulnerable patients."
     },
-    "achievements": [
-      "Invented medical devices for premature infants",
-      "Improved neonatal intensive care equipment",
-      "Enhanced safety and comfort for premature babies",
-      "Demonstrated value of nurse-driven innovation"
-    ],
-    "awards": [],
-    "publications": [
-      {
-        "title": "Medical device patents for neonatal care",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "education": [
-      {
-        "degree": "Nursing",
-        "field": "Neonatal Care",
-        "institution": "Nursing School"
-      }
-    ],
-    "timeline": [
-      {
-        "year": 1980,
-        "event": "Began career as neonatal nurse"
-      },
-      {
-        "year": 1990,
-        "event": "Started developing medical devices for premature infants"
-      },
-      {
-        "year": 2000,
-        "event": "Patented neonatal care inventions"
-      }
-    ],
-    "barriers": [
-      "Skepticism about nurse inventors",
-      "Gender barriers in medical device industry"
-    ],
-    "impact": "Improved medical care for premature infants and demonstrated the value of nurse-driven innovation.",
-    "media": [
-      {
-        "type": "article",
-        "title": "Sharon Rogone: Neonatal Care Innovator",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "references": [
-      {
-        "title": "Smithsonian Lemelson Center: Sharon Rogone",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "mentorship": "Inspired other healthcare workers to pursue innovation and invention.",
-    "fun_fact": "Sharon's inventions were inspired by her daily work caring for premature infants in the NICU.",
-    "career_path": {
-      "first_job": "Neonatal intensive care nurse",
-      "career_highlights": [
-        "Developed medical devices for premature infants",
-        "Improved neonatal care safety",
-        "Demonstrated nurse-driven innovation"
-      ],
-      "advice_for_students": "Your practical experience is valuable. Don't let anyone tell you that you can't innovate just because you're not a doctor or engineer."
-    },
-    "student_resources": {
-      "books_for_students": [
-        "The Innovator's DNA",
-        "Medical Device Design for Nurses"
-      ],
-      "websites": [
-        "nursing.org",
-        "medicaldevice.org",
-        "neonatal.org"
-      ],
-      "programs": [
-        "Nursing innovation programs",
-        "Medical device design workshops",
-        "Healthcare entrepreneurship"
-      ],
-      "advice": "Start with what you know from your work experience. The best inventions often come from people who use the products every day."
-    },
-    "challenges": {
-      "academic": [
-        "Limited formal engineering education"
-      ],
-      "professional": [
-        "Skepticism about nurse inventors",
-        "Breaking into medical device industry"
-      ],
-      "personal": [
-        "Balancing nursing work with invention"
-      ],
-      "how_overcame": "Used practical experience and persistence to prove the value of nurse-driven innovation"
-    },
-    "education_details": {
-      "high_school": "Strong foundation in science",
-      "college_major": "Nursing",
-      "key_courses": [
-        "Neonatal Care",
-        "Pediatric Nursing",
-        "Medical Technology"
-      ],
-      "study_tips": "Combine theoretical knowledge with hands-on experience"
-    },
-    "modern_impact": {
-      "current_applications": "Her devices continue to improve neonatal care worldwide",
-      "companies_using_her_work": [
-        "Neonatal intensive care units",
-        "Medical device companies",
-        "Children's hospitals"
-      ],
-      "future_implications": "Inspiring healthcare workers to become inventors and innovators"
-    },
-    "personal_info": {
-      "early_interests": [
-        "Helping others",
-        "Medical care",
-        "Problem solving",
-        "Innovation"
-      ],
-      "family_background": "Healthcare-focused family",
-      "hobbies": [
-        "Medical innovation",
-        "Caring for patients",
-        "Teaching others"
-      ],
-      "personality_traits": [
-        "Compassionate",
-        "Innovative",
-        "Determined",
-        "Practical"
-      ]
-    },
-    "cultural_background": {
-      "heritage": "American",
-      "cultural_influences": [
-        "American healthcare system",
-        "Nursing profession values",
-        "Medical innovation culture"
-      ],
-      "cultural_challenges": [
-        "Gender roles in healthcare",
-        "Hierarchy in medical profession"
-      ],
-      "cultural_contributions": "Demonstrated that nurses can be valuable medical innovators"
-    }
-  },
-  {
-    "name": "Charlotte Cramer Sachs",
-    "photo": "./images/placeholder-woman.svg",
-    "birthDate": "1907",
-    "deathDate": "2004",
-    "country": "Germany/United States",
-    "fields": [
-      "Invention",
-      "Food Technology"
-    ],
-    "roles": [
-      "Inventor",
-      "Entrepreneur"
-    ],
-    "quote": "It's like opening another window in your life when you become involved in something creative and new.",
-    "detailed_description": {
-      "early_life": "Born in Germany in 1907, Charlotte Cramer Sachs immigrated to the United States and showed an early interest in food and cooking. She was inspired by the need to make baking more convenient for busy families.",
-      "stem_journey": "Charlotte combined her knowledge of food chemistry with entrepreneurial spirit to create instant cake and muffin mixes. She developed the technology to preserve ingredients while maintaining quality and taste.",
-      "challenges": "As a woman inventor in the food industry during the mid-20th century, Charlotte faced skepticism about whether women could be successful entrepreneurs and inventors in the business world.",
-      "achievements": "Charlotte invented instant cake and muffin mixes that revolutionized home baking, making it easier and faster for families to enjoy homemade baked goods. She successfully marketed and sold her products.",
-      "legacy": "Charlotte's work paved the way for convenience foods and showed that women could be successful inventors and entrepreneurs in the food industry."
-    },
-    "achievements": [
-      "Invented instant cake and muffin mixes",
-      "Revolutionized home baking convenience",
-      "Successfully marketed food inventions",
-      "Pioneered convenience food industry"
-    ],
-    "awards": [],
-    "publications": [
-      {
-        "title": "Food technology patents for instant mixes",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "education": [
-      {
-        "degree": "Food Science",
-        "field": "Food Technology",
-        "institution": "Self-taught"
-      }
-    ],
-    "timeline": [
-      {
-        "year": 1907,
-        "event": "Born in Germany"
-      },
-      {
-        "year": 1920,
-        "event": "Immigrated to United States"
-      },
-      {
-        "year": 1940,
-        "event": "Developed instant cake mix technology"
-      },
-      {
-        "year": 1950,
-        "event": "Successfully marketed instant mixes"
-      }
-    ],
-    "barriers": [
-      "Gender barriers in food industry",
-      "Skepticism about women entrepreneurs"
-    ],
-    "impact": "Revolutionized home baking and paved the way for convenience foods.",
-    "media": [
-      {
-        "type": "article",
-        "title": "Charlotte Cramer Sachs: Food Innovation Pioneer",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "references": [
-      {
-        "title": "Smithsonian Lemelson Center: Charlotte Cramer Sachs",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "mentorship": "Inspired other women to pursue entrepreneurship and food innovation.",
-    "fun_fact": "Charlotte's instant mixes helped busy families save time while still enjoying homemade baked goods.",
-    "career_path": {
-      "first_job": "Food inventor and entrepreneur",
-      "career_highlights": [
-        "Developed instant cake mix technology",
-        "Successfully marketed food inventions",
-        "Pioneered convenience food industry"
-      ],
-      "advice_for_students": "Combine your passion with practical needs. The best inventions solve everyday problems."
-    },
-    "student_resources": {
-      "books_for_students": [
-        "The Food Industry Innovation Handbook",
-        "Women Entrepreneurs in Food"
-      ],
-      "websites": [
-        "foodscience.org",
-        "entrepreneurship.org",
-        "baking.org"
-      ],
-      "programs": [
-        "Food science programs",
-        "Entrepreneurship workshops",
-        "Culinary innovation"
-      ],
-      "advice": "Start with what you know and love. Food science combines chemistry, creativity, and business."
-    },
-    "challenges": {
-      "academic": [
-        "Limited formal food science education"
-      ],
-      "professional": [
-        "Gender barriers in food industry",
-        "Breaking into male-dominated business world"
-      ],
-      "personal": [
-        "Immigration challenges",
-        "Balancing family and business"
-      ],
-      "how_overcame": "Used practical knowledge and persistence to succeed in food innovation"
-    },
-    "education_details": {
-      "high_school": "Strong foundation in home economics",
-      "college_major": "Self-taught in food science",
-      "key_courses": [
-        "Food Chemistry",
-        "Food Preservation",
-        "Business Management"
-      ],
-      "study_tips": "Combine scientific knowledge with practical cooking experience"
-    },
-    "modern_impact": {
-      "current_applications": "Her work influenced the entire convenience food industry",
-      "companies_using_her_work": [
-        "Food manufacturing companies",
-        "Baking industry",
-        "Convenience food producers"
-      ],
-      "future_implications": "Continues to inspire food innovation and entrepreneurship"
-    },
-    "personal_info": {
-      "early_interests": [
-        "Cooking",
-        "Food",
-        "Innovation",
-        "Business"
-      ],
-      "family_background": "German immigrant family",
-      "hobbies": [
-        "Cooking",
-        "Food experimentation",
-        "Business development"
-      ],
-      "personality_traits": [
-        "Innovative",
-        "Determined",
-        "Practical",
-        "Entrepreneurial"
-      ]
-    },
-    "cultural_background": {
-      "heritage": "German American",
-      "cultural_influences": [
-        "German culinary traditions",
-        "American innovation culture",
-        "Immigrant work ethic"
-      ],
-      "cultural_challenges": [
-        "Immigration barriers",
-        "Gender roles in business"
-      ],
-      "cultural_contributions": "Bridged German and American food traditions, pioneered women's role in food entrepreneurship"
-    }
-  },
-  {
-    "name": "Laura Shepherd",
-    "photo": "./images/placeholder-woman.svg",
-    "birthDate": "1980s",
-    "country": "United States",
-    "fields": [
-      "Engineering",
-      "Invention"
-    ],
-    "roles": [
-      "Inventor",
-      "Engineer"
-    ],
-    "quote": "I told my dad I'd like to try it.",
-    "detailed_description": {
-      "early_life": "Born in the 1980s, Laura Shepherd showed an early interest in building and engineering. She was inspired by her father's encouragement to try new things and explore her creativity through hands-on projects.",
-      "stem_journey": "Laura became involved in soapbox derby racing, where she designed and built her own cars. She learned engineering principles through trial and error, developing problem-solving skills and mechanical knowledge.",
-      "challenges": "As a girl in engineering and racing, Laura faced stereotypes about what activities were appropriate for girls. She had to prove that girls could excel in mechanical and engineering challenges.",
-      "achievements": "Laura designed and built innovative soapbox derby cars, demonstrating engineering skills and creativity. She showed that girls can be successful engineers and inventors from a young age.",
-      "legacy": "Laura's work inspires young girls to pursue engineering and hands-on problem-solving, showing that creativity and engineering can go hand in hand."
-    },
-    "achievements": [
-      "Designed and built innovative soapbox derby cars",
-      "Demonstrated engineering skills at young age",
-      "Inspired girls in engineering and racing",
-      "Showed creativity in mechanical design"
-    ],
-    "awards": [],
-    "publications": [
-      {
-        "title": "Soapbox derby engineering innovations",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "education": [
-      {
-        "degree": "Engineering",
-        "field": "Mechanical Engineering",
-        "institution": "Self-taught through hands-on projects"
-      }
-    ],
-    "timeline": [
-      {
-        "year": 1980,
-        "event": "Born in United States"
-      },
-      {
-        "year": 1990,
-        "event": "Began participating in soapbox derby"
-      },
-      {
-        "year": 1995,
-        "event": "Designed and built first soapbox car"
-      },
-      {
-        "year": 2000,
-        "event": "Continued engineering innovations"
-      }
-    ],
-    "barriers": [
-      "Gender stereotypes in engineering",
-      "Limited opportunities for girls in racing"
-    ],
-    "impact": "Inspired young girls to pursue engineering and hands-on problem-solving.",
-    "media": [
-      {
-        "type": "article",
-        "title": "Laura Shepherd: Young Engineering Innovator",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "references": [
-      {
-        "title": "Smithsonian Lemelson Center: Laura Shepherd",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "mentorship": "Inspired other young girls to pursue engineering and hands-on projects.",
-    "fun_fact": "Laura's soapbox derby cars demonstrated that engineering can be fun and creative.",
-    "career_path": {
-      "first_job": "Young engineer and inventor",
-      "career_highlights": [
-        "Designed innovative soapbox derby cars",
-        "Demonstrated engineering creativity",
-        "Inspired girls in STEM"
-      ],
-      "advice_for_students": "Don't be afraid to try new things. Engineering is about solving problems and being creative."
-    },
-    "student_resources": {
-      "books_for_students": [
-        "The Way Things Work",
-        "Engineering for Kids"
-      ],
-      "websites": [
-        "engineering.org",
-        "girlswhocode.com",
-        "soapboxderby.org"
-      ],
-      "programs": [
-        "Engineering summer camps",
-        "Soapbox derby programs",
-        "Girls in STEM workshops"
-      ],
-      "advice": "Start with hands-on projects. You can learn engineering by building things and solving problems."
-    },
-    "challenges": {
-      "academic": [
-        "Limited formal engineering education at young age"
-      ],
-      "professional": [
-        "Gender stereotypes in engineering",
-        "Breaking into male-dominated activities"
-      ],
-      "personal": [
-        "Proving girls can excel in engineering"
-      ],
-      "how_overcame": "Used creativity and determination to prove that girls can be successful engineers"
-    },
-    "education_details": {
-      "high_school": "Strong foundation in science and mathematics",
-      "college_major": "Engineering",
-      "key_courses": [
-        "Mechanical Engineering",
-        "Physics",
-        "Design"
-      ],
-      "study_tips": "Learn through hands-on projects and experimentation"
-    },
-    "modern_impact": {
-      "current_applications": "Her approach inspires hands-on engineering education",
-      "companies_using_her_work": [
-        "Engineering education programs",
-        "STEM outreach organizations",
-        "Youth engineering competitions"
-      ],
-      "future_implications": "Inspiring next generation of female engineers and inventors"
-    },
-    "personal_info": {
-      "early_interests": [
-        "Building things",
-        "Engineering",
-        "Racing",
-        "Problem solving"
-      ],
-      "family_background": "Supportive family that encouraged hands-on learning",
-      "hobbies": [
-        "Building soapbox derby cars",
-        "Engineering projects",
-        "Racing"
-      ],
-      "personality_traits": [
-        "Creative",
-        "Determined",
-        "Innovative",
-        "Hands-on"
-      ]
-    },
-    "cultural_background": {
-      "heritage": "American",
-      "cultural_influences": [
-        "American innovation culture",
-        "Hands-on learning tradition",
-        "Youth engineering programs"
-      ],
-      "cultural_challenges": [
-        "Gender roles in engineering",
-        "Stereotypes about girls in racing"
-      ],
-      "cultural_contributions": "Demonstrated that girls can excel in hands-on engineering and racing"
-    }
-  },
-  {
-    "name": "Kavita Shukla",
-    "photo": "./images/placeholder-woman.svg",
-    "birthDate": "1980s",
-    "country": "United States/India",
-    "fields": [
-      "Food Science",
-      "Invention"
-    ],
-    "roles": [
-      "Inventor",
-      "Entrepreneur"
-    ],
-    "quote": "I really love pursuing things and doing things that make me feel creative.",
-    "detailed_description": {
-      "early_life": "Born in the 1980s to Indian immigrant parents, Kavita Shukla showed an early interest in science and helping others. She was inspired by her grandmother's traditional knowledge and her desire to solve real-world problems.",
-      "stem_journey": "Kavita began developing FreshPaper as a teenager, combining her grandmother's traditional knowledge with modern science. She studied food science and chemistry to understand how to preserve produce naturally.",
-      "challenges": "As a young woman inventor, Kavita faced skepticism about whether a teenager could create a viable product. She also had to balance her education with developing her invention and starting a business.",
-      "achievements": "Kavita invented FreshPaper, a simple sheet infused with spices that keeps fruits and vegetables fresh longer. Her invention helps reduce food waste and makes healthy food more accessible to families.",
-      "legacy": "Kavita's work demonstrates how traditional knowledge can be combined with modern science to create practical solutions for global problems like food waste."
-    },
-    "achievements": [
-      "Invented FreshPaper food preservation technology",
-      "Reduced food waste through natural preservation",
-      "Made healthy food more accessible",
-      "Combined traditional knowledge with modern science"
-    ],
-    "awards": [
-      "Lemelson-MIT Student Prize",
-      "National Geographic Emerging Explorer"
-    ],
-    "publications": [
-      {
-        "title": "FreshPaper technology patents",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "education": [
-      {
-        "degree": "Food Science",
-        "field": "Chemistry and Food Technology",
-        "institution": "Harvard University"
-      }
-    ],
-    "timeline": [
-      {
-        "year": 1980,
-        "event": "Born to Indian immigrant parents"
-      },
-      {
-        "year": 1995,
-        "event": "Began developing FreshPaper as teenager"
-      },
-      {
-        "year": 2010,
-        "event": "Founded Fenugreen company"
-      },
-      {
-        "year": 2012,
-        "event": "Launched FreshPaper product"
-      }
-    ],
-    "barriers": [
-      "Skepticism about young inventors",
-      "Balancing education with entrepreneurship"
-    ],
-    "impact": "Reduced food waste and made healthy food more accessible to families worldwide.",
-    "media": [
-      {
-        "type": "article",
-        "title": "Kavita Shukla: Food Preservation Innovator",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "references": [
-      {
-        "title": "Smithsonian Lemelson Center: Kavita Shukla",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "mentorship": "Inspired young inventors and showed how traditional knowledge can inform modern innovation.",
-    "fun_fact": "Kavita's invention was inspired by her grandmother's traditional knowledge of spices and food preservation.",
-    "career_path": {
-      "first_job": "Young inventor and entrepreneur",
-      "career_highlights": [
-        "Developed FreshPaper as teenager",
-        "Founded Fenugreen company",
-        "Reduced global food waste"
-      ],
-      "advice_for_students": "Don't let your age stop you from pursuing your ideas. The best inventions often come from solving problems you see around you."
-    },
-    "student_resources": {
-      "books_for_students": [
-        "The Innovator's DNA",
-        "Food Science for Kids"
-      ],
-      "websites": [
-        "foodscience.org",
-        "entrepreneurship.org",
-        "fenugreen.com"
-      ],
-      "programs": [
-        "Young inventor programs",
-        "Food science camps",
-        "Entrepreneurship workshops"
-      ],
-      "advice": "Start with problems you see in your own life. The best inventions solve real-world problems."
-    },
-    "challenges": {
-      "academic": [
-        "Balancing school with invention development"
-      ],
-      "professional": [
-        "Skepticism about young inventors",
-        "Starting business while in school"
-      ],
-      "personal": [
-        "Managing time between education and entrepreneurship"
-      ],
-      "how_overcame": "Used determination and practical problem-solving to prove that young inventors can create valuable solutions"
-    },
-    "education_details": {
-      "high_school": "Strong foundation in science and mathematics",
-      "college_major": "Food Science and Chemistry",
-      "key_courses": [
-        "Chemistry",
-        "Food Science",
-        "Business",
-        "Entrepreneurship"
-      ],
-      "study_tips": "Combine scientific knowledge with practical problem-solving"
-    },
-    "modern_impact": {
-      "current_applications": "FreshPaper continues to reduce food waste worldwide",
-      "companies_using_her_work": [
-        "Food retailers",
-        "Restaurants",
-        "Families worldwide"
-      ],
-      "future_implications": "Inspiring sustainable food preservation solutions"
-    },
-    "personal_info": {
-      "early_interests": [
-        "Science",
-        "Helping others",
-        "Food",
-        "Innovation"
-      ],
-      "family_background": "Indian immigrant family with traditional knowledge",
-      "hobbies": [
-        "Food science experimentation",
-        "Entrepreneurship",
-        "Helping others"
-      ],
-      "personality_traits": [
-        "Innovative",
-        "Determined",
-        "Compassionate",
-        "Practical"
-      ]
-    },
-    "cultural_background": {
-      "heritage": "Indian American",
-      "cultural_influences": [
-        "Indian traditional knowledge",
-        "American innovation culture",
-        "Immigrant work ethic"
-      ],
-      "cultural_challenges": [
-        "Balancing cultural traditions with modern innovation",
-        "Immigrant family expectations"
-      ],
-      "cultural_contributions": "Bridged Indian traditional knowledge with modern American innovation"
-    }
-  },
-  {
-    "name": "Cindy Whitehead",
-    "photo": "./images/placeholder-woman.svg",
-    "birthDate": "1970s",
-    "country": "United States",
-    "fields": [
-      "Sports Engineering",
-      "Invention"
-    ],
-    "roles": [
-      "Inventor",
-      "Athlete",
-      "Entrepreneur"
-    ],
-    "quote": "When I started in the '70s, female skateboarding was still taboo and I was the only girl at the skatepark. I had to block out negative comments and stand my ground.",
-    "detailed_description": {
-      "early_life": "Born in the 1970s, Cindy Whitehead showed an early passion for skateboarding and action sports. She was one of the few girls in skateboarding during the 1970s and 1980s, facing significant barriers in a male-dominated sport.",
-      "stem_journey": "Cindy became a professional skateboarder and used her experience to identify needs in the action sports industry. She combined her athletic knowledge with entrepreneurial skills to create products and a brand for girls in action sports.",
-      "challenges": "As a female skateboarder in the 1970s and 1980s, Cindy faced intense discrimination and was often the only girl at skateparks. She had to overcome stereotypes and prove that girls could excel in action sports.",
-      "achievements": "Cindy became a professional skateboarder and created products and a brand specifically designed for girls in action sports. She has inspired countless girls to pursue their passions in male-dominated sports.",
-      "legacy": "Cindy's work has opened doors for girls in action sports and shown that women can be successful athletes, inventors, and entrepreneurs in traditionally male-dominated fields."
-    },
-    "achievements": [
-      "Professional skateboarder in male-dominated sport",
-      "Created products and brand for girls in action sports",
-      "Inspired girls to pursue action sports",
-      "Pioneered women's role in skateboarding"
-    ],
-    "awards": [],
-    "publications": [
-      {
-        "title": "Action sports innovation and entrepreneurship",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "education": [
-      {
-        "degree": "Self-taught",
-        "field": "Action Sports and Entrepreneurship",
-        "institution": "Professional skateboarding career"
-      }
-    ],
-    "timeline": [
-      {
-        "year": 1970,
-        "event": "Born in United States"
-      },
-      {
-        "year": 1980,
-        "event": "Began skateboarding as one of few girls"
-      },
-      {
-        "year": 1990,
-        "event": "Became professional skateboarder"
-      },
-      {
-        "year": 2000,
-        "event": "Created products for girls in action sports"
-      }
-    ],
-    "barriers": [
-      "Gender discrimination in action sports",
-      "Being only girl at skateparks",
-      "Stereotypes about girls in sports"
-    ],
-    "impact": "Opened doors for girls in action sports and inspired female athletes and entrepreneurs.",
-    "media": [
-      {
-        "type": "article",
-        "title": "Cindy Whitehead: Action Sports Pioneer",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "references": [
-      {
-        "title": "Smithsonian Lemelson Center: Cindy Whitehead",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "mentorship": "Inspired countless girls to pursue action sports and break gender barriers.",
-    "fun_fact": "Cindy was often the only girl at skateparks in the 1970s and 1980s, paving the way for future female skateboarders.",
-    "career_path": {
-      "first_job": "Professional skateboarder",
-      "career_highlights": [
-        "Became pro skateboarder in male-dominated sport",
-        "Created products for girls in action sports",
-        "Built successful brand and business"
-      ],
-      "advice_for_students": "Don't let anyone tell you what you can't do. Follow your passion and break barriers."
-    },
-    "student_resources": {
-      "books_for_students": [
-        "Girls Who Rock the World",
-        "Skateboarding and Action Sports"
-      ],
-      "websites": [
-        "girlswhocode.com",
-        "action sports.org",
-        "skateboarding.org"
-      ],
-      "programs": [
-        "Girls in action sports programs",
-        "Skateboarding camps",
-        "Women's sports initiatives"
-      ],
-      "advice": "Find your passion and don't let gender stereotypes stop you. Sports and action activities are for everyone."
-    },
-    "challenges": {
-      "academic": [
-        "Limited formal education in sports business"
-      ],
-      "professional": [
-        "Gender discrimination in action sports",
-        "Breaking into male-dominated industry"
-      ],
-      "personal": [
-        "Facing isolation as only girl in sport",
-        "Overcoming stereotypes and discrimination"
-      ],
-      "how_overcame": "Used determination and passion to prove that girls can excel in action sports"
-    },
-    "education_details": {
-      "high_school": "Strong foundation in physical education",
-      "college_major": "Self-taught in action sports and business",
-      "key_courses": [
-        "Action Sports",
-        "Entrepreneurship",
-        "Marketing",
-        "Athletic Training"
-      ],
-      "study_tips": "Learn through experience and hands-on practice"
-    },
-    "modern_impact": {
-      "current_applications": "Her work continues to inspire girls in action sports",
-      "companies_using_her_work": [
-        "Action sports companies",
-        "Women's sports organizations",
-        "Skateboarding industry"
-      ],
-      "future_implications": "Inspiring next generation of female athletes and entrepreneurs"
-    },
-    "personal_info": {
-      "early_interests": [
-        "Skateboarding",
-        "Action sports",
-        "Athletics",
-        "Innovation"
-      ],
-      "family_background": "Supportive family that encouraged athletic pursuits",
-      "hobbies": [
-        "Skateboarding",
-        "Action sports",
-        "Entrepreneurship",
-        "Mentoring girls"
-      ],
-      "personality_traits": [
-        "Determined",
-        "Athletic",
-        "Innovative",
-        "Inspiring"
-      ]
-    },
-    "cultural_background": {
-      "heritage": "American",
-      "cultural_influences": [
-        "American action sports culture",
-        "1970s and 1980s skateboarding scene",
-        "Women's empowerment movement"
-      ],
-      "cultural_challenges": [
-        "Gender roles in sports",
-        "Male-dominated action sports culture"
-      ],
-      "cultural_contributions": "Pioneered women's participation in action sports and skateboarding"
-    }
-  },
-  {
-    "name": "Sophia Hayden",
-    "photo": "./images/placeholder-woman.svg",
-    "birthDate": "1868",
-    "deathDate": "1953",
-    "country": "United States",
-    "fields": [
-      "Architecture",
-      "Engineering"
-    ],
-    "roles": [
-      "Architect",
-      "Engineer"
-    ],
-    "quote": "[The Woman's Building] is the result of careful training in classical design and is the expression of what I liked and felt.",
-    "detailed_description": {
-      "early_life": "Born in 1868 in Santiago, Chile, Sophia Hayden showed an early talent for art and design. She moved to the United States and pursued her passion for architecture, despite the challenges facing women in the field.",
-      "stem_journey": "Sophia attended MIT and became the first woman to receive an architecture degree from the prestigious institution. She excelled in her studies and demonstrated exceptional design skills, winning the competition to design the Woman's Building.",
-      "challenges": "As a woman in architecture in the late 19th century, Sophia faced significant discrimination and limited opportunities. She was often excluded from professional societies and faced skepticism about her abilities as a female architect.",
-      "achievements": "Sophia became the first woman to receive an architecture degree from MIT and designed the Woman's Building at the 1893 World's Columbian Exposition in Chicago. Her design was praised for its classical beauty and innovative features.",
-      "legacy": "Sophia's work paved the way for women in architecture and engineering, showing that women could excel in design and construction. Her Woman's Building was a landmark achievement in women's participation in world's fairs."
-    },
-    "achievements": [
-      "First woman to receive architecture degree from MIT",
-      "Designed Woman's Building at 1893 World's Fair",
-      "Pioneered women's role in architecture",
-      "Demonstrated classical design excellence"
-    ],
-    "awards": [
-      "First place in Woman's Building design competition",
-      "Recognition for architectural excellence"
-    ],
-    "publications": [
-      {
-        "title": "Architectural designs and drawings",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "education": [
-      {
-        "degree": "Architecture",
-        "field": "Architecture and Design",
-        "institution": "Massachusetts Institute of Technology"
-      }
-    ],
-    "timeline": [
-      {
-        "year": 1868,
-        "event": "Born in Santiago, Chile"
-      },
-      {
-        "year": 1890,
-        "event": "Graduated from MIT as first woman architect"
-      },
-      {
-        "year": 1893,
-        "event": "Designed Woman's Building for World's Fair"
-      },
-      {
-        "year": 1953,
-        "event": "Passed away, leaving architectural legacy"
-      }
-    ],
-    "barriers": [
-      "Gender discrimination in architecture",
-      "Limited opportunities for women in design",
-      "Exclusion from professional societies"
-    ],
-    "impact": "Pioneered women's participation in architecture and demonstrated female excellence in design.",
-    "media": [
-      {
-        "type": "article",
-        "title": "Sophia Hayden: First Woman Architect from MIT",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "references": [
-      {
-        "title": "Smithsonian Lemelson Center: Sophia Hayden",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "mentorship": "Inspired future generations of women to pursue architecture and engineering.",
-    "fun_fact": "Sophia's Woman's Building design was praised for its classical beauty and innovative features, despite facing criticism from some male architects.",
-    "career_path": {
-      "first_job": "Architectural designer",
-      "career_highlights": [
-        "First woman architect from MIT",
-        "Designed landmark Woman's Building",
-        "Pioneered women's role in architecture"
-      ],
-      "advice_for_students": "Follow your passion for design and don't let gender barriers stop you from pursuing architecture."
-    },
-    "student_resources": {
-      "books_for_students": [
-        "Women in Architecture",
-        "The World's Columbian Exposition"
-      ],
-      "websites": [
-        "architecture.org",
-        "mit.edu",
-        "womeninarchitecture.org"
-      ],
-      "programs": [
-        "Architecture summer camps",
-        "Design programs",
-        "Women in STEM workshops"
-      ],
-      "advice": "Study both the technical and artistic aspects of architecture. Design is about both function and beauty."
-    },
-    "challenges": {
-      "academic": [
-        "Being first woman in architecture program"
-      ],
-      "professional": [
-        "Gender discrimination in architecture",
-        "Limited opportunities for women designers"
-      ],
-      "personal": [
-        "Facing isolation as only woman in field",
-        "Overcoming societal expectations"
-      ],
-      "how_overcame": "Used exceptional talent and determination to prove women could excel in architecture"
-    },
-    "education_details": {
-      "high_school": "Strong foundation in art and mathematics",
-      "college_major": "Architecture",
-      "key_courses": [
-        "Architectural Design",
-        "Engineering",
-        "Art History",
-        "Mathematics"
-      ],
-      "study_tips": "Combine artistic vision with technical knowledge"
-    },
-    "modern_impact": {
-      "current_applications": "Her work inspired women's participation in architecture",
-      "companies_using_her_work": [
-        "Architecture firms",
-        "Design schools",
-        "Women's organizations"
-      ],
-      "future_implications": "Continues to inspire women in architecture and design"
-    },
-    "personal_info": {
-      "early_interests": [
-        "Art",
-        "Design",
-        "Architecture",
-        "Mathematics"
-      ],
-      "family_background": "International family with appreciation for culture",
-      "hobbies": [
-        "Architectural drawing",
-        "Design",
-        "Art"
-      ],
-      "personality_traits": [
-        "Creative",
-        "Determined",
-        "Talented",
-        "Pioneering"
-      ]
-    },
-    "cultural_background": {
-      "heritage": "Chilean American",
-      "cultural_influences": [
-        "Chilean cultural heritage",
-        "American innovation culture",
-        "Classical architectural traditions"
-      ],
-      "cultural_challenges": [
-        "Immigration barriers",
-        "Gender roles in 19th century"
-      ],
-      "cultural_contributions": "Bridged Chilean and American architectural traditions, pioneered women's role in architecture"
-    }
-  },
-  {
-    "name": "Madam C. J. Walker",
-    "photo": "./images/placeholder-woman.svg",
-    "birthDate": "1867",
-    "deathDate": "1919",
-    "country": "United States",
-    "fields": [
-      "Chemistry",
-      "Invention",
-      "Entrepreneurship"
-    ],
-    "roles": [
-      "Inventor",
-      "Entrepreneur",
-      "Philanthropist"
-    ],
-    "quote": "Don't sit down and wait for the opportunities to come . . . get up and make them!",
-    "detailed_description": {
-      "early_life": "Born Sarah Breedlove in 1867 in Louisiana, Madam C. J. Walker was the first child in her family born free after the Civil War. She worked as a laundress and struggled with hair loss, which inspired her to develop hair care solutions.",
-      "stem_journey": "Madam Walker experimented with different ingredients and formulas to create hair care products specifically designed for African American women. She combined chemistry with entrepreneurship to build a successful business empire.",
-      "challenges": "As an African American woman in the early 20th century, Madam Walker faced racism, sexism, and limited opportunities. She had to overcome significant barriers to education, business ownership, and social acceptance.",
-      "achievements": "Madam Walker invented a line of hair care products for African American women and built a successful business empire. She became one of the first self-made female millionaires in the United States and employed thousands of African American women.",
-      "legacy": "Madam Walker's work revolutionized hair care for African American women and demonstrated that African American women could be successful entrepreneurs and business leaders. She inspired generations of women entrepreneurs."
-    },
-    "achievements": [
-      "Invented hair care products for African American women",
-      "Became first self-made female millionaire in US",
-      "Built successful business empire",
-      "Employed thousands of African American women"
-    ],
-    "awards": [
-      "Recognition as pioneering entrepreneur",
-      "Induction into National Women's Hall of Fame"
-    ],
-    "publications": [
-      {
-        "title": "Business and entrepreneurship innovations",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "education": [
-      {
-        "degree": "Self-taught",
-        "field": "Chemistry and Business",
-        "institution": "Practical experience and experimentation"
-      }
-    ],
-    "timeline": [
-      {
-        "year": 1867,
-        "event": "Born in Louisiana as first free-born child"
-      },
-      {
-        "year": 1905,
-        "event": "Began developing hair care products"
-      },
-      {
-        "year": 1908,
-        "event": "Founded Madam C. J. Walker Manufacturing Company"
-      },
-      {
-        "year": 1919,
-        "event": "Passed away as successful entrepreneur"
-      }
-    ],
-    "barriers": [
-      "Racism and sexism in early 20th century",
-      "Limited opportunities for African American women",
-      "Lack of formal education"
-    ],
-    "impact": "Revolutionized hair care for African American women and demonstrated African American women's entrepreneurial success.",
-    "media": [
-      {
-        "type": "article",
-        "title": "Madam C. J. Walker: Pioneer Entrepreneur",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "references": [
-      {
-        "title": "Smithsonian Lemelson Center: Madam C. J. Walker",
-        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
-      }
-    ],
-    "mentorship": "Employed and mentored thousands of African American women, showing them how to be successful entrepreneurs.",
-    "fun_fact": "Madam Walker was the first child in her family born free after the Civil War, and she became one of the first self-made female millionaires in the United States.",
-    "career_path": {
-      "first_job": "Laundress",
-      "career_highlights": [
-        "Developed hair care products",
-        "Built successful business empire",
-        "Became first self-made female millionaire"
-      ],
-      "advice_for_students": "Don't let your background or circumstances limit your dreams. Hard work and determination can overcome any obstacle."
-    },
-    "student_resources": {
-      "books_for_students": [
-        "On Her Own Ground: The Life and Times of Madam C. J. Walker",
-        "Women Entrepreneurs in History"
-      ],
-      "websites": [
-        "entrepreneurship.org",
-        "blackhistory.org",
-        "womeninbusiness.org"
-      ],
-      "programs": [
-        "Entrepreneurship programs",
-        "Women in business workshops",
-        "African American business initiatives"
-      ],
-      "advice": "Start with solving a problem you know well. The best businesses often come from personal experience."
-    },
-    "challenges": {
-      "academic": [
-        "Limited formal education"
-      ],
-      "professional": [
-        "Racism and sexism in business world",
-        "Limited opportunities for African American women"
-      ],
-      "personal": [
-        "Poverty and difficult early life",
-        "Facing discrimination and barriers"
-      ],
-      "how_overcame": "Used determination, hard work, and practical problem-solving to build successful business"
-    },
-    "education_details": {
-      "high_school": "Limited formal education",
-      "college_major": "Self-taught in chemistry and business",
-      "key_courses": [
-        "Chemistry",
-        "Business Management",
-        "Marketing",
-        "Entrepreneurship"
-      ],
-      "study_tips": "Learn through practical experience and experimentation"
-    },
-    "modern_impact": {
-      "current_applications": "Her business model continues to inspire African American entrepreneurs",
-      "companies_using_her_work": [
-        "Hair care companies",
-        "African American businesses",
-        "Women-owned enterprises"
-      ],
-      "future_implications": "Inspiring next generation of African American women entrepreneurs"
-    },
-    "personal_info": {
-      "early_interests": [
-        "Hair care",
-        "Business",
-        "Helping others",
-        "Innovation"
-      ],
-      "family_background": "Formerly enslaved family, first free-born child",
-      "hobbies": [
-        "Experimenting with hair care formulas",
-        "Building business",
-        "Philanthropy"
-      ],
-      "personality_traits": [
-        "Determined",
-        "Innovative",
-        "Generous",
-        "Ambitious"
-      ]
-    },
-    "cultural_background": {
-      "heritage": "African American",
-      "cultural_influences": [
-        "Post-Civil War African American experience",
-        "African American hair care traditions",
-        "Women's empowerment movement"
-      ],
-      "cultural_challenges": [
-        "Racism and discrimination",
-        "Limited opportunities for African American women"
-      ],
-      "cultural_contributions": "Pioneered African American women's entrepreneurship and business leadership"
-    },
-    "verified": true
-  },
-  {
-    "name": "Rita Levi-Montalcini",
-    "photo": "./images/rita-levi-montalcini.jpg",
-    "birthDate": "1909",
-    "deathDate": "2012",
-    "country": "Italy",
-    "fields": [
-      "Neuroscience",
-      "Biology"
-    ],
-    "roles": [
-      "Neuroscientist",
-      "Nobel Laureate"
-    ],
-    "quote": "Above all, don't fear difficult moments. The best comes from them.",
-    "summary": "Nobel Prize-winning neuroscientist who discovered nerve growth factor and lived to 103, continuing research into her 100s.",
-    "shortDescription": "Rita Levi-Montalcini was a Nobel Prize-winning neuroscientist who discovered nerve growth factor, a protein that helps nerve cells grow and survive. Despite facing discrimination as a Jewish woman in fascist Italy, she continued her research in secret and went on to win the Nobel Prize in Physiology or Medicine. Rita lived to 103 years old and continued doing research well into her 100s, showing that passion for science has no age limit.",
-    "detailed_description": {
-      "early_life": "Born in Turin, Italy in 1909, Rita was inspired by her family's intellectual background. Her father encouraged her education despite societal expectations for women at the time.",
-      "stem_journey": "Rita studied medicine at the University of Turin and began research in neurology. During World War II, she was forced to work in secret due to anti-Jewish laws, setting up a laboratory in her bedroom.",
-      "challenges": "Faced discrimination as a Jewish woman in fascist Italy, had to work in secret during WWII, and overcame gender barriers in science throughout her career.",
-      "achievements": "Discovered nerve growth factor (NGF), won the Nobel Prize in Physiology or Medicine in 1986, and continued research into her 100s.",
+    "achievements": "Discovered nerve growth factor (NGF), won the Nobel Prize in Physiology or Medicine in 1986, and continued research into her 100s.",
       "legacy": "Her discovery of NGF opened new understanding of how nerve cells develop and has led to treatments for neurological disorders."
     },
     "achievements": [
@@ -11553,7 +10484,7 @@ const pioneers = [
     ],
     "quote": "Plants are the foundation of life on Earth. Understanding them is understanding life itself.",
     "summary": "Pioneering Indian botanist and cytogeneticist who made significant contributions to plant breeding and genetics.",
-    "shortDescription": "Janaki Ammal was a pioneering Indian botanist and cytogeneticist who made significant contributions to plant breeding and genetics. She was the first woman to receive a PhD in botany from the University of Michigan and became a leading expert in plant cytogenetics. Janaki's work on sugarcane breeding and plant genetics helped improve agricultural productivity in India, showing how science can directly benefit society.",
+    "shortDescription": "Janaki Ammal was a pioneering botanist and cytogeneticist who made significant contributions to plant breeding and conservation in India. She pioneered plant cytogenetics and developed hybrid sugarcane varieties that improved agricultural productivity. Her work established botanical gardens and conservation programs, demonstrating how scientific research can contribute to agricultural improvement and environmental preservation. Janaki's research helped establish India as a leader in plant science and inspired future generations of botanists.",
     "detailed_description": {
       "early_life": "Born in 1897 in Kerala, India, Janaki showed early interest in plants and nature. She earned her PhD in botany from the University of Michigan in 1931.",
       "stem_journey": "Janaki became a leading expert in plant cytogenetics and worked on sugarcane breeding. She was the first woman to receive a PhD in botany from the University of Michigan.",
@@ -12115,6 +11046,13 @@ const pioneers = [
     "quote": "My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.",
     "summary": "Revolutionary mathematician who developed Noether's theorem, connecting symmetry and conservation laws in physics.",
     "shortDescription": "Emmy Noether was a brilliant mathematician who changed how we understand the universe. She discovered that symmetry in nature leads to conservation laws - like how the symmetry of time leads to conservation of energy. Albert Einstein called her the most important woman in mathematics. Her work helps physicists understand everything from particle physics to black holes.",
+    "detailed_description": {
+      "early_life": "Born in Germany in 1882, Emmy Noether showed exceptional talent in mathematics from an early age. She was one of the few women allowed to study mathematics at university.",
+      "stem_journey": "Emmy earned her PhD in mathematics and worked with leading mathematicians. She developed groundbreaking theories in abstract algebra and theoretical physics.",
+      "challenges": "As a woman mathematician in early 20th-century Germany, Emmy faced significant discrimination. She was often denied academic positions and recognition for her work.",
+      "achievements": "Emmy developed Noether's theorem, which connects symmetries to conservation laws in physics. She also made fundamental contributions to abstract algebra and ring theory.",
+      "legacy": "Emmy's work has influenced both mathematics and physics. Einstein called her the most important woman in the history of mathematics. She paved the way for women in mathematics."
+    },
     "achievements": [
       "Developed Noether's theorem linking symmetry and conservation laws",
       "Made fundamental contributions to abstract algebra",
@@ -12254,8 +11192,9 @@ const pioneers = [
         "Anti-Semitism in Nazi Germany",
         "Gender discrimination in academia"
       ],
-      "cultural_contributions": "Bridged German and American mathematical traditions, influenced generations of mathematicians"
+      "cultural_contributions": "$1"
     },
+    "verified": true,
     "legacy": "Emmy Noether's mathematical insights revolutionized both abstract algebra and theoretical physics. Her work on symmetry and conservation laws is fundamental to our understanding of the universe, from particle physics to cosmology. She opened doors for women in mathematics and inspired generations of mathematicians and physicists.",
     "verified": true
   },
@@ -12276,6 +11215,13 @@ const pioneers = [
     "quote": "Science makes people reach selflessly for truth and objectivity; it teaches people to accept reality, with wonder and admiration, not to mention the deep awe and joy that the natural order of things brings to the true scientist.",
     "summary": "Pioneering nuclear physicist who discovered nuclear fission but was denied the Nobel Prize due to discrimination.",
     "shortDescription": "Lise Meitner was a brilliant physicist who discovered nuclear fission - the process that powers nuclear reactors and atomic bombs. She worked with Otto Hahn for 30 years, but when they discovered fission, only Hahn received the Nobel Prize. Lise's story shows how women's contributions were often overlooked, even when they made groundbreaking discoveries.",
+    "detailed_description": {
+      "early_life": "Born in Austria in 1878, Lise Meitner showed exceptional talent in physics from an early age. She was one of the first women to earn a PhD in physics in Austria.",
+      "stem_journey": "Lise worked with Otto Hahn on nuclear physics research. She fled Nazi Germany in 1938 and continued her research in Sweden, where she made her most important discovery.",
+      "challenges": "As a Jewish woman physicist, Lise faced both gender discrimination and Nazi persecution. She was often overlooked for recognition, including the Nobel Prize for her nuclear fission discovery.",
+      "achievements": "Lise discovered nuclear fission with Otto Hahn, though she was excluded from the Nobel Prize. She also made important contributions to understanding radioactive decay.",
+      "legacy": "Lise's discovery of nuclear fission changed the world, leading to both nuclear power and nuclear weapons. She remains a role model for women in physics and a symbol of scientific integrity."
+    },
     "achievements": [
       "Discovered nuclear fission with Otto Hahn",
       "Pioneered research in nuclear physics",
@@ -12423,8 +11369,9 @@ const pioneers = [
         "Anti-Semitism in Nazi Germany",
         "Gender discrimination in science"
       ],
-      "cultural_contributions": "Bridged Austrian and Swedish scientific traditions, influenced nuclear physics worldwide"
+      "cultural_contributions": "$1"
     },
+    "verified": true,
     "legacy": "Lise Meitner's discovery of nuclear fission revolutionized physics and our understanding of atomic processes. Despite being denied the Nobel Prize, her work laid the foundation for nuclear power and medical applications. She opened doors for women in physics and demonstrated that women could make groundbreaking discoveries in nuclear science.",
     "verified": true
   },
@@ -12443,7 +11390,7 @@ const pioneers = [
     ],
     "quote": "Science is not about being the first, it's about being the best.",
     "summary": "Nobel Prize-winning virologist who co-discovered HIV, the virus that causes AIDS.",
-    "shortDescription": "Françoise Barré-Sinoussi is a French virologist who co-discovered HIV, the virus that causes AIDS. She won the Nobel Prize in Physiology or Medicine for her groundbreaking work. Her research has been crucial to understanding and treating HIV/AIDS, saving millions of lives worldwide.",
+    "shortDescription": "Françoise Barré-Sinoussi is a French virologist who co-discovered HIV, the virus that causes AIDS, and won the Nobel Prize in Physiology or Medicine for her groundbreaking work. Her research has been crucial to understanding and treating HIV/AIDS, saving millions of lives worldwide. Françoise's discovery led to the development of tests to detect HIV and treatments that have transformed AIDS from a death sentence to a manageable condition. Her work demonstrates the importance of international collaboration in medical research.",
     "detailed_description": {
       "early_life": "Born in 1947 in Paris, France, Françoise showed early interest in science and medicine. She studied biochemistry and virology at the University of Paris, earning her PhD in 1975.",
       "stem_journey": "Françoise joined the Pasteur Institute in Paris where she specialized in retroviruses. In 1983, she and her colleague Luc Montagnier discovered the virus that causes AIDS, which they named HIV (Human Immunodeficiency Virus).",
@@ -12622,7 +11569,7 @@ const pioneers = [
     ],
     "quote": "Don't let anyone tell you that you can't do something because you're a woman.",
     "summary": "Nobel Prize-winning pharmacologist who developed drugs for leukemia, herpes, and organ transplants.",
-    "shortDescription": "Gertrude Elion was a Nobel Prize-winning pharmacologist who developed life-saving drugs for leukemia, herpes, and organ transplants. She pioneered rational drug design and created treatments that have saved millions of lives. Her work revolutionized how we develop medicines.",
+    "shortDescription": "Gertrude Elion was a Nobel Prize-winning pharmacologist who developed life-saving drugs for leukemia, herpes, and organ transplants. She pioneered rational drug design and created treatments that have saved millions of lives. Gertrude's work revolutionized how we develop medicines, showing how understanding disease mechanisms can lead to better treatments. Her research has had a profound impact on medicine and continues to influence drug development today.",
     "detailed_description": {
       "early_life": "Born in 1918 in New York City, Gertrude showed exceptional talent in science from an early age. She graduated from Hunter College at age 19 and earned her master's degree in chemistry from New York University.",
       "stem_journey": "Gertrude began her career in research laboratories, often working without pay due to discrimination against women. She joined Burroughs Wellcome (now GlaxoSmithKline) where she pioneered rational drug design, creating medicines based on understanding how diseases work.",
@@ -12802,7 +11749,7 @@ const pioneers = [
     ],
     "quote": "The excitement of learning separates youth from old age. As long as you're learning, you're not old.",
     "summary": "Nobel Prize-winning medical physicist who developed radioimmunoassay, revolutionizing medical testing.",
-    "shortDescription": "Rosalyn Yalow was a Nobel Prize-winning medical physicist who developed radioimmunoassay, a technique that revolutionized medical testing. Her work made it possible to measure tiny amounts of hormones and other substances in the blood, leading to better diagnosis and treatment of diseases.",
+    "shortDescription": "Rosalyn Yalow was a Nobel Prize-winning medical physicist who developed radioimmunoassay, a technique that revolutionized medical testing. Her work made it possible to measure tiny amounts of hormones and other substances in the blood, leading to better diagnosis and treatment of diseases. Rosalyn's invention has been used to detect everything from diabetes to cancer, showing how physics can be applied to solve medical problems. Her work demonstrates the importance of interdisciplinary research in advancing healthcare.",
     "detailed_description": {
       "early_life": "Born in 1921 in New York City, Rosalyn showed exceptional talent in mathematics and science from an early age. She graduated from Hunter College at age 19 and earned her PhD in nuclear physics from the University of Illinois.",
       "stem_journey": "Rosalyn began her career at the Bronx Veterans Administration Hospital where she developed radioimmunoassay (RIA) with Solomon Berson. This technique revolutionized medical testing by allowing scientists to measure tiny amounts of hormones and other substances in the blood.",
@@ -12983,7 +11930,7 @@ const pioneers = [
     ],
     "quote": "Science is not about being right, it's about being curious.",
     "summary": "German chemist who co-discovered rhenium and predicted nuclear fission.",
-    "shortDescription": "Ida Noddack was a German chemist who co-discovered the element rhenium and was the first to predict nuclear fission. Her work on element 75 (rhenium) with her husband Walter Noddack was groundbreaking, and her prediction of nuclear fission was ahead of its time.",
+    "shortDescription": "Ida Noddack was a German chemist who co-discovered the element rhenium and was the first to predict nuclear fission. Her work on element 75 (rhenium) with her husband Walter Noddack was groundbreaking, and her prediction of nuclear fission was ahead of its time. Ida's research contributed to our understanding of the periodic table and nuclear physics, showing how careful observation can lead to important scientific insights. Her work demonstrates the importance of women in chemistry and nuclear science.",
     "detailed_description": {
       "early_life": "Born in 1896 in Germany, Ida showed early interest in chemistry and science. She studied chemistry at the Technical University of Berlin and earned her PhD in 1921, becoming one of the first women to earn a doctorate in chemistry in Germany.",
       "stem_journey": "Ida worked with her husband Walter Noddack on analytical chemistry and the search for new elements. In 1925, they co-discovered rhenium (element 75), and Ida became the first woman to discover a chemical element.",
@@ -13161,7 +12108,7 @@ const pioneers = [
     ],
     "quote": "The Internet is not just one thing, it's a collection of things.",
     "summary": "Computer scientist known as the 'Mother of the Internet' for inventing the spanning tree protocol.",
-    "shortDescription": "Radia Perlman is a computer scientist known as the 'Mother of the Internet' for inventing the spanning tree protocol, which is fundamental to how computer networks work. Her work made the Internet possible and she holds over 100 patents in networking technology.",
+    "shortDescription": "Radia Perlman is a computer scientist known as the 'Mother of the Internet' for inventing the spanning tree protocol, which is fundamental to how computer networks work. Her work made the Internet possible and she holds over 100 patents in networking technology. Radia's innovations have enabled the global connectivity we take for granted today, showing how computer science can create infrastructure that connects the world. She continues to work on making networks more secure and efficient.",
     "detailed_description": {
       "early_life": "Born in 1951 in New Jersey, Radia showed early talent in mathematics and science. She earned her bachelor's degree in mathematics from MIT and her master's and PhD in computer science from MIT, where she was one of the few women in the field.",
       "stem_journey": "Radia began her career at Digital Equipment Corporation where she invented the spanning tree protocol in 1985. This algorithm is fundamental to how computer networks work and made the Internet possible by preventing network loops.",
@@ -13340,7 +12287,7 @@ const pioneers = [
     ],
     "quote": "Science is about curiosity and persistence.",
     "summary": "Nobel Prize-winning crystallographer who determined the structure of ribosomes.",
-    "shortDescription": "Ada Yonath is a Nobel Prize-winning crystallographer who determined the structure of ribosomes, the protein-making machines in cells. Her work has been crucial for developing new antibiotics and understanding how life works at the molecular level.",
+    "shortDescription": "Ada Yonath is a Nobel Prize-winning crystallographer who determined the structure of ribosomes, the protein-making machines in cells. Her work has been crucial for developing new antibiotics and understanding how life works at the molecular level. Ada's research has helped scientists understand how antibiotics work and how to design better drugs to fight bacterial infections. Her work demonstrates how understanding basic biological structures can lead to important medical applications.",
     "detailed_description": {
       "early_life": "Born in 1939 in Jerusalem, Israel, Ada showed early interest in science and nature. She grew up in a poor family but was encouraged to pursue education. She earned her PhD in crystallography from the Weizmann Institute of Science.",
       "stem_journey": "Ada began her career studying protein structures and became fascinated by ribosomes, the cellular machines that make proteins. She pioneered cryo-crystallography techniques to study these complex structures, often working against skepticism from the scientific community.",
@@ -13520,7 +12467,7 @@ const pioneers = [
     ],
     "quote": "The reward of the young scientist is the emotional thrill of being the first person in the history of the world to see something or to understand something.",
     "summary": "Astronomer who discovered that stars are made mostly of hydrogen and helium.",
-    "shortDescription": "Cecilia Payne-Gaposchkin was an astronomer who discovered that stars are made mostly of hydrogen and helium, not iron as previously thought. Her PhD thesis was called 'the most brilliant PhD thesis ever written in astronomy' and revolutionized our understanding of the universe.",
+    "shortDescription": "Cecilia Payne-Gaposchkin was an astronomer who discovered that stars are made mostly of hydrogen and helium, not iron as previously thought. Her PhD thesis was called 'the most brilliant PhD thesis ever written in astronomy' and revolutionized our understanding of the universe. Cecilia's work changed how we understand the composition of stars and the universe, showing how careful analysis of data can overturn established scientific beliefs. Her research continues to influence astronomy today.",
     "detailed_description": {
       "early_life": "Born in 1900 in England, Cecilia showed exceptional talent in science and mathematics from an early age. She attended Cambridge University where she studied physics and astronomy, becoming one of the few women in the field.",
       "stem_journey": "Cecilia moved to the United States to study at Harvard College Observatory, where she earned her PhD in astronomy. Her groundbreaking thesis discovered that stars are made mostly of hydrogen and helium, revolutionizing our understanding of stellar composition.",
@@ -13877,7 +12824,7 @@ const pioneers = [
     ],
     "quote": "Mathematics is the language of science.",
     "summary": "Mathematician who led the development of early computers and was the first female president of the American Mathematical Society.",
-    "shortDescription": "Mina Rees was a mathematician who led the development of early computers during World War II and became the first female president of the American Mathematical Society. Her work on computing machines helped pave the way for modern computer science.",
+    "shortDescription": "Mina Rees was a mathematician who led the development of early computers during World War II and became the first female president of the American Mathematical Society. Her work on computing machines helped pave the way for modern computer science and showed how mathematics could be applied to solve real-world problems. Mina's leadership in mathematics and computing demonstrated that women could excel in technical fields and lead major scientific organizations. Her work helped establish computer science as a discipline.",
     "detailed_description": {
       "early_life": "Born in 1902 in New York, Mina showed exceptional talent in mathematics from an early age. She attended Hunter College and earned her PhD in mathematics from the University of Chicago in 1931.",
       "stem_journey": "Mina began her career teaching mathematics at Hunter College. During World War II, she joined the Applied Mathematics Panel where she led the development of early computing machines and mathematical research for military applications.",
@@ -14056,7 +13003,7 @@ const pioneers = [
     ],
     "quote": "The beauty of mathematics only shows itself to more patient followers.",
     "summary": "First woman to win the Fields Medal, the highest honor in mathematics.",
-    "shortDescription": "Maryam Mirzakhani was the first woman to win the Fields Medal, the highest honor in mathematics. She made groundbreaking contributions to geometry and dynamical systems, solving complex problems that had puzzled mathematicians for decades.",
+    "shortDescription": "Maryam Mirzakhani was the first woman to win the Fields Medal, the highest honor in mathematics, often called the 'Nobel Prize of mathematics.' She made groundbreaking contributions to geometry and dynamical systems, solving complex problems that had puzzled mathematicians for decades. Maryam's work connected different areas of mathematics in unexpected ways, showing how creative thinking can solve seemingly impossible problems. Her achievements inspired countless women and girls to pursue mathematics.",
     "detailed_description": {
       "early_life": "Born in 1977 in Tehran, Iran, Maryam showed exceptional talent in mathematics from an early age. She won gold medals at the International Mathematical Olympiad in 1994 and 1995, becoming the first Iranian woman to do so.",
       "stem_journey": "Maryam earned her PhD in mathematics from Harvard University in 2004, working under Curtis McMullen. She went on to become a professor at Stanford University, where she made groundbreaking contributions to geometry and dynamical systems.",
@@ -14243,7 +13190,14 @@ const pioneers = [
       "early_life": "Born in 1906 in Kattowitz, Germany (now Poland), Maria showed exceptional talent in mathematics and physics from an early age. Her father was a professor of pediatrics who encouraged her scientific interests.",
       "stem_journey": "Maria studied physics at the University of Göttingen, earning her PhD in 1930. She moved to the United States with her husband Joseph Mayer and worked at various universities, often without pay due to anti-nepotism rules.",
       "challenges": "Maria faced discrimination as a woman in physics and was often denied paid positions due to university anti-nepotism rules. She worked as a volunteer researcher for many years while her husband had paid positions.",
-      "achievements": "Maria developed the nuclear shell model, explaining how protons and neutrons are arranged in atomic nuclei like layers in an onion. She won the Nobel Prize in Physics in 1963, becoming only the second woman to win this prize.",
+      "detailed_description": {
+      "early_life": "Born in Germany in 1906, Maria Goeppert Mayer showed exceptional talent in mathematics and physics from an early age. She was encouraged by her father to pursue education in science, which was unusual for women at the time.",
+      "stem_journey": "Maria earned her PhD in physics and worked on quantum mechanics and nuclear physics. She developed the nuclear shell model, which explains how protons and neutrons are arranged in atomic nuclei.",
+      "challenges": "As a woman physicist in the early 20th century, Maria faced significant gender discrimination. She often worked without pay and had to fight for recognition of her scientific contributions.",
+      "achievements": "Maria won the Nobel Prize in Physics in 1963 for her work on the nuclear shell model. She was only the second woman to win the Nobel Prize in Physics and made fundamental contributions to nuclear physics.",
+      "legacy": "Maria's work on the nuclear shell model has been fundamental to our understanding of atomic nuclei and nuclear physics. She paved the way for women in physics and remains a role model for female scientists."
+    },
+    "achievements": "Maria developed the nuclear shell model, explaining how protons and neutrons are arranged in atomic nuclei like layers in an onion. She won the Nobel Prize in Physics in 1963, becoming only the second woman to win this prize.",
       "legacy": "Maria's nuclear shell model is fundamental to our understanding of nuclear physics and has applications in nuclear power and medical imaging. She opened doors for women in theoretical physics."
     },
     "achievements": [
@@ -14395,8 +13349,9 @@ const pioneers = [
         "Anti-Semitism in Nazi Germany",
         "Gender discrimination in academia"
       ],
-      "cultural_contributions": "Bridged German and American scientific traditions, influenced generations of physicists"
-    }
+      "cultural_contributions": "$1"
+    },
+    "verified": true
   },
   {
     "name": "Elizabeth Blackwell",
@@ -14414,12 +13369,19 @@ const pioneers = [
     ],
     "quote": "The idea of winning a doctor's degree gradually assumed the aspect of a great moral struggle.",
     "summary": "First woman to receive a medical degree in the United States and a pioneer in medical education for women.",
-    "shortDescription": "Elizabeth Blackwell was the first woman to receive a medical degree in the United States, breaking barriers for women in medicine. She founded the New York Infirmary for Women and Children and established medical education opportunities for women, paving the way for future female physicians.",
+    "shortDescription": "Elizabeth Blackwell was the first woman to receive a medical degree in the United States, breaking barriers for women in medicine. She founded the New York Infirmary for Women and Children and established medical education opportunities for women, paving the way for future female physicians. Elizabeth's determination to become a doctor despite rejection from multiple medical schools showed how persistence can overcome discrimination. Her work opened doors for women in healthcare and demonstrated the importance of diversity in medicine.",
     "detailed_description": {
       "early_life": "Born in 1821 in Bristol, England, Elizabeth was raised in a progressive family that valued education for both boys and girls. Her family moved to the United States when she was 11, and she showed early interest in medicine and helping others.",
       "stem_journey": "Elizabeth was inspired to become a doctor after a dying friend said she would have suffered less if she had a female physician. She applied to 29 medical schools before being accepted at Geneva Medical College in New York, where she graduated first in her class.",
       "challenges": "Elizabeth faced intense discrimination and rejection from medical schools simply because she was a woman. Many people believed women were not capable of becoming doctors, and she was often excluded from medical societies and opportunities.",
-      "achievements": "Elizabeth became the first woman to receive a medical degree in the United States in 1849. She founded the New York Infirmary for Women and Children and established medical education opportunities for women, including the Women's Medical College.",
+      "detailed_description": {
+      "early_life": "Born in England in 1821, Elizabeth Blackwell showed determination and intelligence from an early age. Her family moved to the United States, where she became interested in medicine after a friend's illness.",
+      "stem_journey": "Elizabeth applied to multiple medical schools and was rejected because she was a woman. She was finally accepted to Geneva Medical College in New York, where she faced hostility from male students and faculty.",
+      "challenges": "Elizabeth faced enormous gender discrimination in pursuing medical education. She was often excluded from classes and had to fight for equal treatment. After graduation, she struggled to establish her medical practice.",
+      "achievements": "Elizabeth became the first woman to receive a medical degree in the United States in 1849. She founded the New York Infirmary for Women and Children and established medical education opportunities for women.",
+      "legacy": "Elizabeth opened doors for women in medicine and healthcare. Her determination and achievements paved the way for future female physicians and demonstrated that women could excel in medical professions."
+    },
+    "achievements": "Elizabeth became the first woman to receive a medical degree in the United States in 1849. She founded the New York Infirmary for Women and Children and established medical education opportunities for women, including the Women's Medical College.",
       "legacy": "Elizabeth opened the door for women in medicine worldwide. Her determination and success inspired countless women to pursue medical careers, and she established institutions that continue to serve women and children today."
     },
     "achievements": [
@@ -14572,8 +13534,9 @@ const pioneers = [
         "Victorian gender roles",
         "American medical establishment resistance"
       ],
-      "cultural_contributions": "Bridged British and American medical traditions, established women's role in healthcare"
-    }
+      "cultural_contributions": "$1"
+    },
+    "verified": true
   },
   {
     "name": "Dr. Andrea Ghez",
@@ -14590,7 +13553,7 @@ const pioneers = [
     ],
     "quote": "If you can see the invisible, you can do the impossible.",
     "summary": "Nobel Prize-winning astronomer who discovered the supermassive black hole at the center of our galaxy.",
-    "shortDescription": "Dr. Andrea Ghez is a groundbreaking astronomer who proved the existence of a supermassive black hole at the center of the Milky Way. Her pioneering work with advanced telescopes has changed our understanding of the universe and inspired countless students to reach for the stars.",
+    "shortDescription": "Dr. Andrea Ghez is a groundbreaking astronomer who proved the existence of a supermassive black hole at the center of the Milky Way. Her pioneering work with advanced telescopes has changed our understanding of the universe and inspired countless students to reach for the stars. Andrea's research has provided crucial evidence for Einstein's theory of relativity and helped us understand how galaxies form and evolve. She continues to push the boundaries of what we know about the universe.",
     "detailed_description": {
       "early_life": "Andrea Ghez was born in New York City in 1965. As a child, she was fascinated by the Apollo Moon landings and dreamed of becoming an astronaut. Her parents encouraged her curiosity and love of science.",
       "stem_journey": "Andrea studied physics at MIT and earned her PhD in astronomy from Caltech. She became a professor at UCLA, where she led a team using powerful telescopes to study the center of our galaxy.",
