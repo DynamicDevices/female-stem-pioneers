@@ -16354,6 +16354,181 @@ const pioneers = [
       "cultural_contributions": "Pioneered women's role in medicine and influenced social reform movements"
     },
     "verified": true
+  },
+  {
+    "name": "Rebecca Lee Crumpler",
+    "photo": "./images/rebecca-lee-crumpler.jpg",
+    "birthDate": "1831",
+    "deathDate": "1895",
+    "country": "United States",
+    "fields": [
+      "Medicine",
+      "Public Health"
+    ],
+    "roles": [
+      "Physician",
+      "Author"
+    ],
+    "quote": "I early conceived a liking for, and sought every opportunity to relieve the suffering of others.",
+    "summary": "First African American woman to earn a medical degree in the United States and author of one of the first medical books written by an African American.",
+    "shortDescription": "Rebecca Lee Crumpler was the first African American woman to earn a medical degree in the United States, graduating from the New England Female Medical College in 1864. She practiced medicine in Boston and Virginia, treating freed slaves after the Civil War, and wrote 'A Book of Medical Discourses,' one of the first medical books authored by an African American physician.",
+    "detailed_description": {
+      "early_life": "Born in Delaware in 1831, Rebecca was raised by an aunt who cared for sick neighbors, inspiring her interest in medicine. She worked as a nurse in Massachusetts before pursuing medical education.",
+      "stem_journey": "Rebecca attended the New England Female Medical College, graduating in 1864 as the first African American woman to earn a medical degree in the US. She practiced medicine in Boston and later in Virginia, treating freed slaves.",
+      "challenges": "Faced racial and gender discrimination in medical education and practice, limited opportunities for African American physicians, and social barriers in the medical profession.",
+      "achievements": "First African American woman to earn a medical degree in the US, practiced medicine treating freed slaves, authored one of the first medical books by an African American.",
+      "legacy": "Rebecca's work opened doors for African American women in medicine and provided healthcare to underserved communities."
+    },
+    "achievements": [
+      "First African American woman to earn a medical degree in the US",
+      "Practiced medicine treating freed slaves",
+      "Authored 'A Book of Medical Discourses'",
+      "Pioneered healthcare for African American communities"
+    ],
+    "awards": [
+      "Medical degree from New England Female Medical College (1864)"
+    ],
+    "publications": [
+      {
+        "title": "A Book of Medical Discourses",
+        "url": "https://en.wikipedia.org/wiki/Rebecca_Lee_Crumpler"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MD",
+        "field": "Medicine",
+        "institution": "New England Female Medical College"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1864,
+        "event": "Graduated from New England Female Medical College"
+      },
+      {
+        "year": 1865,
+        "event": "Practiced medicine in Virginia treating freed slaves"
+      },
+      {
+        "year": 1883,
+        "event": "Published 'A Book of Medical Discourses'"
+      }
+    ],
+    "barriers": [
+      "Racial discrimination in medical education",
+      "Gender discrimination in medicine",
+      "Limited opportunities for African American physicians"
+    ],
+    "impact": "Her work provided healthcare to underserved communities and opened medical education to African American women.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Rebecca Lee Crumpler: First African American Woman Physician",
+        "url": "https://www.biography.com/scientist/rebecca-lee-crumpler"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rebecca_Lee_Crumpler"
+      },
+      {
+        "title": "National Library of Medicine",
+        "url": "https://cfmedicine.nlm.nih.gov/physicians/biography_73.html"
+      }
+    ],
+    "mentorship": "Rebecca's work inspired future generations of African American women to pursue careers in medicine.",
+    "fun_fact": "Rebecca Lee Crumpler wrote 'A Book of Medical Discourses' in 1883, making it one of the first medical books authored by an African American physician.",
+    "career_path": {
+      "first_job": "Nurse in Massachusetts",
+      "career_highlights": [
+        "First African American woman physician",
+        "Treated freed slaves",
+        "Authored medical book"
+      ],
+      "advice_for_students": "Use your skills to help underserved communities and don't let barriers stop you from pursuing your dreams."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Rebecca Lee Crumpler: First African American Woman Physician",
+        "African American Women in Medicine"
+      ],
+      "websites": [
+        "nlm.nih.gov",
+        "britannica.com"
+      ],
+      "programs": [
+        "African American medical programs",
+        "Women in Medicine programs"
+      ],
+      "advice": "Focus on helping others and use your education to serve your community."
+    },
+    "challenges": {
+      "academic": [
+        "Racial discrimination in medical schools",
+        "Limited access to medical education"
+      ],
+      "professional": [
+        "Racial barriers in medical practice",
+        "Limited recognition for her work"
+      ],
+      "personal": [
+        "Social discrimination",
+        "Limited financial resources"
+      ],
+      "how_overcame": "Used determination and compassion to serve communities in need despite barriers"
+    },
+    "education_details": {
+      "high_school": "Worked as a nurse",
+      "college_major": "Medicine",
+      "key_courses": [
+        "Medicine",
+        "Public Health",
+        "Community Health"
+      ],
+      "study_tips": "Learn to serve others and focus on community health needs"
+    },
+    "modern_impact": {
+      "current_applications": "Her work influenced community health and African American medical education",
+      "companies_using_her_work": [
+        "Community health organizations",
+        "Medical schools"
+      ],
+      "future_implications": "Her legacy continues to inspire African American women in medicine"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Helping others",
+        "Medicine",
+        "Community health"
+      ],
+      "family_background": "Raised by an aunt who cared for sick neighbors",
+      "hobbies": [
+        "Writing",
+        "Community service",
+        "Teaching"
+      ],
+      "personality_traits": [
+        "Compassionate",
+        "Determined",
+        "Caring",
+        "Persistent"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "African American",
+      "cultural_influences": [
+        "African American community health traditions",
+        "Post-Civil War medical needs"
+      ],
+      "cultural_challenges": [
+        "Racial discrimination in medicine",
+        "Limited opportunities for African Americans"
+      ],
+      "cultural_contributions": "Pioneered African American women's role in medicine and community health"
+    },
+    "verified": true
   }
 ];
 
