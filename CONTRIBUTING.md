@@ -45,7 +45,7 @@ By contributing to this project, you agree that your contributions will be licen
    - Only **female** pioneers are accepted. No male pioneers will be included.
    - Each pioneer must be unique by name. The system deduplicates by name, but please avoid adding duplicates. (Currently 100+ unique pioneers)
    - **Every pioneer must have a `shortDescription` field** with an engaging, student-friendly paragraph (2-3 sentences) explaining their impact and significance
-   - **Real images are strongly preferred** - use JPG, WEBP, or PNG files when available. Only use `./images/placeholder-woman.svg` if no suitable image can be found
+   - **Real images are strongly preferred** - use JPG, WEBP, or PNG files when available. If no suitable image can be found, the diverse icon system will automatically provide appropriate fallback representation
    - Images should be placed in `images/` and use `.jpg`, `.png`, or `.svg` (see PROJECT-REFERENCE.md for details)
    - **Only valid, non-empty images are accepted. Do not add empty or broken image files.**
    - **All fields used in the data must have an explanation in the UI.**
