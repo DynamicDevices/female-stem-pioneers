@@ -29,6 +29,20 @@ A static web app celebrating women pioneers in STEM fields. Features:
 - Remove any duplicate entries by name for clarity
 - **Run linting and formatting tools before submitting changes.**
 
+## Contributing Pioneer Profiles
+
+We welcome contributions of new female STEM pioneers! To add a new pioneer:
+
+1. **Open an Issue or Pull Request** using our templates (see the 'New Pioneer Profile' templates).
+2. **Add your pioneer to `js/pioneers.js`** using the provided structure (see `add-pioneer.js` for a template).
+3. **Include an image** in the `images/` folder (JPG, PNG, SVG preferred; use a placeholder only if no real image is available).
+4. **Provide a short, engaging description** for students.
+5. **Run linting and formatting tools before submitting.**
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for full details and field explanations.
+
+---
+
 ## License
 
 Content and code are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See LICENSE for details.

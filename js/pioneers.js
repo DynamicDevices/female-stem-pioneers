@@ -1276,7 +1276,7 @@ const pioneers = [
   },
   {
     "name": "Caroline Herschel",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/caroline-herschel.jpg",
     "birthDate": "1750",
     "deathDate": "1848",
     "country": "Germany/United Kingdom",
@@ -1304,7 +1304,7 @@ const pioneers = [
   },
   {
     "name": "Maria Telkes",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/maria-telkes.jpg",
     "birthDate": "1900",
     "deathDate": "1995",
     "country": "Hungary/United States",
@@ -1333,7 +1333,7 @@ const pioneers = [
   },
   {
     "name": "Mariam Al-Astrulabi",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/mariam-al-astrulabi.jpg",
     "birthDate": "950",
     "deathDate": "1000",
     "country": "Syria",
@@ -1391,7 +1391,7 @@ const pioneers = [
   },
   {
     "name": "Yvonne Brill",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/yvonne-brill.jpg",
     "birthDate": "1924",
     "deathDate": "2013",
     "country": "Canada/United States",
@@ -1506,7 +1506,7 @@ const pioneers = [
   },
   {
     "name": "Agnes Pockels",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/agnes-pockels.jpg",
     "birthDate": "1862",
     "deathDate": "1935",
     "country": "Germany",
@@ -1535,7 +1535,7 @@ const pioneers = [
   },
   {
     "name": "Hertha Ayrton",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/hertha-ayrton.jpg",
     "birthDate": "1854",
     "deathDate": "1923",
     "country": "United Kingdom",
