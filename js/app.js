@@ -272,13 +272,6 @@ class PioneersApp {
       })
       .join("");
 
-    const achievementsList = (pioneer.achievements || [])
-      .slice(0, 3)
-      .map((achievement) => `<li>${achievement}</li>`)
-      .join("");
-
-
-
     // Generate fallback icon for this pioneer
     const fallbackIcon = this.getFallbackIcon(pioneer);
 
