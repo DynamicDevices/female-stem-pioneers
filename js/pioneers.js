@@ -841,7 +841,7 @@ const pioneers = [
   },
   {
     name: "Hedy Lamarr",
-    photo: "./images/hedy-lamarr.svg",
+          photo: "./images/hedy-lamarr.jpg",
     birthDate: "1914",
     deathDate: "2000",
     country: "Austria/United States",
@@ -898,7 +898,7 @@ const pioneers = [
   },
   {
     name: "Shirley Ann Jackson",
-    photo: "./images/shirley-ann-jackson.svg",
+          photo: "./images/shirley-ann-jackson.jpg",
     birthDate: "1946",
     country: "United States",
     fields: ["Physics", "Engineering"],
@@ -971,7 +971,7 @@ const pioneers = [
   },
   {
     name: "Caroline Keep",
-    photo: "./images/caroline-keep.svg",
+          photo: "./images/caroline-keep.jpg",
     birthDate: "1980",
     country: "United Kingdom",
     fields: ["Education", "Technology"],
@@ -987,7 +987,7 @@ const pioneers = [
   },
   {
     name: "Princy Johnson",
-    photo: "./images/princy-johnson.svg",
+          photo: "./images/princy-johnson.jpg",
     birthDate: "1990",
     country: "India",
     fields: ["Engineering", "Robotics"],
@@ -1004,7 +1004,7 @@ const pioneers = [
   },
   {
     name: "Maryam Mirzakhani",
-    photo: "./images/maryam-mirzakhani.svg",
+          photo: "./images/maryam-mirzakhani.jpg",
     birthDate: "1977",
     deathDate: "2017",
     country: "Iran",
@@ -1071,7 +1071,7 @@ const pioneers = [
   },
   {
     name: "Lise Meitner",
-    photo: "./images/lise-meitner.svg",
+          photo: "./images/lise-meitner.jpg",
     birthDate: "1878",
     deathDate: "1968",
     country: "Austria/Germany/Sweden",
@@ -1104,7 +1104,7 @@ const pioneers = [
   },
   {
     name: "Ellen Ochoa",
-    photo: "./images/ellen-ochoa.svg",
+          photo: "./images/ellen-ochoa.jpg",
     birthDate: "1958",
     country: "United States",
     fields: ["Astronomy", "Engineering"],
@@ -1186,7 +1186,7 @@ const pioneers = [
   },
   {
     name: "Mildred Dresselhaus",
-    photo: "./images/mildred-dresselhaus.svg",
+          photo: "./images/mildred-dresselhaus.jpg",
     birthDate: "1930",
     deathDate: "2017",
     country: "United States",
@@ -1203,7 +1203,7 @@ const pioneers = [
   },
   {
     name: "Flossie Wong-Staal",
-    photo: "./images/flossie-wong-staal.svg",
+          photo: "./images/flossie-wong-staal.jpg",
     birthDate: "1947",
     deathDate: "2020",
     country: "China/United States",
@@ -1374,9 +1374,9 @@ const pioneers = [
       "Pioneered research in medicinal plants",
     ],
   },
-  {
-    name: "Dorothy Hodgkin",
-    photo: "./images/dorothy-hodgkin.svg",
+      {
+      name: "Dorothy Hodgkin",
+      photo: "./images/dorothy-hodgkin.jpg",
     birthDate: "1910",
     deathDate: "1994",
     country: "United Kingdom",
@@ -1393,7 +1393,7 @@ const pioneers = [
   },
   {
     name: "Sofia Kovalevskaya",
-    photo: "./images/sofia-kovalevskaya.svg",
+          photo: "./images/sofia-kovalevskaya.jpg",
     birthDate: "1850",
     deathDate: "1891",
     country: "Russia",
@@ -1481,7 +1481,7 @@ const pioneers = [
   },
   {
     name: "Rita Levi-Montalcini",
-    photo: "./images/rita-levi-montalcini.svg",
+          photo: "./images/rita-levi-montalcini.jpg",
     birthDate: "1909",
     deathDate: "2012",
     country: "Italy",
@@ -1498,7 +1498,7 @@ const pioneers = [
   },
   {
     name: "Gertrude Elion",
-    photo: "./images/gertrude-elion.svg",
+          photo: "./images/gertrude-elion.jpg",
     birthDate: "1918",
     deathDate: "1999",
     country: "United States",
@@ -1532,7 +1532,7 @@ const pioneers = [
   },
   {
     name: "Rosalyn Yalow",
-    photo: "./images/rosalyn-yalow.svg",
+          photo: "./images/rosalyn-yalow.jpg",
     birthDate: "1921",
     deathDate: "2011",
     country: "United States",
@@ -1566,7 +1566,7 @@ const pioneers = [
   },
   {
     name: "Françoise Barré-Sinoussi",
-    photo: "./images/francoise-barre-sinoussi.svg",
+          photo: "./images/francoise-barre-sinoussi.jpg",
     birthDate: "1947",
     country: "France",
     fields: ["Virology", "Biology"],
@@ -1614,7 +1614,7 @@ const pioneers = [
   },
   {
     name: "Sally Ride",
-    photo: "./images/sally-ride.svg",
+          photo: "./images/sally-ride.jpg",
     birthDate: "1951",
     deathDate: "2012",
     country: "United States",
@@ -1632,7 +1632,7 @@ const pioneers = [
   },
   {
     name: "Hypatia",
-    photo: "./images/hypatia.svg",
+          photo: "./images/hypatia.jpg",
     birthDate: "350",
     deathDate: "415",
     country: "Egypt",
@@ -1650,7 +1650,7 @@ const pioneers = [
   },
   {
     name: "Caroline Herschel",
-    photo: "./images/caroline-herschel.svg",
+          photo: "./images/caroline-herschel.jpg",
     birthDate: "1750",
     deathDate: "1848",
     country: "Germany/United Kingdom",
@@ -1773,7 +1773,7 @@ const pioneers = [
   },
   {
     name: "Cecilia Payne-Gaposchkin",
-    photo: "./images/cecilia-payne-gaposchkin.svg",
+          photo: "./images/cecilia-payne-gaposchkin.jpg",
     birthDate: "1900",
     deathDate: "1979",
     country: "United Kingdom/United States",
@@ -1824,9 +1824,9 @@ const pioneers = [
       "Advocate for women in physics",
     ],
   },
-  {
-    name: "Alice Ball",
-    photo: "./images/alice-ball.svg",
+      {
+      name: "Alice Ball",
+      photo: "./images/alice-ball.jpg",
     birthDate: "1892",
     deathDate: "1916",
     country: "United States",
@@ -1861,7 +1861,7 @@ const pioneers = [
   },
   {
     name: "Mina Rees",
-    photo: "./images/mina-rees.svg",
+          photo: "./images/mina-rees.jpg",
     birthDate: "1902",
     deathDate: "1997",
     country: "United States",
@@ -1896,7 +1896,7 @@ const pioneers = [
   },
   {
     name: "Ida Noddack",
-    photo: "./images/ida-noddack.svg",
+          photo: "./images/ida-noddack.jpg",
     birthDate: "1896",
     deathDate: "1978",
     country: "Germany",
@@ -1912,7 +1912,7 @@ const pioneers = [
   },
   {
     name: "Ynes Mexia",
-    photo: "./images/ynes-mexia.svg",
+          photo: "./images/ynes-mexia.jpg",
     birthDate: "1870",
     deathDate: "1938",
     country: "United States/Mexico",
@@ -1929,7 +1929,7 @@ const pioneers = [
   },
   {
     name: "Ellen Swallow Richards",
-    photo: "./images/ellen-swallow-richards.svg",
+          photo: "./images/ellen-swallow-richards.jpg",
     birthDate: "1842",
     deathDate: "1911",
     country: "United States",
@@ -1964,7 +1964,7 @@ const pioneers = [
   },
   {
     name: "Margarita Salas",
-    photo: "./images/margarita-salas.svg",
+          photo: "./images/margarita-salas.jpg",
     birthDate: "1938",
     deathDate: "2019",
     country: "Spain",
@@ -2086,7 +2086,7 @@ const pioneers = [
   },
   {
     name: "Inge Lehmann",
-    photo: "./images/inge-lehmann.svg",
+          photo: "./images/inge-lehmann.jpg",
     birthDate: "1888",
     deathDate: "1993",
     country: "Denmark",
@@ -2121,7 +2121,7 @@ const pioneers = [
   },
   {
     name: "Jane Goodall",
-    photo: "./images/jane-goodall.svg",
+          photo: "./images/jane-goodall.jpg",
     birthDate: "1934",
     country: "United Kingdom",
     fields: ["Primatology", "Anthropology"],
