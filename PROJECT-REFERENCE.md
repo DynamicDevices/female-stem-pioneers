@@ -7,8 +7,9 @@ This project is a static web app that celebrates and highlights WOMEN pioneers i
 - Individual info cards with biography, achievements, quotes, fun facts, and inspirational resources
 - Modern, responsive UI with category badges, section highlights, and accessible design
 - Images for each female pioneer (photo, artistic, or symbolic if no photo exists)
-- Data-driven: all pioneer info is managed in `js/pioneers.js`
+- Data-driven: all pioneer info is managed in `js/pioneers.js` (currently 81 unique pioneers)
 - Easy to add new FEMALE pioneers via `add-pioneer.js`
+- Automatic deduplication: only the first occurrence of each pioneer (by name) is used in the UI
 
 The project is specifically designed to showcase and celebrate WOMEN'S contributions to STEM fields, suitable for educational, outreach, and inspirational purposes focused on female representation in science and technology.
 
@@ -19,6 +20,7 @@ The project is specifically designed to showcase and celebrate WOMEN'S contribut
 - Use `.jpg` or `.png` format for photos, `.svg` for icons/symbols
 - Image filenames should match the pioneer's name (e.g., `ada-lovelace.jpg`)
 - For pioneers without available photos, use field-specific SVG icons (e.g., chemistry flask for chemists, π symbol for mathematicians)
+- If neither a photo nor a field icon is available, a default SVG placeholder is shown
 
 ### Commit Requirements
 - **ALWAYS commit new images to git** when adding them to the project
@@ -31,3 +33,7 @@ The project is specifically designed to showcase and celebrate WOMEN'S contribut
 - For historical figures without photos, create meaningful field-specific SVG icons
 - Ensure images are appropriately sized and optimized for web use
 - Test that images load correctly in the browser after committing
+
+## Data Deduplication
+- The dataset automatically removes duplicate pioneers by name at runtime. Only the first occurrence is shown in the UI.
+- For clarity and maintainability, remove duplicates from `js/pioneers.js` when possible.

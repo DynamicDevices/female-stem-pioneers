@@ -11,27 +11,14 @@ By contributing to this project, you agree that your contributions will be licen
 ### Adding New Pioneer Profiles
 
 1. **Fork the repository**
-2. **Add your pioneer to `js/pioneers.js`** following this structure:
-   ```javascript
-   {
-     name: "Ada Lovelace",
-     field: "Mathematics, Computing",
-     country: "United Kingdom",
-     era: "19th Century",
-     achievements: [
-       "First computer programmer",
-       "Worked on Charles Babbage's Analytical Engine"
-     ],
-     bio: "Ada Lovelace is often regarded as the first computer programmer for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.",
-     image: "images/ada_lovelace.jpg",
-     links: [
-       { label: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ada_Lovelace" }
-     ]
-   }
-   ```
+2. **Add your pioneer to `js/pioneers.js`** following the current data structure (see existing entries for reference). Each entry is an object with fields such as:
+   - `name`, `photo`, `birthDate`, `deathDate`, `country`, `fields`, `roles`, `quote`, `summary`, `achievements`, `fun_fact`, and additional metadata (see `add-pioneer.js` for template)
+   - Only **female** pioneers are accepted. No male pioneers will be included.
+   - Each pioneer must be unique by name. The system deduplicates by name, but please avoid adding duplicates.
+   - Images should be placed in `images/` and use `.jpg`, `.png`, or `.svg` (see PROJECT-REFERENCE.md for details)
 
-3. **Required fields:** `name`, `field`, `bio`
-4. **Optional fields:** `country`, `era`, `achievements`, `image`, `links`
+3. **Required fields:** `name`, `fields`, `summary`
+4. **Optional fields:** See the template in `add-pioneer.js` or existing entries
 
 ### Content Guidelines
 
@@ -40,6 +27,7 @@ By contributing to this project, you agree that your contributions will be licen
 - Include diverse representation across STEM fields, countries, and time periods
 - Write in an engaging, accessible style appropriate for the target audience
 - Verify information from reliable sources before submitting
+- Remove any duplicate entries by name for clarity
 
 ### Submitting Changes
 
