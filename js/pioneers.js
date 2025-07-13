@@ -557,13 +557,10 @@ const pioneers = [
     },
     "achievements": [
       "Produced X-ray diffraction images of DNA",
-      "Discovered molecular structure of viruses",
+      "Contributed to understanding virus structures",
       "Pioneered crystallography techniques"
     ],
-    "awards": [
-      "Posthumous recognition for DNA structure work",
-      "Honorary degrees from multiple universities"
-    ],
+    "awards": [],
     "education": [
       {
         "degree": "PhD",
@@ -717,7 +714,8 @@ const pioneers = [
         "Being a woman in male-dominated science"
       ],
       "cultural_contributions": "Pioneered women's roles in structural biology and highlighted the importance of proper scientific attribution"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Hedy Lamarr",
