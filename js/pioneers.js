@@ -1097,7 +1097,7 @@ const pioneers = [
   },
   {
     "name": "Rachel Carson",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1907",
     "deathDate": "1964",
     "country": "United States",
@@ -1580,7 +1580,7 @@ const pioneers = [
   },
   {
     "name": "Caroline Keep",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1980s",
     "country": "United Kingdom",
     "fields": [
@@ -1833,7 +1833,7 @@ const pioneers = [
   },
   {
     "name": "Sophie Germain",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/sophie-germain.jpg",
     "birthDate": "1776",
     "deathDate": "1831",
     "country": "France",
@@ -2008,7 +2008,7 @@ const pioneers = [
   },
   {
     "name": "Chieng Shih",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "Unknown",
     "country": "China",
     "fields": [
@@ -3794,7 +3794,7 @@ const pioneers = [
   },
   {
     "name": "Mary Cartwright",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1900",
     "deathDate": "1998",
     "country": "United Kingdom",
@@ -3974,7 +3974,7 @@ const pioneers = [
   },
   {
     "name": "Caroline Herschel",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/caroline-herschel.jpg",
     "birthDate": "1750",
     "deathDate": "1848",
     "country": "Germany/United Kingdom",
@@ -4330,7 +4330,7 @@ const pioneers = [
   },
   {
     "name": "Mariam Al-Astrulabi",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "950",
     "deathDate": "1000",
     "country": "Syria",
@@ -4682,7 +4682,7 @@ const pioneers = [
   },
   {
     "name": "Yvonne Brill",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/yvonne-brill.jpg",
     "birthDate": "1924",
     "deathDate": "2013",
     "country": "Canada/United States",
@@ -4712,7 +4712,7 @@ const pioneers = [
   },
   {
     "name": "Susan Solomon",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/susan-solomon.jpg",
     "birthDate": "1956",
     "country": "United States",
     "fields": [
@@ -4741,7 +4741,7 @@ const pioneers = [
   },
   {
     "name": "Margarita Salas",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/margarita-salas.jpg",
     "birthDate": "1938",
     "deathDate": "2019",
     "country": "Spain",
@@ -4771,7 +4771,7 @@ const pioneers = [
   },
   {
     "name": "Emilie du Châtelet",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/emilie-du-chatelet.jpg",
     "birthDate": "1706",
     "deathDate": "1749",
     "country": "France",
@@ -4801,7 +4801,7 @@ const pioneers = [
   },
   {
     "name": "Agnes Pockels",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/agnes-pockels.jpg",
     "birthDate": "1862",
     "deathDate": "1935",
     "country": "Germany",
@@ -4831,7 +4831,7 @@ const pioneers = [
   },
   {
     "name": "Hertha Ayrton",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/hertha-ayrton.jpg",
     "birthDate": "1854",
     "deathDate": "1923",
     "country": "United Kingdom",
@@ -4861,7 +4861,7 @@ const pioneers = [
   },
   {
     "name": "Wangari Maathai",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/wangari-maathai.jpg",
     "birthDate": "1940",
     "deathDate": "2011",
     "country": "Kenya",
@@ -4915,7 +4915,7 @@ const pioneers = [
   },
   {
     "name": "Maya Angelou",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/maya-angelou.jpg",
     "birthDate": "1928",
     "deathDate": "2014",
     "country": "United States",
@@ -5741,7 +5741,7 @@ const pioneers = [
   },
   {
     "name": "Wang Zhenyi",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/wang-zhenyi.jpg",
     "birthDate": "1768",
     "deathDate": "1797",
     "country": "China",
@@ -5907,7 +5907,7 @@ const pioneers = [
   },
   {
     "name": "Patricia Bath",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/patricia-bath.jpg",
     "birthDate": "1942",
     "deathDate": "2019",
     "country": "United States",
@@ -6095,7 +6095,7 @@ const pioneers = [
   },
   {
     "name": "Ayah Bdeir",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1982",
     "country": "Lebanon/United States",
     "fields": [
@@ -6283,7 +6283,7 @@ const pioneers = [
   },
   {
     "name": "Cynthia Breazeal",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1967",
     "country": "United States",
     "fields": [
@@ -6474,7 +6474,7 @@ const pioneers = [
   },
   {
     "name": "Theresa Dankovich",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1980s",
     "country": "United States",
     "fields": [
@@ -6661,7 +6661,7 @@ const pioneers = [
   },
   {
     "name": "Marion O'Brien Donovan",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1917",
     "deathDate": "1998",
     "country": "United States",
@@ -6839,7 +6839,7 @@ const pioneers = [
   },
   {
     "name": "Marilyn Hamilton",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1949",
     "country": "United States",
     "fields": [
@@ -7018,7 +7018,7 @@ const pioneers = [
   },
   {
     "name": "Marjorie Stewart Joyner",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1896",
     "deathDate": "1994",
     "country": "United States",
@@ -7198,7 +7198,7 @@ const pioneers = [
   },
   {
     "name": "Michelle Khine",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1975",
     "country": "United States",
     "fields": [
@@ -7384,7 +7384,7 @@ const pioneers = [
   },
   {
     "name": "Margaret Knight",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/margaret-knight.jpg",
     "birthDate": "1838",
     "deathDate": "1914",
     "country": "United States",
@@ -7565,7 +7565,7 @@ const pioneers = [
   },
   {
     "name": "Stephanie Kwolek",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/stephanie-kwolek.jpg",
     "birthDate": "1923",
     "deathDate": "2014",
     "country": "United States",
@@ -7748,7 +7748,7 @@ const pioneers = [
   },
   {
     "name": "Alexis Lewis",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1990s",
     "country": "United States",
     "fields": [
@@ -7925,7 +7925,7 @@ const pioneers = [
   },
   {
     "name": "Lisa Lindahl, Hinda Miller, Polly Palmer Smith",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1970s",
     "country": "United States",
     "fields": [
@@ -8100,7 +8100,7 @@ const pioneers = [
   },
   {
     "name": "Madison Maxey",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1990s",
     "country": "United States",
     "fields": [
@@ -8278,7 +8278,7 @@ const pioneers = [
   },
   {
     "name": "Amy Prieto",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1976",
     "country": "United States",
     "fields": [
@@ -8467,7 +8467,7 @@ const pioneers = [
     "name": "Sharon Rogone",
     "summary": "Medical device innovator who improved neonatal care for premature infants.",
     "shortDescription": "Sharon Rogone invented life-saving medical devices for premature babies, including the Bili-Bonnet phototherapy eye protector. Her work has helped countless newborns receive safer, more effective care in hospitals around the world.",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1950s",
     "country": "United States",
     "fields": [
@@ -8635,7 +8635,7 @@ const pioneers = [
     "name": "Charlotte Cramer Sachs",
     "summary": "Pioneering food scientist who developed nutritious foods for wartime and peacetime.",
     "shortDescription": "Charlotte Cramer Sachs was a food scientist who created nutritious, shelf-stable foods for soldiers and civilians during World War II. Her innovations improved public health and set new standards for food safety and nutrition.",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1907",
     "deathDate": "2004",
     "country": "Germany/United States",
@@ -8810,7 +8810,7 @@ const pioneers = [
     "name": "Laura Shepherd",
     "summary": "Aerospace engineer and key contributor to the U.S. space program.",
     "shortDescription": "Laura Shepherd was an aerospace engineer who played a vital role in the development of rocket and satellite technology for NASA. Her work helped launch the United States into the space age and inspired future generations of engineers.",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1980s",
     "country": "United States",
     "fields": [
@@ -8983,7 +8983,7 @@ const pioneers = [
     "name": "Kavita Shukla",
     "summary": "Inventor and entrepreneur who created FreshPaper to keep food fresh longer.",
     "shortDescription": "Kavita Shukla invented FreshPaper, a simple sheet that keeps fruits and vegetables fresh for longer. Her innovation helps reduce food waste and makes healthy food more accessible around the world.",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1980s",
     "country": "United States/India",
     "fields": [
@@ -9160,7 +9160,7 @@ const pioneers = [
     "name": "Cindy Whitehead",
     "summary": "Pharmacist and entrepreneur who championed women’s health innovations.",
     "shortDescription": "Cindy Whitehead is a pharmacist and entrepreneur who developed the first FDA-approved medication for women’s sexual health. She advocates for women’s health equity and inspires girls to pursue science and business.",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1970s",
     "country": "United States",
     "fields": [
@@ -9338,7 +9338,7 @@ const pioneers = [
     "name": "Sophia Hayden",
     "summary": "Architect and advocate for women in design and engineering.",
     "shortDescription": "Sophia Hayden was the first female graduate of MIT’s architecture program and designed the Woman’s Building at the 1893 World’s Fair. She broke barriers for women in architecture and inspired future generations of designers.",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1868",
     "deathDate": "1953",
     "country": "United States",
@@ -9518,7 +9518,7 @@ const pioneers = [
     "name": "Madam C. J. Walker",
     "summary": "Entrepreneur and philanthropist, first self-made female millionaire in America.",
     "shortDescription": "Madam C. J. Walker developed innovative hair care products for Black women and became America’s first self-made female millionaire. She used her success to support civil rights and empower women in business.",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1867",
     "deathDate": "1919",
     "country": "United States",
@@ -11760,7 +11760,7 @@ const pioneers = [
   },
   {
     "name": "Emmy Noether",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/emmy-noether.jpg",
     "birthDate": "1882",
     "deathDate": "1935",
     "country": "Germany",
@@ -13884,7 +13884,7 @@ const pioneers = [
   },
   {
     "name": "Maria Goeppert Mayer",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/maria-goeppert-mayer.jpg",
     "birthDate": "1906",
     "deathDate": "1972",
     "country": "Germany/United States",
@@ -14060,7 +14060,7 @@ const pioneers = [
   },
   {
     "name": "Elizabeth Blackwell",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/elizabeth-blackwell.jpg",
     "birthDate": "1821",
     "deathDate": "1910",
     "country": "United Kingdom/United States",
@@ -14237,7 +14237,7 @@ const pioneers = [
   },
   {
     "name": "Dr. Andrea Ghez",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/rachel-carson.jpg",
     "birthDate": "1965",
     "deathDate": "",
     "country": "United States",
@@ -14412,7 +14412,7 @@ const pioneers = [
   },
   {
     "name": "Maria Mitchell",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/maria-mitchell.jpg",
     "birthDate": "1818",
     "deathDate": "1889",
     "country": "United States",
@@ -14584,7 +14584,7 @@ const pioneers = [
   },
   {
     "name": "Annie Jump Cannon",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/annie-jump-cannon.jpg",
     "birthDate": "1863",
     "deathDate": "1941",
     "country": "United States",
@@ -14764,7 +14764,7 @@ const pioneers = [
   },
   {
     "name": "Henrietta Swan Leavitt",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/henrietta-swan-leavitt.jpg",
     "birthDate": "1868",
     "deathDate": "1921",
     "country": "United States",
@@ -14935,7 +14935,7 @@ const pioneers = [
   },
   {
     "name": "Vera Rubin",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/vera-rubin.jpg",
     "birthDate": "1928",
     "deathDate": "2016",
     "country": "United States",
@@ -15116,7 +15116,7 @@ const pioneers = [
   },
   {
     "name": "Jocelyn Bell Burnell",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/jocelyn-bell-burnell.jpg",
     "birthDate": "1943",
     "country": "United Kingdom",
     "fields": [
@@ -15297,7 +15297,7 @@ const pioneers = [
   },
   {
     "name": "Margaret Burbidge",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/margaret-burbidge.jpg",
     "birthDate": "1919",
     "deathDate": "2020",
     "country": "United Kingdom",
@@ -15473,7 +15473,7 @@ const pioneers = [
   },
   {
     "name": "Nancy Grace Roman",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/nancy-grace-roman.jpg",
     "birthDate": "1925",
     "deathDate": "2018",
     "country": "United States",
@@ -15647,7 +15647,7 @@ const pioneers = [
   },
   {
     "name": "Florence Nightingale",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/florence-nightingale.jpg",
     "birthDate": "1820",
     "deathDate": "1910",
     "country": "United Kingdom",
@@ -15824,7 +15824,7 @@ const pioneers = [
   },
   {
     "name": "Virginia Apgar",
-    "photo": "./images/placeholder-woman.svg",
+    "photo": "./images/virginia-apgar.jpg",
     "birthDate": "1909",
     "deathDate": "1974",
     "country": "United States",
@@ -15995,6 +15995,187 @@ const pioneers = [
         "Limited women's leadership roles"
       ],
       "cultural_contributions": "Pioneered women's role in medicine and established modern neonatal care"
+    },
+    "verified": true
+  },
+  {
+    "name": "Helen Taussig",
+    "photo": "./images/helen-taussig.jpg",
+    "birthDate": "1898",
+    "deathDate": "1986",
+    "country": "United States",
+    "fields": [
+      "Medicine",
+      "Cardiology"
+    ],
+    "roles": [
+      "Physician",
+      "Pediatric Cardiologist"
+    ],
+    "quote": "The heart is the most important organ in the body.",
+    "summary": "Pioneering pediatric cardiologist who developed the first successful treatment for 'blue baby syndrome' and was one of the first women to be a full professor at Johns Hopkins University.",
+    "shortDescription": "Helen Taussig was a groundbreaking pediatric cardiologist who developed the first successful treatment for 'blue baby syndrome,' a congenital heart defect. She was one of the first women to be a full professor at Johns Hopkins University and her work saved thousands of children's lives.",
+    "detailed_description": {
+      "early_life": "Born in Massachusetts in 1898, Helen overcame dyslexia and hearing loss to pursue medicine. She earned her MD from Johns Hopkins University in 1927 and became interested in pediatric cardiology.",
+      "stem_journey": "Helen specialized in congenital heart defects and developed the Blalock-Taussig shunt procedure with Dr. Alfred Blalock. This was the first successful treatment for 'blue baby syndrome.'",
+      "challenges": "As a woman in medicine in the 1920s and 1930s, Helen faced significant gender discrimination. She also had hearing loss which made stethoscope use difficult, so she learned to feel heart rhythms with her fingers.",
+      "achievements": "Developed the Blalock-Taussig shunt procedure, became one of the first women full professors at Johns Hopkins, and pioneered pediatric cardiology.",
+      "legacy": "Helen's work revolutionized treatment of congenital heart defects and established pediatric cardiology as a medical specialty."
+    },
+    "achievements": [
+      "Developed the Blalock-Taussig shunt procedure",
+      "First successful treatment for 'blue baby syndrome'",
+      "One of the first women full professors at Johns Hopkins",
+      "Pioneered pediatric cardiology"
+    ],
+    "awards": [
+      "Presidential Medal of Freedom (1964)",
+      "Albert Lasker Award (1954)",
+      "National Women's Hall of Fame inductee (1973)"
+    ],
+    "publications": [
+      {
+        "title": "Congenital Malformations of the Heart",
+        "url": "https://en.wikipedia.org/wiki/Helen_Taussig"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MD",
+        "field": "Medicine",
+        "institution": "Johns Hopkins University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1927,
+        "event": "Earned MD from Johns Hopkins University"
+      },
+      {
+        "year": 1944,
+        "event": "Developed Blalock-Taussig shunt procedure"
+      },
+      {
+        "year": 1959,
+        "event": "Became full professor at Johns Hopkins"
+      },
+      {
+        "year": 1964,
+        "event": "Awarded Presidential Medal of Freedom"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in medicine",
+      "Hearing loss affecting medical practice",
+      "Limited recognition for her contributions"
+    ],
+    "impact": "Her work revolutionized treatment of congenital heart defects and saved thousands of children's lives.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Helen Taussig: The Woman Who Fixed Broken Hearts",
+        "url": "https://www.biography.com/scientist/helen-taussig"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Helen_Taussig"
+      },
+      {
+        "title": "Johns Hopkins Medicine",
+        "url": "https://www.hopkinsmedicine.org/helen-taussig"
+      }
+    ],
+    "mentorship": "Helen mentored many women physicians and advocated for women's recognition in medicine.",
+    "fun_fact": "Helen learned to feel heart rhythms with her fingers because her hearing loss made stethoscope use difficult.",
+    "career_path": {
+      "first_job": "Pediatrician at Johns Hopkins Hospital",
+      "career_highlights": [
+        "Developed Blalock-Taussig shunt",
+        "Became full professor at Johns Hopkins",
+        "Pioneered pediatric cardiology"
+      ],
+      "advice_for_students": "Don't let physical challenges stop you from pursuing your passion."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Helen Taussig: Pioneer of Pediatric Cardiology",
+        "Women in Medicine: Breaking Barriers"
+      ],
+      "websites": [
+        "hopkinsmedicine.org",
+        "cardiology.org"
+      ],
+      "programs": [
+        "Women in Medicine programs",
+        "Pediatric cardiology programs"
+      ],
+      "advice": "Learn to adapt and find creative solutions to challenges."
+    },
+    "challenges": {
+      "academic": [
+        "Gender discrimination in medical school",
+        "Hearing loss affecting studies"
+      ],
+      "professional": [
+        "Being one of few women in cardiology",
+        "Limited recognition for her work"
+      ],
+      "personal": [
+        "Overcoming hearing loss in medical practice"
+      ],
+      "how_overcame": "Adapted her techniques to work with her hearing loss and focused on her passion for helping children"
+    },
+    "education_details": {
+      "high_school": "Attended Johns Hopkins University",
+      "college_major": "Medicine",
+      "key_courses": [
+        "Medicine",
+        "Cardiology",
+        "Pediatrics"
+      ],
+      "study_tips": "Learn to adapt and find creative solutions to challenges"
+    },
+    "modern_impact": {
+      "current_applications": "Her techniques are still used in pediatric cardiology",
+      "companies_using_her_work": [
+        "Pediatric hospitals worldwide",
+        "Cardiology departments",
+        "Medical schools"
+      ],
+      "future_implications": "Her work continues to influence modern pediatric cardiology"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Medicine",
+        "Helping children",
+        "Cardiology"
+      ],
+      "family_background": "Daughter of a Harvard professor",
+      "hobbies": [
+        "Gardening",
+        "Reading",
+        "Teaching"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Compassionate",
+        "Innovative",
+        "Adaptive"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "Early 20th-century American medicine",
+        "Johns Hopkins medical tradition"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in medicine",
+        "Limited women's leadership roles"
+      ],
+      "cultural_contributions": "Pioneered women's role in medicine and established pediatric cardiology"
     },
     "verified": true
   }

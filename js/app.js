@@ -276,7 +276,7 @@ class PioneersApp {
     const fallbackIcon = this.getFallbackIcon(pioneer);
 
     card.innerHTML = `
-      <div class="pioneer-card-header">
+      <div class="pioneer-card-header vertical-header">
         <div class="pioneer-image">
           <img data-src="${pioneer.photo}" alt="Portrait of ${pioneer.name}" 
                class="lazy-image"
@@ -284,9 +284,9 @@ class PioneersApp {
                onerror="setFallbackIcon(this, '${fallbackIcon}')"
                onload="this.classList.add('loaded'); this.style.filter='none'; this.style.opacity='1';"
                onclick="window.pioneersApp.openImageModal('${pioneer.photo}', '${pioneer.name}', '${pioneer.birthDate}', '${pioneer.deathDate}', '${pioneer.country}')"
-               style="cursor: pointer; filter: grayscale(100%) opacity(0.5); width: 80px; height: 80px;">
+               style="cursor: pointer; filter: grayscale(100%) opacity(0.5); width: 120px; height: 120px;">
         </div>
-        <div class="pioneer-header-info">
+        <div class="pioneer-header-info" style="align-items: center; text-align: center;">
           <h3 class="pioneer-name">${pioneer.name}</h3>
           <div class="pioneer-field">${fieldsBadges}</div>
           <div class="pioneer-meta">
@@ -298,19 +298,19 @@ class PioneersApp {
       </div>
 
       <div class="pioneer-content">
-        ${pioneer.quote && pioneer.quote.trim() !== "" ? `
-        <div class="pioneer-quote">
-          <h4>Quote</h4>
-          <blockquote>
-            ${pioneer.quote}
-          </blockquote>
-        </div>
-        ` : ''}
-        
         <div class="pioneer-short-description" style="${pioneer.shortDescription ? 'display: block;' : 'display: none;'}">
           <h4>About ${pioneer.name}</h4>
           <p>${pioneer.shortDescription || ''}</p>
         </div>
+        
+        ${pioneer.quote && pioneer.quote.trim() !== "" ? `
+        <div class="pioneer-quote">
+          <h4>Quote</h4>
+          <blockquote>
+            "${pioneer.quote}"
+          </blockquote>
+        </div>
+        ` : ''}
       </div>
 
       <div class="pioneer-actions">

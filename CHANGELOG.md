@@ -136,7 +136,7 @@ All notable changes to this project will be documented in this file.
 ### 🚀 Major Content Expansion & Improvements
 
 #### Added
-- Expanded to 100+ unique female STEM pioneer profiles, with global diversity
+- Expanded to 100 unique female STEM pioneer profiles, with global diversity
 - Systematic deduplication logic: only the first occurrence of each pioneer (by name) is shown in the UI
 - Added or fixed images for all pioneers (photo, SVG, or symbolic as needed)
 - All STEM fields in the data now have clear explanations and filter options
@@ -213,7 +213,7 @@ All notable changes to this project will be documented in this file.
 
 - **v1.4.0** (2025-01-15): 🎉 **Enhanced User Experience** - Collapsible sections, timeline visualization, improved UI
 - **v1.3.0** (2025-07-13): 🌍 **Diverse Icon Fallback** - Improved image handling and data quality
-- **v1.2.0** (2025-07-13): 🚀 **Major Content Expansion** - 100+ pioneer profiles with global diversity
+- **v1.2.0** (2025-07-13): 🚀 **Major Content Expansion** - 100 pioneer profiles with global diversity
 - **v1.1.0** (2025-07-13): 🚀 **Content Expansion** - 81 pioneer profiles with deduplication
 - **v1.0.0-mvp** (2025-01-12): 🎉 **MVP Release Complete** - UX foundation solid, ready for content expansion
 - **v1.0.0-beta** (2025-01-11): Enhanced design, typography, and interactions

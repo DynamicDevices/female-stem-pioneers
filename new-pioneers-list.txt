@@ -1,0 +1,50 @@
+1. Emmy Noether - Mathematics, Physics
+2. Sofia Kovalevskaya - Mathematics
+3. Caroline Herschel - Astronomy
+4. Maria Mitchell - Astronomy
+5. Annie Jump Cannon - Astronomy
+6. Henrietta Swan Leavitt - Astronomy
+7. Cecilia Payne-Gaposchkin - Astronomy
+8. Vera Rubin - Astronomy
+9. Jocelyn Bell Burnell - Astronomy, Physics
+10. Margaret Burbidge - Astronomy
+11. Nancy Grace Roman - Astronomy
+12. Helen Sawyer Hogg - Astronomy
+13. Beatrice Tinsley - Astronomy
+14. Carolyn Shoemaker - Astronomy
+15. Jill Tarter - Astronomy
+16. Margaret Geller - Astronomy
+17. Sandra Faber - Astronomy
+18. Wendy Freedman - Astronomy
+19. Andrea Ghez - Astronomy
+20. Marcia McNutt - Geophysics
+21. Inge Lehmann - Seismology
+22. Marie Tharp - Oceanography
+23. Rachel Carson - Marine Biology
+24. Sylvia Earle - Marine Biology
+25. Eugenie Clark - Marine Biology
+26. Jane Goodall - Primatology
+27. Dian Fossey - Primatology
+28. Biruté Galdikas - Primatology
+29. Mary Leakey - Paleoanthropology
+30. Margaret Mead - Anthropology
+31. Ruth Benedict - Anthropology
+32. Zora Neale Hurston - Anthropology
+33. Florence Nightingale - Statistics, Nursing
+34. Virginia Apgar - Medicine
+35. Helen Taussig - Medicine
+36. Gerty Cori - Biochemistry
+37. Rita Levi-Montalcini - Neuroscience
+38. Barbara McClintock - Genetics
+39. Rosalind Franklin - Chemistry, Biology
+40. Dorothy Hodgkin - Chemistry
+41. Gertrude Elion - Pharmacology
+42. Tu Youyou - Pharmacology
+43. Françoise Barré-Sinoussi - Virology
+44. Elizabeth Blackburn - Molecular Biology
+45. Carol Greider - Molecular Biology
+46. Jennifer Doudna - Biochemistry
+47. Emmanuelle Charpentier - Microbiology
+48. Frances Arnold - Chemical Engineering
+49. Donna Strickland - Physics
+50. Andrea Ghez - Physics, Astronomy 

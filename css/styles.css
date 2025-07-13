@@ -1856,13 +1856,13 @@ body.light-theme .mobile-menu-toggle span {
   padding: 12px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
+  min-height: 400px; /* Increased to eliminate scrollbars */
   position: relative;
   overflow: hidden;
   display: grid;
   grid-template-rows: auto 1fr auto;
   gap: 8px;
-  height: 700px; /* Increased height to prevent scrollbars */
-  min-height: unset;
+  height: 800px; /* Increased height to prevent scrollbars */
 }
 
 .pioneer-card.expanded {
@@ -2932,7 +2932,7 @@ body.light-theme .mobile-menu-toggle span {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
   padding: 10px 14px;
   font-size: 0.95em;
-  z-index: 9999;
+  z-index: 10000;
   white-space: normal;
   pointer-events: none;
   max-height: 200px;
@@ -3649,4 +3649,99 @@ body.light-theme .mobile-menu-toggle span {
   .contribute-section h3 {
     font-size: 1.1rem;
   }
+}
+
+/* Enforce perfect circles for all image/icon containers */
+.pioneer-image,
+.pioneer-image img,
+.pioneer-portrait,
+.pioneer-portrait img,
+.fallback-icon,
+.placeholder-woman {
+  aspect-ratio: 1 / 1;
+}
+
+/* Vertical header for pioneer cards */
+.pioneer-card-header.vertical-header {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  min-height: unset;
+  margin-bottom: 8px;
+}
+
+.pioneer-card-header.vertical-header .pioneer-image {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 0.5rem auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pioneer-card-header.vertical-header .pioneer-image img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  aspect-ratio: 1 / 1;
+}
+
+.pioneer-card-header.vertical-header .pioneer-header-info {
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  min-height: unset;
+  max-height: unset;
+  padding: 0;
+  margin: 0;
+}
+
+.pioneer-card-header.vertical-header .pioneer-name,
+.pioneer-card-header.vertical-header .pioneer-field,
+.pioneer-card-header.vertical-header .pioneer-meta,
+.pioneer-card-header.vertical-header .pioneer-subtitle {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pioneer-card-header.vertical-header .pioneer-field {
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+/* Ensure perfect circle for top-of-card image in vertical-header */
+.pioneer-card-header.vertical-header .pioneer-image,
+.pioneer-card-header.vertical-header .pioneer-image img {
+  width: 120px !important;
+  height: 120px !important;
+  aspect-ratio: 1 / 1 !important;
+  border-radius: 50% !important;
+}
+.pioneer-card-header.vertical-header .pioneer-image img {
+  object-fit: cover !important;
+  display: block !important;
+  margin: 0 auto !important;
+  padding: 0 !important;
+}
+
+/* Force .pioneer-image to be a perfect square and never stretch in vertical-header */
+.pioneer-card-header.vertical-header .pioneer-image {
+  width: 120px !important;
+  height: 120px !important;
+  max-width: 120px !important;
+  max-height: 120px !important;
+  min-width: 120px !important;
+  min-height: 120px !important;
+  aspect-ratio: 1 / 1 !important;
+  border-radius: 50% !important;
+  flex: 0 0 auto !important;
+  box-sizing: content-box !important;
+  align-self: center !important;
+  outline: 2px solid red !important; /* DEBUG: Remove after confirming */
 }

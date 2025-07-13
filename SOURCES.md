@@ -218,6 +218,70 @@ This document lists the primary websites and organizations used as sources for i
   https://www.nytimes.com/topic/subject/women-and-girls-in-science  
   *News coverage and profiles of women in STEM.*
 
+### Additional International and Regional Sources
+
+- **Women in STEM Mongolia**  
+  https://www.womeninstem.mn/  
+  *Profiles and news about Mongolian women in STEM fields.*
+
+- **Women in STEM Middle East (WISME)**  
+  https://www.wisme.me/  
+  *Initiative highlighting women scientists and engineers in the Middle East.*
+
+- **Indian Women in Science**  
+  https://www.ias.ac.in/womeninscience/  
+  *Indian Academy of Sciences project documenting Indian women scientists.*
+
+- **Latin American Women in STEM (RedLAC)**  
+  https://www.redlac.org/  
+  *Network for Latin American and Caribbean women in STEM.*
+
+- **African Women in Agricultural Research and Development (AWARD)**  
+  https://awardfellowships.org/  
+  *Profiles and fellowships for African women in agricultural science.*
+
+- **Women in STEM Japan (WiSJ)**  
+  https://www.wisj.jp/  
+  *Japanese network for women in science, technology, engineering, and mathematics.*
+
+- **Women in Science - Russian Academy of Sciences**  
+  http://www.ras.ru/womeninscience/  
+  *Profiles and news about Russian women scientists.*
+
+- **Women in Science - South Africa (SAWISE)**  
+  https://www.sawise.org.za/  
+  *South African association for women in science and engineering.*
+
+- **Women in STEM - Southeast Asia (WISE SEA)**  
+  https://www.wisesea.org/  
+  *Regional network for women in STEM in Southeast Asia.*
+
+- **Women in Science - Israel**  
+  https://www.weizmann.ac.il/WomenInScience/  
+  *Weizmann Institute's initiative for Israeli women scientists.*
+
+### Open Data and Science History Projects
+
+- **Wikipedia: Women in Red (Women Scientists)**  
+  https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/Women_scientists  
+  *Crowdsourced project to increase coverage of women scientists on Wikipedia.*
+
+- **Wikidata: Women Scientists**  
+  https://www.wikidata.org/wiki/Wikidata:WikiProject_Women_scientists  
+  *Structured open data on women scientists worldwide.*
+
+- **Smithsonian Institution Archives - Women in Science**  
+  https://siarchives.si.edu/history/women-science  
+  *Archival resources and oral histories of women in science.*
+
+- **National Academy of Sciences - Biographical Memoirs**  
+  https://www.nasonline.org/publications/biographical-memoirs/  
+  *Authoritative biographies of notable scientists, including many women pioneers.*
+
+- **Australian Academy of Science - Women in STEM**  
+  https://www.science.org.au/supporting-science/women-science  
+  *Profiles and resources for Australian women in STEM.*
+
 ---
 
 *This comprehensive list is regularly updated as new sources are discovered and verified for research quality and reliability.* 
