@@ -3085,3 +3085,11 @@ body.light-theme .mobile-menu-toggle span {
     font-size: 2em;
   }
 }
+
+.fallback-placeholder {
+  filter: grayscale(100%) opacity(0.5);
+  width: 80px;
+  height: 80px;
+  display: block;
+  margin: 0 auto;
+}

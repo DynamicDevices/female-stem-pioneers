@@ -6,16 +6,25 @@ defineSetFallbackIcon();
 
 function defineSetFallbackIcon() {
   if (typeof window.setFallbackIcon !== 'function') {
-    window.setFallbackIcon = function(imgElement, fallbackEmoji) {
+    window.setFallbackIcon = function(imgElement, fallbackContent) {
       imgElement.onerror = null;
       const parent = imgElement.parentElement;
       if (!parent) return;
       // Remove the failed image
       parent.removeChild(imgElement);
       // Create the fallback icon element
-      const fallbackDiv = document.createElement('div');
-      fallbackDiv.className = 'fallback-icon';
-      fallbackDiv.textContent = fallbackEmoji;
+      let fallbackDiv;
+      if (fallbackContent.startsWith('<img')) {
+        // If fallbackContent is an <img> tag, inject as HTML
+        fallbackDiv = document.createElement('div');
+        fallbackDiv.className = 'fallback-icon';
+        fallbackDiv.innerHTML = fallbackContent;
+      } else {
+        // Otherwise, treat as emoji
+        fallbackDiv = document.createElement('div');
+        fallbackDiv.className = 'fallback-icon';
+        fallbackDiv.textContent = fallbackContent;
+      }
       parent.appendChild(fallbackDiv);
       console.log('Fallback icon injected:', fallbackDiv.outerHTML);
     };
@@ -164,8 +173,8 @@ class PioneersApp {
         console.warn('IconMapping failed, using default fallback:', error);
       }
     }
-    // Default fallback if IconMapping is not available
-    return '👩‍🔬';
+    // Default fallback: use grayed-out SVG placeholder
+    return '<img src="images/placeholder-woman.svg" class="fallback-placeholder" alt="No image available" style="filter: grayscale(100%) opacity(0.5); width: 80px; height: 80px;">';
   }
 
   createPioneerCard(pioneer, index) {
