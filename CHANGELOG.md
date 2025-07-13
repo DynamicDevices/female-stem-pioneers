@@ -122,6 +122,26 @@ All notable changes to this project will be documented in this file.
 - Improved UI accessibility and responsiveness
 - Updated statistics display for total pioneers, fields, and countries
 
+## [v1.4.0] - 2025-07-13
+
+### 🚀 Major Pioneer Expansion & Source Enhancement
+
+#### Added
+- **7 New Pioneer Profiles**: Rita Levi-Montalcini, Tu Youyou, Valentina Tereshkova, Ellen Ochoa, Mae Jemison, Barbara McClintock, Dorothy Vaughan, Evelyn Boyd Granville, Annie Easley, Asima Chatterjee, Janaki Ammal, Ynes Mexia, Sofia Kovalevskaya
+- **Enhanced Source Documentation**: Updated SOURCES.md with 40+ new high-quality research sources
+- **Diverse Representation**: Added pioneers from Italy, China, Soviet Union/Russia, United States, India, Mexico
+- **Multiple STEM Fields**: Neuroscience, Chemistry, Aerospace Engineering, Genetics, Mathematics, Computer Programming, Botany, Physics
+
+#### Changed
+- Updated documentation: README.md, TODO.md to reflect current 78+ pioneer count
+- Enhanced source research capabilities with comprehensive international databases
+- Improved cultural diversity with pioneers from multiple continents and backgrounds
+
+#### Technical Improvements
+- Maintained consistent data structure across all new pioneer profiles
+- Each pioneer includes comprehensive educational resources and career advice
+- All pioneers follow accessibility guidelines for student engagement
+
 ## [v1.3.0] - 2025-07-13
 
 ### 🌍 Diverse Icon Fallback & Data Quality Release

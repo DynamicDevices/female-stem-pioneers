@@ -4,7 +4,7 @@
 
 ### **What's Done:**
 
-- ✅ 100+ Pioneer Profiles with comprehensive data structure
+- ✅ 78+ Pioneer Profiles with comprehensive data structure
 - ✅ Responsive Design with modern UI/UX
 - ✅ Search & Filter functionality (all unique fields now included)
 - ✅ Accessibility compliant (WCAG standards)
@@ -27,7 +27,7 @@
 
 ### **Priority 1: Add More Pioneers** 🔥
 
-- [x] Target 100+ pioneer profiles (currently 100+)
+- [x] Target 100+ pioneer profiles (currently 78+)
 - [ ] Continue to increase diversity in backgrounds, time periods, and STEM fields
 - [ ] Use `add-pioneer.js` helper script for efficiency
 - [ ] Download high-quality images or create SVG icons as needed

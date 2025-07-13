@@ -13,7 +13,7 @@ A static web app celebrating women pioneers in STEM fields. Features:
 
 ## Current Metrics
 
-- **Pioneers**: 100+ profiles
+- **Pioneers**: 78 profiles (and growing!)
 
 ## Getting Started
 
