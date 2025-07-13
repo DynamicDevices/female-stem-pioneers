@@ -1280,7 +1280,6 @@ const pioneers = [
     "achievements": [
       "Disproved the Law of Conservation of Parity",
       "Pioneered research in nuclear physics",
-      "First woman to serve as president of the American Physical Society",
       "Developed the Wu experiment"
     ],
     "awards": [
@@ -1296,13 +1295,13 @@ const pioneers = [
       }
     ],
     "impact": "Revolutionized nuclear physics and paved the way for women in the field.",
-    "fun_fact": "Wu was the first woman to receive an honorary doctorate from Princeton University.",
+    "fun_fact": "Wu's parity violation experiment is considered one of the most important physics experiments of the 20th century.",
     "career_path": {
       "first_job": "Research assistant at University of California, Berkeley",
       "career_highlights": [
         "Joined Manhattan Project during WWII",
         "Conducted the Wu experiment in 1956",
-        "Became first female president of American Physical Society"
+        "Conducted groundbreaking parity violation experiment"
       ],
       "advice_for_students": "Don't let anyone tell you what you can't do. Physics is for everyone who is curious about how the universe works."
     },
@@ -1311,7 +1310,8 @@ const pioneers = [
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Sally Ride",
@@ -1338,7 +1338,6 @@ const pioneers = [
       "Wrote children's books about space"
     ],
     "awards": [
-      "National Space Society's Von Braun Award",
       "NASA Space Flight Medal",
       "Inducted into National Women's Hall of Fame"
     ],
@@ -1365,7 +1364,8 @@ const pioneers = [
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sally_Ride"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Katherine Johnson",
@@ -1394,13 +1394,11 @@ const pioneers = [
     "achievements": [
       "Calculated trajectories for Apollo 11 moon landing",
       "Verified computer calculations for John Glenn's flight",
-      "Worked on Space Shuttle program",
-      "Received Presidential Medal of Freedom"
+      "Worked on Space Shuttle program"
     ],
     "awards": [
       "Presidential Medal of Freedom (2015)",
-      "Congressional Gold Medal (2019)",
-      "NASA Group Achievement Award"
+      "Congressional Gold Medal (2019)"
     ],
     "education": [
       {
@@ -1555,7 +1553,8 @@ const pioneers = [
         "Gender barriers in mathematics"
       ],
       "cultural_contributions": "Pioneered African American women's roles in mathematics and aerospace, inspiring future generations"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Caroline Keep",
