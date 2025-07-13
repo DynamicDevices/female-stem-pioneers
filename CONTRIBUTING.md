@@ -12,9 +12,11 @@ By contributing to this project, you agree that your contributions will be licen
 
 1. **Fork the repository**
 2. **Add your pioneer to `js/pioneers.js`** following the current data structure (see existing entries for reference). Each entry is an object with fields such as:
-   - `name`, `photo`, `birthDate`, `deathDate`, `country`, `fields`, `roles`, `quote`, `summary`, `achievements`, `fun_fact`, and additional metadata (see `add-pioneer.js` for template)
+   - `name`, `photo`, `birthDate`, `deathDate`, `country`, `fields`, `roles`, `quote`, `summary`, `shortDescription`, `achievements`, `fun_fact`, and additional metadata (see `add-pioneer.js` for template)
    - Only **female** pioneers are accepted. No male pioneers will be included.
    - Each pioneer must be unique by name. The system deduplicates by name, but please avoid adding duplicates. (Currently 100+ unique pioneers)
+   - **Every pioneer must have a `shortDescription` field** with an engaging, student-friendly paragraph (2-3 sentences) explaining their impact and significance
+   - **Real images are strongly preferred** - use JPG, WEBP, or PNG files when available. Only use `./images/placeholder.jpg` if no suitable image can be found
    - Images should be placed in `images/` and use `.jpg`, `.png`, or `.svg` (see PROJECT-REFERENCE.md for details)
    - **Only valid, non-empty images are accepted. Do not add empty or broken image files.**
    - **All fields used in the data must have an explanation in the UI.**
