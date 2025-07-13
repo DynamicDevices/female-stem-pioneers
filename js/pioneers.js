@@ -16873,6 +16873,518 @@ const pioneers = [
       "cultural_contributions": "Pioneered Indian women's role in medicine and influenced social reform"
     },
     "verified": true
+  },
+  {
+    "name": "Maria Sibylla Merian",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1647",
+    "deathDate": "1717",
+    "country": "Germany/Netherlands",
+    "fields": [
+      "Biology",
+      "Entomology",
+      "Scientific Illustration"
+    ],
+    "roles": [
+      "Naturalist",
+      "Scientific Illustrator",
+      "Entomologist"
+    ],
+    "quote": "I spent my time investigating insects.",
+    "summary": "Pioneering naturalist and scientific illustrator who documented insect metamorphosis and made groundbreaking contributions to entomology.",
+    "shortDescription": "Maria Sibylla Merian was a pioneering naturalist who documented the complete life cycles of insects, including their metamorphosis from caterpillar to butterfly. Her detailed scientific illustrations and observations revolutionized the study of entomology and challenged the belief that insects were 'born from mud.'",
+    "detailed_description": {
+      "early_life": "Born in Frankfurt, Germany in 1647, Maria showed early interest in insects and plants. She learned painting from her stepfather and began collecting and studying insects as a child.",
+      "stem_journey": "Maria documented the complete metamorphosis of insects, proving they came from eggs rather than spontaneous generation. She traveled to Suriname to study tropical insects and published groundbreaking scientific illustrations.",
+      "challenges": "As a woman in 17th-century Europe, Maria faced significant barriers to scientific recognition. She had to fund her own research and travel, and her work was often dismissed because of her gender.",
+      "achievements": "Documented complete insect life cycles, published detailed scientific illustrations, traveled to Suriname for research, and proved insects came from eggs rather than spontaneous generation.",
+      "legacy": "Maria's work laid the foundation for modern entomology and scientific illustration. Her detailed observations and beautiful illustrations continue to inspire scientists and artists."
+    },
+    "achievements": [
+      "Documented complete insect metamorphosis",
+      "Published groundbreaking scientific illustrations",
+      "Traveled to Suriname for tropical insect research",
+      "Proved insects came from eggs, not spontaneous generation"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "Metamorphosis Insectorum Surinamensium",
+        "url": "https://en.wikipedia.org/wiki/Maria_Sibylla_Merian"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Natural History",
+        "institution": "Independent Study"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1679,
+        "event": "Published first book on insect metamorphosis"
+      },
+      {
+        "year": 1699,
+        "event": "Traveled to Suriname for research"
+      },
+      {
+        "year": 1705,
+        "event": "Published Metamorphosis Insectorum Surinamensium"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in science",
+      "Limited formal education opportunities",
+      "Self-funded research and travel"
+    ],
+    "impact": "Her work revolutionized entomology and scientific illustration, proving that insects came from eggs rather than spontaneous generation.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Maria Sibylla Merian: The Woman Who Made Science Beautiful",
+        "url": "https://www.smithsonianmag.com/science-nature/maria-sibylla-merian-woman-who-made-science-beautiful-180964668/"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maria_Sibylla_Merian"
+      }
+    ],
+    "mentorship": "Inspired future generations of women naturalists and scientific illustrators.",
+    "fun_fact": "Maria Sibylla Merian was one of the first Europeans to document the complete life cycle of butterflies and moths, including their metamorphosis from caterpillar to adult.",
+    "career_path": {
+      "first_job": "Scientific illustrator and naturalist",
+      "career_highlights": [
+        "Published books on insect metamorphosis",
+        "Traveled to Suriname for research",
+        "Created detailed scientific illustrations"
+      ],
+      "advice_for_students": "Follow your curiosity and don't let anyone tell you what you can't study or discover."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Maria Sibylla Merian: Artist, Scientist, Adventurer",
+        "The Art of Natural History"
+      ],
+      "websites": [
+        "entomology.org",
+        "scientificillustration.org"
+      ],
+      "programs": [
+        "Natural history illustration programs",
+        "Entomology summer camps",
+        "Women in science programs"
+      ],
+      "advice": "Learn to observe carefully and document what you see. Art and science can work together beautifully."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal education opportunities for women"
+      ],
+      "professional": [
+        "Gender discrimination in science",
+        "Self-funding research and travel"
+      ],
+      "personal": [
+        "Balancing family responsibilities with scientific work"
+      ],
+      "how_overcame": "Used her artistic skills to support her scientific work and funded her own research through illustration commissions"
+    },
+    "education_details": {
+      "high_school": "Learned painting from stepfather",
+      "college_major": "Self-taught in natural history",
+      "key_courses": [
+        "Scientific Illustration",
+        "Natural History",
+        "Entomology"
+      ],
+      "study_tips": "Learn to observe carefully and document your findings with detailed illustrations"
+    },
+    "modern_impact": {
+      "current_applications": "Her scientific illustration techniques are still used in biology textbooks and research",
+      "companies_using_her_work": [
+        "Natural history museums",
+        "Biology textbooks",
+        "Scientific illustration programs"
+      ],
+      "future_implications": "Her approach to combining art and science continues to inspire modern scientific communication"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Insects and plants",
+        "Painting and drawing",
+        "Natural history"
+      ],
+      "family_background": "Daughter of an engraver and publisher",
+      "hobbies": [
+        "Collecting insects",
+        "Painting",
+        "Traveling for research"
+      ],
+      "personality_traits": [
+        "Curious",
+        "Observant",
+        "Determined",
+        "Artistic"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "German",
+      "cultural_influences": [
+        "17th-century European natural history",
+        "Scientific revolution",
+        "Artistic traditions"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 17th-century Europe",
+        "Limited opportunities for women in science"
+      ],
+      "cultural_contributions": "Pioneered women's participation in natural history and scientific illustration"
+    },
+    "verified": true
+  },
+  {
+    "name": "Emilie du Chatelet",
+    "photo": "./images/emilie-du-chatelet.jpg",
+    "birthDate": "1706",
+    "deathDate": "1749",
+    "country": "France",
+    "fields": [
+      "Physics",
+      "Mathematics",
+      "Philosophy"
+    ],
+    "roles": [
+      "Physicist",
+      "Mathematician",
+      "Translator"
+    ],
+    "quote": "Let us choose for ourselves our path in life, and let us try to strew that path with flowers.",
+    "summary": "French mathematician and physicist who translated Newton's Principia and made significant contributions to physics and mathematics.",
+    "shortDescription": "Emilie du Chatelet was a brilliant French mathematician and physicist who translated Newton's Principia into French and made important contributions to physics. She was one of the first women to be recognized for her scientific work in 18th-century France, despite facing significant gender barriers.",
+    "detailed_description": {
+      "early_life": "Born in Paris in 1706, Emilie showed exceptional talent in mathematics and languages from an early age. She was largely self-educated, studying mathematics, physics, and philosophy despite societal expectations.",
+      "stem_journey": "Emilie studied mathematics and physics independently, translating Newton's Principia into French and adding her own commentary. She made contributions to the understanding of energy and momentum.",
+      "challenges": "As a woman in 18th-century France, Emilie faced significant barriers to formal education and scientific recognition. She had to pursue her studies independently and often faced criticism for her intellectual pursuits.",
+      "achievements": "Translated Newton's Principia into French with commentary, made contributions to physics and mathematics, and was one of the first women to be recognized for scientific work in France.",
+      "legacy": "Emilie's translation of Newton's work made his ideas accessible to French scientists and influenced the development of physics in France. She opened doors for women in science."
+    },
+    "achievements": [
+      "Translated Newton's Principia into French",
+      "Made contributions to physics and mathematics",
+      "One of first women recognized for scientific work in France",
+      "Influenced development of physics in France"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "Translation of Newton's Principia",
+        "url": "https://en.wikipedia.org/wiki/Emilie_du_Chatelet"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Mathematics and Physics",
+        "institution": "Independent Study"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1740,
+        "event": "Published Institutions de Physique"
+      },
+      {
+        "year": 1749,
+        "event": "Completed translation of Newton's Principia"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in science",
+      "Limited formal education opportunities",
+      "Societal expectations for women"
+    ],
+    "impact": "Her translation of Newton's work made his ideas accessible to French scientists and influenced physics development in France.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Emilie du Chatelet: The Woman Who Translated Newton",
+        "url": "https://www.britannica.com/biography/Emilie-du-Chatelet"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Emilie_du_Chatelet"
+      }
+    ],
+    "mentorship": "Inspired women in science through her intellectual achievements and determination.",
+    "fun_fact": "Emilie du Chatelet was one of the first women to be recognized for her scientific work in 18th-century France, despite facing significant gender barriers.",
+    "career_path": {
+      "first_job": "Independent scholar and translator",
+      "career_highlights": [
+        "Translated Newton's Principia",
+        "Published Institutions de Physique",
+        "Made contributions to physics"
+      ],
+      "advice_for_students": "Pursue knowledge for its own sake and don't let societal expectations limit your intellectual pursuits."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Emilie du Chatelet: Daring Genius of the Enlightenment",
+        "Women in Science: 50 Fearless Pioneers"
+      ],
+      "websites": [
+        "wikipedia.org",
+        "britannica.com"
+      ],
+      "programs": [
+        "Women in Physics programs",
+        "Mathematics summer camps"
+      ],
+      "advice": "Learn to think independently and pursue knowledge that interests you, regardless of what others expect."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal education opportunities for women"
+      ],
+      "professional": [
+        "Gender discrimination in science",
+        "Societal expectations for women"
+      ],
+      "personal": [
+        "Balancing intellectual pursuits with societal expectations"
+      ],
+      "how_overcame": "Pursued independent study and focused on her intellectual passions despite societal barriers"
+    },
+    "education_details": {
+      "high_school": "Self-educated in mathematics and languages",
+      "college_major": "Independent study in physics and mathematics",
+      "key_courses": [
+        "Advanced Mathematics",
+        "Physics",
+        "Philosophy"
+      ],
+      "study_tips": "Learn to think independently and pursue knowledge that interests you"
+    },
+    "modern_impact": {
+      "current_applications": "Her translation work influenced the development of physics in France",
+      "companies_using_her_work": [
+        "Physics departments",
+        "Mathematics programs",
+        "Historical research"
+      ],
+      "future_implications": "Her legacy continues to inspire women in physics and mathematics"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Physics",
+        "Languages",
+        "Philosophy"
+      ],
+      "family_background": "Aristocratic French family",
+      "hobbies": [
+        "Reading scientific texts",
+        "Mathematical calculations",
+        "Philosophical discussions"
+      ],
+      "personality_traits": [
+        "Intellectual",
+        "Determined",
+        "Independent",
+        "Curious"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "French",
+      "cultural_influences": [
+        "18th-century French Enlightenment",
+        "Scientific revolution",
+        "Aristocratic intellectual circles"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 18th-century France",
+        "Societal expectations for aristocratic women"
+      ],
+      "cultural_contributions": "Pioneered women's intellectual participation in science and philosophy"
+    },
+    "verified": true
+  },
+
+
+  {
+    "name": "Sophia Louisa Jex-Blake",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1840",
+    "deathDate": "1912",
+    "country": "United Kingdom",
+    "fields": [
+      "Medicine",
+      "Medical Education"
+    ],
+    "roles": [
+      "Physician",
+      "Medical Educator"
+    ],
+    "quote": "I will be a doctor, and I will be a good one.",
+    "summary": "Pioneering British physician who fought for women's medical education and founded the London School of Medicine for Women.",
+    "shortDescription": "Sophia Louisa Jex-Blake was a pioneering British physician who fought tirelessly for women's right to medical education. She founded the London School of Medicine for Women and helped open the medical profession to women in Britain.",
+    "detailed_description": {
+      "early_life": "Born in Hastings, England in 1840, Sophia showed early interest in medicine and education. She was determined to become a doctor despite the barriers facing women in medicine.",
+      "stem_journey": "Sophia fought for women's admission to medical schools and founded the London School of Medicine for Women. She helped establish the first medical school for women in Britain.",
+      "challenges": "As a woman in 19th-century Britain, Sophia faced intense opposition to women's medical education. She had to fight legal battles and overcome significant societal resistance.",
+      "achievements": "Founded London School of Medicine for Women, fought for women's medical education, helped establish first medical school for women in Britain, and opened medical profession to women.",
+      "legacy": "Sophia's work opened the medical profession to women in Britain and inspired future generations of women doctors."
+    },
+    "achievements": [
+      "Founded London School of Medicine for Women",
+      "Fought for women's medical education",
+      "Helped establish first medical school for women in Britain",
+      "Opened medical profession to women"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "Medical Women: A Thesis and a History",
+        "url": "https://en.wikipedia.org/wiki/Sophia_Jex-Blake"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MD",
+        "field": "Medicine",
+        "institution": "University of Bern"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1869,
+        "event": "Applied to Edinburgh University Medical School"
+      },
+      {
+        "year": 1877,
+        "event": "Founded London School of Medicine for Women"
+      },
+      {
+        "year": 1877,
+        "event": "Graduated from University of Bern"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in medicine",
+      "Legal barriers to women's medical education",
+      "Societal opposition to women doctors"
+    ],
+    "impact": "Her work opened the medical profession to women in Britain and established the foundation for women's medical education.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Sophia Jex-Blake: The Woman Who Fought for Women's Medical Education",
+        "url": "https://www.britannica.com/biography/Sophia-Jex-Blake"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sophia_Jex-Blake"
+      }
+    ],
+    "mentorship": "Inspired women in medicine through her advocacy and determination.",
+    "fun_fact": "Sophia Jex-Blake was one of the 'Edinburgh Seven' - a group of women who fought for admission to medical school in Edinburgh, Scotland.",
+    "career_path": {
+      "first_job": "Medical student and advocate for women's medical education",
+      "career_highlights": [
+        "Founded London School of Medicine for Women",
+        "Fought legal battles for women's medical education",
+        "Established medical practice for women"
+      ],
+      "advice_for_students": "Don't accept 'no' for an answer when it comes to pursuing your dreams. Fight for what you believe in."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Sophia Jex-Blake: A Pioneer in Women's Medical Education",
+        "Women in Medicine: Breaking Barriers"
+      ],
+      "websites": [
+        "wikipedia.org",
+        "britannica.com"
+      ],
+      "programs": [
+        "Women in Medicine programs",
+        "Medical school preparation programs"
+      ],
+      "advice": "Learn to advocate for yourself and others. Don't be afraid to challenge the status quo."
+    },
+    "challenges": {
+      "academic": [
+        "Legal barriers to women's medical education",
+        "Limited opportunities for women in medicine"
+      ],
+      "professional": [
+        "Gender discrimination in medicine",
+        "Societal opposition to women doctors"
+      ],
+      "personal": [
+        "Facing intense opposition and criticism"
+      ],
+      "how_overcame": "Used legal and political advocacy to fight for women's rights in medicine"
+    },
+    "education_details": {
+      "high_school": "Attended Queen's College, London",
+      "college_major": "Medicine at University of Bern",
+      "key_courses": [
+        "Medicine",
+        "Anatomy",
+        "Physiology"
+      ],
+      "study_tips": "Learn to advocate for yourself and don't let barriers stop you from pursuing your goals"
+    },
+    "modern_impact": {
+      "current_applications": "Her work established the foundation for women's medical education in Britain",
+      "companies_using_her_work": [
+        "Medical schools",
+        "Women's health organizations",
+        "Medical education programs"
+      ],
+      "future_implications": "Her legacy continues to inspire women in medicine and medical education"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Medicine",
+        "Education",
+        "Women's rights"
+      ],
+      "family_background": "Middle-class English family",
+      "hobbies": [
+        "Reading medical texts",
+        "Advocacy work",
+        "Teaching"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Advocate",
+        "Pioneering",
+        "Resilient"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "British",
+      "cultural_influences": [
+        "19th-century British society",
+        "Women's suffrage movement",
+        "Medical education reform"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 19th-century Britain",
+        "Societal opposition to women in medicine"
+      ],
+      "cultural_contributions": "Pioneered women's participation in medical education and practice"
+    },
+    "verified": true
   }
 ];
 
