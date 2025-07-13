@@ -52,6 +52,7 @@ class PioneersApp {
   init() {
     this.setupEventListeners();
     this.setupModal();
+    this.setupPioneerModal();
     this.updateStats();
     this.renderPioneers();
   }
@@ -335,6 +336,47 @@ class PioneersApp {
 
       <div class="pioneer-actions">
         ${this.createActionButtons(pioneer)}
+        <button class="expand-btn" onclick="window.pioneersApp.toggleExpandableContent(this, ${JSON.stringify(pioneer).replace(/"/g, '&quot;')})">
+          <span class="expand-text">Learn More</span>
+          <span class="expand-icon">▼</span>
+        </button>
+        <button class="full-story-btn" onclick="window.pioneersApp.openPioneerModal(${JSON.stringify(pioneer).replace(/"/g, '&quot;')})">
+          <span>Full Story</span>
+        </button>
+      </div>
+
+      <div class="expandable-content">
+        <div class="expandable-section">
+          <h4>Timeline</h4>
+          ${this.createTimelineContent(pioneer)}
+        </div>
+        
+        <div class="expandable-section">
+          <h4>Major Achievements</h4>
+          <ul>
+            ${(pioneer.achievements || []).map(achievement => `<li>${achievement}</li>`).join("")}
+          </ul>
+        </div>
+        
+        ${pioneer.education_details ? `
+        <div class="expandable-section">
+          <h4>Education & Career Path</h4>
+          <p><strong>Key Courses:</strong> ${pioneer.education_details.key_courses?.join(", ") || "Not specified"}</p>
+          <p><strong>Career Advice:</strong> ${pioneer.career_path?.advice_for_students || "Follow your passion and curiosity"}</p>
+        </div>
+        ` : ''}
+        
+        ${pioneer.fun_fact ? `
+        <div class="expandable-section">
+          <h4>Fun Fact</h4>
+          <p>${pioneer.fun_fact}</p>
+        </div>
+        ` : ''}
+        
+        <div class="expandable-section">
+          <h4>Legacy</h4>
+          <p>${pioneer.legacy || "Her work continues to inspire future generations of scientists and researchers."}</p>
+        </div>
       </div>
     `;
 
@@ -463,6 +505,147 @@ class PioneersApp {
     document.body.style.overflow = ""; // Restore scrolling
   }
 
+  setupPioneerModal() {
+    const modal = document.getElementById("pioneerModal");
+    const closeBtn = document.getElementById("pioneerModalClose");
+    const closeBtn2 = document.getElementById("pioneerModalCloseBtn");
+
+    // Close modal when clicking the close buttons
+    if (closeBtn) {
+      closeBtn.addEventListener("click", () => {
+        this.closePioneerModal();
+      });
+    }
+
+    if (closeBtn2) {
+      closeBtn2.addEventListener("click", () => {
+        this.closePioneerModal();
+      });
+    }
+
+    // Close modal when clicking outside the content
+    if (modal) {
+      modal.addEventListener("click", (e) => {
+        if (e.target === modal) {
+          this.closePioneerModal();
+        }
+      });
+    }
+
+    // Close modal with Escape key
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && modal.classList.contains("show")) {
+        this.closePioneerModal();
+      }
+    });
+  }
+
+  openPioneerModal(pioneer) {
+    const modal = document.getElementById("pioneerModal");
+    const modalTitle = document.getElementById("pioneerModalTitle");
+    const modalImage = document.getElementById("pioneerModalImage");
+    const modalQuote = document.getElementById("pioneerModalQuote");
+    const modalDescription = document.getElementById("pioneerModalDescription");
+    const modalDetails = document.getElementById("pioneerModalDetails");
+    const modalLearnMore = document.getElementById("pioneerModalLearnMore");
+
+    // Set modal content
+    modalTitle.textContent = pioneer.name;
+    modalImage.src = pioneer.photo;
+    modalImage.alt = `Portrait of ${pioneer.name}`;
+    modalQuote.textContent = pioneer.quote;
+    modalDescription.textContent = pioneer.shortDescription || pioneer.summary;
+
+    // Set learn more link
+    if (pioneer.references && pioneer.references.length > 0) {
+      modalLearnMore.href = pioneer.references[0].url;
+      modalLearnMore.style.display = "inline-flex";
+    } else {
+      modalLearnMore.style.display = "none";
+    }
+
+    // Populate additional details
+    this.populateModalDetails(modalDetails, pioneer);
+
+    // Show modal
+    modal.classList.add("show");
+    document.body.style.overflow = "hidden"; // Prevent background scrolling
+
+    // Focus for accessibility
+    modal.focus();
+  }
+
+  closePioneerModal() {
+    const modal = document.getElementById("pioneerModal");
+    modal.classList.remove("show");
+    document.body.style.overflow = ""; // Restore scrolling
+  }
+
+  populateModalDetails(container, pioneer) {
+    container.innerHTML = "";
+
+    // Timeline section
+    if (pioneer.timeline && pioneer.timeline.length > 0) {
+      const timelineSection = document.createElement("div");
+      timelineSection.className = "pioneer-modal-section";
+      timelineSection.innerHTML = `
+        <h4>Timeline</h4>
+        ${pioneer.timeline.map(item => `
+          <div class="timeline-item">
+            <span class="timeline-year">${item.year}</span>
+            <span class="timeline-event">${item.event}</span>
+          </div>
+        `).join("")}
+      `;
+      container.appendChild(timelineSection);
+    }
+
+    // Achievements section
+    if (pioneer.achievements && pioneer.achievements.length > 0) {
+      const achievementsSection = document.createElement("div");
+      achievementsSection.className = "pioneer-modal-section";
+      achievementsSection.innerHTML = `
+        <h4>Major Achievements</h4>
+        <ul>
+          ${pioneer.achievements.map(achievement => `<li>${achievement}</li>`).join("")}
+        </ul>
+      `;
+      container.appendChild(achievementsSection);
+    }
+
+    // Education section
+    if (pioneer.education_details) {
+      const educationSection = document.createElement("div");
+      educationSection.className = "pioneer-modal-section";
+      educationSection.innerHTML = `
+        <h4>Education & Career Path</h4>
+        <p><strong>Key Courses:</strong> ${pioneer.education_details.key_courses?.join(", ") || "Not specified"}</p>
+        <p><strong>Career Advice:</strong> ${pioneer.career_path?.advice_for_students || "Follow your passion and curiosity"}</p>
+      `;
+      container.appendChild(educationSection);
+    }
+
+    // Fun facts section
+    if (pioneer.fun_fact) {
+      const funFactSection = document.createElement("div");
+      funFactSection.className = "pioneer-modal-section";
+      funFactSection.innerHTML = `
+        <h4>Fun Fact</h4>
+        <p>${pioneer.fun_fact}</p>
+      `;
+      container.appendChild(funFactSection);
+    }
+
+    // Legacy section
+    const legacySection = document.createElement("div");
+    legacySection.className = "pioneer-modal-section";
+    legacySection.innerHTML = `
+      <h4>Legacy</h4>
+      <p>${pioneer.legacy || "Her work continues to inspire future generations of scientists and researchers."}</p>
+    `;
+    container.appendChild(legacySection);
+  }
+
   getFieldClass(field) {
     const fieldMap = {
       Mathematics: "mathematics",
@@ -580,6 +763,63 @@ class PioneersApp {
       return year ? `${year[0]} BC` : dateString;
     }
     return dateString;
+  }
+
+  toggleExpandableContent(button, pioneer) {
+    const card = button.closest('.pioneer-card');
+    const expandableContent = card.querySelector('.expandable-content');
+    const expandText = button.querySelector('.expand-text');
+    const expandIcon = button.querySelector('.expand-icon');
+    
+    if (card.classList.contains('expanded')) {
+      // Collapse
+      card.classList.remove('expanded');
+      expandText.textContent = 'Learn More';
+      expandIcon.textContent = '▼';
+      button.classList.remove('expanded');
+    } else {
+      // Expand
+      card.classList.add('expanded');
+      expandText.textContent = 'Show Less';
+      expandIcon.textContent = '▲';
+      button.classList.add('expanded');
+    }
+  }
+
+  createTimelineContent(pioneer) {
+    if (pioneer.timeline && pioneer.timeline.length > 0) {
+      return pioneer.timeline.map(item => `
+        <div class="timeline-item">
+          <span class="timeline-year">${item.year}</span>
+          <span class="timeline-event">${item.event}</span>
+        </div>
+      `).join("");
+    }
+    
+    // Fallback timeline based on birth and death dates
+    const timeline = [];
+    if (pioneer.birthDate) {
+      const birthYear = this.extractYear(pioneer.birthDate);
+      timeline.push({
+        year: birthYear,
+        event: `Born in ${pioneer.country}`
+      });
+    }
+    
+    if (pioneer.deathDate) {
+      const deathYear = this.extractYear(pioneer.deathDate);
+      timeline.push({
+        year: deathYear,
+        event: `Passed away`
+      });
+    }
+    
+    return timeline.map(item => `
+      <div class="timeline-item">
+        <span class="timeline-year">${item.year}</span>
+        <span class="timeline-event">${item.event}</span>
+      </div>
+    `).join("");
   }
 }
 
