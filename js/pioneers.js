@@ -16701,6 +16701,178 @@ const pioneers = [
       "cultural_contributions": "Pioneered Indian women's role in medicine and medical education"
     },
     "verified": true
+  },
+  {
+    "name": "Kadambini Ganguly",
+    "photo": "./images/kadambini-ganguly.jpg",
+    "birthDate": "1861",
+    "deathDate": "1923",
+    "country": "India",
+    "fields": [
+      "Medicine",
+      "Obstetrics"
+    ],
+    "roles": [
+      "Physician",
+      "Obstetrician"
+    ],
+    "quote": "I will prove that women can be as good as men in the medical profession.",
+    "summary": "First Indian woman to earn a medical degree in India, graduating from Calcutta Medical College in 1886 and becoming a pioneer for women in medicine.",
+    "shortDescription": "Kadambini Ganguly was the first Indian woman to earn a medical degree in India, graduating from Calcutta Medical College in 1886. She practiced medicine for over 30 years, specializing in obstetrics and gynecology, and became a prominent advocate for women's education and rights in India.",
+    "detailed_description": {
+      "early_life": "Born in Bhagalpur, India in 1861, Kadambini showed early academic promise and was educated at Bethune School in Calcutta. She was one of the first Indian women to receive a formal education.",
+      "stem_journey": "Kadambini graduated from Calcutta Medical College in 1886, becoming the first Indian woman to earn a medical degree in India. She practiced medicine for over 30 years, specializing in obstetrics and gynecology.",
+      "challenges": "Faced intense opposition from male medical students and faculty, social barriers to women's education, and discrimination in medical practice. She also faced criticism for pursuing higher education.",
+      "achievements": "First Indian woman to earn a medical degree in India, practiced medicine for over 30 years, became a prominent advocate for women's education and rights.",
+      "legacy": "Kadambini's work opened doors for Indian women in medicine and influenced women's education and rights in India."
+    },
+    "achievements": [
+      "First Indian woman to earn a medical degree in India",
+      "Graduated from Calcutta Medical College (1886)",
+      "Practiced medicine for over 30 years",
+      "Pioneered women's education and rights in India"
+    ],
+    "awards": [
+      "Medical degree from Calcutta Medical College (1886)"
+    ],
+    "publications": [
+      {
+        "title": "Medical Practice and Women's Health",
+        "url": "https://en.wikipedia.org/wiki/Kadambini_Ganguly"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MD",
+        "field": "Medicine",
+        "institution": "Calcutta Medical College"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1886,
+        "event": "Graduated from Calcutta Medical College"
+      },
+      {
+        "year": 1889,
+        "event": "Began medical practice in Calcutta"
+      },
+      {
+        "year": 1923,
+        "event": "Died after a long medical career"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in medical education",
+      "Social opposition to women's education",
+      "Discrimination in medical practice",
+      "Cultural barriers to women in medicine"
+    ],
+    "impact": "Her work opened medical education and practice to Indian women and influenced women's rights in India.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Kadambini Ganguly: First Indian Woman Physician in India",
+        "url": "https://www.biography.com/scientist/kadambini-ganguly"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kadambini_Ganguly"
+      }
+    ],
+    "mentorship": "Kadambini mentored many women and advocated for women's education and rights throughout her career.",
+    "fun_fact": "Kadambini Ganguly was one of the first Indian women to receive a formal education and was a prominent advocate for women's rights.",
+    "career_path": {
+      "first_job": "Physician in Calcutta",
+      "career_highlights": [
+        "First Indian woman physician in India",
+        "Practiced medicine for over 30 years",
+        "Advocated for women's rights"
+      ],
+      "advice_for_students": "Use your education to help others and advocate for social change."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Kadambini Ganguly: Pioneer of Indian Women's Medicine",
+        "Indian Women in Medicine"
+      ],
+      "websites": [
+        "wikipedia.org",
+        "britannica.com"
+      ],
+      "programs": [
+        "Indian medical programs",
+        "Women's rights programs"
+      ],
+      "advice": "Use your skills to help others and advocate for social justice."
+    },
+    "challenges": {
+      "academic": [
+        "Gender discrimination in medical schools",
+        "Limited access to education"
+      ],
+      "professional": [
+        "Discrimination in medical practice",
+        "Social opposition to women doctors"
+      ],
+      "personal": [
+        "Cultural barriers",
+        "Family opposition"
+      ],
+      "how_overcame": "Used determination and excellence in practice to overcome barriers and advocate for change"
+    },
+    "education_details": {
+      "high_school": "Bethune School, Calcutta",
+      "college_major": "Medicine",
+      "key_courses": [
+        "Medicine",
+        "Obstetrics",
+        "Gynecology"
+      ],
+      "study_tips": "Focus on excellence and use your education to help others"
+    },
+    "modern_impact": {
+      "current_applications": "Her work influenced Indian women's access to medical education and practice",
+      "companies_using_her_work": [
+        "Indian medical schools",
+        "Women's rights organizations"
+      ],
+      "future_implications": "Her legacy continues to inspire Indian women in medicine and advocacy"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Medicine",
+        "Education",
+        "Women's rights"
+      ],
+      "family_background": "From a progressive family that supported women's education",
+      "hobbies": [
+        "Reading",
+        "Writing",
+        "Advocacy"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Courageous",
+        "Compassionate",
+        "Advocate"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Indian",
+      "cultural_influences": [
+        "Bengali culture",
+        "19th-century Indian reform movements"
+      ],
+      "cultural_challenges": [
+        "Traditional gender roles",
+        "Social opposition to women's education"
+      ],
+      "cultural_contributions": "Pioneered Indian women's role in medicine and influenced social reform"
+    },
+    "verified": true
   }
 ];
 
