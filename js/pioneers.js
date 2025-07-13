@@ -7513,18 +7513,164 @@ const pioneers = [
     "quote": "Mathematics was easy for me. I had a very good teacher.",
     "summary": "Nobel Prize-winning physicist who developed the nuclear shell model of the atomic nucleus.",
     "shortDescription": "Maria Goeppert Mayer was a Nobel Prize-winning physicist who developed the nuclear shell model, explaining how protons and neutrons are arranged in the atomic nucleus. She was only the second woman to win the Nobel Prize in Physics and her work laid the foundation for our understanding of nuclear structure.",
+    "detailed_description": {
+      "early_life": "Born in 1906 in Kattowitz, Germany (now Poland), Maria showed exceptional talent in mathematics and physics from an early age. Her father was a professor of pediatrics who encouraged her scientific interests.",
+      "stem_journey": "Maria studied physics at the University of Göttingen, earning her PhD in 1930. She moved to the United States with her husband Joseph Mayer and worked at various universities, often without pay due to anti-nepotism rules.",
+      "challenges": "Maria faced discrimination as a woman in physics and was often denied paid positions due to university anti-nepotism rules. She worked as a volunteer researcher for many years while her husband had paid positions.",
+      "achievements": "Maria developed the nuclear shell model, explaining how protons and neutrons are arranged in atomic nuclei like layers in an onion. She won the Nobel Prize in Physics in 1963, becoming only the second woman to win this prize.",
+      "legacy": "Maria's nuclear shell model is fundamental to our understanding of nuclear physics and has applications in nuclear power and medical imaging. She opened doors for women in theoretical physics."
+    },
     "achievements": [
-      "Won Nobel Prize in Physics",
+      "Won Nobel Prize in Physics (1963)",
       "Developed nuclear shell model",
       "Second woman to win Nobel Prize in Physics",
-      "Pioneered nuclear structure research"
+      "Pioneered nuclear structure research",
+      "Explained magic numbers in nuclear physics"
+    ],
+    "awards": [
+      "Nobel Prize in Physics (1963)",
+      "National Medal of Science",
+      "Elected to National Academy of Sciences"
+    ],
+    "publications": [
+      {
+        "title": "On Closed Shells in Nuclei",
+        "year": "1948"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Physics",
+        "institution": "University of Göttingen"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1930,
+        "event": "Earned PhD in physics"
+      },
+      {
+        "year": 1948,
+        "event": "Published nuclear shell model theory"
+      },
+      {
+        "year": 1963,
+        "event": "Won Nobel Prize in Physics"
+      }
+    ],
+    "barriers": [
+      "Faced discrimination as a woman in physics",
+      "Denied paid positions due to anti-nepotism rules",
+      "Worked as volunteer researcher for many years"
+    ],
+    "impact": "Her nuclear shell model revolutionized our understanding of atomic nuclei and has applications in nuclear power and medical imaging.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Maria Goeppert Mayer: Nobel Prize-winning physicist",
+        "url": "https://www.nobelprize.org/prizes/physics/1963/mayer/facts/"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer"
       }
-    ]
+    ],
+    "mentorship": "Mentored many students in theoretical physics despite facing discrimination herself.",
+    "fun_fact": "Maria was the second woman to win the Nobel Prize in Physics, after Marie Curie.",
+    "career_path": {
+      "first_job": "Volunteer researcher at Johns Hopkins University",
+      "career_highlights": [
+        "Worked at University of Chicago",
+        "Developed nuclear shell model",
+        "Won Nobel Prize in Physics"
+      ],
+      "advice_for_students": "Follow your passion for science even when faced with obstacles. Persistence and dedication can overcome discrimination."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Maria Goeppert Mayer: A Life in Physics",
+        "The Second Creation: Makers of the Revolution in Twentieth-Century Physics"
+      ],
+      "websites": [
+        "nobelprize.org",
+        "physics.org",
+        "womeninphysics.org"
+      ],
+      "programs": [
+        "Physics summer programs",
+        "Women in physics organizations"
+      ],
+      "advice": "Study physics with passion and don't let anyone tell you that women can't excel in theoretical physics."
+    },
+    "challenges": {
+      "academic": [
+        "Limited opportunities for women in physics",
+        "Anti-nepotism rules preventing paid positions"
+      ],
+      "professional": [
+        "Discrimination against women in science",
+        "Working without pay for many years"
+      ],
+      "personal": [
+        "Balancing family and career",
+        "Moving between countries"
+      ],
+      "how_overcame": "Persisted in research despite lack of recognition, focused on scientific discovery, and found supportive colleagues"
+    },
+    "education_details": {
+      "high_school": "Excelled in mathematics and science",
+      "college_major": "Physics",
+      "key_courses": [
+        "Nuclear Physics",
+        "Quantum Mechanics",
+        "Mathematical Physics",
+        "Theoretical Physics"
+      ],
+      "study_tips": "Combine theoretical understanding with mathematical rigor and never stop asking questions"
+    },
+    "modern_impact": {
+      "current_applications": "Nuclear shell model is used in nuclear power plants and medical imaging",
+      "companies_using_her_work": [
+        "Nuclear power companies",
+        "Medical research institutions",
+        "Physics research laboratories"
+      ],
+      "future_implications": "Nuclear fusion research builds on understanding of nuclear structure"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Physics",
+        "Mathematics",
+        "Chemistry"
+      ],
+      "family_background": "Father was a professor of pediatrics",
+      "hobbies": [
+        "Physics research",
+        "Teaching",
+        "Reading"
+      ],
+      "personality_traits": [
+        "Brilliant",
+        "Determined",
+        "Humble",
+        "Curious"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "German Jewish",
+      "cultural_influences": [
+        "German scientific tradition",
+        "Jewish intellectual culture"
+      ],
+      "cultural_challenges": [
+        "Anti-Semitism in Nazi Germany",
+        "Gender discrimination in academia"
+      ],
+      "cultural_contributions": "Bridged German and American scientific traditions, influenced generations of physicists"
+    }
   },
   {
     "name": "Elizabeth Blackwell",
@@ -7543,18 +7689,165 @@ const pioneers = [
     "quote": "The idea of winning a doctor's degree gradually assumed the aspect of a great moral struggle.",
     "summary": "First woman to receive a medical degree in the United States and a pioneer in medical education for women.",
     "shortDescription": "Elizabeth Blackwell was the first woman to receive a medical degree in the United States, breaking barriers for women in medicine. She founded the New York Infirmary for Women and Children and established medical education opportunities for women, paving the way for future female physicians.",
+    "detailed_description": {
+      "early_life": "Born in 1821 in Bristol, England, Elizabeth was raised in a progressive family that valued education for both boys and girls. Her family moved to the United States when she was 11, and she showed early interest in medicine and helping others.",
+      "stem_journey": "Elizabeth was inspired to become a doctor after a dying friend said she would have suffered less if she had a female physician. She applied to 29 medical schools before being accepted at Geneva Medical College in New York, where she graduated first in her class.",
+      "challenges": "Elizabeth faced intense discrimination and rejection from medical schools simply because she was a woman. Many people believed women were not capable of becoming doctors, and she was often excluded from medical societies and opportunities.",
+      "achievements": "Elizabeth became the first woman to receive a medical degree in the United States in 1849. She founded the New York Infirmary for Women and Children and established medical education opportunities for women, including the Women's Medical College.",
+      "legacy": "Elizabeth opened the door for women in medicine worldwide. Her determination and success inspired countless women to pursue medical careers, and she established institutions that continue to serve women and children today."
+    },
     "achievements": [
-      "First woman to receive medical degree in US",
+      "First woman to receive medical degree in US (1849)",
       "Founded New York Infirmary for Women and Children",
       "Established medical education for women",
-      "Pioneered women's role in medicine"
+      "Pioneered women's role in medicine",
+      "Founded Women's Medical College"
+    ],
+    "awards": [
+      "Honorary degrees from multiple universities",
+      "Recognition as medical pioneer"
+    ],
+    "publications": [
+      {
+        "title": "Pioneer Work in Opening the Medical Profession to Women",
+        "year": "1895"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MD",
+        "field": "Medicine",
+        "institution": "Geneva Medical College"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1849,
+        "event": "Became first woman to receive medical degree in US"
+      },
+      {
+        "year": 1857,
+        "event": "Founded New York Infirmary for Women and Children"
+      },
+      {
+        "year": 1868,
+        "event": "Founded Women's Medical College"
+      }
+    ],
+    "barriers": [
+      "Rejected by 28 medical schools before acceptance",
+      "Faced discrimination as a woman in medicine",
+      "Excluded from medical societies"
+    ],
+    "impact": "Her success opened the medical profession to women worldwide and established healthcare institutions that continue to serve communities.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Elizabeth Blackwell: First Woman Doctor in America",
+        "url": "https://www.biography.com/scientist/elizabeth-blackwell"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Elizabeth_Blackwell"
       }
-    ]
+    ],
+    "mentorship": "Mentored many women in medicine and established educational opportunities for female physicians.",
+    "fun_fact": "Elizabeth was rejected by 28 medical schools before being accepted at Geneva Medical College.",
+    "career_path": {
+      "first_job": "Private medical practice",
+      "career_highlights": [
+        "First woman doctor in America",
+        "Founded medical institutions",
+        "Established medical education for women"
+      ],
+      "advice_for_students": "Don't let anyone tell you that you can't achieve something because of your gender. Persistence and determination can overcome any obstacle."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Pioneer Work in Opening the Medical Profession to Women",
+        "The Doctors Blackwell: How Two Pioneering Sisters Brought Medicine to Women"
+      ],
+      "websites": [
+        "womeninmedicine.org",
+        "aamc.org",
+        "biography.com"
+      ],
+      "programs": [
+        "Medical school preparation programs",
+        "Women in medicine organizations"
+      ],
+      "advice": "Follow your passion for helping others and don't let gender stereotypes stop you from pursuing your dreams in medicine."
+    },
+    "challenges": {
+      "academic": [
+        "Rejected by 28 medical schools",
+        "Limited educational opportunities for women"
+      ],
+      "professional": [
+        "Discrimination against women in medicine",
+        "Exclusion from medical societies"
+      ],
+      "personal": [
+        "Facing societal expectations",
+        "Working in isolation as the only woman"
+      ],
+      "how_overcame": "Persisted through multiple rejections, focused on her goal of helping others, and found supportive mentors"
+    },
+    "education_details": {
+      "high_school": "Private education emphasizing science and literature",
+      "college_major": "Medicine",
+      "key_courses": [
+        "Anatomy",
+        "Physiology",
+        "Medical Practice",
+        "Public Health"
+      ],
+      "study_tips": "Combine scientific knowledge with compassion for patients and never give up on your goals"
+    },
+    "modern_impact": {
+      "current_applications": "Her work opened the medical profession to women worldwide",
+      "companies_using_her_work": [
+        "All medical schools and hospitals",
+        "Women's health organizations",
+        "Medical education institutions"
+      ],
+      "future_implications": "Continues to inspire women in medicine and healthcare leadership"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Medicine",
+        "Helping others",
+        "Science",
+        "Education"
+      ],
+      "family_background": "Progressive family that valued education for all children",
+      "hobbies": [
+        "Reading",
+        "Writing",
+        "Teaching"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Compassionate",
+        "Pioneering",
+        "Resilient"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "British American",
+      "cultural_influences": [
+        "Progressive British values",
+        "American pioneer spirit",
+        "Religious commitment to helping others"
+      ],
+      "cultural_challenges": [
+        "Victorian gender roles",
+        "American medical establishment resistance"
+      ],
+      "cultural_contributions": "Bridged British and American medical traditions, established women's role in healthcare"
+    }
   }
 ];
 
