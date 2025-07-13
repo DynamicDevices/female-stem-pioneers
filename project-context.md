@@ -1,135 +1,75 @@
 # IMPORTANT: Do Not Corrupt JavaScript Syntax
 
-When making changes to any JavaScript files in this project (especially `js/pioneers/` directory), ensure that you do not introduce syntax errors or corrupt the file structure. Always:
-- Double-check for valid brackets, braces, and array/object structure
-- Avoid duplicate variable declarations (e.g., `const pioneers = [`)
-- Run `npm run check-syntax` after any edits to verify the file is still valid JavaScript
-- If using scripts to modify files, review the output and test the result
-
-Corrupting the JavaScript will break the site and data tools. Please be careful and validate your changes!
+When editing JavaScript files (especially `js/pioneers/`), ensure valid syntax. Run `npm run check-syntax` after edits.
 
 ---
 
-# project-context.md (for AI Assistant Use)
+# Project Context (AI Assistant Use)
 
-## Project Purpose
-A static web app that showcases women pioneers in STEM. Each profile includes rich metadata, images or diverse fallback icons, and educational content for students.
+## Purpose
+Static web app showcasing women STEM pioneers with rich metadata, images/fallback icons, and educational content.
 
-## Core Data & Structure
-- **Pioneer Data:** All pioneer profiles are now stored as individual JSON files in `js/pioneers/` directory.
-  - Each pioneer has its own file: `js/pioneers/pioneer-name.json`
-  - An index file `js/pioneers/index.json` contains the list of all pioneers
-  - The `js/pioneers-loader.js` dynamically loads all pioneer files
-  - Each object includes: `name`, `photo`, `birthDate`, `deathDate`, `country`, `fields`, `roles`, `quote`, `summary`, `shortDescription`, `detailed_description`, `achievements`, `awards`, `publications`, `education`, `timeline`, `barriers`, `impact`, `media`, `references`, `mentorship`, `fun_fact`, `career_path`, `student_resources`, `challenges`, `education_details`, `modern_impact`, `personal_info`, `cultural_background`.
-  - **No duplicate keys** in any object. All fields should be arrays or objects as per recent entries.
-  - **Descriptions** must be short, engaging, and accessible for students.
-  - **"Learn more" links** should be included in `publications` or `references`.
+## Core Structure
+- **Pioneer Data:** Individual JSON files in `js/pioneers/` directory
+  - Each pioneer: `js/pioneers/pioneer-name.json`
+  - Index: `js/pioneers/index.json` (source of truth for duplicates)
+  - Loader: `js/pioneers-loader.js` dynamically loads files
+  - Fields: `name`, `photo`, `birthDate`, `deathDate`, `country`, `fields`, `roles`, `quote`, `summary`, `shortDescription`, `achievements`, `awards`, `publications`, `education`, `timeline`, `barriers`, `impact`, `media`, `references`, `mentorship`, `fun_fact`, `career_path`, `student_resources`, `challenges`, `education_details`, `modern_impact`, `personal_info`, `cultural_background`
+  - **No duplicate keys.** All fields as arrays/objects. Short, engaging descriptions for students.
 
-- **Images:** Use only Creative Commons or public domain images (in `images/`). If not available, use the fallback icon system.
-
-- **Fallback Icons:** 
-  - Logic in `js/icon-mapping.js`.
-  - Icon is chosen based on field, region, and era, with diverse skin tones.
-  - If no image, set `photo` to a fallback icon path or let the app auto-select.
+- **Images:** Creative Commons/public domain only. Fallback icons via `js/icon-mapping.js` (diverse skin tones).
 
 ## UI & Functionality
-- **Collapsible Info Cards:** Each pioneer card has 13+ collapsible sections, each populated with relevant metadata or a meaningful fallback if data is missing.
-- **Accessibility:** All content must be readable, keyboard navigable, and visually accessible.
-- **Mobile-First:** Layout and cards must be responsive.
+- **Collapsible Info Cards:** 13+ sections per pioneer with metadata or meaningful fallbacks
+- **Accessibility:** Readable, keyboard navigable, mobile-first responsive design
 
-## Rules for Adding/Editing Pioneers (AI-Specific)
-- **Always check for duplicates** before adding a new pioneer (check `js/pioneers/index.json` for the name).
-- **Use `js/pioneers/index.json` as the source of truth** for checking duplicates and current pioneer list.
-- **Create individual JSON files** for new pioneers in `js/pioneers/` directory.
-- **Update the index file** `js/pioneers/index.json` when adding new pioneers.
-- **Follow the full metadata structure** as in the latest entries.
-- **If a field is missing data,** provide a meaningful fallback (never leave placeholders like "content is being generated").
-- **Fact-check all information,** especially for lesser-known pioneers.
-- **Explicitly label BC dates** (e.g., "370 BC").
-- **No male pioneers.** Only women or nonbinary STEM pioneers.
-- **Diversity:** Ensure a range of skin tones, ages, and backgrounds in icons and content.
+## Rules for Adding/Editing Pioneers
+- **Check duplicates** in `js/pioneers/index.json` before adding
+- **Create individual JSON files** in `js/pioneers/` directory
+- **Update index.json** when adding new pioneers
+- **Follow full metadata structure** as in latest entries
+- **Provide meaningful fallbacks** (no placeholders)
+- **Fact-check information** for lesser-known pioneers
+- **Label BC dates** explicitly (e.g., "370 BC")
+- **Women/nonbinary STEM pioneers only**
+- **Ensure diversity** in skin tones, ages, backgrounds
 
-## File Map (AI Should Know)
+## Key Files
 - `index.html` – Main page
 - `css/styles.css` – Styles
 - `js/app.js` – App logic
 - `js/pioneers-loader.js` – Dynamic pioneer loader
-- `js/pioneers/` – Directory containing individual pioneer JSON files
+- `js/pioneers/` – Individual pioneer JSON files
 - `js/pioneers/index.json` – Index of all pioneers
 - `js/icon-mapping.js` – Fallback icon logic
 - `images/` – Pioneer images
-- `icons/` – App icons
 
 ## Deployment & Testing
-- **Static site:** Runs on any static server (e.g., `python3 -m http.server 8001`).
-- **CI/CD:** GitHub Actions auto-deploys to GitHub Pages.
-- **Test:** After changes, verify no placeholders remain and all sections display meaningful content.
+- **Static site:** `python3 -m http.server 8001`
+- **CI/CD:** GitHub Actions auto-deploys to GitHub Pages
+- **UI Tests:** Playwright tests cover homepage, cards, expand/collapse, search, filters, responsive design
+- **Validation:** `npm run validate-data`, `npm run check-duplicates`, `npm test`
 
-## Special AI Instructions
-- **Automate:** Perform all steps (checking, editing, verifying) without asking for user input unless a problem cannot be fixed automatically.
-- **Summarize progress** after major batches of changes.
-- **If a user reports an error or inaccuracy,** research and correct it immediately.
-- **If a section is missing content,** fill it with the best available data or a relevant, informative fallback.
+## Critical Learnings
 
-## Critical Learnings: Safe File Editing (v1.6.0+)
+### Safe File Editing
+- **Validate JSON syntax** after editing pioneer files
+- **Run `npm run check-duplicates`** after modifications
+- **Use precise text replacement** for complex JSON structures
+- **Update index.json** when adding pioneers
+- **Restore from git** if corruption: `git show <commit-hash>:js/pioneers/pioneer-name.json > js/pioneers/pioneer-name.json`
 
-### JavaScript File Safety (Especially Individual Pioneer Files)
-- **ALWAYS validate JSON syntax** after creating or editing individual pioneer files
-- **ALWAYS run `npm run check-duplicates`** after adding or modifying pioneer entries
-- **Use precise text replacement** rather than automated scripts when editing complex JSON structures
-- **Each pioneer JSON file must be complete** with all required fields and proper JSON structure
-- **Update the index file** `js/pioneers/index.json` when adding new pioneers
-- **If corruption occurs, restore from git history:** `git show <commit-hash>:js/pioneers/pioneer-name.json > js/pioneers/pioneer-name.json`
+### Migration Success (v2.0.0+)
+- **COMPLETED:** Migrated from monolithic `pioneers.js`/`pioneers2.js` to individual JSON files
+- **COMPLETED:** Implemented `js/pioneers-loader.js` for dynamic loading
+- **COMPLETED:** Fixed `js/app.js` initialization (was looking for `window.pioneers`, now uses direct initialization)
+- **COMPLETED:** Cleaned up old files, updated all references
 
-### Duplicate Prevention
-- **Check for duplicates before adding new pioneers** using `npm run check-duplicates`
-- **Use `js/pioneers/index.json` as the source of truth** for checking duplicates and current pioneer list
-- **Search for exact names** in `js/pioneers/index.json` before adding entries
-- **When removing duplicates, delete the individual JSON file** and update the index
-- **Verify syntax and structure after any duplicate removal**
-
-### File Structure Guidelines
-- **Each pioneer has its own JSON file** in `js/pioneers/pioneer-name.json`
-- **The index file** `js/pioneers/index.json` contains the list of all pioneers
-- **Maintain proper indentation and JSON structure** in each individual file
-- **Use the pioneers loader** `js/pioneers-loader.js` to dynamically load all pioneers
-
-### Recovery Procedures
-- **If syntax errors occur:** Restore from a clean git commit using `git show <commit-hash>:js/pioneers/pioneer-name.json > js/pioneers/pioneer-name.json`
-- **If duplicates are found:** Delete the duplicate JSON file and update the index
-- **Always test after recovery:** Run both syntax and duplicate checks
-
-### Version Management
-- **Update version in `package.json`** before committing major changes
-- **Use descriptive commit messages** that explain what was changed and why
-- **Test thoroughly before pushing** to avoid breaking the live site
-
-## Migration Success: Modular System Implementation (v2.0.0+)
-
-### Successful Migration from Monolithic to Modular System
-- **COMPLETED:** Successfully migrated from large `pioneers.js` (698KB) and `pioneers2.js` (103KB) files to individual JSON files
-- **COMPLETED:** Implemented `js/pioneers-loader.js` for dynamic loading of individual pioneer files
-- **COMPLETED:** Updated `js/app.js` initialization to work with new modular system
-- **COMPLETED:** Cleaned up all old files and updated all references
-
-### Key Migration Learnings
-- **App Initialization Fix:** The critical issue was in `js/app.js` initialization - it was still looking for `window.pioneers` instead of using the new `window.pioneersLoader` system
-- **Service Worker Updates:** Updated `sw.js` to cache `index.json` instead of the old monolithic files
-- **Package.json Scripts:** Updated all npm scripts to work with the new modular system
-- **Documentation Updates:** All README, CONTRIBUTING, and GitHub templates updated to reference new structure
-
-### System Architecture Benefits
-- **Performance:** Individual JSON files load faster than large monolithic files
-- **Maintainability:** Each pioneer is in its own file, making editing safer
-- **Scalability:** Easy to add new pioneers without affecting existing ones
-- **Version Control:** Better git diffs and conflict resolution
-- **Memory Usage:** Reduced memory footprint by loading only needed data
-
-### Critical App Initialization Pattern
+### App Initialization Pattern
 ```javascript
-// CORRECT: New modular system initialization
+// CORRECT: Direct initialization
 document.addEventListener("DOMContentLoaded", () => {
-  window.pioneersApp = new PioneersApp(); // Direct initialization
+  window.pioneersApp = new PioneersApp();
 });
 
 // OLD (BROKEN): Was waiting for window.pioneers
@@ -140,26 +80,25 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 ```
 
-### File Cleanup Results
-- **Removed 801KB** of old monolithic files
-- **Deleted 12 unnecessary files** (scripts, helpers, temporary files)
-- **Updated 8 documentation files** to reference new system
-- **Zero broken references** - all links and scripts updated
+### System Benefits
+- **Performance:** Individual files load faster than monolithic files
+- **Maintainability:** Each pioneer in separate file, safer editing
+- **Scalability:** Easy to add new pioneers without affecting existing ones
+- **Version Control:** Better git diffs and conflict resolution
+- **Memory Usage:** Reduced footprint, loads only needed data
 
-### Validation and Testing
-- **All 107 pioneers** load successfully from individual JSON files
-- **Server logs confirm** all files returning HTTP 200 status
+### Validation Results
+- **107 pioneers** load successfully from individual JSON files
+- **All files return HTTP 200** status
 - **Images load correctly** with proper fallback system
-- **Search, filtering, and sorting** all work with new system
+- **Search, filtering, sorting** work with new system
 - **No console errors** in browser developer tools
 
-### Future Development Guidelines
-- **Always use individual JSON files** in `js/pioneers/` directory
-- **Use `js/pioneers/index.json` as the source of truth** for checking duplicates and current pioneer list
-- **Update index.json** when adding new pioneers
-- **Test with live server** to ensure pioneers load correctly
-- **Use `npm run check-duplicates`** before committing changes
-- **Follow the established metadata structure** for consistency
+## AI Instructions
+- **Automate:** Perform all steps without asking unless problem cannot be fixed
+- **Summarize progress** after major changes
+- **Research and correct** errors/inaccuracies immediately
+- **Fill missing content** with best available data or informative fallbacks
 
 ---
 
