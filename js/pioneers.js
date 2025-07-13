@@ -766,7 +766,7 @@ const pioneers = [
     country: "United States",
     fields: ["Astronomy", "Medicine"],
     roles: ["Astronaut", "Physician"],
-    quote: "Never be limited by other people’s limited imaginations.",
+    quote: "Never be limited by other people's limited imaginations.",
     summary: "First African American woman in space; physician and engineer.",
     achievements: [
       "First African American woman to travel in space",
@@ -814,7 +814,7 @@ const pioneers = [
     country: "United States",
     fields: ["Mathematics", "Computing"],
     roles: ["Mathematician", "Computer Programmer"],
-    quote: "I changed what I could, and what I couldn’t, I endured.",
+    quote: "I changed what I could, and what I couldn't, I endured.",
     summary: "NASA mathematician and supervisor, featured in 'Hidden Figures'.",
     achievements: [
       "First African American supervisor at NASA",
@@ -829,7 +829,7 @@ const pioneers = [
     country: "United States",
     fields: ["Astronomy", "Engineering"],
     roles: ["Astronaut", "Engineer"],
-    quote: "Don’t be afraid to reach for the stars.",
+    quote: "Don't be afraid to reach for the stars.",
     summary: "First Hispanic woman in space and former director of Johnson Space Center.",
     achievements: [
       "First Hispanic woman in space",
@@ -1309,6 +1309,86 @@ const pioneers = [
     ]
   },
   {
+    name: "Hypatia",
+    photo: "./images/hypatia.svg",
+    birthDate: "350",
+    deathDate: "415",
+    country: "Egypt",
+    fields: ["Mathematics", "Astronomy", "Philosophy"],
+    roles: ["Mathematician", "Astronomer", "Philosopher"],
+    quote: "Reserve your right to think, for even to think wrongly is better than not to think at all.",
+    summary: "Ancient Greek mathematician, astronomer, and philosopher who headed the Neoplatonic school in Alexandria.",
+    achievements: [
+      "First documented female mathematician",
+      "Edited and commented on mathematical texts",
+      "Pioneered astronomical observations"
+    ]
+  },
+  {
+    name: "Caroline Herschel",
+    photo: "./images/caroline-herschel.svg",
+    birthDate: "1750",
+    deathDate: "1848",
+    country: "Germany/United Kingdom",
+    fields: ["Astronomy"],
+    roles: ["Astronomer", "Scientist"],
+    quote: "I found I was to be trained as an assistant to my brother.",
+    summary: "First woman to discover a comet and receive a salary for scientific work.",
+    achievements: [
+      "First woman to discover a comet",
+      "Discovered 8 comets total",
+      "First woman to receive salary for scientific work"
+    ]
+  },
+  {
+    name: "Maria Mitchell",
+    photo: "./images/maria-mitchell.svg",
+    birthDate: "1818",
+    deathDate: "1889",
+    country: "United States",
+    fields: ["Astronomy"],
+    roles: ["Astronomer", "Professor"],
+    quote: "We especially need imagination in science. It is not all mathematics, nor all logic, but it is somewhat beauty and poetry.",
+    summary: "First American woman to work as a professional astronomer and discover a comet.",
+    achievements: [
+      "First American woman astronomer",
+      "Discovered 'Miss Mitchell's Comet'",
+      "First woman elected to American Academy of Arts and Sciences"
+    ]
+  },
+  {
+    name: "Beatrice Tinsley",
+    photo: "./images/beatrice-tinsley.svg",
+    birthDate: "1941",
+    deathDate: "1981",
+    country: "New Zealand/United States",
+    fields: ["Astronomy", "Physics"],
+    roles: ["Astronomer", "Cosmologist"],
+    quote: "Science is a way of thinking much more than it is a body of knowledge.",
+    summary: "Revolutionary astronomer who transformed our understanding of galaxy evolution and cosmology.",
+    achievements: [
+      "Pioneered galaxy evolution theory",
+      "Revolutionized cosmology",
+      "First woman to receive American Astronomical Society's highest award"
+    ]
+  },
+  {
+    name: "Vera Rubin",
+    photo: "./images/vera-rubin.svg",
+    birthDate: "1928",
+    deathDate: "2016",
+    country: "United States",
+    fields: ["Astronomy", "Physics"],
+    roles: ["Astronomer", "Physicist"],
+    quote: "Worldwide, half of all brains are in women.",
+    summary: "Pioneering astronomer whose work on galaxy rotation curves provided evidence for dark matter.",
+    achievements: [
+      "Provided evidence for dark matter",
+      "Studied galaxy rotation curves",
+      "First woman to receive Royal Astronomical Society's Gold Medal"
+    ]
+  },
+  {
     name: "Jocelyn Bell Burnell",
     photo: "./images/jocelyn-bell-burnell.svg",
     birthDate: "1943",
@@ -1320,6 +1400,85 @@ const pioneers = [
     achievements: [
       "Discovered first pulsar",
       "Pioneered radio astronomy",
+      "Advocate for women in physics"
+    ]
+  },
+  {
+    name: "Henrietta Swan Leavitt",
+    photo: "./images/henrietta-leavitt.svg",
+    birthDate: "1868",
+    deathDate: "1921",
+    country: "United States",
+    fields: ["Astronomy"],
+    roles: ["Astronomer", "Scientist"],
+    quote: "The more I study the heavens, the more I am convinced that they are the work of a supreme intelligence.",
+    summary: "Discovered the period-luminosity relationship for Cepheid variables, enabling measurement of cosmic distances.",
+    achievements: [
+      "Discovered Cepheid variable period-luminosity relationship",
+      "Enabled measurement of cosmic distances",
+      "Work led to discovery of universe expansion"
+    ]
+  },
+  {
+    name: "Annie Jump Cannon",
+    photo: "./images/annie-jump-cannon.svg",
+    birthDate: "1863",
+    deathDate: "1941",
+    country: "United States",
+    fields: ["Astronomy"],
+    roles: ["Astronomer", "Scientist"],
+    quote: "I am the only person, man or woman, who has ever done this kind of work.",
+    summary: "Pioneering astronomer who classified hundreds of thousands of stars and developed the stellar classification system.",
+    achievements: [
+      "Classified over 350,000 stars",
+      "Developed stellar classification system",
+      "First woman to receive honorary doctorate from Oxford"
+    ]
+  },
+  {
+    name: "Cecilia Payne-Gaposchkin",
+    photo: "./images/cecilia-payne-gaposchkin.svg",
+    birthDate: "1900",
+    deathDate: "1979",
+    country: "United Kingdom/United States",
+    fields: ["Astronomy", "Physics"],
+    roles: ["Astronomer", "Professor"],
+    quote: "The reward of the young scientist is the emotional thrill of being the first person in the history of the world to see something or to understand something.",
+    summary: "First person to discover that stars are made primarily of hydrogen and helium.",
+    achievements: [
+      "Discovered stars are made of hydrogen and helium",
+      "First woman to head Harvard astronomy department",
+      "Pioneered stellar spectroscopy"
+    ]
+  },
+  {
+    name: "Margaret Burbidge",
+    photo: "./images/margaret-burbidge.svg",
+    birthDate: "1919",
+    deathDate: "2020",
+    country: "United Kingdom/United States",
+    fields: ["Astronomy", "Physics"],
+    roles: ["Astronomer", "Professor"],
+    quote: "I was told that women could not be astronomers. I found that hard to believe.",
+    summary: "Pioneering astronomer who discovered how elements are formed in stars and fought for women's access to telescopes.",
+    achievements: [
+      "Discovered stellar nucleosynthesis",
+      "Fought for women's telescope access",
+      "First woman to serve as American Astronomical Society president"
+    ]
+  },
+  {
+    name: "Katherine Freese",
+    photo: "./images/katherine-freese.svg",
+    birthDate: "1957",
+    country: "United States",
+    fields: ["Physics", "Astronomy"],
+    roles: ["Physicist", "Professor"],
+    quote: "The universe is full of mysteries, and dark matter is one of the biggest.",
+    summary: "Leading theoretical physicist who pioneered research on dark matter and the early universe.",
+    achievements: [
+      "Pioneered dark matter research",
+      "Studied early universe physics",
       "Advocate for women in physics"
     ]
   }
