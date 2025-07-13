@@ -2957,12 +2957,25 @@ body.light-theme .mobile-menu-toggle span {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
   padding: 10px 14px;
   font-size: 0.95em;
-  z-index: 100;
+  z-index: 9999;
   white-space: normal;
   pointer-events: none;
+  max-height: 200px;
+  overflow-y: auto;
 }
 
-.field-badge:focus .field-info-box,
-.field-badge:hover .field-info-box {
+/* Show below if not enough space above (fallback for top cut-off) */
+.field-badge:hover .field-info-box,
+.field-badge:focus .field-info-box {
   display: block;
+}
+
+@media (max-width: 600px) {
+  .field-info-box {
+    left: 0;
+    right: 0;
+    transform: none;
+    min-width: unset;
+    max-width: 95vw;
+  }
 }

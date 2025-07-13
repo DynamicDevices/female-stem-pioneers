@@ -237,16 +237,16 @@ class PioneersApp {
           <img data-src="${pioneer.photo}" alt="Portrait of ${pioneer.name}" 
                class="lazy-image"
                src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiBmaWxsPSIjMzM0MTU1IiByeD0iNDAiLz48L3N2Zz4="
-               onerror="this.onerror=null;this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojZjhmYWZjO3N0b3Atb3BhY2l0eToxIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6I2UyZThmMDtzdG9wLW9wYWNpdHk6MSIgLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNiZykiIHJ4PSIxMCIvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEwMCwgMTAwKSI+PGNpcmNsZSBjeD0iMCIgY3k9Ii0yMCIgcj0iMjUiIGZpbGw9IiM2NDc0OGIiLz48cGF0aCBkPSJNIC0yNSAtNDUgUSAwIC0xMDAgMjUgLTQ1IiBzdHJva2U9IiM2NDc0OGIiIHN0cm9rZS13aWR0aD0iNCIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0gLTIwIC0zMCBRIDAgLTYwIDIwIC0zMCIgc3Ryb2tlPSIjNjQ3NDhiIiBzdHJva2Utd2lkdGg9IjMiIGZpbGw9Im5vbmUiLz48cGF0aCBkPSJNIC0xNSAtMzUgUSAwIC01MCAxNSAtMzUiIHN0cm9rZT0iIzY0NzQ4YiIgc3Ryb2tlLXdpZHRoPSIzIiBmaWxsPSJub25lIi8+PHBhdGggZD0iTSAtMTAgLTQwIFEgMCAtNTUgMTAgLTQwIiBzdHJva2U9IiM2NDc0OGIiIHN0cm9rZS13aWR0aD0iMyIgZmlsbD0ibm9uZSIvPjwvZz48dGV4dCB4PSIxMDAiIHk9IjE5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSIjNjQ3NDhiIj5QaW9uZWVyIFBvcnRyYWl0PC90ZXh0Pjwvc3ZnPg==';" 
+               onerror="this.onerror=null;this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0iIzMzNDE1NSIvPjwvc3ZnPg=='" 
                onload="this.classList.add('loaded')"
-               onclick="window.pioneersApp.openImageModal('${pioneer.photo}', '${pioneer.name}', '${pioneer.deathDate ? `${pioneer.birthDate}–${pioneer.deathDate}` : `${pioneer.birthDate}–`}', '${pioneer.country}')"
+               onclick="window.pioneersApp.openImageModal('${pioneer.photo}', '${pioneer.name}', '${pioneer.birthDate}', '${pioneer.deathDate}', '${pioneer.country}')"
                style="cursor: pointer;">
         </div>
         <div class="pioneer-header-info">
           <h3 class="pioneer-name">${pioneer.name}</h3>
           <div class="pioneer-field">${fieldsBadges}</div>
           <div class="pioneer-meta">
-            <span class="pioneer-birth-date">${pioneer.deathDate ? `${pioneer.birthDate}–${pioneer.deathDate}` : `${pioneer.birthDate}–`}</span>
+            <span class="pioneer-birth-date">${pioneer.deathDate ? `${this.formatDateWithEra(pioneer.birthDate)}–${this.formatDateWithEra(pioneer.deathDate)}` : `${this.formatDateWithEra(pioneer.birthDate)}–`}</span>
             <span class="pioneer-country">${pioneer.country}</span>
           </div>
           <p class="pioneer-subtitle">${pioneer.summary}</p>
@@ -378,7 +378,7 @@ class PioneersApp {
     });
   }
 
-  openImageModal(imageSrc, pioneerName, birthday, country) {
+  openImageModal(imageSrc, pioneerName, birthDate, deathDate, country) {
     const modal = document.getElementById("imageModal");
     const modalImage = document.getElementById("modalImage");
     const modalTitle = document.getElementById("modalTitle");
@@ -388,7 +388,16 @@ class PioneersApp {
     modalImage.src = imageSrc;
     modalImage.alt = `Portrait of ${pioneerName}`;
     modalTitle.textContent = pioneerName;
-    modalDescription.textContent = `${birthday} • ${country}`;
+    // Format birth and death dates
+    const formattedBirthday = birthDate ? this.formatDateWithEra(birthDate) : '';
+    const formattedDeath = deathDate ? this.formatDateWithEra(deathDate) : '';
+    let dateString = formattedBirthday;
+    if (formattedDeath) {
+      dateString += `–${formattedDeath}`;
+    } else if (formattedBirthday) {
+      dateString += '–';
+    }
+    modalDescription.textContent = `${dateString} • ${country}`;
 
     // Show modal
     modal.style.display = "block";
@@ -510,6 +519,17 @@ class PioneersApp {
       "Study mathematics and science. Follow your curiosity and passion.";
 
     return studyPath;
+  }
+
+  // Helper to format date with BC/BCE if present
+  formatDateWithEra(dateString) {
+    if (!dateString) return '';
+    if (/\b(bc|bce)\b/i.test(dateString)) {
+      // Extract year and append BC
+      const year = dateString.match(/\d+/);
+      return year ? `${year[0]} BC` : dateString;
+    }
+    return dateString;
   }
 }
 
