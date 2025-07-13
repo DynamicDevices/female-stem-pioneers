@@ -7257,6 +7257,36 @@ const pioneers = [
         "url": "https://en.wikipedia.org/wiki/Gertrude_Elion"
       }
     ]
+  },
+  {
+    "name": "Rosalyn Yalow",
+    "photo": "./images/rosalyn-yalow.jpg",
+    "birthDate": "1921",
+    "deathDate": "2011",
+    "country": "United States",
+    "fields": [
+      "Medical Physics",
+      "Nuclear Medicine"
+    ],
+    "roles": [
+      "Medical Physicist",
+      "Nobel Laureate"
+    ],
+    "quote": "The excitement of learning separates youth from old age. As long as you're learning, you're not old.",
+    "summary": "Nobel Prize-winning medical physicist who developed radioimmunoassay, revolutionizing medical testing.",
+    "shortDescription": "Rosalyn Yalow was a Nobel Prize-winning medical physicist who developed radioimmunoassay, a technique that revolutionized medical testing. Her work made it possible to measure tiny amounts of hormones and other substances in the blood, leading to better diagnosis and treatment of diseases.",
+    "achievements": [
+      "Won Nobel Prize in Physiology or Medicine",
+      "Developed radioimmunoassay technique",
+      "Revolutionized medical testing",
+      "First woman to win Nobel Prize in Physiology or Medicine"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rosalyn_Yalow"
+      }
+    ]
   }
 ];
 
