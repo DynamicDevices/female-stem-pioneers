@@ -4146,17 +4146,165 @@ const pioneers = [
     "quote": "The sun is the only source of energy that will last as long as the earth itself.",
     "summary": "Pioneering solar energy researcher who developed the first solar-powered heating system for homes.",
     "shortDescription": "Maria Telkes pioneered solar energy research and developed the first solar-powered heating system for homes. Her work on solar thermal energy storage laid the foundation for renewable energy technologies. She invented the solar distillation process and was a pioneer in sustainable energy solutions, demonstrating how solar power could be harnessed for practical applications.",
+    "detailed_description": {
+      "early_life": "Born in Budapest, Hungary, Maria showed exceptional talent in physics and engineering from an early age. She earned her PhD in physical chemistry and developed a passion for solar energy and sustainable technology.",
+      "stem_journey": "Maria became a pioneering researcher in solar energy, developing the first solar-powered heating system for homes. She invented the solar distillation process and pioneered solar thermal energy storage technologies.",
+      "challenges": "Faced gender discrimination in engineering and had to overcome barriers as a woman in physics and engineering. She worked in a male-dominated field during the early 20th century.",
+      "achievements": "Developed the first solar-powered heating system for homes, invented the solar distillation process, and pioneered solar thermal energy storage. She was a leading figure in renewable energy research.",
+      "legacy": "Maria opened doors for women in engineering and renewable energy. Her work on solar energy laid the foundation for modern sustainable energy technologies and inspired future generations of environmental engineers."
+    },
     "achievements": [
       "Developed first solar-powered heating system",
       "Invented solar distillation process",
       "Pioneered solar thermal energy storage"
+    ],
+    "awards": [
+      "Society of Women Engineers Achievement Award",
+      "Recognition for solar energy innovations",
+      "Honorary degrees from multiple universities"
+    ],
+    "publications": [
+      {
+        "title": "Solar Energy Research and Applications",
+        "url": "https://www.energy.gov/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Physical Chemistry",
+        "institution": "University of Budapest"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1900,
+        "event": "Born in Budapest, Hungary"
+      },
+      {
+        "year": 1920,
+        "event": "Earned PhD in physical chemistry"
+      },
+      {
+        "year": 1937,
+        "event": "Moved to United States"
+      },
+      {
+        "year": 1948,
+        "event": "Developed first solar-powered heating system"
+      },
+      {
+        "year": 1995,
+        "event": "Died in Massachusetts"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in engineering",
+      "Limited recognition for women's contributions",
+      "Working in male-dominated field"
+    ],
+    "impact": "Pioneered solar energy research and helped establish the foundation for renewable energy technologies.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Maria Telkes: The Sun Queen",
+        "url": "https://www.smithsonianmag.com/science-nature/maria-telkes-sun-queen-180963609/"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Maria_Telkes"
       }
-    ]
+    ],
+    "mentorship": "Inspired future generations of women in engineering and renewable energy through her groundbreaking research.",
+    "fun_fact": "Maria was known as 'The Sun Queen' for her pioneering work in solar energy research.",
+    "career_path": {
+      "first_job": "Research scientist",
+      "career_highlights": [
+        "Pioneer in solar energy research",
+        "Developer of solar heating systems",
+        "Renewable energy innovator"
+      ],
+      "advice_for_students": "Follow your passion for sustainable technology. The sun provides unlimited energy - we just need to learn how to harness it."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Engineering",
+        "Solar Energy: The Physics and Engineering of Photovoltaic Conversion"
+      ],
+      "websites": [
+        "energy.gov",
+        "swe.org",
+        "solar.org"
+      ],
+      "programs": [
+        "Engineering summer camps",
+        "Renewable energy programs"
+      ],
+      "advice": "Study physics and engineering to understand how to harness natural energy sources. Sustainability is the future."
+    },
+    "challenges": {
+      "academic": [
+        "Gender barriers in physics education"
+      ],
+      "professional": [
+        "Gender discrimination in engineering"
+      ],
+      "personal": [
+        "Working in male-dominated field"
+      ],
+      "how_overcame": "Focused on excellence in research and demonstrated the value of sustainable energy solutions"
+    },
+    "education_details": {
+      "high_school": "Schools in Budapest",
+      "college_major": "Physical Chemistry",
+      "key_courses": [
+        "Physics",
+        "Chemistry",
+        "Engineering"
+      ],
+      "study_tips": "Learn to connect scientific principles to practical applications, especially in renewable energy"
+    },
+    "modern_impact": {
+      "current_applications": "Her solar energy work influences modern renewable energy technologies",
+      "companies_using_her_work": [
+        "Solar energy companies",
+        "Renewable energy research institutions"
+      ],
+      "future_implications": "Her pioneering work continues to inspire sustainable energy solutions"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Physics",
+        "Solar energy",
+        "Sustainable technology"
+      ],
+      "family_background": "Hungarian intellectual family",
+      "hobbies": [
+        "Solar energy research",
+        "Sustainable technology development"
+      ],
+      "personality_traits": [
+        "Innovative",
+        "Determined",
+        "Visionary",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Hungarian",
+      "cultural_influences": [
+        "Hungarian scientific tradition",
+        "American engineering culture",
+        "Post-war technological advancement"
+      ],
+      "cultural_challenges": [
+        "Gender roles in early 20th-century engineering",
+        "Immigration and adaptation to new culture"
+      ],
+      "cultural_contributions": "Demonstrated that women could excel in engineering and contribute to sustainable energy innovation"
+    }
   },
   {
     "name": "Mariam Al-Astrulabi",
