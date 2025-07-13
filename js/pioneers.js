@@ -1384,6 +1384,13 @@ const pioneers = [
     "quote": "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed... anything that could be counted, I did.",
     "summary": "NASA mathematician whose calculations were critical to the success of early space missions.",
     "shortDescription": "Katherine Johnson was a brilliant mathematician who calculated the trajectories for NASA's first space missions, including the Apollo 11 moon landing. She worked at NASA when computers were people, not machines, and her precise calculations helped ensure the safety of astronauts. Katherine broke barriers as a Black woman in a male-dominated field and inspired the movie 'Hidden Figures.' Her work literally launched humanity into space.",
+    "detailed_description": {
+      "early_life": "Born in White Sulphur Springs, West Virginia, Katherine showed exceptional mathematical ability from an early age. She graduated from high school at 14 and college at 18, displaying extraordinary talent in mathematics.",
+      "stem_journey": "Katherine worked as a teacher before joining NASA's predecessor NACA in 1953. She calculated trajectories for space missions when computers were people, not machines, and her work was trusted by astronauts.",
+      "challenges": "Faced both racial and gender discrimination as a Black woman in a male-dominated field. She had to prove herself repeatedly and was often excluded from important meetings.",
+      "achievements": "Calculated trajectories for Apollo 11 moon landing, verified computer calculations for John Glenn's flight, and worked on the Space Shuttle program. Her calculations were critical to space mission success.",
+      "legacy": "Inspired millions through the movie 'Hidden Figures' and showed that women of color can excel in mathematics and science. Her work literally launched humanity into space."
+    },
     "achievements": [
       "Calculated trajectories for Apollo 11 moon landing",
       "Verified computer calculations for John Glenn's flight",
@@ -1402,7 +1409,56 @@ const pioneers = [
         "institution": "West Virginia State University"
       }
     ],
+    "timeline": [
+      {
+        "year": 1932,
+        "event": "Graduated from high school at age 14"
+      },
+      {
+        "year": 1936,
+        "event": "Graduated from college at age 18"
+      },
+      {
+        "year": 1953,
+        "event": "Joined NASA's predecessor NACA"
+      },
+      {
+        "year": 1961,
+        "event": "Calculated trajectory for Alan Shepard's flight"
+      },
+      {
+        "year": 1962,
+        "event": "Verified calculations for John Glenn's orbital flight"
+      },
+      {
+        "year": 1969,
+        "event": "Calculated trajectories for Apollo 11 moon landing"
+      }
+    ],
+    "barriers": [
+      "Racial discrimination in STEM fields",
+      "Gender discrimination in mathematics",
+      "Segregation in workplace and education"
+    ],
     "impact": "Her calculations were critical to the success of early space missions and inspired millions.",
+    "media": [
+      {
+        "type": "movie",
+        "title": "Hidden Figures",
+        "url": "https://www.imdb.com/title/tt4846340/"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Katherine_Johnson"
+      },
+      {
+        "title": "NASA Biography",
+        "url": "https://www.nasa.gov/content/katherine-johnson-biography"
+      }
+    ],
+    "mentorship": "Inspired countless women and girls, especially African American students, to pursue careers in mathematics and science.",
     "fun_fact": "Katherine graduated from high school at age 14 and college at age 18.",
     "career_path": {
       "first_job": "Teacher in West Virginia",
@@ -1413,12 +1469,93 @@ const pioneers = [
       ],
       "advice_for_students": "Learn everything you can, then do what you want to do. Math is everywhere in the world around us."
     },
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Katherine_Johnson"
-      }
-    ]
+    "student_resources": {
+      "books_for_students": [
+        "Hidden Figures by Margot Lee Shetterly",
+        "Reaching for the Moon by Katherine Johnson",
+        "My Remarkable Journey by Katherine Johnson"
+      ],
+      "websites": [
+        "nasa.gov",
+        "mathcounts.org",
+        "blackgirlscode.org"
+      ],
+      "programs": [
+        "Math competitions",
+        "African American STEM programs",
+        "Women in mathematics mentorship"
+      ],
+      "advice": "Don't let anyone tell you what you can't do. Math is a language that opens doors to understanding the universe."
+    },
+    "challenges": {
+      "academic": [
+        "Limited educational opportunities for African American students",
+        "Being the only woman in mathematics classes"
+      ],
+      "professional": [
+        "Racial and gender discrimination at NASA",
+        "Segregation in workplace facilities"
+      ],
+      "personal": [
+        "Balancing family and career demands",
+        "Proving herself repeatedly in male-dominated field"
+      ],
+      "how_overcame": "Relied on her exceptional mathematical skills and determination. She focused on excellence and let her work speak for itself"
+    },
+    "education_details": {
+      "high_school": "Graduated at age 14 from high school",
+      "college_major": "Mathematics at West Virginia State University",
+      "graduate_school": "Self-taught advanced mathematics",
+      "key_courses": [
+        "Advanced Mathematics",
+        "Physics",
+        "Calculus",
+        "Analytical Geometry"
+      ],
+      "study_tips": "Practice mathematics daily and see it as a tool for understanding the world around you"
+    },
+    "modern_impact": {
+      "current_applications": "Her mathematical methods are still used in aerospace calculations and orbital mechanics",
+      "companies_using_her_work": [
+        "NASA and space agencies worldwide",
+        "Aerospace companies",
+        "Universities teaching orbital mechanics"
+      ],
+      "future_implications": "Her legacy continues to inspire diversity in mathematics and aerospace engineering"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics and counting",
+        "Understanding how things work",
+        "Education and learning"
+      ],
+      "family_background": "Encouraged by parents to pursue education despite segregation",
+      "hobbies": [
+        "Mathematics",
+        "Teaching",
+        "Reading"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Intelligent",
+        "Persistent",
+        "Humble"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "African American heritage",
+      "cultural_influences": [
+        "African American educational values",
+        "Post-war American space program",
+        "Civil Rights Movement era"
+      ],
+      "cultural_challenges": [
+        "Racial segregation in education and workplace",
+        "Limited opportunities for African American women",
+        "Gender barriers in mathematics"
+      ],
+      "cultural_contributions": "Pioneered African American women's roles in mathematics and aerospace, inspiring future generations"
+    }
   },
   {
     "name": "Caroline Keep",
@@ -1466,17 +1603,182 @@ const pioneers = [
     "quote": "My advice is: work hard, have fun, and make history.",
     "summary": "Known as the 'Queen of Carbon Science' for her pioneering work in nanotechnology.",
     "shortDescription": "Mildred Dresselhaus was known as the 'Queen of Carbon Science' for her pioneering work in nanotechnology. She was the first female Institute Professor at MIT and a National Medal of Science recipient. Her research on carbon nanostructures laid the foundation for modern nanotechnology and inspired countless women to pursue careers in physics and engineering.",
+    "detailed_description": {
+      "early_life": "Born in Brooklyn, New York, Mildred showed exceptional talent in mathematics and science from an early age. She attended Hunter College and later earned her PhD in physics from the University of Chicago.",
+      "stem_journey": "Mildred became a pioneer in solid-state physics and nanotechnology. She was the first female Institute Professor at MIT and made groundbreaking discoveries about carbon nanostructures.",
+      "challenges": "Faced gender discrimination in physics and engineering throughout her career. She was often the only woman in her field and had to prove herself repeatedly.",
+      "achievements": "Pioneered research in carbon nanostructures, became the first female Institute Professor at MIT, and won the National Medal of Science. Her work laid the foundation for modern nanotechnology.",
+      "legacy": "Known as the 'Queen of Carbon Science,' she revolutionized nanotechnology and inspired generations of women in physics and engineering."
+    },
     "achievements": [
       "Pioneered research in carbon nanostructures",
       "First female Institute Professor at MIT",
       "National Medal of Science recipient"
     ],
+    "awards": [
+      "National Medal of Science (1990)",
+      "Enrico Fermi Award (2012)",
+      "Presidential Medal of Freedom (2014)"
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Physics",
+        "institution": "University of Chicago"
+      },
+      {
+        "degree": "MA",
+        "field": "Physics",
+        "institution": "Radcliffe College"
+      },
+      {
+        "degree": "BA",
+        "field": "Physics",
+        "institution": "Hunter College"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1951,
+        "event": "Graduated from Hunter College"
+      },
+      {
+        "year": 1958,
+        "event": "Earned PhD from University of Chicago"
+      },
+      {
+        "year": 1960,
+        "event": "Joined MIT faculty"
+      },
+      {
+        "year": 1985,
+        "event": "Became first female Institute Professor at MIT"
+      },
+      {
+        "year": 1990,
+        "event": "Received National Medal of Science"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in physics and engineering",
+      "Being the only woman in many academic settings",
+      "Proving herself in male-dominated fields"
+    ],
+    "impact": "Revolutionized nanotechnology through her research on carbon nanostructures and inspired countless women in physics and engineering.",
+    "media": [
+      {
+        "type": "documentary",
+        "title": "The Queen of Carbon Science",
+        "url": "https://www.youtube.com/watch?v=8mWtFPahdS0"
+      }
+    ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Mildred_Dresselhaus"
+      },
+      {
+        "title": "MIT Biography",
+        "url": "https://www.mit.edu/~mil/"
       }
-    ]
+    ],
+    "mentorship": "Mentored countless students and advocated for women in physics and engineering throughout her career.",
+    "fun_fact": "Mildred Dresselhaus was known for her warm personality and was affectionately called 'Millie' by her colleagues and students.",
+    "career_path": {
+      "first_job": "Research associate at Cornell University",
+      "career_highlights": [
+        "Joined MIT faculty in 1960",
+        "Pioneered carbon nanostructure research",
+        "Became first female Institute Professor at MIT"
+      ],
+      "advice_for_students": "Work hard, have fun, and make history. Don't let anyone tell you what you can't do in science."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Carbon Nanotubes: Synthesis, Structure, Properties, and Applications",
+        "Women in Physics by Barbara Whitten"
+      ],
+      "websites": [
+        "mit.edu",
+        "physics.org",
+        "womeninphysics.org"
+      ],
+      "programs": [
+        "MIT Women in Physics",
+        "Physics summer programs",
+        "Nanotechnology research programs"
+      ],
+      "advice": "Build strong foundations in mathematics and physics. Don't be afraid to explore new areas of science."
+    },
+    "challenges": {
+      "academic": [
+        "Being one of few women in physics programs",
+        "Proving herself in male-dominated academic environments"
+      ],
+      "professional": [
+        "Gender discrimination in physics and engineering",
+        "Being the only woman in many research groups"
+      ],
+      "personal": [
+        "Balancing family and career demands",
+        "Navigating male-dominated scientific culture"
+      ],
+      "how_overcame": "Relied on her exceptional scientific skills and determination. She focused on excellence and became a mentor for others"
+    },
+    "education_details": {
+      "high_school": "Excelled in mathematics and science",
+      "college_major": "Physics at Hunter College",
+      "graduate_school": "PhD in Physics from University of Chicago",
+      "key_courses": [
+        "Advanced Physics",
+        "Mathematics",
+        "Solid State Physics",
+        "Quantum Mechanics"
+      ],
+      "study_tips": "Build strong foundations in mathematics and physics. Don't be afraid to ask questions and explore new areas"
+    },
+    "modern_impact": {
+      "current_applications": "Her research on carbon nanostructures is fundamental to modern nanotechnology and materials science",
+      "companies_using_her_work": [
+        "Technology companies developing nanomaterials",
+        "Research institutions worldwide",
+        "Universities teaching nanotechnology"
+      ],
+      "future_implications": "Her work continues to influence nanotechnology development and inspire women in physics and engineering"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Physics and mathematics",
+        "Scientific research",
+        "Teaching and mentoring"
+      ],
+      "family_background": "Encouraged to pursue education and scientific inquiry",
+      "hobbies": [
+        "Scientific research",
+        "Mentoring students",
+        "Advocating for women in science"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Intelligent",
+        "Warm",
+        "Mentoring-focused"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American heritage",
+      "cultural_influences": [
+        "Post-war American scientific community",
+        "MIT academic culture",
+        "Women in science movement"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 1950s-2010s America",
+        "Male-dominated physics and engineering",
+        "Being a pioneer for women in science"
+      ],
+      "cultural_contributions": "Pioneered women's roles in physics and engineering, becoming a role model for generations of women scientists"
+    }
   },
   {
     "name": "Flossie Wong-Staal",
@@ -1639,17 +1941,172 @@ const pioneers = [
     "quote": "I have always tried to do what I could to help others.",
     "summary": "Developed the first successful treatment for leprosy and was the first African American woman to earn a master's from the University of Hawaii.",
     "shortDescription": "Alice Ball developed the first successful treatment for leprosy (the Ball Method). She was the first woman and first African American to earn a master's from University of Hawaii. Her innovative extraction method for chaulmoogra oil provided the first effective treatment for leprosy patients, saving countless lives and improving the quality of life for those with the disease.",
+    "detailed_description": {
+      "early_life": "Born in Seattle, Washington, Alice showed exceptional academic ability from an early age. She attended the University of Washington and later earned her master's degree from the University of Hawaii.",
+      "stem_journey": "Alice became the first African American woman to earn a master's degree from the University of Hawaii. She developed the Ball Method for treating leprosy, which was the first effective treatment for the disease.",
+      "challenges": "Faced racial and gender discrimination in academia and research. Her work was initially credited to others after her death, and she had to overcome significant barriers as an African American woman in science.",
+      "achievements": "Developed the first successful treatment for leprosy (the Ball Method), became the first African American woman to earn a master's from University of Hawaii, and pioneered chaulmoogra oil extraction.",
+      "legacy": "Her treatment method saved countless lives and improved the quality of life for leprosy patients. She inspired future generations of African American women in chemistry and medicine."
+    },
     "achievements": [
       "Developed leprosy treatment",
       "First African American woman with master's from UH",
       "Pioneered chaulmoogra oil extraction"
     ],
+    "awards": [
+      "Posthumous recognition for leprosy treatment",
+      "University of Hawaii Medal of Distinction (2007)"
+    ],
+    "education": [
+      {
+        "degree": "MS",
+        "field": "Chemistry",
+        "institution": "University of Hawaii"
+      },
+      {
+        "degree": "BS",
+        "field": "Chemistry",
+        "institution": "University of Washington"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1910,
+        "event": "Graduated from University of Washington"
+      },
+      {
+        "year": 1915,
+        "event": "Earned master's degree from University of Hawaii"
+      },
+      {
+        "year": 1916,
+        "event": "Developed Ball Method for leprosy treatment"
+      },
+      {
+        "year": 1916,
+        "event": "Died at age 24"
+      }
+    ],
+    "barriers": [
+      "Racial discrimination in academia",
+      "Gender discrimination in chemistry",
+      "Work credited to others after her death"
+    ],
+    "impact": "Her treatment method provided the first effective treatment for leprosy patients, saving countless lives and improving quality of life.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Alice Ball: The African American Chemist Who Developed a Treatment for Leprosy",
+        "url": "https://www.smithsonianmag.com/science-nature/alice-ball-african-american-chemist-developed-treatment-leprosy-180963608/"
+      }
+    ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Alice_Ball"
+      },
+      {
+        "title": "University of Hawaii",
+        "url": "https://manoa.hawaii.edu/news/article.php?aId=1009"
       }
-    ]
+    ],
+    "mentorship": "Inspired future generations of African American women in chemistry and medicine through her groundbreaking research.",
+    "fun_fact": "Alice Ball died at the young age of 24, but her treatment method continued to be used for decades and saved thousands of lives.",
+    "career_path": {
+      "first_job": "Chemistry instructor at University of Hawaii",
+      "career_highlights": [
+        "First African American woman with master's from University of Hawaii",
+        "Developed Ball Method for leprosy treatment",
+        "Pioneered chaulmoogra oil extraction"
+      ],
+      "advice_for_students": "Focus on helping others through your scientific work. Don't let barriers stop you from pursuing your passion."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+        "African American Women Chemists by Jeannette Brown"
+      ],
+      "websites": [
+        "chemistry.org",
+        "womeninscience.org",
+        "blackgirlscode.org"
+      ],
+      "programs": [
+        "Chemistry summer programs",
+        "African American STEM programs",
+        "Women in chemistry mentorship"
+      ],
+      "advice": "Use your scientific skills to help others. Chemistry can be a powerful tool for improving human health."
+    },
+    "challenges": {
+      "academic": [
+        "Limited opportunities for African American women in chemistry",
+        "Being the only African American woman in her classes"
+      ],
+      "professional": [
+        "Racial and gender discrimination in academia",
+        "Work credited to others after her death"
+      ],
+      "personal": [
+        "Early death at age 24",
+        "Navigating predominantly white academic environments"
+      ],
+      "how_overcame": "Focused on her research and helping others, letting her scientific contributions speak for themselves"
+    },
+    "education_details": {
+      "high_school": "Excelled in chemistry and mathematics",
+      "college_major": "Chemistry at University of Washington",
+      "graduate_school": "MS in Chemistry from University of Hawaii",
+      "key_courses": [
+        "Chemistry",
+        "Mathematics",
+        "Medicine",
+        "Research Methods"
+      ],
+      "study_tips": "Combine chemistry with medicine to understand how substances can help treat diseases"
+    },
+    "modern_impact": {
+      "current_applications": "Her extraction method influenced modern drug development and natural product chemistry",
+      "companies_using_her_work": [
+        "Pharmaceutical companies",
+        "Research institutions",
+        "Universities teaching medicinal chemistry"
+      ],
+      "future_implications": "Her work continues to inspire research in natural product chemistry and drug development"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Chemistry and medicine",
+        "Helping others",
+        "Scientific research"
+      ],
+      "family_background": "Encouraged to pursue education despite racial barriers",
+      "hobbies": [
+        "Chemistry research",
+        "Reading scientific literature",
+        "Teaching"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Compassionate",
+        "Intelligent",
+        "Service-oriented"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "African American heritage",
+      "cultural_influences": [
+        "Early 20th century African American community",
+        "Hawaiian academic culture",
+        "Women in science movement"
+      ],
+      "cultural_challenges": [
+        "Racial discrimination in early 20th century America",
+        "Gender barriers in chemistry",
+        "Limited opportunities for African American women"
+      ],
+      "cultural_contributions": "Pioneered African American women's roles in chemistry and medicine, showing how science can serve humanity"
+    }
   },
   {
     "name": "Mary Somerville",
