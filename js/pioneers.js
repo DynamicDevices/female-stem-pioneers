@@ -14409,6 +14409,1594 @@ const pioneers = [
       "cultural_contributions": "Role model for women and minorities in STEM."
     },
     "verified": true
+  },
+  {
+    "name": "Maria Mitchell",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1818",
+    "deathDate": "1889",
+    "country": "United States",
+    "fields": [
+      "Astronomy"
+    ],
+    "roles": [
+      "Astronomer",
+      "Educator"
+    ],
+    "quote": "We especially need imagination in science. It is not all mathematics, nor all logic, but it is somewhat beauty and poetry.",
+    "summary": "First professional female astronomer in the United States who discovered a comet and paved the way for women in science.",
+    "shortDescription": "Maria Mitchell was the first professional female astronomer in the United States and discovered a comet in 1847. She became the first woman elected to the American Academy of Arts and Sciences and was a pioneer in women's education in science.",
+    "detailed_description": {
+      "early_life": "Born in Nantucket, Massachusetts in 1818, Maria was encouraged by her father to study astronomy. She learned to use astronomical instruments and began making observations from their rooftop observatory.",
+      "stem_journey": "In 1847, Maria discovered a comet using her telescope, which became known as 'Miss Mitchell's Comet.' This discovery brought her international recognition and a gold medal from the King of Denmark.",
+      "challenges": "As a woman in 19th-century America, Maria faced significant barriers to pursuing science professionally. She was often excluded from scientific societies and meetings.",
+      "achievements": "Discovered a comet in 1847, became the first woman elected to the American Academy of Arts and Sciences, and was appointed professor of astronomy at Vassar College.",
+      "legacy": "Maria Mitchell's work paved the way for women in astronomy and science education. She inspired generations of women to pursue careers in science."
+    },
+    "achievements": [
+      "Discovered 'Miss Mitchell's Comet' in 1847",
+      "First woman elected to American Academy of Arts and Sciences",
+      "First professional female astronomer in the United States",
+      "Professor of astronomy at Vassar College"
+    ],
+    "awards": [
+      "Gold Medal from King of Denmark (1848)",
+      "Honorary member of American Academy of Arts and Sciences"
+    ],
+    "publications": [
+      {
+        "title": "Maria Mitchell: Life, Letters, and Journals",
+        "url": "https://en.wikipedia.org/wiki/Maria_Mitchell"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Astronomy",
+        "institution": "Home education and private study"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1847,
+        "event": "Discovered 'Miss Mitchell's Comet'"
+      },
+      {
+        "year": 1848,
+        "event": "Received gold medal from King of Denmark"
+      },
+      {
+        "year": 1865,
+        "event": "Appointed professor at Vassar College"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in 19th-century science",
+      "Limited access to formal education for women"
+    ],
+    "impact": "Pioneered women's participation in professional astronomy and science education.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Maria Mitchell: America's First Woman Astronomer",
+        "url": "https://www.biography.com/scientist/maria-mitchell"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maria_Mitchell"
+      },
+      {
+        "title": "Biography.com",
+        "url": "https://www.biography.com/scientist/maria-mitchell"
+      }
+    ],
+    "mentorship": "Mentored many women students at Vassar College and advocated for women's education in science.",
+    "fun_fact": "Maria Mitchell was the first person to discover a comet using a telescope.",
+    "career_path": {
+      "first_job": "Librarian at Nantucket Atheneum",
+      "career_highlights": [
+        "Discovered a comet in 1847",
+        "Became professor at Vassar College",
+        "Founded the Association for the Advancement of Women"
+      ],
+      "advice_for_students": "Follow your curiosity and don't let anyone tell you what you can't do because of your gender."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Maria Mitchell: Life, Letters, and Journals",
+        "The Maria Mitchell Association website"
+      ],
+      "websites": [
+        "maria-mitchell.org",
+        "vassar.edu"
+      ],
+      "programs": [
+        "Maria Mitchell Association programs",
+        "Women in STEM mentorship programs"
+      ],
+      "advice": "Start with what interests you most and build from there. Science is for everyone."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal education opportunities for women"
+      ],
+      "professional": [
+        "Exclusion from scientific societies",
+        "Gender discrimination in academia"
+      ],
+      "personal": [
+        "Balancing family expectations with scientific pursuits"
+      ],
+      "how_overcame": "Found supportive mentors and focused on her passion for astronomy"
+    },
+    "education_details": {
+      "high_school": "Home education with focus on astronomy",
+      "college_major": "Self-taught in astronomy and mathematics",
+      "key_courses": [
+        "Astronomy",
+        "Mathematics",
+        "Navigation"
+      ],
+      "study_tips": "Learn by doing - hands-on experience with instruments and observations"
+    },
+    "modern_impact": {
+      "current_applications": "Her legacy continues in women's astronomy programs and education",
+      "companies_using_her_work": [
+        "Vassar College",
+        "Maria Mitchell Association"
+      ],
+      "future_implications": "Inspiring future generations of women astronomers"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Astronomy",
+        "Mathematics",
+        "Navigation"
+      ],
+      "family_background": "Daughter of a teacher and amateur astronomer",
+      "hobbies": [
+        "Stargazing",
+        "Teaching",
+        "Writing"
+      ],
+      "personality_traits": [
+        "Curious",
+        "Determined",
+        "Independent",
+        "Generous"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American (Quaker background)",
+      "cultural_influences": [
+        "Quaker values of equality and education",
+        "Nantucket whaling culture"
+      ],
+      "cultural_challenges": [
+        "19th-century gender roles",
+        "Limited women's education"
+      ],
+      "cultural_contributions": "Pioneered women's role in professional science and education"
+    },
+    "verified": true
+  },
+  {
+    "name": "Annie Jump Cannon",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1863",
+    "deathDate": "1941",
+    "country": "United States",
+    "fields": [
+      "Astronomy"
+    ],
+    "roles": [
+      "Astronomer"
+    ],
+    "quote": "I am the only person, man or woman, who has ever done this well.",
+    "summary": "Pioneering astronomer who classified over 350,000 stars and developed the stellar classification system still used today.",
+    "shortDescription": "Annie Jump Cannon was a pioneering astronomer who classified over 350,000 stars and developed the stellar classification system still used today. She was known as the 'census taker of the sky' and received numerous awards for her groundbreaking work.",
+    "detailed_description": {
+      "early_life": "Born in Delaware in 1863, Annie was deaf from childhood due to scarlet fever. She studied physics and astronomy at Wellesley College and later at Radcliffe College.",
+      "stem_journey": "Annie joined the Harvard College Observatory in 1896 and began classifying stars based on their spectra. She could classify three stars per minute and eventually classified over 350,000 stars.",
+      "challenges": "As a deaf woman in the early 20th century, Annie faced communication barriers and gender discrimination in the scientific community.",
+      "achievements": "Developed the stellar classification system (OBAFGKM), classified over 350,000 stars, and was the first woman to receive an honorary doctorate from Oxford University.",
+      "legacy": "Annie's stellar classification system is still used today and her work revolutionized our understanding of stellar evolution and the universe."
+    },
+    "achievements": [
+      "Developed the stellar classification system (OBAFGKM)",
+      "Classified over 350,000 stars",
+      "First woman to receive honorary doctorate from Oxford University",
+      "Received the Henry Draper Medal from the National Academy of Sciences"
+    ],
+    "awards": [
+      "Henry Draper Medal (1931)",
+      "Honorary doctorate from Oxford University (1925)",
+      "National Academy of Sciences member"
+    ],
+    "publications": [
+      {
+        "title": "The Henry Draper Catalogue",
+        "url": "https://en.wikipedia.org/wiki/Annie_Jump_Cannon"
+      }
+    ],
+    "education": [
+      {
+        "degree": "BS",
+        "field": "Physics",
+        "institution": "Wellesley College"
+      },
+      {
+        "degree": "MS",
+        "field": "Astronomy",
+        "institution": "Radcliffe College"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1896,
+        "event": "Joined Harvard College Observatory"
+      },
+      {
+        "year": 1925,
+        "event": "Received honorary doctorate from Oxford University"
+      },
+      {
+        "year": 1931,
+        "event": "Awarded Henry Draper Medal"
+      }
+    ],
+    "barriers": [
+      "Deafness from childhood",
+      "Gender discrimination in astronomy",
+      "Limited recognition for her contributions"
+    ],
+    "impact": "Her stellar classification system revolutionized astronomy and is still used today.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Annie Jump Cannon: The Census Taker of the Sky",
+        "url": "https://www.biography.com/scientist/annie-jump-cannon"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Annie_Jump_Cannon"
+      },
+      {
+        "title": "Biography.com",
+        "url": "https://www.biography.com/scientist/annie-jump-cannon"
+      }
+    ],
+    "mentorship": "Mentored many women astronomers and advocated for women's recognition in science.",
+    "fun_fact": "Annie could classify three stars per minute and eventually classified over 350,000 stars in her career.",
+    "career_path": {
+      "first_job": "Assistant at Harvard College Observatory",
+      "career_highlights": [
+        "Developed stellar classification system",
+        "Classified over 350,000 stars",
+        "Received numerous prestigious awards"
+      ],
+      "advice_for_students": "Focus on your strengths and don't let obstacles stop you from pursuing your passion."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Glass Universe by Dava Sobel",
+        "Annie Jump Cannon: A Life in Astronomy"
+      ],
+      "websites": [
+        "harvard.edu",
+        "wellesley.edu"
+      ],
+      "programs": [
+        "Women in Astronomy programs",
+        "Deaf scientists support groups"
+      ],
+      "advice": "Develop your own system for organizing information and trust your instincts."
+    },
+    "challenges": {
+      "academic": [
+        "Deafness affecting communication",
+        "Limited formal education opportunities"
+      ],
+      "professional": [
+        "Gender discrimination in astronomy",
+        "Underrecognition of her contributions"
+      ],
+      "personal": [
+        "Deafness from childhood"
+      ],
+      "how_overcame": "Developed exceptional visual skills and focused on her strengths in pattern recognition"
+    },
+    "education_details": {
+      "high_school": "Attended Wellesley College",
+      "college_major": "Physics",
+      "key_courses": [
+        "Physics",
+        "Astronomy",
+        "Mathematics"
+      ],
+      "study_tips": "Develop your own methods for organizing and remembering information"
+    },
+    "modern_impact": {
+      "current_applications": "Her stellar classification system is still used by astronomers worldwide",
+      "companies_using_her_work": [
+        "All major observatories",
+        "NASA",
+        "International Astronomical Union"
+      ],
+      "future_implications": "Her work continues to be fundamental to stellar astronomy"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Astronomy",
+        "Photography",
+        "Pattern recognition"
+      ],
+      "family_background": "Daughter of a shipbuilder and state senator",
+      "hobbies": [
+        "Photography",
+        "Travel",
+        "Stargazing"
+      ],
+      "personality_traits": [
+        "Meticulous",
+        "Patient",
+        "Determined",
+        "Observant"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "Victorian era women's education movement",
+        "Harvard College Observatory culture"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in science",
+        "Disability discrimination"
+      ],
+      "cultural_contributions": "Pioneered women's role in professional astronomy and demonstrated that disability is not a barrier to scientific achievement"
+    },
+    "verified": true
+  },
+  {
+    "name": "Henrietta Swan Leavitt",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1868",
+    "deathDate": "1921",
+    "country": "United States",
+    "fields": [
+      "Astronomy"
+    ],
+    "roles": [
+      "Astronomer"
+    ],
+    "quote": "Since the variables are probably at nearly the same distance from the Earth, their periods are apparently associated with their actual emission of light.",
+    "summary": "Discovered the period-luminosity relationship for Cepheid variable stars, enabling measurement of cosmic distances.",
+    "shortDescription": "Henrietta Swan Leavitt discovered the relationship between the brightness and period of Cepheid variable stars, which became the key to measuring distances in the universe. Her discovery enabled Edwin Hubble to prove the existence of other galaxies.",
+    "detailed_description": {
+      "early_life": "Born in Massachusetts in 1868, Henrietta studied astronomy at Radcliffe College and graduated in 1892. She was partially deaf from an early age.",
+      "stem_journey": "Henrietta joined the Harvard College Observatory in 1893 and began studying variable stars in the Magellanic Clouds. She discovered the period-luminosity relationship for Cepheid variables.",
+      "challenges": "As a woman in astronomy, Henrietta was paid only 30 cents per hour and was not allowed to use telescopes herself. She worked as a 'computer' analyzing photographic plates.",
+      "achievements": "Discovered the period-luminosity relationship for Cepheid variables, which became the foundation for measuring cosmic distances and understanding the scale of the universe.",
+      "legacy": "Henrietta's discovery enabled astronomers to measure distances to galaxies and ultimately led to the discovery that the universe is expanding."
+    },
+    "achievements": [
+      "Discovered the period-luminosity relationship for Cepheid variables",
+      "Catalogued over 2,400 variable stars",
+      "Her work enabled measurement of cosmic distances",
+      "Foundation for understanding the scale of the universe"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "1777 Variables in the Magellanic Clouds",
+        "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt"
+      }
+    ],
+    "education": [
+      {
+        "degree": "AB",
+        "field": "Astronomy",
+        "institution": "Radcliffe College"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1893,
+        "event": "Joined Harvard College Observatory"
+      },
+      {
+        "year": 1908,
+        "event": "Published first paper on variable stars"
+      },
+      {
+        "year": 1912,
+        "event": "Discovered period-luminosity relationship"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in astronomy",
+      "Low pay (30 cents per hour)",
+      "Limited recognition for her work"
+    ],
+    "impact": "Her discovery enabled measurement of cosmic distances and understanding of the universe's scale.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Henrietta Leavitt: The Woman Who Measured the Universe",
+        "url": "https://www.biography.com/scientist/henrietta-swan-leavitt"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt"
+      },
+      {
+        "title": "Biography.com",
+        "url": "https://www.biography.com/scientist/henrietta-swan-leavitt"
+      }
+    ],
+    "mentorship": "Her work inspired generations of astronomers, though she received little recognition during her lifetime.",
+    "fun_fact": "Henrietta was paid only 30 cents per hour for her groundbreaking astronomical work.",
+    "career_path": {
+      "first_job": "Computer at Harvard College Observatory",
+      "career_highlights": [
+        "Discovered period-luminosity relationship",
+        "Catalogued over 2,400 variable stars",
+        "Published important papers on stellar photometry"
+      ],
+      "advice_for_students": "Focus on the quality of your work, even if recognition is slow to come."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Glass Universe by Dava Sobel",
+        "Miss Leavitt's Stars by George Johnson"
+      ],
+      "websites": [
+        "harvard.edu",
+        "radcliffe.edu"
+      ],
+      "programs": [
+        "Women in Astronomy programs",
+        "Variable star observation programs"
+      ],
+      "advice": "Learn to recognize patterns and don't underestimate the importance of careful observation."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal education opportunities for women"
+      ],
+      "professional": [
+        "Very low pay for her work",
+        "No recognition for major discoveries"
+      ],
+      "personal": [
+        "Deafness from early age",
+        "Health issues"
+      ],
+      "how_overcame": "Focused on the work itself and found satisfaction in discovery"
+    },
+    "education_details": {
+      "high_school": "Attended Oberlin College and Radcliffe College",
+      "college_major": "Astronomy",
+      "key_courses": [
+        "Astronomy",
+        "Mathematics",
+        "Photography"
+      ],
+      "study_tips": "Learn to recognize patterns and develop systematic approaches to data analysis"
+    },
+    "modern_impact": {
+      "current_applications": "Her period-luminosity relationship is still used to measure cosmic distances",
+      "companies_using_her_work": [
+        "NASA",
+        "All major observatories",
+        "Hubble Space Telescope"
+      ],
+      "future_implications": "Fundamental to understanding the expansion of the universe"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Astronomy",
+        "Mathematics",
+        "Photography"
+      ],
+      "family_background": "Daughter of a Congregational minister",
+      "hobbies": [
+        "Stargazing",
+        "Photography",
+        "Reading"
+      ],
+      "personality_traits": [
+        "Meticulous",
+        "Patient",
+        "Observant",
+        "Humble"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "Victorian era women's education",
+        "Harvard College Observatory culture"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in science",
+        "Limited recognition for women's work"
+      ],
+      "cultural_contributions": "Demonstrated that women could make fundamental contributions to astronomy despite systemic barriers"
+    },
+    "verified": true
+  },
+  {
+    "name": "Vera Rubin",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1928",
+    "deathDate": "2016",
+    "country": "United States",
+    "fields": [
+      "Astronomy",
+      "Physics"
+    ],
+    "roles": [
+      "Astronomer",
+      "Physicist"
+    ],
+    "quote": "Worldwide, half of all brains are in women.",
+    "summary": "Pioneering astronomer whose observations provided the first direct evidence for dark matter.",
+    "shortDescription": "Vera Rubin was a pioneering astronomer whose observations of galaxy rotation curves provided the first direct evidence for dark matter. Her groundbreaking work revolutionized our understanding of the universe and earned her numerous prestigious awards.",
+    "detailed_description": {
+      "early_life": "Born in Philadelphia in 1928, Vera was fascinated by astronomy from childhood. She earned her PhD in astronomy from Georgetown University in 1954.",
+      "stem_journey": "Vera's research focused on galaxy rotation curves. Her observations showed that galaxies rotate faster than expected, providing evidence for dark matter's existence.",
+      "challenges": "As a woman in astronomy in the 1950s and 1960s, Vera faced significant gender discrimination. She was often excluded from major observatories and had to fight for access to telescopes.",
+      "achievements": "Provided first direct evidence for dark matter through galaxy rotation studies, discovered the Rubin-Ford effect, and was the first woman to receive the Gold Medal of the Royal Astronomical Society.",
+      "legacy": "Vera's work on dark matter fundamentally changed our understanding of the universe and inspired generations of women in astronomy."
+    },
+    "achievements": [
+      "Provided first direct evidence for dark matter",
+      "Discovered the Rubin-Ford effect",
+      "First woman to receive Gold Medal of Royal Astronomical Society",
+      "National Medal of Science recipient"
+    ],
+    "awards": [
+      "National Medal of Science (1993)",
+      "Gold Medal of the Royal Astronomical Society (1996)",
+      "Bruce Medal (2003)"
+    ],
+    "publications": [
+      {
+        "title": "Bright Galaxies, Dark Matters",
+        "url": "https://en.wikipedia.org/wiki/Vera_Rubin"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Astronomy",
+        "institution": "Georgetown University"
+      },
+      {
+        "degree": "BS",
+        "field": "Physics",
+        "institution": "Vassar College"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1954,
+        "event": "Earned PhD in astronomy"
+      },
+      {
+        "year": 1970,
+        "event": "Began studying galaxy rotation curves"
+      },
+      {
+        "year": 1993,
+        "event": "Awarded National Medal of Science"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in astronomy",
+      "Limited access to major observatories",
+      "Skepticism about her research"
+    ],
+    "impact": "Her work on dark matter revolutionized our understanding of the universe.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Vera Rubin: The Woman Who Discovered Dark Matter",
+        "url": "https://www.biography.com/scientist/vera-rubin"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vera_Rubin"
+      },
+      {
+        "title": "Biography.com",
+        "url": "https://www.biography.com/scientist/vera-rubin"
+      }
+    ],
+    "mentorship": "Vera was a strong advocate for women in science and mentored many female astronomers.",
+    "fun_fact": "Vera Rubin was the first woman allowed to observe at Palomar Observatory.",
+    "career_path": {
+      "first_job": "Instructor at Georgetown University",
+      "career_highlights": [
+        "Discovered evidence for dark matter",
+        "Studied galaxy rotation curves",
+        "Advocated for women in science"
+      ],
+      "advice_for_students": "Don't let anyone tell you that you can't do something because of your gender."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Bright Galaxies, Dark Matters by Vera Rubin",
+        "The Rubin Observatory website"
+      ],
+      "websites": [
+        "rubinobservatory.org",
+        "carnegieobservatories.org"
+      ],
+      "programs": [
+        "Women in Astronomy programs",
+        "Dark matter research programs"
+      ],
+      "advice": "Follow your curiosity and don't be afraid to challenge established ideas."
+    },
+    "challenges": {
+      "academic": [
+        "Gender discrimination in physics and astronomy"
+      ],
+      "professional": [
+        "Limited access to major observatories",
+        "Skepticism about her research findings"
+      ],
+      "personal": [
+        "Balancing family life with research"
+      ],
+      "how_overcame": "Persisted in her research and built supportive networks"
+    },
+    "education_details": {
+      "high_school": "Attended Vassar College",
+      "college_major": "Physics",
+      "key_courses": [
+        "Physics",
+        "Astronomy",
+        "Mathematics"
+      ],
+      "study_tips": "Learn to question assumptions and develop your own research methods"
+    },
+    "modern_impact": {
+      "current_applications": "Her work on dark matter is fundamental to modern cosmology",
+      "companies_using_her_work": [
+        "NASA",
+        "Major observatories worldwide",
+        "Particle physics laboratories"
+      ],
+      "future_implications": "Essential for understanding the universe's structure and evolution"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Astronomy",
+        "Physics",
+        "Mathematics"
+      ],
+      "family_background": "Daughter of an electrical engineer",
+      "hobbies": [
+        "Stargazing",
+        "Reading",
+        "Advocating for women in science"
+      ],
+      "personality_traits": [
+        "Curious",
+        "Determined",
+        "Generous",
+        "Inspiring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Jewish-American",
+      "cultural_influences": [
+        "Jewish intellectual tradition",
+        "American scientific community"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in science",
+        "Religious discrimination"
+      ],
+      "cultural_contributions": "Pioneered women's role in cosmology and advocated for diversity in science"
+    },
+    "verified": true
+  },
+  {
+    "name": "Jocelyn Bell Burnell",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1943",
+    "country": "United Kingdom",
+    "fields": [
+      "Astronomy",
+      "Physics"
+    ],
+    "roles": [
+      "Astronomer",
+      "Physicist"
+    ],
+    "quote": "I am not in the slightest bit interested in the discovery of pulsars. What I am interested in is the discovery of pulsars by a woman.",
+    "summary": "Discovered pulsars as a graduate student, revolutionizing our understanding of neutron stars.",
+    "shortDescription": "Jocelyn Bell Burnell discovered pulsars as a graduate student, one of the most important astronomical discoveries of the 20th century. Despite her crucial role in the discovery, she was controversially excluded from the Nobel Prize awarded to her supervisor.",
+    "detailed_description": {
+      "early_life": "Born in Northern Ireland in 1943, Jocelyn was interested in science from an early age. She studied physics at the University of Glasgow and later at Cambridge University.",
+      "stem_journey": "As a PhD student at Cambridge, Jocelyn helped build a radio telescope and discovered the first pulsar in 1967. She went on to discover three more pulsars.",
+      "challenges": "As a woman in physics in the 1960s, Jocelyn faced significant discrimination. Her discovery of pulsars was initially attributed to her male supervisor, who received the Nobel Prize without her.",
+      "achievements": "Discovered the first pulsar, discovered three additional pulsars, and made fundamental contributions to our understanding of neutron stars and the universe.",
+      "legacy": "Jocelyn's discovery of pulsars revolutionized astronomy and our understanding of neutron stars. She has become a strong advocate for women in science."
+    },
+    "achievements": [
+      "Discovered the first pulsar in 1967",
+      "Discovered three additional pulsars",
+      "Revolutionized understanding of neutron stars",
+      "Received numerous awards including the Breakthrough Prize"
+    ],
+    "awards": [
+      "Breakthrough Prize in Fundamental Physics (2018)",
+      "Dame Commander of the Order of the British Empire (2007)",
+      "Beatrice M. Tinsley Prize (1987)"
+    ],
+    "publications": [
+      {
+        "title": "Little Green Men, White Dwarfs or Pulsars?",
+        "url": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Physics",
+        "institution": "University of Cambridge"
+      },
+      {
+        "degree": "BS",
+        "field": "Physics",
+        "institution": "University of Glasgow"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1967,
+        "event": "Discovered the first pulsar"
+      },
+      {
+        "year": 1968,
+        "event": "Discovered three more pulsars"
+      },
+      {
+        "year": 2018,
+        "event": "Awarded Breakthrough Prize"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in physics",
+      "Nobel Prize controversy",
+      "Limited recognition for her work"
+    ],
+    "impact": "Her discovery of pulsars revolutionized astronomy and our understanding of neutron stars.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Jocelyn Bell Burnell: The Woman Who Discovered Pulsars",
+        "url": "https://www.biography.com/scientist/jocelyn-bell-burnell"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell"
+      },
+      {
+        "title": "Biography.com",
+        "url": "https://www.biography.com/scientist/jocelyn-bell-burnell"
+      }
+    ],
+    "mentorship": "Jocelyn has become a strong advocate for women in science and has mentored many female physicists.",
+    "fun_fact": "Jocelyn Bell Burnell was controversially excluded from the Nobel Prize for her discovery of pulsars.",
+    "career_path": {
+      "first_job": "Research assistant at Cambridge University",
+      "career_highlights": [
+        "Discovered pulsars as a graduate student",
+        "Became professor at multiple universities",
+        "Advocated for women in science"
+      ],
+      "advice_for_students": "Focus on the science and don't let recognition be your primary motivation."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "A Quaker Astronomer Reflects by Jocelyn Bell Burnell",
+        "The Glass Universe by Dava Sobel"
+      ],
+      "websites": [
+        "ox.ac.uk",
+        "glasgow.ac.uk"
+      ],
+      "programs": [
+        "Women in Physics programs",
+        "Radio astronomy programs"
+      ],
+      "advice": "Develop your own methods and trust your observations, even if others don't immediately see their value."
+    },
+    "challenges": {
+      "academic": [
+        "Gender discrimination in physics",
+        "Limited recognition for major discoveries"
+      ],
+      "professional": [
+        "Nobel Prize controversy",
+        "Being overlooked for major awards"
+      ],
+      "personal": [
+        "Balancing family life with research"
+      ],
+      "how_overcame": "Focused on the science itself and became an advocate for others"
+    },
+    "education_details": {
+      "high_school": "Attended University of Glasgow",
+      "college_major": "Physics",
+      "key_courses": [
+        "Physics",
+        "Astronomy",
+        "Mathematics"
+      ],
+      "study_tips": "Learn to recognize patterns and develop systematic approaches to data analysis"
+    },
+    "modern_impact": {
+      "current_applications": "Pulsars are used for navigation, testing relativity, and studying gravitational waves",
+      "companies_using_her_work": [
+        "NASA",
+        "Major observatories worldwide",
+        "Gravitational wave detectors"
+      ],
+      "future_implications": "Essential for understanding neutron stars and testing fundamental physics"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Physics",
+        "Astronomy",
+        "Radio technology"
+      ],
+      "family_background": "Daughter of an architect",
+      "hobbies": [
+        "Radio astronomy",
+        "Advocating for women in science",
+        "Quaker activities"
+      ],
+      "personality_traits": [
+        "Observant",
+        "Determined",
+        "Generous",
+        "Humble"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Northern Irish",
+      "cultural_influences": [
+        "Quaker values",
+        "British scientific tradition"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in physics",
+        "Regional discrimination"
+      ],
+      "cultural_contributions": "Demonstrated that women could make fundamental discoveries in physics and astronomy"
+    },
+    "verified": true
+  },
+  {
+    "name": "Margaret Burbidge",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1919",
+    "deathDate": "2020",
+    "country": "United Kingdom",
+    "fields": [
+      "Astronomy",
+      "Physics"
+    ],
+    "roles": [
+      "Astronomer",
+      "Physicist"
+    ],
+    "quote": "I was always interested in the stars, and I wanted to understand how they worked.",
+    "summary": "Pioneering astronomer who discovered how elements are formed in stars and was the first woman to serve as director of the Royal Greenwich Observatory.",
+    "shortDescription": "Margaret Burbidge was a pioneering astronomer who discovered how elements are formed in stars through nuclear fusion. She was the first woman to serve as director of the Royal Greenwich Observatory and made fundamental contributions to our understanding of stellar evolution.",
+    "detailed_description": {
+      "early_life": "Born in England in 1919, Margaret was fascinated by astronomy from childhood. She studied physics at University College London and earned her PhD in astronomy.",
+      "stem_journey": "Margaret's research focused on stellar nucleosynthesis - how elements are created inside stars. She worked with her husband Geoffrey Burbidge and others to understand element formation.",
+      "challenges": "As a woman in astronomy in the 1940s and 1950s, Margaret faced significant gender discrimination. She was often excluded from major observatories and had to fight for recognition.",
+      "achievements": "Discovered how elements are formed in stars, was the first woman director of Royal Greenwich Observatory, and made fundamental contributions to stellar evolution.",
+      "legacy": "Margaret's work on stellar nucleosynthesis revolutionized our understanding of how elements are created and distributed throughout the universe."
+    },
+    "achievements": [
+      "Discovered how elements are formed in stars",
+      "First woman director of Royal Greenwich Observatory",
+      "Pioneered research in stellar nucleosynthesis",
+      "Received numerous prestigious awards"
+    ],
+    "awards": [
+      "National Medal of Science (1983)",
+      "Bruce Medal (1982)",
+      "Gold Medal of the Royal Astronomical Society (2005)"
+    ],
+    "publications": [
+      {
+        "title": "Synthesis of the Elements in Stars",
+        "url": "https://en.wikipedia.org/wiki/Margaret_Burbidge"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Astronomy",
+        "institution": "University College London"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1957,
+        "event": "Published landmark paper on stellar nucleosynthesis"
+      },
+      {
+        "year": 1972,
+        "event": "Became first woman director of Royal Greenwich Observatory"
+      },
+      {
+        "year": 1983,
+        "event": "Awarded National Medal of Science"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in astronomy",
+      "Limited access to major observatories",
+      "Underrecognition of her contributions"
+    ],
+    "impact": "Her work on stellar nucleosynthesis fundamentally changed our understanding of the universe.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Margaret Burbidge: Pioneer in Stellar Astronomy",
+        "url": "https://www.biography.com/scientist/margaret-burbidge"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Margaret_Burbidge"
+      },
+      {
+        "title": "Biography.com",
+        "url": "https://www.biography.com/scientist/margaret-burbidge"
+      }
+    ],
+    "mentorship": "Margaret mentored many women astronomers and advocated for women's recognition in science.",
+    "fun_fact": "Margaret Burbidge was the first woman to serve as director of the Royal Greenwich Observatory.",
+    "career_path": {
+      "first_job": "Research assistant at University College London",
+      "career_highlights": [
+        "Discovered stellar nucleosynthesis",
+        "Became observatory director",
+        "Advocated for women in science"
+      ],
+      "advice_for_students": "Follow your curiosity and don't let gender barriers stop you."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Glass Universe by Dava Sobel",
+        "Margaret Burbidge's research papers"
+      ],
+      "websites": [
+        "ucsd.edu",
+        "ucl.ac.uk"
+      ],
+      "programs": [
+        "Women in Astronomy programs",
+        "Stellar evolution research"
+      ],
+      "advice": "Develop your own research methods and trust your observations."
+    },
+    "challenges": {
+      "academic": [
+        "Gender discrimination in astronomy"
+      ],
+      "professional": [
+        "Limited access to major observatories",
+        "Underrecognition of her work"
+      ],
+      "personal": [
+        "Balancing family life with research"
+      ],
+      "how_overcame": "Persisted in her research and built supportive networks"
+    },
+    "education_details": {
+      "high_school": "Attended University College London",
+      "college_major": "Physics",
+      "key_courses": [
+        "Physics",
+        "Astronomy",
+        "Mathematics"
+      ],
+      "study_tips": "Learn to question assumptions and develop systematic research methods"
+    },
+    "modern_impact": {
+      "current_applications": "Her work on stellar nucleosynthesis is fundamental to modern astronomy",
+      "companies_using_her_work": [
+        "NASA",
+        "Major observatories worldwide",
+        "Nuclear physics laboratories"
+      ],
+      "future_implications": "Essential for understanding the origin of elements and stellar evolution"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Astronomy",
+        "Physics",
+        "Mathematics"
+      ],
+      "family_background": "Daughter of a chemist",
+      "hobbies": [
+        "Stargazing",
+        "Reading",
+        "Advocating for women in science"
+      ],
+      "personality_traits": [
+        "Curious",
+        "Determined",
+        "Generous",
+        "Inspiring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "British",
+      "cultural_influences": [
+        "British scientific tradition",
+        "Post-war scientific community"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in science",
+        "Limited women's recognition"
+      ],
+      "cultural_contributions": "Pioneered women's role in professional astronomy and observatory leadership"
+    },
+    "verified": true
+  },
+  {
+    "name": "Nancy Grace Roman",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1925",
+    "deathDate": "2018",
+    "country": "United States",
+    "fields": [
+      "Astronomy"
+    ],
+    "roles": [
+      "Astronomer"
+    ],
+    "quote": "I was always interested in science, and I was always interested in space.",
+    "summary": "Known as the 'Mother of Hubble' for her role in planning and developing the Hubble Space Telescope.",
+    "shortDescription": "Nancy Grace Roman was a pioneering astronomer known as the 'Mother of Hubble' for her crucial role in planning and developing the Hubble Space Telescope. She was the first woman to hold an executive position at NASA and paved the way for women in space science.",
+    "detailed_description": {
+      "early_life": "Born in Tennessee in 1925, Nancy was fascinated by astronomy from childhood. She earned her PhD in astronomy from the University of Chicago in 1949.",
+      "stem_journey": "Nancy joined NASA in 1959 and became the first woman to hold an executive position at the agency. She played a crucial role in planning and developing the Hubble Space Telescope.",
+      "challenges": "As a woman in astronomy in the 1950s and 1960s, Nancy faced significant gender discrimination. She was often the only woman in her department and had to fight for recognition.",
+      "achievements": "Known as the 'Mother of Hubble' for her role in developing the Hubble Space Telescope, was the first woman executive at NASA, and made fundamental contributions to space astronomy.",
+      "legacy": "Nancy's work on the Hubble Space Telescope revolutionized our ability to observe the universe and inspired generations of women in space science."
+    },
+    "achievements": [
+      "Known as the 'Mother of Hubble'",
+      "First woman executive at NASA",
+      "Pioneered space-based astronomy",
+      "Developed numerous space missions"
+    ],
+    "awards": [
+      "NASA Exceptional Scientific Achievement Medal (1969)",
+      "Federal Woman's Award (1962)",
+      "William Randolph Lovelace II Award (1980)"
+    ],
+    "publications": [
+      {
+        "title": "The Hubble Space Telescope",
+        "url": "https://en.wikipedia.org/wiki/Nancy_Grace_Roman"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Astronomy",
+        "institution": "University of Chicago"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1959,
+        "event": "Joined NASA"
+      },
+      {
+        "year": 1960,
+        "event": "Became first woman executive at NASA"
+      },
+      {
+        "year": 1990,
+        "event": "Hubble Space Telescope launched"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in astronomy",
+      "Being the only woman in her department",
+      "Limited recognition for her contributions"
+    ],
+    "impact": "Her work on the Hubble Space Telescope revolutionized space astronomy.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Nancy Grace Roman: The Mother of Hubble",
+        "url": "https://www.biography.com/scientist/nancy-grace-roman"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nancy_Grace_Roman"
+      },
+      {
+        "title": "Biography.com",
+        "url": "https://www.biography.com/scientist/nancy-grace-roman"
+      }
+    ],
+    "mentorship": "Nancy mentored many women astronomers and advocated for women's participation in space science.",
+    "fun_fact": "Nancy Grace Roman was known as the 'Mother of Hubble' for her crucial role in developing the Hubble Space Telescope.",
+    "career_path": {
+      "first_job": "Research assistant at Yerkes Observatory",
+      "career_highlights": [
+        "Joined NASA in 1959",
+        "Became first woman executive at NASA",
+        "Developed Hubble Space Telescope"
+      ],
+      "advice_for_students": "Follow your passion and don't let gender barriers stop you from pursuing your dreams."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Hubble Space Telescope: A Story of Innovation",
+        "Nancy Grace Roman's NASA papers"
+      ],
+      "websites": [
+        "nasa.gov",
+        "hubblesite.org"
+      ],
+      "programs": [
+        "Women in Space Science programs",
+        "NASA internships"
+      ],
+      "advice": "Develop your technical skills and don't be afraid to take on leadership roles."
+    },
+    "challenges": {
+      "academic": [
+        "Gender discrimination in astronomy"
+      ],
+      "professional": [
+        "Being the only woman in her department",
+        "Limited recognition for her work"
+      ],
+      "personal": [
+        "Balancing family life with demanding career"
+      ],
+      "how_overcame": "Focused on her passion for astronomy and built supportive networks"
+    },
+    "education_details": {
+      "high_school": "Attended University of Chicago",
+      "college_major": "Astronomy",
+      "key_courses": [
+        "Astronomy",
+        "Physics",
+        "Mathematics"
+      ],
+      "study_tips": "Develop strong technical skills and learn to work in teams"
+    },
+    "modern_impact": {
+      "current_applications": "The Hubble Space Telescope continues to revolutionize our understanding of the universe",
+      "companies_using_her_work": [
+        "NASA",
+        "Space agencies worldwide",
+        "Astronomical observatories"
+      ],
+      "future_implications": "Her work paved the way for future space telescopes and missions"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Astronomy",
+        "Space exploration",
+        "Mathematics"
+      ],
+      "family_background": "Daughter of a geophysicist",
+      "hobbies": [
+        "Stargazing",
+        "Reading about space",
+        "Advocating for women in science"
+      ],
+      "personality_traits": [
+        "Curious",
+        "Determined",
+        "Visionary",
+        "Generous"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "Post-war American space program",
+        "University of Chicago astronomy tradition"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in science",
+        "Limited women's leadership roles"
+      ],
+      "cultural_contributions": "Pioneered women's role in space science and NASA leadership"
+    },
+    "verified": true
+  },
+  {
+    "name": "Florence Nightingale",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1820",
+    "deathDate": "1910",
+    "country": "United Kingdom",
+    "fields": [
+      "Statistics",
+      "Nursing"
+    ],
+    "roles": [
+      "Nurse",
+      "Statistician",
+      "Social Reformer"
+    ],
+    "quote": "I attribute my success to this: I never gave or took any excuse.",
+    "summary": "Pioneering nurse and statistician who revolutionized healthcare and established modern nursing practices.",
+    "shortDescription": "Florence Nightingale was a pioneering nurse and statistician who revolutionized healthcare during the Crimean War. She established modern nursing practices and used statistics to improve healthcare outcomes, becoming the first woman elected to the Royal Statistical Society.",
+    "detailed_description": {
+      "early_life": "Born in Italy in 1820 to wealthy British parents, Florence was educated at home and showed early interest in mathematics and statistics. She defied her family's expectations to pursue nursing.",
+      "stem_journey": "Florence used her mathematical skills to analyze healthcare data and improve hospital conditions. She developed statistical methods to track patient outcomes and hospital efficiency.",
+      "challenges": "As a woman in 19th-century Britain, Florence faced significant opposition to her career choice. Nursing was considered inappropriate for women of her social class.",
+      "achievements": "Revolutionized nursing during the Crimean War, established modern nursing practices, pioneered the use of statistics in healthcare, and was the first woman elected to the Royal Statistical Society.",
+      "legacy": "Florence's work established modern nursing as a profession and demonstrated the importance of statistics in healthcare and public policy."
+    },
+    "achievements": [
+      "Revolutionized nursing during the Crimean War",
+      "Established modern nursing practices",
+      "Pioneered the use of statistics in healthcare",
+      "First woman elected to the Royal Statistical Society"
+    ],
+    "awards": [
+      "Order of Merit (1907)",
+      "Royal Red Cross (1883)",
+      "First woman elected to Royal Statistical Society (1858)"
+    ],
+    "publications": [
+      {
+        "title": "Notes on Nursing",
+        "url": "https://en.wikipedia.org/wiki/Florence_Nightingale"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Mathematics and Statistics",
+        "institution": "Private study"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1854,
+        "event": "Led nursing team in Crimean War"
+      },
+      {
+        "year": 1858,
+        "event": "Elected to Royal Statistical Society"
+      },
+      {
+        "year": 1860,
+        "event": "Founded Nightingale Training School"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in 19th-century society",
+      "Social class expectations",
+      "Opposition to women in healthcare"
+    ],
+    "impact": "Her work established modern nursing as a profession and demonstrated the importance of statistics in healthcare.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Florence Nightingale: The Lady with the Lamp",
+        "url": "https://www.biography.com/scientist/florence-nightingale"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Florence_Nightingale"
+      },
+      {
+        "title": "Biography.com",
+        "url": "https://www.biography.com/scientist/florence-nightingale"
+      }
+    ],
+    "mentorship": "Florence mentored many nurses and established the first professional nursing school.",
+    "fun_fact": "Florence Nightingale was known as 'The Lady with the Lamp' for her night rounds during the Crimean War.",
+    "career_path": {
+      "first_job": "Nurse in Crimean War",
+      "career_highlights": [
+        "Led nursing team in Crimean War",
+        "Established modern nursing practices",
+        "Pioneered healthcare statistics"
+      ],
+      "advice_for_students": "Follow your calling and use your skills to help others."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Notes on Nursing by Florence Nightingale",
+        "Florence Nightingale: The Making of an Icon"
+      ],
+      "websites": [
+        "florence-nightingale.co.uk",
+        "rcn.org.uk"
+      ],
+      "programs": [
+        "Nursing programs",
+        "Healthcare statistics programs"
+      ],
+      "advice": "Use your mathematical skills to solve real-world problems and help others."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal education opportunities for women"
+      ],
+      "professional": [
+        "Opposition to women in healthcare",
+        "Social class barriers"
+      ],
+      "personal": [
+        "Family opposition to her career choice"
+      ],
+      "how_overcame": "Followed her calling despite opposition and used her skills to help others"
+    },
+    "education_details": {
+      "high_school": "Home education with focus on mathematics",
+      "college_major": "Self-taught in statistics and healthcare",
+      "key_courses": [
+        "Mathematics",
+        "Statistics",
+        "Healthcare"
+      ],
+      "study_tips": "Learn to apply mathematical skills to real-world problems"
+    },
+    "modern_impact": {
+      "current_applications": "Her statistical methods are still used in healthcare and public policy",
+      "companies_using_her_work": [
+        "Hospitals worldwide",
+        "Public health organizations",
+        "Statistical societies"
+      ],
+      "future_implications": "Her work continues to influence modern nursing and healthcare statistics"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Statistics",
+        "Helping others"
+      ],
+      "family_background": "Daughter of wealthy British parents",
+      "hobbies": [
+        "Writing",
+        "Statistics",
+        "Healthcare reform"
+      ],
+      "personality_traits": [
+        "Compassionate",
+        "Determined",
+        "Analytical",
+        "Generous"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "British",
+      "cultural_influences": [
+        "Victorian era social reform movement",
+        "British statistical tradition"
+      ],
+      "cultural_challenges": [
+        "Victorian gender roles",
+        "Social class expectations"
+      ],
+      "cultural_contributions": "Pioneered women's role in healthcare and demonstrated the importance of statistics in public policy"
+    },
+    "verified": true
+  },
+  {
+    "name": "Virginia Apgar",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1909",
+    "deathDate": "1974",
+    "country": "United States",
+    "fields": [
+      "Medicine",
+      "Anesthesiology"
+    ],
+    "roles": [
+      "Physician",
+      "Anesthesiologist"
+    ],
+    "quote": "Nobody, but nobody, is going to stop breathing on me.",
+    "summary": "Developed the Apgar Score, a standardized method to assess newborn health that has saved millions of lives worldwide.",
+    "shortDescription": "Virginia Apgar was a pioneering anesthesiologist who developed the Apgar Score, a standardized method to assess newborn health immediately after birth. Her simple but revolutionary scoring system has saved millions of lives worldwide and is still used in hospitals today.",
+    "detailed_description": {
+      "early_life": "Born in New Jersey in 1909, Virginia showed early interest in science and medicine. She earned her MD from Columbia University in 1933 and became interested in anesthesiology.",
+      "stem_journey": "Virginia became the first woman to head a division at Columbia-Presbyterian Hospital. She developed the Apgar Score in 1952 to standardize newborn assessment.",
+      "challenges": "As a woman in medicine in the 1930s and 1940s, Virginia faced significant gender discrimination. She was often the only woman in her department and had to fight for recognition.",
+      "achievements": "Developed the Apgar Score, became the first woman to head a division at Columbia-Presbyterian Hospital, and pioneered modern newborn care practices.",
+      "legacy": "Virginia's Apgar Score revolutionized newborn care and has saved millions of lives worldwide. Her work established modern neonatal medicine."
+    },
+    "achievements": [
+      "Developed the Apgar Score in 1952",
+      "First woman to head a division at Columbia-Presbyterian Hospital",
+      "Pioneered modern newborn care practices",
+      "Saved millions of lives worldwide"
+    ],
+    "awards": [
+      "Ralph M. Waters Award (1966)",
+      "Distinguished Service Award from American Society of Anesthesiologists (1973)",
+      "National Women's Hall of Fame inductee (1995)"
+    ],
+    "publications": [
+      {
+        "title": "A Proposal for a New Method of Evaluation of the Newborn Infant",
+        "url": "https://en.wikipedia.org/wiki/Virginia_Apgar"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MD",
+        "field": "Medicine",
+        "institution": "Columbia University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1933,
+        "event": "Earned MD from Columbia University"
+      },
+      {
+        "year": 1952,
+        "event": "Developed the Apgar Score"
+      },
+      {
+        "year": 1959,
+        "event": "Became first woman to head a division at Columbia-Presbyterian"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in medicine",
+      "Limited recognition for her contributions",
+      "Being the only woman in her department"
+    ],
+    "impact": "Her Apgar Score has saved millions of lives and revolutionized newborn care worldwide.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Virginia Apgar: The Woman Who Saved Newborns",
+        "url": "https://www.biography.com/scientist/virginia-apgar"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Virginia_Apgar"
+      },
+      {
+        "title": "Biography.com",
+        "url": "https://www.biography.com/scientist/virginia-apgar"
+      }
+    ],
+    "mentorship": "Virginia mentored many women physicians and advocated for women's recognition in medicine.",
+    "fun_fact": "The Apgar Score is named after Virginia Apgar and also stands for Appearance, Pulse, Grimace, Activity, and Respiration.",
+    "career_path": {
+      "first_job": "Surgical resident at Columbia-Presbyterian Hospital",
+      "career_highlights": [
+        "Developed the Apgar Score",
+        "Became first woman to head a division",
+        "Pioneered newborn care practices"
+      ],
+      "advice_for_students": "Focus on solving real problems and don't let gender barriers stop you."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Virginia Apgar: A Life in Medicine",
+        "The Apgar Score: A Historical Perspective"
+      ],
+      "websites": [
+        "columbia.edu",
+        "apgar.com"
+      ],
+      "programs": [
+        "Women in Medicine programs",
+        "Neonatal medicine programs"
+      ],
+      "advice": "Develop simple, practical solutions to real problems."
+    },
+    "challenges": {
+      "academic": [
+        "Gender discrimination in medical school"
+      ],
+      "professional": [
+        "Being the only woman in her department",
+        "Limited recognition for her work"
+      ],
+      "personal": [
+        "Balancing family life with demanding career"
+      ],
+      "how_overcame": "Focused on her passion for helping others and developed practical solutions"
+    },
+    "education_details": {
+      "high_school": "Attended Columbia University",
+      "college_major": "Medicine",
+      "key_courses": [
+        "Medicine",
+        "Anesthesiology",
+        "Pediatrics"
+      ],
+      "study_tips": "Learn to develop simple, practical solutions to complex problems"
+    },
+    "modern_impact": {
+      "current_applications": "The Apgar Score is used in hospitals worldwide",
+      "companies_using_her_work": [
+        "All hospitals worldwide",
+        "Neonatal care units",
+        "Medical schools"
+      ],
+      "future_implications": "Her work continues to save lives and influence neonatal care"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Medicine",
+        "Science",
+        "Helping others"
+      ],
+      "family_background": "Daughter of an insurance executive",
+      "hobbies": [
+        "Fishing",
+        "Gardening",
+        "Music"
+      ],
+      "personality_traits": [
+        "Compassionate",
+        "Practical",
+        "Determined",
+        "Innovative"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "Early 20th-century American medicine",
+        "Columbia University medical tradition"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in medicine",
+        "Limited women's leadership roles"
+      ],
+      "cultural_contributions": "Pioneered women's role in medicine and established modern neonatal care"
+    },
+    "verified": true
   }
 ];
 
