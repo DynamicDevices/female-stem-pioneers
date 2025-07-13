@@ -1853,7 +1853,7 @@ body.light-theme .mobile-menu-toggle span {
 .pioneer-card {
   background: #1e293b;
   border-radius: 12px;
-  padding: 16px;
+  padding: 12px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
   position: relative;
@@ -1862,7 +1862,7 @@ body.light-theme .mobile-menu-toggle span {
   grid-template-rows: auto 1fr auto;
   gap: 8px;
   height: fit-content;
-  min-height: 600px;
+  min-height: 550px;
 }
 
 .pioneer-card::before {
@@ -1900,14 +1900,14 @@ body.light-theme .mobile-menu-toggle span {
   flex: 1;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 6px;
 }
 
 .pioneer-actions {
   display: flex;
   gap: 12px;
-  margin-top: 16px;
-  padding-top: 16px;
+  margin-top: 8px;
+  padding-top: 8px;
   border-top: 1px solid #334155;
 }
 
@@ -2181,7 +2181,7 @@ body.light-theme .mobile-menu-toggle span {
   flex: 1;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 6px;
 }
 
 .pioneer-quote {
@@ -2362,7 +2362,6 @@ body.light-theme .mobile-menu-toggle span {
   font-weight: 600;
   transition: all 0.3s ease;
   border: 1px solid #475569;
-  margin-top: auto;
   width: 100%;
   text-align: center;
 }
