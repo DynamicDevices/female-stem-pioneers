@@ -7405,6 +7405,36 @@ const pioneers = [
         "url": "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin"
       }
     ]
+  },
+  {
+    "name": "Ellen Swallow Richards",
+    "photo": "./images/ellen-swallow-richards.jpg",
+    "birthDate": "1842",
+    "deathDate": "1911",
+    "country": "United States",
+    "fields": [
+      "Chemistry",
+      "Environmental Science"
+    ],
+    "roles": [
+      "Chemist",
+      "Environmental Scientist"
+    ],
+    "quote": "The quality of our environment is the quality of our lives.",
+    "summary": "First woman admitted to MIT and pioneer of environmental science and home economics.",
+    "shortDescription": "Ellen Swallow Richards was the first woman admitted to MIT and a pioneer of environmental science. She founded the field of home economics and was the first woman to earn a degree in chemistry in America. Her work on water quality and environmental health laid the foundation for modern environmental science.",
+    "achievements": [
+      "First woman admitted to MIT",
+      "Founded environmental science",
+      "Pioneered home economics",
+      "First woman to earn chemistry degree in America"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ellen_Swallow_Richards"
+      }
+    ]
   }
 ];
 
