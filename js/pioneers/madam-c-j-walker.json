@@ -1,0 +1,183 @@
+{
+  "name": "Madam C. J. Walker",
+  "summary": "Entrepreneur and philanthropist, first self-made female millionaire in America.",
+  "shortDescription": "Madam C. J. Walker developed innovative hair care products for Black women and became America’s first self-made female millionaire. She used her success to support civil rights and empower women in business.",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "1867",
+  "deathDate": "1919",
+  "country": "United States",
+  "fields": [
+    "Chemistry",
+    "Invention",
+    "Entrepreneurship"
+  ],
+  "roles": [
+    "Inventor",
+    "Entrepreneur",
+    "Philanthropist"
+  ],
+  "quote": "Don't sit down and wait for the opportunities to come . . . get up and make them!",
+  "detailed_description": {
+    "early_life": "Born Sarah Breedlove in 1867 in Louisiana, Madam C. J. Walker was the first child in her family born free after the Civil War. She worked as a laundress and struggled with hair loss, which inspired her to develop hair care solutions.",
+    "stem_journey": "Madam Walker experimented with different ingredients and formulas to create hair care products specifically designed for African American women. She combined chemistry with entrepreneurship to build a successful business empire.",
+    "challenges": "As an African American woman in the early 20th century, Madam Walker faced racism, sexism, and limited opportunities. She had to overcome significant barriers to education, business ownership, and social acceptance.",
+    "achievements": "Madam Walker invented a line of hair care products for African American women and built a successful business empire. She became one of the first self-made female millionaires in the United States and employed thousands of African American women.",
+    "legacy": "Madam Walker's work revolutionized hair care for African American women and demonstrated that African American women could be successful entrepreneurs and business leaders. She inspired generations of women entrepreneurs."
+  },
+  "achievements": [
+    "Invented hair care products for African American women",
+    "Became first self-made female millionaire in US",
+    "Built successful business empire",
+    "Employed thousands of African American women"
+  ],
+  "awards": [
+    "Recognition as pioneering entrepreneur",
+    "Induction into National Women's Hall of Fame"
+  ],
+  "publications": [
+    {
+      "title": "Business and entrepreneurship innovations",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Chemistry and Business",
+      "institution": "Practical experience and experimentation"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1867,
+      "event": "Born in Louisiana as first free-born child"
+    },
+    {
+      "year": 1905,
+      "event": "Began developing hair care products"
+    },
+    {
+      "year": 1908,
+      "event": "Founded Madam C. J. Walker Manufacturing Company"
+    },
+    {
+      "year": 1919,
+      "event": "Passed away as successful entrepreneur"
+    }
+  ],
+  "barriers": [
+    "Racism and sexism in early 20th century",
+    "Limited opportunities for African American women",
+    "Lack of formal education"
+  ],
+  "impact": "Revolutionized hair care for African American women and demonstrated African American women's entrepreneurial success.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Madam C. J. Walker: Pioneer Entrepreneur",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "references": [
+    {
+      "title": "Smithsonian Lemelson Center: Madam C. J. Walker",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "mentorship": "Employed and mentored thousands of African American women, showing them how to be successful entrepreneurs.",
+  "fun_fact": "Madam Walker was the first child in her family born free after the Civil War, and she became one of the first self-made female millionaires in the United States.",
+  "career_path": {
+    "first_job": "Laundress",
+    "career_highlights": [
+      "Developed hair care products",
+      "Built successful business empire",
+      "Became first self-made female millionaire"
+    ],
+    "advice_for_students": "Don't let your background or circumstances limit your dreams. Hard work and determination can overcome any obstacle."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "On Her Own Ground: The Life and Times of Madam C. J. Walker",
+      "Women Entrepreneurs in History"
+    ],
+    "websites": [
+      "entrepreneurship.org",
+      "blackhistory.org",
+      "womeninbusiness.org"
+    ],
+    "programs": [
+      "Entrepreneurship programs",
+      "Women in business workshops",
+      "African American business initiatives"
+    ],
+    "advice": "Start with solving a problem you know well. The best businesses often come from personal experience."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal education"
+    ],
+    "professional": [
+      "Racism and sexism in business world",
+      "Limited opportunities for African American women"
+    ],
+    "personal": [
+      "Poverty and difficult early life",
+      "Facing discrimination and barriers"
+    ],
+    "how_overcame": "Used determination, hard work, and practical problem-solving to build successful business"
+  },
+  "education_details": {
+    "high_school": "Limited formal education",
+    "college_major": "Self-taught in chemistry and business",
+    "key_courses": [
+      "Chemistry",
+      "Business Management",
+      "Marketing",
+      "Entrepreneurship"
+    ],
+    "study_tips": "Learn through practical experience and experimentation"
+  },
+  "modern_impact": {
+    "current_applications": "Her business model continues to inspire African American entrepreneurs",
+    "companies_using_her_work": [
+      "Hair care companies",
+      "African American businesses",
+      "Women-owned enterprises"
+    ],
+    "future_implications": "Inspiring next generation of African American women entrepreneurs"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Hair care",
+      "Business",
+      "Helping others",
+      "Innovation"
+    ],
+    "family_background": "Formerly enslaved family, first free-born child",
+    "hobbies": [
+      "Experimenting with hair care formulas",
+      "Building business",
+      "Philanthropy"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Innovative",
+      "Generous",
+      "Ambitious"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "African American",
+    "cultural_influences": [
+      "Post-Civil War African American experience",
+      "African American hair care traditions",
+      "Women's empowerment movement"
+    ],
+    "cultural_challenges": [
+      "Racism and discrimination",
+      "Limited opportunities for African American women"
+    ],
+    "cultural_contributions": "Pioneered African American women's entrepreneurship and business leadership"
+  },
+  "verified": true
+}

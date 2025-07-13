@@ -1,0 +1,185 @@
+{
+  "name": "Alice Augusta Ball",
+  "photo": "./images/alice-ball.jpg",
+  "birthDate": "1892",
+  "deathDate": "1916",
+  "country": "United States",
+  "fields": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "roles": [
+    "Chemist",
+    "Researcher"
+  ],
+  "quote": "I have always tried to do what I could to help others.",
+  "summary": "Developed the first successful treatment for leprosy and was the first African American woman to earn a master's from the University of Hawaii.",
+  "shortDescription": "Alice Ball developed the first successful treatment for leprosy (the Ball Method). She was the first woman and first African American to earn a master's from University of Hawaii. Her innovative extraction method for chaulmoogra oil provided the first effective treatment for leprosy patients, saving countless lives and improving the quality of life for those with the disease.",
+  "detailed_description": {
+    "early_life": "Born in Seattle, Washington, Alice showed exceptional academic ability from an early age. She attended the University of Washington and later earned her master's degree from the University of Hawaii.",
+    "stem_journey": "Alice became the first African American woman to earn a master's degree from the University of Hawaii. She developed the Ball Method for treating leprosy, which was the first effective treatment for the disease.",
+    "challenges": "Faced racial and gender discrimination in academia and research. Her work was initially credited to others after her death, and she had to overcome significant barriers as an African American woman in science.",
+    "achievements": "Developed the first successful treatment for leprosy (the Ball Method), became the first African American woman to earn a master's from University of Hawaii, and pioneered chaulmoogra oil extraction.",
+    "legacy": "Her treatment method saved countless lives and improved the quality of life for leprosy patients. She inspired future generations of African American women in chemistry and medicine."
+  },
+  "achievements": [
+    "Developed leprosy treatment",
+    "First African American woman with master's from UH",
+    "Pioneered chaulmoogra oil extraction"
+  ],
+  "awards": [
+    "Posthumous recognition for leprosy treatment",
+    "University of Hawaii Medal of Distinction (2007)"
+  ],
+  "education": [
+    {
+      "degree": "MS",
+      "field": "Chemistry",
+      "institution": "University of Hawaii"
+    },
+    {
+      "degree": "BS",
+      "field": "Chemistry",
+      "institution": "University of Washington"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1910,
+      "event": "Graduated from University of Washington"
+    },
+    {
+      "year": 1915,
+      "event": "Earned master's degree from University of Hawaii"
+    },
+    {
+      "year": 1916,
+      "event": "Developed Ball Method for leprosy treatment"
+    },
+    {
+      "year": 1916,
+      "event": "Died at age 24"
+    }
+  ],
+  "barriers": [
+    "Racial discrimination in academia",
+    "Gender discrimination in chemistry",
+    "Work credited to others after her death"
+  ],
+  "impact": "Her treatment method provided the first effective treatment for leprosy patients, saving countless lives and improving quality of life.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Alice Ball: The African American Chemist Who Developed a Treatment for Leprosy",
+      "url": "https://www.smithsonianmag.com/science-nature/alice-ball-african-american-chemist-developed-treatment-leprosy-180963608/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alice_Ball"
+    },
+    {
+      "title": "University of Hawaii",
+      "url": "https://manoa.hawaii.edu/news/article.php?aId=1009"
+    }
+  ],
+  "mentorship": "Inspired future generations of African American women in chemistry and medicine through her groundbreaking research.",
+  "fun_fact": "Alice Ball died at the young age of 24, but her treatment method continued to be used for decades and saved thousands of lives.",
+  "career_path": {
+    "first_job": "Chemistry instructor at University of Hawaii",
+    "career_highlights": [
+      "First African American woman with master's from University of Hawaii",
+      "Developed Ball Method for leprosy treatment",
+      "Pioneered chaulmoogra oil extraction"
+    ],
+    "advice_for_students": "Focus on helping others through your scientific work. Don't let barriers stop you from pursuing your passion."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+      "African American Women Chemists by Jeannette Brown"
+    ],
+    "websites": [
+      "chemistry.org",
+      "womeninscience.org",
+      "blackgirlscode.org"
+    ],
+    "programs": [
+      "Chemistry summer programs",
+      "African American STEM programs",
+      "Women in chemistry mentorship"
+    ],
+    "advice": "Use your scientific skills to help others. Chemistry can be a powerful tool for improving human health."
+  },
+  "challenges": {
+    "academic": [
+      "Limited opportunities for African American women in chemistry",
+      "Being the only African American woman in her classes"
+    ],
+    "professional": [
+      "Racial and gender discrimination in academia",
+      "Work credited to others after her death"
+    ],
+    "personal": [
+      "Early death at age 24",
+      "Navigating predominantly white academic environments"
+    ],
+    "how_overcame": "Focused on her research and helping others, letting her scientific contributions speak for themselves"
+  },
+  "education_details": {
+    "high_school": "Excelled in chemistry and mathematics",
+    "college_major": "Chemistry at University of Washington",
+    "graduate_school": "MS in Chemistry from University of Hawaii",
+    "key_courses": [
+      "Chemistry",
+      "Mathematics",
+      "Medicine",
+      "Research Methods"
+    ],
+    "study_tips": "Combine chemistry with medicine to understand how substances can help treat diseases"
+  },
+  "modern_impact": {
+    "current_applications": "Her extraction method influenced modern drug development and natural product chemistry",
+    "companies_using_her_work": [
+      "Pharmaceutical companies",
+      "Research institutions",
+      "Universities teaching medicinal chemistry"
+    ],
+    "future_implications": "Her work continues to inspire research in natural product chemistry and drug development"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Chemistry and medicine",
+      "Helping others",
+      "Scientific research"
+    ],
+    "family_background": "Encouraged to pursue education despite racial barriers",
+    "hobbies": [
+      "Chemistry research",
+      "Reading scientific literature",
+      "Teaching"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Compassionate",
+      "Intelligent",
+      "Service-oriented"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "African American heritage",
+    "cultural_influences": [
+      "Early 20th century African American community",
+      "Hawaiian academic culture",
+      "Women in science movement"
+    ],
+    "cultural_challenges": [
+      "Racial discrimination in early 20th century America",
+      "Gender barriers in chemistry",
+      "Limited opportunities for African American women"
+    ],
+    "cultural_contributions": "Pioneered African American women's roles in chemistry and medicine, showing how science can serve humanity"
+  },
+  "verified": true
+}

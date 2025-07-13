@@ -1,0 +1,187 @@
+{
+  "name": "Mae Jemison",
+  "photo": "./images/mae-jemison.jpg",
+  "birthDate": "1956",
+  "country": "United States",
+  "fields": [
+    "Aerospace Engineering",
+    "Medicine"
+  ],
+  "roles": [
+    "Astronaut",
+    "Physician",
+    "Engineer"
+  ],
+  "quote": "Don't let anyone rob you of your imagination, your creativity, or your curiosity. It's your place in the world; it's your life.",
+  "summary": "First African American woman in space, physician, and engineer who continues to inspire future generations.",
+  "shortDescription": "Mae Jemison was the first African American woman in space, flying aboard the Space Shuttle Endeavour in 1992. She's also a physician, engineer, and entrepreneur who founded her own technology company. Mae's journey shows that you can pursue multiple passions - she combined medicine, engineering, and space exploration to create a unique career path that inspires others to follow their dreams.",
+  "detailed_description": {
+    "early_life": "Born in 1956 in Alabama, Mae showed early interest in science and space. She earned degrees in chemical engineering and medicine, becoming a physician before joining NASA.",
+    "stem_journey": "Mae worked as a physician and served in the Peace Corps before being selected as a NASA astronaut. She flew on the Space Shuttle Endeavour and later founded her own technology company.",
+    "challenges": "Faced barriers as an African American woman in STEM, had to prove herself in multiple male-dominated fields, and overcame racial and gender discrimination.",
+    "achievements": "First African American woman in space, physician, engineer, and founder of technology company. Spent 8 days in space conducting experiments.",
+    "legacy": "Inspired African American women and girls to pursue careers in STEM and space exploration, showing that diversity strengthens the space program."
+  },
+  "achievements": [
+    "First African American woman in space (1992)",
+    "Flew on Space Shuttle Endeavour",
+    "Spent 8 days in space",
+    "Physician and engineer"
+  ],
+  "awards": [
+    "NASA Space Flight Medal",
+    "Essence Award",
+    "National Women's Hall of Fame"
+  ],
+  "publications": [
+    {
+      "title": "Find Where the Wind Goes: Moments from My Life",
+      "url": "https://www.amazon.com/Find-Where-Wind-Goes-Moments/dp/0590109989"
+    }
+  ],
+  "education": [
+    {
+      "degree": "MD",
+      "field": "Medicine",
+      "institution": "Cornell University"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1977,
+      "event": "Earned degree in chemical engineering from Stanford"
+    },
+    {
+      "year": 1981,
+      "event": "Earned MD from Cornell University"
+    },
+    {
+      "year": 1987,
+      "event": "Selected as NASA astronaut"
+    },
+    {
+      "year": 1992,
+      "event": "First African American woman in space"
+    }
+  ],
+  "barriers": [
+    "Faced barriers as African American woman in STEM",
+    "Racial and gender discrimination",
+    "Male-dominated aerospace and medical fields"
+  ],
+  "impact": "Inspired African American women and girls to pursue careers in STEM and space exploration.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Mae Jemison: First African American Woman in Space",
+      "url": "https://www.nasa.gov/centers/johnson/about/people/orgs/bios/jemison.html"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mae_Jemison"
+    },
+    {
+      "title": "NASA",
+      "url": "https://www.nasa.gov/centers/johnson/about/people/orgs/bios/jemison.html"
+    }
+  ],
+  "mentorship": "Inspired African American women and girls to pursue careers in STEM and space exploration.",
+  "fun_fact": "Mae Jemison appeared in an episode of Star Trek: The Next Generation, making her the first real astronaut to appear on the show.",
+  "career_path": {
+    "first_job": "Physician in Los Angeles",
+    "career_highlights": [
+      "First African American woman in space",
+      "Physician and engineer",
+      "Founded technology company"
+    ],
+    "advice_for_students": "Don't let anyone limit your dreams. You can pursue multiple passions and create your own unique path."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Find Where the Wind Goes: Moments from My Life by Mae Jemison",
+      "Women in Space: 23 Stories of First Flights, Scientific Missions, and Gravity-Breaking Adventures"
+    ],
+    "websites": [
+      "nasa.gov",
+      "space.com",
+      "womeninscience.org"
+    ],
+    "programs": [
+      "Space camps",
+      "African American STEM programs",
+      "Women in STEM mentorship"
+    ],
+    "advice": "Follow your curiosity and don't be afraid to combine different interests. Your unique perspective is valuable."
+  },
+  "challenges": {
+    "academic": [
+      "Limited representation of African American women in STEM"
+    ],
+    "professional": [
+      "Racial and gender discrimination",
+      "Male-dominated aerospace and medical fields"
+    ],
+    "personal": [
+      "Balancing multiple careers",
+      "Being a role model for African American community"
+    ],
+    "how_overcame": "Used determination and excellence to prove her capabilities, became a mentor for others"
+  },
+  "education_details": {
+    "high_school": "Excelled in science and mathematics",
+    "college_major": "Chemical Engineering",
+    "graduate_school": "MD from Cornell University",
+    "key_courses": [
+      "Chemical Engineering",
+      "Medicine",
+      "Space Technology",
+      "Business"
+    ],
+    "study_tips": "Combine different fields of study and follow your curiosity across disciplines"
+  },
+  "modern_impact": {
+    "current_applications": "Her leadership continues to inspire diversity in space exploration and STEM",
+    "companies_using_her_work": [
+      "NASA",
+      "Space agencies worldwide",
+      "Technology companies"
+    ],
+    "future_implications": "Inspired more African American women to pursue careers in space exploration and STEM leadership"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Science",
+      "Space exploration",
+      "Medicine",
+      "Engineering"
+    ],
+    "family_background": "Encouraged education and scientific inquiry",
+    "hobbies": [
+      "Dancing",
+      "Reading science fiction",
+      "Mentoring students"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Curious",
+      "Multi-talented",
+      "Inspiring"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "African American",
+    "cultural_influences": [
+      "African American cultural values",
+      "American space program",
+      "Diversity in STEM movement"
+    ],
+    "cultural_challenges": [
+      "Limited representation of African American women in STEM",
+      "Racial and gender discrimination"
+    ],
+    "cultural_contributions": "Broke barriers for African American women in space exploration and became a role model for diversity in STEM"
+  },
+  "verified": true
+}

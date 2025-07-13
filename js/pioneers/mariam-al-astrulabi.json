@@ -1,0 +1,168 @@
+{
+  "name": "Mariam Al-Astrulabi",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "950",
+  "deathDate": "1000",
+  "country": "Syria",
+  "fields": [
+    "Astronomy",
+    "Engineering"
+  ],
+  "roles": [
+    "Astronomer",
+    "Instrument Maker"
+  ],
+  "quote": "The stars guide us to knowledge beyond our earthly bounds.",
+  "summary": "Medieval astronomer and instrument maker who created sophisticated astrolabes for celestial navigation.",
+  "shortDescription": "Mariam Al-Astrulabi was a medieval astronomer and instrument maker who created sophisticated astrolabes for celestial navigation. Her contributions to Islamic Golden Age astronomy laid the foundation for astronomical instrument making. Her work demonstrates how women contributed to scientific advancement during the medieval period and helped develop the tools that enabled navigation and astronomical observation.",
+  "detailed_description": {
+    "early_life": "Born in Aleppo, Syria during the Islamic Golden Age, Mariam was raised in a family of instrument makers. She learned the craft of creating astrolabes and other astronomical instruments from her father.",
+    "stem_journey": "Mariam became a master instrument maker, creating sophisticated astrolabes for celestial navigation and astronomical observation. Her work contributed to the advancement of Islamic astronomy during the medieval period.",
+    "challenges": "Faced gender barriers in medieval Islamic society and had to overcome expectations that women shouldn't pursue scientific instrument making. She worked in a male-dominated field during the medieval period.",
+    "achievements": "Created advanced astrolabes for navigation, pioneered astronomical instrument making, and contributed significantly to Islamic Golden Age astronomy. Her instruments were used for navigation and astronomical calculations.",
+    "legacy": "Mariam opened doors for women in medieval science and instrument making. Her work on astrolabes helped advance navigation and astronomical observation during the Islamic Golden Age."
+  },
+  "achievements": [
+    "Created advanced astrolabes for navigation",
+    "Pioneered astronomical instrument making",
+    "Contributed to Islamic Golden Age astronomy"
+  ],
+  "awards": [
+    "Recognition in Islamic Golden Age astronomy",
+    "Master instrument maker status"
+  ],
+  "publications": [],
+  "education": [
+    {
+      "degree": "Apprenticeship",
+      "field": "Instrument Making",
+      "institution": "Family workshop"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 950,
+      "event": "Born in Aleppo, Syria"
+    },
+    {
+      "year": 970,
+      "event": "Began learning instrument making"
+    },
+    {
+      "year": 980,
+      "event": "Created first astrolabes"
+    },
+    {
+      "year": 1000,
+      "event": "Died in Aleppo"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in medieval society",
+    "Limited opportunities for women in science",
+    "Working in male-dominated field"
+  ],
+  "impact": "Pioneered astronomical instrument making and contributed to Islamic Golden Age astronomy.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Mariam Al-Astrulabi: Medieval Instrument Maker",
+      "url": "https://www.britannica.com/technology/astrolabe"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mariam_al-Astrulabi"
+    }
+  ],
+  "mentorship": "Inspired future generations of women in instrument making and astronomy through her craftsmanship.",
+  "fun_fact": "Mariam's astrolabes were so precise that they were used for navigation and astronomical calculations throughout the Islamic world.",
+  "career_path": {
+    "first_job": "Apprentice instrument maker",
+    "career_highlights": [
+      "Master astrolabe maker",
+      "Contributor to Islamic astronomy",
+      "Pioneer in astronomical instruments"
+    ],
+    "advice_for_students": "Learn traditional crafts and combine them with scientific knowledge. Precision and attention to detail are essential in instrument making."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Islamic Science and Engineering",
+      "The History of Astronomical Instruments"
+    ],
+    "websites": [
+      "astronomy.com",
+      "islamicscience.org",
+      "museumofislamicart.org"
+    ],
+    "programs": [
+      "Astronomy clubs",
+      "Traditional crafts workshops"
+    ],
+    "advice": "Study both traditional crafts and modern science. The best instruments combine precision engineering with practical applications."
+  },
+  "challenges": {
+    "academic": [
+      "Limited educational opportunities for women"
+    ],
+    "professional": [
+      "Gender barriers in medieval science"
+    ],
+    "personal": [
+      "Working in male-dominated field"
+    ],
+    "how_overcame": "Mastered her craft through dedication and proved the value of women's contributions to instrument making"
+  },
+  "education_details": {
+    "high_school": "Family apprenticeship",
+    "college_major": "Instrument making",
+    "key_courses": [
+      "Astronomical Instrument Making",
+      "Mathematics",
+      "Astronomy"
+    ],
+    "study_tips": "Learn through hands-on practice and careful observation. Precision is key in instrument making."
+  },
+  "modern_impact": {
+    "current_applications": "Her astrolabe designs influence modern astronomical instruments",
+    "companies_using_her_work": [
+      "Museums and educational institutions",
+      "Historical instrument collections"
+    ],
+    "future_implications": "Her work continues to inspire the study of historical astronomical instruments"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Astronomy",
+      "Instrument making",
+      "Mathematics"
+    ],
+    "family_background": "Syrian instrument making family",
+    "hobbies": [
+      "Creating astronomical instruments",
+      "Studying celestial navigation"
+    ],
+    "personality_traits": [
+      "Precise",
+      "Dedicated",
+      "Skilled",
+      "Pioneering"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Syrian",
+    "cultural_influences": [
+      "Islamic Golden Age",
+      "Syrian scientific tradition",
+      "Medieval Islamic culture"
+    ],
+    "cultural_challenges": [
+      "Gender roles in medieval Islamic society",
+      "Limited opportunities for women in science"
+    ],
+    "cultural_contributions": "Demonstrated that women could excel in scientific instrument making during the Islamic Golden Age"
+  },
+  "verified": true
+}

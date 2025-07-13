@@ -1,0 +1,52 @@
+{
+  "name": "Hypatia",
+  "photo": "./images/hypatia.jpg",
+  "birthDate": "350",
+  "deathDate": "415",
+  "country": "Egypt",
+  "fields": [
+    "Mathematics",
+    "Astronomy",
+    "Philosophy"
+  ],
+  "roles": [
+    "Mathematician",
+    "Astronomer",
+    "Philosopher"
+  ],
+  "quote": "Reserve your right to think, for even to think wrongly is better than not to think at all.",
+  "summary": "Ancient Greek mathematician, astronomer, and philosopher who was one of the first women to study and teach mathematics.",
+  "shortDescription": "Hypatia was an ancient Greek mathematician, astronomer, and philosopher who lived in Alexandria, Egypt. She was one of the first women to study and teach mathematics, astronomy, and philosophy. Hypatia invented the astrolabe and hydrometer, tools still used in astronomy and science today. Her work helped preserve ancient knowledge and she became a symbol of learning and wisdom in a time when women's education was rare.",
+  "achievements": [
+    "Invented the astrolabe for astronomical measurements",
+    "Invented the hydrometer for measuring liquid density",
+    "One of the first women to teach mathematics",
+    "Preserved and commented on ancient mathematical texts"
+  ],
+  "awards": [],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Mathematics and Astronomy",
+      "institution": "Library of Alexandria"
+    }
+  ],
+  "impact": "Preserved ancient mathematical knowledge and pioneered women's participation in science.",
+  "fun_fact": "Hypatia was the head of the Neoplatonist school in Alexandria and taught students from all over the ancient world.",
+  "career_path": {
+    "first_job": "Teacher at the Library of Alexandria",
+    "career_highlights": [
+      "Became head of the Neoplatonist school",
+      "Invented scientific instruments",
+      "Wrote commentaries on mathematical texts"
+    ],
+    "advice_for_students": "Never stop learning and questioning. Knowledge is the most powerful tool you have."
+  },
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hypatia"
+    }
+  ],
+  "verified": true
+}

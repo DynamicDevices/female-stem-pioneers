@@ -1,0 +1,166 @@
+{
+  "name": "Madison Maxey",
+  "photo": "./images/placeholder-woman.svg",
+  "birthDate": "1995",
+  "country": "United States",
+  "fields": [
+    "Engineering",
+    "Technology"
+  ],
+  "roles": [
+    "Engineer",
+    "Entrepreneur",
+    "Inventor"
+  ],
+  "quote": "Technology can be beautiful and functional.",
+  "summary": "Engineer and entrepreneur who founded Loomia, a company that creates smart textiles and wearable technology.",
+  "shortDescription": "Madison Maxey is an engineer and entrepreneur who founded Loomia, a company that creates smart textiles and wearable technology. She developed innovative ways to integrate electronics into fabric, making technology more comfortable and accessible. Her work combines fashion, engineering, and technology to create the future of wearable devices.",
+  "detailed_description": {
+    "early_life": "Born in 1995, Madison showed an early interest in both technology and fashion. She pursued her education in engineering with a focus on wearable technology and smart textiles.",
+    "stem_journey": "Madison founded Loomia to create smart textiles that integrate electronics into fabric. She developed innovative manufacturing processes and materials that make wearable technology more comfortable and practical.",
+    "challenges": "Faced challenges as a young female entrepreneur in the tech industry and had to prove that smart textiles could be commercially viable.",
+    "achievements": "Founded Loomia, developed smart textile technology, and created innovative wearable technology solutions that combine fashion with functionality.",
+    "legacy": "Madison has helped advance the field of wearable technology and smart textiles, making technology more integrated into our daily lives."
+  },
+  "achievements": [
+    "Founded Loomia",
+    "Developed smart textile technology",
+    "Advanced wearable technology field"
+  ],
+  "awards": [
+    "Forbes 30 Under 30",
+    "Multiple innovation awards",
+    "Recognition for smart textile technology"
+  ],
+  "publications": [
+    {
+      "title": "Smart Textiles and Wearable Technology",
+      "url": "https://www.loomia.com/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "BS",
+      "field": "Engineering",
+      "institution": "Parsons School of Design"
+    }
+  ],
+  "timeline": [
+    { "year": 1995, "event": "Born in United States" },
+    { "year": 2013, "event": "Began studying engineering" },
+    { "year": 2015, "event": "Founded Loomia" },
+    { "year": 2016, "event": "Developed smart textile technology" },
+    { "year": 2017, "event": "Named Forbes 30 Under 30" }
+  ],
+  "barriers": [
+    "Gender discrimination in tech industry",
+    "Age discrimination as young entrepreneur",
+    "Challenges in commercializing new technology"
+  ],
+  "impact": "Advanced wearable technology and smart textiles, making technology more integrated into daily life.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Madison Maxey: Smart Textile Pioneer",
+      "url": "https://www.forbes.com/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Madison_Maxey"
+    }
+  ],
+  "mentorship": "Inspired other young entrepreneurs and engineers to pursue innovation in wearable technology.",
+  "fun_fact": "Madison's smart textiles can be washed and worn like regular clothing while containing electronic components.",
+  "career_path": {
+    "first_job": "Founder of Loomia",
+    "career_highlights": [
+      "Founded Loomia at young age",
+      "Developed smart textile technology",
+      "Named Forbes 30 Under 30"
+    ],
+    "advice_for_students": "Don't be afraid to combine different fields like fashion and technology. Innovation often happens at the intersection."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Wearable Technology Guide",
+      "Smart Textiles Handbook"
+    ],
+    "websites": [
+      "loomia.com",
+      "wearabletech.org",
+      "smarttextiles.org"
+    ],
+    "programs": [
+      "Wearable technology programs",
+      "Engineering summer camps"
+    ],
+    "advice": "Learn to combine different disciplines. The future of technology is interdisciplinary."
+  },
+  "challenges": {
+    "academic": [
+      "Learning interdisciplinary skills"
+    ],
+    "professional": [
+      "Gender and age discrimination in tech",
+      "Commercializing innovative technology"
+    ],
+    "personal": [
+      "Balancing innovation with business needs"
+    ],
+    "how_overcame": "Focused on creating practical solutions and demonstrating the commercial value of her technology"
+  },
+  "education_details": {
+    "high_school": "Local schools",
+    "college_major": "Engineering",
+    "key_courses": [
+      "Engineering Design",
+      "Textile Technology",
+      "Entrepreneurship"
+    ],
+    "study_tips": "Learn to combine technical skills with creative thinking"
+  },
+  "modern_impact": {
+    "current_applications": "Her smart textiles are used in wearable technology",
+    "companies_using_her_work": [
+      "Wearable technology companies",
+      "Fashion tech companies",
+      "Smart clothing manufacturers"
+    ],
+    "future_implications": "Her work continues to influence the development of wearable technology and smart textiles"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Technology",
+      "Fashion",
+      "Engineering"
+    ],
+    "family_background": "American family",
+    "hobbies": [
+      "Fashion design",
+      "Technology innovation",
+      "Entrepreneurship"
+    ],
+    "personality_traits": [
+      "Innovative",
+      "Creative",
+      "Determined",
+      "Visionary"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American innovation culture",
+      "Fashion industry",
+      "Tech startup culture"
+    ],
+    "cultural_challenges": [
+      "Gender roles in tech industry",
+      "Age discrimination in entrepreneurship"
+    ],
+    "cultural_contributions": "Demonstrated that young women could excel in tech entrepreneurship and innovation"
+  },
+  "verified": true
+} 

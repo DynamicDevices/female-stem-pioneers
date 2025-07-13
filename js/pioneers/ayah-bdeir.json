@@ -1,0 +1,171 @@
+{
+  "name": "Ayah Bdeir",
+  "photo": "./images/placeholder-woman.svg",
+  "birthDate": "1982",
+  "country": "Lebanon",
+  "fields": [
+    "Engineering",
+    "Technology"
+  ],
+  "roles": [
+    "Engineer",
+    "Inventor",
+    "Entrepreneur"
+  ],
+  "quote": "Making invention accessible to everyone.",
+  "summary": "Engineer and inventor who created littleBits, a system of electronic building blocks that makes learning about technology fun and creative for everyone.",
+  "shortDescription": "Ayah Bdeir is an engineer and inventor who created littleBits, a system of electronic building blocks that makes learning about technology fun and creative for everyone. She founded littleBits to democratize invention and make electronics accessible to people of all ages and backgrounds. Her work has inspired millions of students to explore STEM through hands-on learning.",
+  "detailed_description": {
+    "early_life": "Born in 1982 in Lebanon, Ayah showed an early interest in technology and creativity. She moved to the United States to pursue her education in engineering and computer science.",
+    "stem_journey": "Ayah earned degrees in engineering and computer science, then founded littleBits to make electronics and invention accessible to everyone. She created a platform that allows people to build electronic inventions without needing technical expertise.",
+    "challenges": "Faced challenges as a woman in engineering and entrepreneurship. Had to overcome stereotypes and prove that technology could be made accessible and fun for everyone.",
+    "achievements": "Founded littleBits, created electronic building blocks for education, and inspired millions of students to explore STEM through hands-on learning.",
+    "legacy": "Ayah has democratized invention and made electronics accessible to people of all ages and backgrounds. Her work continues to inspire the next generation of inventors."
+  },
+  "achievements": [
+    "Founded littleBits",
+    "Created electronic building blocks for education",
+    "Inspired millions of students in STEM"
+  ],
+  "awards": [
+    "MIT Technology Review Innovator Under 35",
+    "Fast Company Most Creative People",
+    "Numerous innovation and entrepreneurship awards"
+  ],
+  "publications": [
+    {
+      "title": "Making Invention Accessible",
+      "url": "https://www.littlebits.com/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "MS",
+      "field": "Computer Science",
+      "institution": "MIT"
+    },
+    {
+      "degree": "BS",
+      "field": "Engineering",
+      "institution": "American University of Beirut"
+    }
+  ],
+  "timeline": [
+    { "year": 1982, "event": "Born in Lebanon" },
+    { "year": 2004, "event": "Graduated from American University of Beirut" },
+    { "year": 2006, "event": "Earned MS from MIT" },
+    { "year": 2011, "event": "Founded littleBits" },
+    { "year": 2019, "event": "littleBits acquired by Sphero" }
+  ],
+  "barriers": [
+    "Gender discrimination in engineering",
+    "Challenges as a female entrepreneur",
+    "Stereotypes about women in technology"
+  ],
+  "impact": "Democratized invention and made electronics accessible to millions of people worldwide.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Ayah Bdeir: Making Invention Accessible",
+      "url": "https://www.fastcompany.com/company/littlebits"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ayah_Bdeir"
+    }
+  ],
+  "mentorship": "Inspired and mentored countless students and entrepreneurs through her work in democratizing invention.",
+  "fun_fact": "Ayah's littleBits have been used in over 150 countries and by millions of students worldwide.",
+  "career_path": {
+    "first_job": "Software engineer",
+    "career_highlights": [
+      "Founded littleBits in 2011",
+      "Created electronic building blocks",
+      "Inspired millions in STEM education"
+    ],
+    "advice_for_students": "Technology should be accessible to everyone. Don't be afraid to make things that make learning fun."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Invent to Learn by Sylvia Martinez",
+      "The Art of Tinkering"
+    ],
+    "websites": [
+      "littlebits.com",
+      "makezine.com",
+      "instructables.com"
+    ],
+    "programs": [
+      "Maker education programs",
+      "Electronics summer camps"
+    ],
+    "advice": "Start with simple projects and build up. Invention is for everyone, not just engineers."
+  },
+  "challenges": {
+    "academic": [
+      "Gender barriers in engineering education"
+    ],
+    "professional": [
+      "Challenges as a female entrepreneur",
+      "Breaking into male-dominated tech industry"
+    ],
+    "personal": [
+      "Balancing innovation with business needs"
+    ],
+    "how_overcame": "Focused on creating value and making technology accessible to everyone"
+  },
+  "education_details": {
+    "high_school": "Schools in Lebanon",
+    "college_major": "Engineering",
+    "key_courses": [
+      "Computer Science",
+      "Engineering Design",
+      "Entrepreneurship"
+    ],
+    "study_tips": "Learn to make technology accessible and user-friendly"
+  },
+  "modern_impact": {
+    "current_applications": "Her littleBits are used in education worldwide",
+    "companies_using_her_work": [
+      "Educational institutions",
+      "Maker spaces",
+      "STEM education programs"
+    ],
+    "future_implications": "Her work continues to inspire the democratization of invention and technology education"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Technology",
+      "Creativity",
+      "Making things"
+    ],
+    "family_background": "Lebanese family",
+    "hobbies": [
+      "Invention",
+      "Teaching",
+      "Entrepreneurship"
+    ],
+    "personality_traits": [
+      "Innovative",
+      "Determined",
+      "Inclusive",
+      "Visionary"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Lebanese",
+    "cultural_influences": [
+      "Lebanese innovation tradition",
+      "American entrepreneurial culture",
+      "MIT innovation ecosystem"
+    ],
+    "cultural_challenges": [
+      "Gender roles in Middle Eastern culture",
+      "Breaking into American tech industry"
+    ],
+    "cultural_contributions": "Demonstrated that Middle Eastern women could excel in technology entrepreneurship and education"
+  },
+  "verified": true
+} 

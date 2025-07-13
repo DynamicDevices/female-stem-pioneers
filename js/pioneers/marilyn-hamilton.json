@@ -1,0 +1,179 @@
+{
+  "name": "Marilyn Hamilton",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "1949",
+  "country": "United States",
+  "fields": [
+    "Engineering",
+    "Invention"
+  ],
+  "roles": [
+    "Engineer",
+    "Inventor",
+    "Athlete"
+  ],
+  "quote": "Innovation is born from necessity and determination.",
+  "summary": "Inventor of the lightweight sports wheelchair, enabling greater mobility for people with disabilities.",
+  "shortDescription": "Marilyn Hamilton invented the lightweight sports wheelchair, helping people with disabilities to be more active and independent. Her invention changed the world of adaptive sports.",
+  "detailed_description": {
+    "early_life": "Born in 1949, Marilyn Hamilton was an active athlete who loved outdoor sports like hang gliding. Her life changed dramatically when she became paralyzed in a hang gliding accident.",
+    "stem_journey": "After her accident, Marilyn refused to let her disability limit her. She used her engineering background to design a lightweight sports wheelchair that would allow her and others to continue being active.",
+    "challenges": "As a woman with a disability in engineering, Marilyn faced both gender barriers and accessibility challenges. She had to overcome physical limitations while pursuing her engineering goals.",
+    "achievements": "Marilyn invented the lightweight sports wheelchair and founded Quickie Wheelchairs. Her invention revolutionized adaptive sports and mobility for people with disabilities.",
+    "legacy": "Marilyn's work has enabled countless people with disabilities to participate in sports and lead active lives, transforming the field of adaptive technology."
+  },
+  "achievements": [
+    "Invented lightweight sports wheelchair",
+    "Founded Quickie Wheelchairs company",
+    "Revolutionized adaptive sports technology",
+    "Enabled greater mobility for people with disabilities"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "Adaptive sports wheelchair technology",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Engineering",
+      "field": "Mechanical Engineering",
+      "institution": "University of California"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1949,
+      "event": "Born in United States"
+    },
+    {
+      "year": 1978,
+      "event": "Hang gliding accident left her paralyzed"
+    },
+    {
+      "year": 1979,
+      "event": "Invented lightweight sports wheelchair"
+    },
+    {
+      "year": 1980,
+      "event": "Founded Quickie Wheelchairs"
+    }
+  ],
+  "barriers": [
+    "Faced physical challenges after paralysis",
+    "Overcame gender barriers in engineering",
+    "Had to adapt to life with disability"
+  ],
+  "impact": "Revolutionized adaptive sports and mobility technology for people with disabilities.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Marilyn Hamilton: Adaptive Technology Pioneer",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "references": [
+    {
+      "title": "Smithsonian Lemelson Center: Marilyn Hamilton",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "mentorship": "Inspired people with disabilities to pursue engineering and adaptive sports.",
+  "fun_fact": "Marilyn continued to participate in sports after her accident, including wheelchair tennis and basketball.",
+  "career_path": {
+    "first_job": "Engineer before her accident",
+    "career_highlights": [
+      "Invented revolutionary adaptive technology",
+      "Founded successful wheelchair company",
+      "Continued athletic pursuits after disability"
+    ],
+    "advice_for_students": "Don't let any obstacle stop you from pursuing your dreams. Sometimes the biggest challenges lead to the most important innovations."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Adaptive Sports Medicine",
+      "Engineering for Accessibility"
+    ],
+    "websites": [
+      "adaptivesports.org",
+      "wheelchairtennis.org",
+      "engineering.org"
+    ],
+    "programs": [
+      "Adaptive sports programs",
+      "Engineering for accessibility",
+      "Disability advocacy groups"
+    ],
+    "advice": "Learn about accessibility and inclusive design. The best engineers solve problems for everyone."
+  },
+  "challenges": {
+    "academic": [
+      "Adapting to engineering studies after paralysis"
+    ],
+    "professional": [
+      "Breaking into engineering as woman with disability",
+      "Starting business while managing disability"
+    ],
+    "personal": [
+      "Adjusting to life with paralysis",
+      "Maintaining independence and mobility"
+    ],
+    "how_overcame": "Used engineering skills to solve her own mobility challenges, then helped others"
+  },
+  "education_details": {
+    "high_school": "Strong foundation in mathematics and science",
+    "college_major": "Mechanical Engineering",
+    "key_courses": [
+      "Mechanical Engineering",
+      "Design",
+      "Materials Science",
+      "Biomechanics"
+    ],
+    "study_tips": "Focus on practical applications and solving real-world problems"
+  },
+  "modern_impact": {
+    "current_applications": "Her wheelchair technology continues to be used in adaptive sports worldwide",
+    "companies_using_her_work": [
+      "Adaptive sports organizations",
+      "Wheelchair manufacturers",
+      "Rehabilitation centers"
+    ],
+    "future_implications": "Her work inspires inclusive design and accessibility in engineering"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Sports",
+      "Engineering",
+      "Outdoor activities",
+      "Hang gliding"
+    ],
+    "family_background": "Supportive family that encouraged independence",
+    "hobbies": [
+      "Wheelchair tennis",
+      "Wheelchair basketball",
+      "Engineering design"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Resilient",
+      "Innovative",
+      "Athletic"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American innovation culture",
+      "Disability rights movement",
+      "Adaptive sports community"
+    ],
+    "cultural_challenges": [
+      "Gender barriers in engineering",
+      "Disability discrimination",
+      "Limited accessibility in sports"
+    ],
+    "cultural_contributions": "Pioneered American leadership in adaptive technology and inclusive sports"
+  },
+  "verified": true
+}

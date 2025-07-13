@@ -1,0 +1,187 @@
+{
+  "name": "Valentina Tereshkova",
+  "photo": "./images/valentina-tereshkova.jpg",
+  "birthDate": "1937",
+  "country": "Soviet Union/Russia",
+  "fields": [
+    "Aerospace Engineering",
+    "Astronautics"
+  ],
+  "roles": [
+    "Cosmonaut",
+    "Engineer",
+    "Politician"
+  ],
+  "quote": "If women can be railroad workers in Russia, why can't they fly in space?",
+  "summary": "First woman in space, completing 48 orbits of Earth in 1963 aboard Vostok 6.",
+  "shortDescription": "Valentina Tereshkova was the first woman in space, flying aboard Vostok 6 in 1963 and completing 48 orbits of Earth. She was selected from over 400 applicants and became a symbol of women's capabilities in space exploration. Her historic flight proved that women could handle the physical and mental challenges of space travel, opening the door for future female astronauts and cosmonauts.",
+  "detailed_description": {
+    "early_life": "Born in 1937 in a small village in Russia, Valentina worked in a textile factory and was an amateur parachutist. She was selected for cosmonaut training from over 400 applicants.",
+    "stem_journey": "Valentina was chosen for the Soviet space program and underwent intensive training in engineering, physics, and space technology. She became the first woman to fly in space in 1963.",
+    "challenges": "Faced skepticism about women's ability to handle spaceflight, had to prove herself in a male-dominated field, and dealt with the physical and mental demands of space travel.",
+    "achievements": "First woman in space, completed 48 orbits of Earth, spent nearly 3 days in space, and became a symbol of women's capabilities in space exploration.",
+    "legacy": "Proved that women could handle spaceflight and inspired generations of women to pursue careers in aerospace and engineering."
+  },
+  "achievements": [
+    "First woman in space (1963)",
+    "Completed 48 orbits of Earth",
+    "Spent nearly 3 days in space",
+    "Youngest woman to fly in space (26 years old)"
+  ],
+  "awards": [
+    "Hero of the Soviet Union",
+    "Order of Lenin",
+    "Gold Star Medal"
+  ],
+  "publications": [
+    {
+      "title": "The First Woman in Space",
+      "url": "https://www.nasa.gov/multimedia/imagegallery/Image_Feature_1083.html"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Honorary Doctorate",
+      "field": "Engineering",
+      "institution": "Zhukovsky Air Force Engineering Academy"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1961,
+      "event": "Selected for cosmonaut training"
+    },
+    {
+      "year": 1963,
+      "event": "First woman in space aboard Vostok 6"
+    },
+    {
+      "year": 1963,
+      "event": "Completed 48 orbits of Earth"
+    },
+    {
+      "year": 1966,
+      "event": "Graduated from Zhukovsky Air Force Engineering Academy"
+    }
+  ],
+  "barriers": [
+    "Skepticism about women's ability to handle spaceflight",
+    "Male-dominated aerospace field",
+    "Physical and mental demands of space travel"
+  ],
+  "impact": "Proved that women could handle spaceflight and inspired generations of women to pursue careers in aerospace and engineering.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Valentina Tereshkova: First Woman in Space",
+      "url": "https://www.nasa.gov/multimedia/imagegallery/Image_Feature_1083.html"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Valentina_Tereshkova"
+    },
+    {
+      "title": "NASA",
+      "url": "https://www.nasa.gov/multimedia/imagegallery/Image_Feature_1083.html"
+    }
+  ],
+  "mentorship": "Inspired generations of women to pursue careers in aerospace and engineering.",
+  "fun_fact": "Valentina Tereshkova was only 26 years old when she became the first woman in space, making her the youngest woman to fly in space.",
+  "career_path": {
+    "first_job": "Textile factory worker",
+    "career_highlights": [
+      "First woman in space",
+      "Completed 48 orbits of Earth",
+      "Became aerospace engineer"
+    ],
+    "advice_for_students": "Don't let anyone tell you what you can't do. If you can dream it, you can achieve it."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Space: 23 Stories of First Flights, Scientific Missions, and Gravity-Breaking Adventures",
+      "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race"
+    ],
+    "websites": [
+      "nasa.gov",
+      "space.com",
+      "womeninspace.org"
+    ],
+    "programs": [
+      "Space camps",
+      "Aerospace engineering programs",
+      "Women in STEM mentorship"
+    ],
+    "advice": "Follow your dreams and don't let gender stereotypes hold you back. Space is for everyone."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal education in aerospace"
+    ],
+    "professional": [
+      "Male-dominated aerospace field",
+      "Skepticism about women in space"
+    ],
+    "personal": [
+      "Physical demands of space travel",
+      "Pressure of being the first woman in space"
+    ],
+    "how_overcame": "Used determination and training to prove women could handle spaceflight"
+  },
+  "education_details": {
+    "high_school": "Worked in textile factory",
+    "college_major": "Self-taught in aerospace",
+    "graduate_school": "Zhukovsky Air Force Engineering Academy",
+    "key_courses": [
+      "Aerospace Engineering",
+      "Physics",
+      "Space Technology",
+      "Parachuting"
+    ],
+    "study_tips": "Combine theoretical knowledge with practical skills and physical training"
+  },
+  "modern_impact": {
+    "current_applications": "Her flight proved women can handle spaceflight, leading to more women astronauts",
+    "companies_using_her_work": [
+      "NASA",
+      "Space agencies worldwide",
+      "Aerospace companies"
+    ],
+    "future_implications": "Inspired more women to pursue careers in space exploration and aerospace engineering"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Parachuting",
+      "Aviation",
+      "Space exploration",
+      "Engineering"
+    ],
+    "family_background": "Working-class family",
+    "hobbies": [
+      "Parachuting",
+      "Reading about space",
+      "Engineering"
+    ],
+    "personality_traits": [
+      "Brave",
+      "Determined",
+      "Curious",
+      "Pioneering"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Russian",
+    "cultural_influences": [
+      "Soviet space program",
+      "Russian engineering tradition",
+      "Working-class background"
+    ],
+    "cultural_challenges": [
+      "Gender barriers in Soviet society",
+      "Working-class background vs. elite space program"
+    ],
+    "cultural_contributions": "Broke barriers for women in space exploration and inspired women worldwide"
+  },
+  "verified": true
+}

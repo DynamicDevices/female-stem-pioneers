@@ -1,0 +1,53 @@
+{
+  "name": "Chien-Shiung Wu",
+  "photo": "./images/chien-shiung-wu.jpg",
+  "birthDate": "1912",
+  "deathDate": "1997",
+  "country": "China/United States",
+  "fields": [
+    "Physics",
+    "Nuclear Physics"
+  ],
+  "roles": [
+    "Physicist",
+    "Professor"
+  ],
+  "quote": "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
+  "summary": "Known as the 'First Lady of Physics' for her groundbreaking work in nuclear physics.",
+  "shortDescription": "Chien-Shiung Wu was a brilliant physicist known as the 'First Lady of Physics.' She disproved a fundamental law of physics called the Law of Conservation of Parity, which earned her colleagues the Nobel Prize. Despite her crucial contribution, she wasn't included in the award, highlighting the challenges women faced in science. Wu's work helped advance our understanding of the universe and opened doors for women in physics.",
+  "achievements": [
+    "Disproved the Law of Conservation of Parity",
+    "Pioneered research in nuclear physics",
+    "Developed the Wu experiment"
+  ],
+  "awards": [
+    "National Medal of Science (1975)",
+    "Wolf Prize in Physics (1978)",
+    "Comstock Prize in Physics (1964)"
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Physics",
+      "institution": "University of California, Berkeley"
+    }
+  ],
+  "impact": "Revolutionized nuclear physics and paved the way for women in the field.",
+  "fun_fact": "Wu's parity violation experiment is considered one of the most important physics experiments of the 20th century.",
+  "career_path": {
+    "first_job": "Research assistant at University of California, Berkeley",
+    "career_highlights": [
+      "Joined Manhattan Project during WWII",
+      "Conducted the Wu experiment in 1956",
+      "Conducted groundbreaking parity violation experiment"
+    ],
+    "advice_for_students": "Don't let anyone tell you what you can't do. Physics is for everyone who is curious about how the universe works."
+  },
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu"
+    }
+  ],
+  "verified": true
+}

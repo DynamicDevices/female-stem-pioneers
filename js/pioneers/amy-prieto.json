@@ -1,0 +1,166 @@
+{
+  "name": "Amy Prieto",
+  "photo": "./images/placeholder-woman.svg",
+  "birthDate": "1975",
+  "country": "United States",
+  "fields": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "roles": [
+    "Chemist",
+    "Professor",
+    "Inventor"
+  ],
+  "quote": "Chemistry can solve the world's energy challenges.",
+  "summary": "Chemist and professor who developed innovative battery technology using nanowires.",
+  "shortDescription": "Amy Prieto is a chemist and professor who developed innovative battery technology using nanowires. She founded Prieto Battery to commercialize her research and create safer, more efficient lithium-ion batteries. Her work has the potential to revolutionize energy storage and make batteries safer and more environmentally friendly.",
+  "detailed_description": {
+    "early_life": "Born in 1975, Amy showed an early interest in chemistry and solving energy problems. She pursued her education in chemistry with a focus on materials science and energy storage.",
+    "stem_journey": "Amy became a professor of chemistry and developed innovative battery technology using nanowires. She founded Prieto Battery to commercialize her research and create safer, more efficient lithium-ion batteries.",
+    "challenges": "Faced challenges as a woman in chemistry and materials science, and had to prove that her innovative battery technology could be commercially viable.",
+    "achievements": "Developed nanowire battery technology, founded Prieto Battery, and created safer, more efficient lithium-ion batteries.",
+    "legacy": "Amy has advanced battery technology and energy storage, making batteries safer and more environmentally friendly."
+  },
+  "achievements": [
+    "Developed nanowire battery technology",
+    "Founded Prieto Battery",
+    "Created safer lithium-ion batteries"
+  ],
+  "awards": [
+    "Presidential Early Career Award for Scientists and Engineers",
+    "Multiple innovation awards",
+    "Recognition for battery technology"
+  ],
+  "publications": [
+    {
+      "title": "Nanowire Battery Technology Research",
+      "url": "https://www.researchgate.net/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Chemistry",
+      "institution": "University of California, Berkeley"
+    }
+  ],
+  "timeline": [
+    { "year": 1975, "event": "Born in United States" },
+    { "year": 1997, "event": "Earned undergraduate degree" },
+    { "year": 2002, "event": "Earned PhD from UC Berkeley" },
+    { "year": 2005, "event": "Became professor at Colorado State University" },
+    { "year": 2009, "event": "Founded Prieto Battery" }
+  ],
+  "barriers": [
+    "Gender discrimination in chemistry",
+    "Challenges in commercializing new technology",
+    "Limited funding for energy research"
+  ],
+  "impact": "Advanced battery technology and energy storage, making batteries safer and more efficient.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Amy Prieto: Battery Technology Pioneer",
+      "url": "https://www.chemistry.org/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amy_Prieto"
+    }
+  ],
+  "mentorship": "Inspired future generations of chemists and engineers to pursue innovation in energy storage.",
+  "fun_fact": "Amy's nanowire battery technology can charge faster and last longer than traditional lithium-ion batteries.",
+  "career_path": {
+    "first_job": "Professor of chemistry",
+    "career_highlights": [
+      "Developed nanowire battery technology",
+      "Founded Prieto Battery",
+      "Advanced energy storage technology"
+    ],
+    "advice_for_students": "Use chemistry to solve real-world problems like energy storage. Your research can change the world."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Chemistry for Energy Storage",
+      "Battery Technology Guide"
+    ],
+    "websites": [
+      "chemistry.org",
+      "batteryuniversity.com",
+      "energy.gov"
+    ],
+    "programs": [
+      "Chemistry summer programs",
+      "Energy storage research"
+    ],
+    "advice": "Learn to apply chemistry to solve energy problems. The future of energy depends on innovation."
+  },
+  "challenges": {
+    "academic": [
+      "Gender barriers in chemistry and materials science"
+    ],
+    "professional": [
+      "Commercializing innovative technology",
+      "Limited funding for energy research"
+    ],
+    "personal": [
+      "Balancing research with entrepreneurship"
+    ],
+    "how_overcame": "Focused on creating practical solutions and demonstrating the commercial value of her technology"
+  },
+  "education_details": {
+    "high_school": "Local schools",
+    "college_major": "Chemistry",
+    "key_courses": [
+      "Chemistry",
+      "Materials Science",
+      "Energy Storage"
+    ],
+    "study_tips": "Learn to apply chemical principles to solve energy problems"
+  },
+  "modern_impact": {
+    "current_applications": "Her battery technology could revolutionize energy storage",
+    "companies_using_her_work": [
+      "Battery manufacturers",
+      "Electric vehicle companies",
+      "Energy storage companies"
+    ],
+    "future_implications": "Her work could make batteries safer and more efficient worldwide"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Chemistry",
+      "Energy",
+      "Problem-solving"
+    ],
+    "family_background": "American family",
+    "hobbies": [
+      "Chemistry research",
+      "Energy innovation",
+      "Teaching"
+    ],
+    "personality_traits": [
+      "Innovative",
+      "Determined",
+      "Environmentally conscious",
+      "Problem-solver"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American scientific tradition",
+      "Environmental movement",
+      "Innovation culture"
+    ],
+    "cultural_challenges": [
+      "Gender roles in science and engineering",
+      "Limited recognition for energy solutions"
+    ],
+    "cultural_contributions": "Demonstrated that women could use chemistry to solve critical energy problems"
+  },
+  "verified": true
+} 

@@ -1,0 +1,55 @@
+{
+  "name": "Maya Angelou",
+  "photo": "./images/maya-angelou.jpg",
+  "birthDate": "1928",
+  "deathDate": "2014",
+  "country": "United States",
+  "fields": [
+    "Literature",
+    "Education"
+  ],
+  "roles": [
+    "Poet",
+    "Author",
+    "Professor"
+  ],
+  "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+  "summary": "Renowned poet, author, and civil rights activist who inspired millions through her writing and teaching.",
+  "shortDescription": "Maya Angelou was a celebrated poet, author, and civil rights activist who used her powerful voice to inspire change. She wrote over 30 books and became the first Black woman to write a screenplay for a major film. Maya taught at universities and used her platform to advocate for equality and education. Her work continues to inspire students to find their voice and make a difference.",
+  "achievements": [
+    "First Black woman to write a screenplay for a major film",
+    "Published over 30 books",
+    "Recited poetry at President Clinton's inauguration",
+    "Awarded Presidential Medal of Freedom"
+  ],
+  "awards": [
+    "Presidential Medal of Freedom (2011)",
+    "National Medal of Arts (2000)",
+    "Grammy Award for Best Spoken Word Album"
+  ],
+  "education": [
+    {
+      "degree": "Honorary Doctorate",
+      "field": "Literature",
+      "institution": "Multiple Universities"
+    }
+  ],
+  "impact": "Inspired generations through literature and civil rights activism.",
+  "fun_fact": "Maya Angelou spoke six languages fluently.",
+  "career_path": {
+    "first_job": "Streetcar conductor in San Francisco",
+    "career_highlights": [
+      "Published 'I Know Why the Caged Bird Sings' in 1969",
+      "Worked with Martin Luther King Jr. and Malcolm X",
+      "Became Reynolds Professor at Wake Forest University"
+    ],
+    "advice_for_students": "Find your voice and use it to tell your story. Education is the key to freedom."
+  },
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maya_Angelou"
+    }
+  ],
+  "verified": true
+}

@@ -1,0 +1,171 @@
+{
+  "name": "Henrietta Swan Leavitt",
+  "photo": "./images/henrietta-swan-leavitt.jpg",
+  "birthDate": "1868",
+  "deathDate": "1921",
+  "country": "United States",
+  "fields": [
+    "Astronomy"
+  ],
+  "roles": [
+    "Astronomer"
+  ],
+  "quote": "Since the variables are probably at nearly the same distance from the Earth, their periods are apparently associated with their actual emission of light.",
+  "summary": "Discovered the period-luminosity relationship for Cepheid variable stars, enabling measurement of cosmic distances.",
+  "shortDescription": "Henrietta Swan Leavitt discovered the relationship between the brightness and period of Cepheid variable stars, which became the key to measuring distances in the universe. Her discovery enabled Edwin Hubble to prove the existence of other galaxies.",
+  "detailed_description": {
+    "early_life": "Born in Massachusetts in 1868, Henrietta studied astronomy at Radcliffe College and graduated in 1892. She was partially deaf from an early age.",
+    "stem_journey": "Henrietta joined the Harvard College Observatory in 1893 and began studying variable stars in the Magellanic Clouds. She discovered the period-luminosity relationship for Cepheid variables.",
+    "challenges": "As a woman in astronomy, Henrietta was paid only 30 cents per hour and was not allowed to use telescopes herself. She worked as a 'computer' analyzing photographic plates.",
+    "achievements": "Discovered the period-luminosity relationship for Cepheid variables, which became the foundation for measuring cosmic distances and understanding the scale of the universe.",
+    "legacy": "Henrietta's discovery enabled astronomers to measure distances to galaxies and ultimately led to the discovery that the universe is expanding."
+  },
+  "achievements": [
+    "Discovered the period-luminosity relationship for Cepheid variables",
+    "Catalogued over 2,400 variable stars",
+    "Her work enabled measurement of cosmic distances",
+    "Foundation for understanding the scale of the universe"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "1777 Variables in the Magellanic Clouds",
+      "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt"
+    }
+  ],
+  "education": [
+    {
+      "degree": "AB",
+      "field": "Astronomy",
+      "institution": "Radcliffe College"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1893,
+      "event": "Joined Harvard College Observatory"
+    },
+    {
+      "year": 1908,
+      "event": "Published first paper on variable stars"
+    },
+    {
+      "year": 1912,
+      "event": "Discovered period-luminosity relationship"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in astronomy",
+    "Low pay (30 cents per hour)",
+    "Limited recognition for her work"
+  ],
+  "impact": "Her discovery enabled measurement of cosmic distances and understanding of the universe's scale.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Henrietta Leavitt: The Woman Who Measured the Universe",
+      "url": "https://www.biography.com/scientist/henrietta-swan-leavitt"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt"
+    },
+    {
+      "title": "Biography.com",
+      "url": "https://www.biography.com/scientist/henrietta-swan-leavitt"
+    }
+  ],
+  "mentorship": "Her work inspired generations of astronomers, though she received little recognition during her lifetime.",
+  "fun_fact": "Henrietta was paid only 30 cents per hour for her groundbreaking astronomical work.",
+  "career_path": {
+    "first_job": "Computer at Harvard College Observatory",
+    "career_highlights": [
+      "Discovered period-luminosity relationship",
+      "Catalogued over 2,400 variable stars",
+      "Published important papers on stellar photometry"
+    ],
+    "advice_for_students": "Focus on the quality of your work, even if recognition is slow to come."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "The Glass Universe by Dava Sobel",
+      "Miss Leavitt's Stars by George Johnson"
+    ],
+    "websites": [
+      "harvard.edu",
+      "radcliffe.edu"
+    ],
+    "programs": [
+      "Women in Astronomy programs",
+      "Variable star observation programs"
+    ],
+    "advice": "Learn to recognize patterns and don't underestimate the importance of careful observation."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal education opportunities for women"
+    ],
+    "professional": [
+      "Very low pay for her work",
+      "No recognition for major discoveries"
+    ],
+    "personal": [
+      "Deafness from early age",
+      "Health issues"
+    ],
+    "how_overcame": "Focused on the work itself and found satisfaction in discovery"
+  },
+  "education_details": {
+    "high_school": "Attended Oberlin College and Radcliffe College",
+    "college_major": "Astronomy",
+    "key_courses": [
+      "Astronomy",
+      "Mathematics",
+      "Photography"
+    ],
+    "study_tips": "Learn to recognize patterns and develop systematic approaches to data analysis"
+  },
+  "modern_impact": {
+    "current_applications": "Her period-luminosity relationship is still used to measure cosmic distances",
+    "companies_using_her_work": [
+      "NASA",
+      "All major observatories",
+      "Hubble Space Telescope"
+    ],
+    "future_implications": "Fundamental to understanding the expansion of the universe"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Astronomy",
+      "Mathematics",
+      "Photography"
+    ],
+    "family_background": "Daughter of a Congregational minister",
+    "hobbies": [
+      "Stargazing",
+      "Photography",
+      "Reading"
+    ],
+    "personality_traits": [
+      "Meticulous",
+      "Patient",
+      "Observant",
+      "Humble"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "Victorian era women's education",
+      "Harvard College Observatory culture"
+    ],
+    "cultural_challenges": [
+      "Gender discrimination in science",
+      "Limited recognition for women's work"
+    ],
+    "cultural_contributions": "Demonstrated that women could make fundamental contributions to astronomy despite systemic barriers"
+  },
+  "verified": true
+}

@@ -1,0 +1,183 @@
+{
+  "name": "Asima Chatterjee",
+  "photo": "./images/asima-chatterjee.jpg",
+  "birthDate": "1917",
+  "deathDate": "2006",
+  "country": "India",
+  "fields": [
+    "Chemistry",
+    "Phytomedicine"
+  ],
+  "roles": [
+    "Chemist",
+    "Professor"
+  ],
+  "quote": "Science is not a luxury but a necessity for the progress of humanity.",
+  "summary": "Indian chemist who pioneered research in medicinal plants and anti-malarial drugs.",
+  "shortDescription": "Asima Chatterjee was an Indian chemist who pioneered research in medicinal plants and anti-malarial drugs. She was the first Indian woman to receive a Doctor of Science degree and made significant contributions to organic chemistry and phytomedicine. Her work on natural products and medicinal chemistry has had lasting impact on drug discovery and traditional medicine research.",
+  "detailed_description": {
+    "early_life": "Born in Bengal, India, Asima showed exceptional academic ability from an early age. She pursued chemistry despite societal expectations for women in 1930s India, earning her doctorate from the University of Calcutta.",
+    "stem_journey": "Asima became the first Indian woman to receive a Doctor of Science degree and pioneered research in medicinal plants and natural products. She made significant contributions to organic chemistry and developed anti-malarial drugs.",
+    "challenges": "Faced gender discrimination in Indian academia and had to overcome societal expectations that limited women's roles in science. She worked in a male-dominated field during a time when few Indian women pursued advanced degrees.",
+    "achievements": "Became the first Indian woman to receive a Doctor of Science degree, pioneered research in medicinal plants and anti-malarial drugs, and made significant contributions to organic chemistry and phytomedicine.",
+    "legacy": "Asima opened doors for Indian women in chemistry and science. Her research on natural products and medicinal chemistry continues to influence drug discovery and traditional medicine research."
+  },
+  "achievements": [
+    "Pioneered research in medicinal plants",
+    "Developed anti-malarial drugs",
+    "First Indian woman to receive Doctor of Science"
+  ],
+  "awards": [
+    "Padma Bhushan (1975)",
+    "First Indian woman to receive Doctor of Science degree",
+    "Numerous scientific awards and honors"
+  ],
+  "publications": [
+    {
+      "title": "Medicinal Plants and Natural Products Research",
+      "url": "https://www.researchgate.net/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "DSc",
+      "field": "Chemistry",
+      "institution": "University of Calcutta"
+    },
+    {
+      "degree": "PhD",
+      "field": "Chemistry",
+      "institution": "University of Calcutta"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1917,
+      "event": "Born in Bengal, India"
+    },
+    {
+      "year": 1938,
+      "event": "Earned PhD from University of Calcutta"
+    },
+    {
+      "year": 1944,
+      "event": "Became first Indian woman with DSc degree"
+    },
+    {
+      "year": 1975,
+      "event": "Awarded Padma Bhushan"
+    },
+    {
+      "year": 2006,
+      "event": "Died in Kolkata"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in Indian academia",
+    "Societal expectations limiting women's roles",
+    "Limited opportunities for women in science"
+  ],
+  "impact": "Pioneered medicinal chemistry research and inspired Indian women to pursue careers in science.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Asima Chatterjee: Pioneer of Medicinal Chemistry",
+      "url": "https://www.britannica.com/biography/Asima-Chatterjee"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Asima_Chatterjee"
+    }
+  ],
+  "mentorship": "Inspired and mentored generations of Indian women in chemistry, demonstrating that women could excel in scientific research.",
+  "fun_fact": "Asima was the first Indian woman to receive a Doctor of Science degree, breaking barriers for women in Indian academia.",
+  "career_path": {
+    "first_job": "Research chemist",
+    "career_highlights": [
+      "First Indian woman with DSc degree",
+      "Pioneer in medicinal chemistry",
+      "Professor at University of Calcutta"
+    ],
+    "advice_for_students": "Pursue your passion for science regardless of societal expectations. Knowledge has no gender."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Science: 50 Fearless Pioneers",
+      "Indian Women Scientists"
+    ],
+    "websites": [
+      "chemistry.org",
+      "womeninscience.org",
+      "indianwomeninscience.org"
+    ],
+    "programs": [
+      "Chemistry summer camps",
+      "Women in STEM mentorship programs"
+    ],
+    "advice": "Follow your curiosity in science. Traditional knowledge and modern research can work together."
+  },
+  "challenges": {
+    "academic": [
+      "Limited educational opportunities for women in India"
+    ],
+    "professional": [
+      "Gender discrimination in academia"
+    ],
+    "personal": [
+      "Societal expectations for women's roles"
+    ],
+    "how_overcame": "Focused on excellence in research and demonstrated the value of women's contributions to science"
+  },
+  "education_details": {
+    "high_school": "Local schools in Bengal",
+    "college_major": "Chemistry",
+    "key_courses": [
+      "Organic Chemistry",
+      "Medicinal Chemistry",
+      "Natural Products Chemistry"
+    ],
+    "study_tips": "Connect chemistry to real-world applications, especially in medicine and natural products"
+  },
+  "modern_impact": {
+    "current_applications": "Her research on natural products influences modern drug discovery",
+    "companies_using_her_work": [
+      "Pharmaceutical companies",
+      "Research institutions worldwide"
+    ],
+    "future_implications": "Her work on medicinal plants continues to inspire natural product drug discovery"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Chemistry",
+      "Medicinal plants",
+      "Scientific research"
+    ],
+    "family_background": "Bengali intellectual family",
+    "hobbies": [
+      "Research in medicinal chemistry",
+      "Teaching and mentoring students"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Analytical",
+      "Mentoring",
+      "Pioneering"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Bengali Indian",
+    "cultural_influences": [
+      "Indian scientific tradition",
+      "Bengali intellectual culture",
+      "Traditional medicine knowledge"
+    ],
+    "cultural_challenges": [
+      "Gender roles in 1930s India",
+      "Limited opportunities for women in science"
+    ],
+    "cultural_contributions": "Bridged traditional Indian medicine knowledge with modern scientific research methods"
+  },
+  "verified": true
+}

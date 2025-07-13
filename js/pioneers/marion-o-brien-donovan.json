@@ -1,0 +1,178 @@
+{
+  "name": "Marion O'Brien Donovan",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "1917",
+  "deathDate": "1998",
+  "country": "United States",
+  "fields": [
+    "Invention"
+  ],
+  "roles": [
+    "Inventor"
+  ],
+  "quote": "I went to all the big names that you could think of and they said, 'we don't need it—no woman has asked us for that . . .' so I went into manufacturing myself.",
+  "summary": "Inventor of the waterproof diaper cover (The Boater) and other household innovations.",
+  "shortDescription": "Marion O'Brien Donovan was an inventor who created the waterproof diaper cover, making life easier for parents everywhere. She held many patents and showed that women can be successful inventors and entrepreneurs.",
+  "detailed_description": {
+    "early_life": "Born in 1917, Marion O'Brien Donovan grew up in a family that encouraged creativity and problem-solving. She showed an early talent for identifying everyday problems and finding practical solutions.",
+    "stem_journey": "Marion attended Yale University and later worked as an editor at Vogue magazine. Her experience as a mother inspired her to solve practical problems, leading to her invention of the waterproof diaper cover.",
+    "challenges": "As a woman inventor in the 1940s and 1950s, Marion faced significant barriers. Companies rejected her ideas because they didn't think women's inventions would sell, forcing her to manufacture and market her products herself.",
+    "achievements": "Marion invented the waterproof diaper cover (The Boater) and held multiple patents for household innovations. She successfully manufactured and sold her inventions, becoming a role model for women entrepreneurs.",
+    "legacy": "Marion's work paved the way for women inventors and entrepreneurs, showing that women could successfully bring their ideas to market and solve real-world problems."
+  },
+  "achievements": [
+    "Invented waterproof diaper cover (The Boater)",
+    "Held multiple patents for household innovations",
+    "Successfully manufactured and marketed her inventions",
+    "Pioneered women's entrepreneurship in invention"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "Patents for household innovations",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "education": [
+    {
+      "degree": "BA",
+      "field": "English",
+      "institution": "Yale University"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1917,
+      "event": "Born in United States"
+    },
+    {
+      "year": 1939,
+      "event": "Graduated from Yale University"
+    },
+    {
+      "year": 1949,
+      "event": "Invented waterproof diaper cover"
+    },
+    {
+      "year": 1951,
+      "event": "Patented The Boater diaper cover"
+    },
+    {
+      "year": 1998,
+      "event": "Passed away, leaving legacy of innovation"
+    }
+  ],
+  "barriers": [
+    "Faced rejection from companies due to gender bias",
+    "Had to manufacture and market inventions herself"
+  ],
+  "impact": "Revolutionized baby care and paved the way for women inventors and entrepreneurs.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Marion O'Brien Donovan: Household Innovation Pioneer",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "references": [
+    {
+      "title": "Smithsonian Lemelson Center: Marion O'Brien Donovan",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "mentorship": "Inspired future generations of women inventors and entrepreneurs through her example.",
+  "fun_fact": "Marion's invention was inspired by her frustration with leaky cloth diapers when her children were babies.",
+  "career_path": {
+    "first_job": "Editor at Vogue magazine",
+    "career_highlights": [
+      "Invented practical household solutions",
+      "Successfully marketed her inventions",
+      "Became role model for women entrepreneurs"
+    ],
+    "advice_for_students": "Don't let anyone tell you your ideas aren't valuable. If companies won't help, find a way to make it happen yourself."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women Inventors: Hidden in History",
+      "The Mom Inventors Handbook"
+    ],
+    "websites": [
+      "invent.org",
+      "womeninventors.org",
+      "patentoffice.gov"
+    ],
+    "programs": [
+      "Invention competitions",
+      "Entrepreneurship programs",
+      "Women in STEM mentorship"
+    ],
+    "advice": "Look for problems in your daily life and think about how to solve them. The best inventions solve real problems."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal education in engineering or business"
+    ],
+    "professional": [
+      "Facing rejection from companies due to gender bias",
+      "Learning to manufacture and market products"
+    ],
+    "personal": [
+      "Balancing motherhood with entrepreneurship"
+    ],
+    "how_overcame": "Used determination and practical problem-solving skills to bring inventions to market despite barriers"
+  },
+  "education_details": {
+    "high_school": "Strong foundation in English and creative thinking",
+    "college_major": "English",
+    "key_courses": [
+      "English",
+      "Creative Writing",
+      "Business",
+      "Design"
+    ],
+    "study_tips": "Develop strong communication skills and creative problem-solving abilities"
+  },
+  "modern_impact": {
+    "current_applications": "Her waterproof diaper technology influenced modern disposable diapers",
+    "companies_using_her_work": [
+      "Baby care companies",
+      "Household product manufacturers",
+      "Women entrepreneurs"
+    ],
+    "future_implications": "Her example continues to inspire women inventors and entrepreneurs"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Problem-solving",
+      "Creativity",
+      "Practical solutions",
+      "Helping others"
+    ],
+    "family_background": "Supportive family that encouraged creativity",
+    "hobbies": [
+      "Inventing",
+      "Problem-solving",
+      "Helping other parents"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Creative",
+      "Practical",
+      "Entrepreneurial"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "Post-war American innovation",
+      "Women's roles in 1940s-1950s",
+      "Household technology development"
+    ],
+    "cultural_challenges": [
+      "Gender barriers in invention and business",
+      "Limited opportunities for women entrepreneurs"
+    ],
+    "cultural_contributions": "Pioneered American women's participation in invention and entrepreneurship"
+  },
+  "verified": true
+}

@@ -1,0 +1,433 @@
+{
+  "total": 107,
+  "pioneers": [
+    {
+      "name": "Ada Lovelace",
+      "filename": "ada-lovelace.json"
+    },
+    {
+      "name": "Marie Curie",
+      "filename": "marie-curie.json"
+    },
+    {
+      "name": "Grace Hopper",
+      "filename": "grace-hopper.json"
+    },
+    {
+      "name": "Rosalind Franklin",
+      "filename": "rosalind-franklin.json"
+    },
+    {
+      "name": "Hedy Lamarr",
+      "filename": "hedy-lamarr.json"
+    },
+    {
+      "name": "Shirley Ann Jackson",
+      "filename": "shirley-ann-jackson.json"
+    },
+    {
+      "name": "Rachel Carson",
+      "filename": "rachel-carson.json"
+    },
+    {
+      "name": "Chien-Shiung Wu",
+      "filename": "chien-shiung-wu.json"
+    },
+    {
+      "name": "Sally Ride",
+      "filename": "sally-ride.json"
+    },
+    {
+      "name": "Katherine Johnson",
+      "filename": "katherine-johnson.json"
+    },
+    {
+      "name": "Caroline Keep",
+      "filename": "caroline-keep.json"
+    },
+    {
+      "name": "Mildred Dresselhaus",
+      "filename": "mildred-dresselhaus.json"
+    },
+    {
+      "name": "Flossie Wong-Staal",
+      "filename": "flossie-wong-staal.json"
+    },
+    {
+      "name": "Sophie Germain",
+      "filename": "sophie-germain.json"
+    },
+    {
+      "name": "Chieng Shih",
+      "filename": "chieng-shih.json"
+    },
+    {
+      "name": "Mary Golda Ross",
+      "filename": "mary-golda-ross.json"
+    },
+    {
+      "name": "Asima Chatterjee",
+      "filename": "asima-chatterjee.json"
+    },
+    {
+      "name": "Alice Augusta Ball",
+      "filename": "alice-augusta-ball.json"
+    },
+    {
+      "name": "Mary Somerville",
+      "filename": "mary-somerville.json"
+    },
+    {
+      "name": "Gerty Cori",
+      "filename": "gerty-cori.json"
+    },
+    {
+      "name": "Inge Lehmann",
+      "filename": "inge-lehmann.json"
+    },
+    {
+      "name": "Dorothy Mary Crowfoot Hodgkin",
+      "filename": "dorothy-mary-crowfoot-hodgkin.json"
+    },
+    {
+      "name": "Jane Goodall",
+      "filename": "jane-goodall.json"
+    },
+    {
+      "name": "Gladys West",
+      "filename": "gladys-west.json"
+    },
+    {
+      "name": "Mary Cartwright",
+      "filename": "mary-cartwright.json"
+    },
+    {
+      "name": "Caroline Herschel",
+      "filename": "caroline-herschel.json"
+    },
+    {
+      "name": "Maria Telkes",
+      "filename": "maria-telkes.json"
+    },
+    {
+      "name": "Mariam Al-Astrulabi",
+      "filename": "mariam-al-astrulabi.json"
+    },
+    {
+      "name": "Janaki Ammal",
+      "filename": "janaki-ammal.json"
+    },
+    {
+      "name": "Yvonne Brill",
+      "filename": "yvonne-brill.json"
+    },
+    {
+      "name": "Susan Solomon",
+      "filename": "susan-solomon.json"
+    },
+    {
+      "name": "Margarita Salas",
+      "filename": "margarita-salas.json"
+    },
+    {
+      "name": "Emilie du Châtelet",
+      "filename": "emilie-du-ch-telet.json"
+    },
+    {
+      "name": "Agnes Pockels",
+      "filename": "agnes-pockels.json"
+    },
+    {
+      "name": "Hertha Ayrton",
+      "filename": "hertha-ayrton.json"
+    },
+    {
+      "name": "Wangari Maathai",
+      "filename": "wangari-maathai.json"
+    },
+    {
+      "name": "Maya Angelou",
+      "filename": "maya-angelou.json"
+    },
+    {
+      "name": "Hypatia",
+      "filename": "hypatia.json"
+    },
+    {
+      "name": "Mary Anning",
+      "filename": "mary-anning.json"
+    },
+    {
+      "name": "Kalpana Chawla",
+      "filename": "kalpana-chawla.json"
+    },
+    {
+      "name": "Fabiola Gianotti",
+      "filename": "fabiola-gianotti.json"
+    },
+    {
+      "name": "Princy Johnson",
+      "filename": "princy-johnson.json"
+    },
+    {
+      "name": "Wang Zhenyi",
+      "filename": "wang-zhenyi.json"
+    },
+    {
+      "name": "Patricia Bath",
+      "filename": "patricia-bath.json"
+    },
+    {
+      "name": "Ayah Bdeir",
+      "filename": "ayah-bdeir.json"
+    },
+    {
+      "name": "Cynthia Breazeal",
+      "filename": "cynthia-breazeal.json"
+    },
+    {
+      "name": "Theresa Dankovich",
+      "filename": "theresa-dankovich.json"
+    },
+    {
+      "name": "Marion O'Brien Donovan",
+      "filename": "marion-o-brien-donovan.json"
+    },
+    {
+      "name": "Marilyn Hamilton",
+      "filename": "marilyn-hamilton.json"
+    },
+    {
+      "name": "Marjorie Stewart Joyner",
+      "filename": "marjorie-stewart-joyner.json"
+    },
+    {
+      "name": "Michelle Khine",
+      "filename": "michelle-khine.json"
+    },
+    {
+      "name": "Margaret Knight",
+      "filename": "margaret-knight.json"
+    },
+    {
+      "name": "Stephanie Kwolek",
+      "filename": "stephanie-kwolek.json"
+    },
+    {
+      "name": "Alexis Lewis",
+      "filename": "alexis-lewis.json"
+    },
+    {
+      "name": "Lisa Lindahl, Hinda Miller, Polly Palmer Smith",
+      "filename": "lisa-lindahl-hinda-miller-polly-palmer-smith.json"
+    },
+    {
+      "name": "Madison Maxey",
+      "filename": "madison-maxey.json"
+    },
+    {
+      "name": "Amy Prieto",
+      "filename": "amy-prieto.json"
+    },
+    {
+      "name": "Sharon Rogone",
+      "filename": "sharon-rogone.json"
+    },
+    {
+      "name": "Charlotte Cramer Sachs",
+      "filename": "charlotte-cramer-sachs.json"
+    },
+    {
+      "name": "Laura Shepherd",
+      "filename": "laura-shepherd.json"
+    },
+    {
+      "name": "Kavita Shukla",
+      "filename": "kavita-shukla.json"
+    },
+    {
+      "name": "Cindy Whitehead",
+      "filename": "cindy-whitehead.json"
+    },
+    {
+      "name": "Sophia Hayden",
+      "filename": "sophia-hayden.json"
+    },
+    {
+      "name": "Madam C. J. Walker",
+      "filename": "madam-c-j-walker.json"
+    },
+    {
+      "name": "Rita Levi-Montalcini",
+      "filename": "rita-levi-montalcini.json"
+    },
+    {
+      "name": "Tu Youyou",
+      "filename": "tu-youyou.json"
+    },
+    {
+      "name": "Valentina Tereshkova",
+      "filename": "valentina-tereshkova.json"
+    },
+    {
+      "name": "Ellen Ochoa",
+      "filename": "ellen-ochoa.json"
+    },
+    {
+      "name": "Mae Jemison",
+      "filename": "mae-jemison.json"
+    },
+    {
+      "name": "Barbara McClintock",
+      "filename": "barbara-mcclintock.json"
+    },
+    {
+      "name": "Dorothy Vaughan",
+      "filename": "dorothy-vaughan.json"
+    },
+    {
+      "name": "Evelyn Boyd Granville",
+      "filename": "evelyn-boyd-granville.json"
+    },
+    {
+      "name": "Annie Easley",
+      "filename": "annie-easley.json"
+    },
+    {
+      "name": "Ynes Mexia",
+      "filename": "ynes-mexia.json"
+    },
+    {
+      "name": "Sofia Kovalevskaya",
+      "filename": "sofia-kovalevskaya.json"
+    },
+    {
+      "name": "Emmy Noether",
+      "filename": "emmy-noether.json"
+    },
+    {
+      "name": "Lise Meitner",
+      "filename": "lise-meitner.json"
+    },
+    {
+      "name": "Françoise Barré-Sinoussi",
+      "filename": "fran-oise-barr-sinoussi.json"
+    },
+    {
+      "name": "Gertrude Elion",
+      "filename": "gertrude-elion.json"
+    },
+    {
+      "name": "Rosalyn Yalow",
+      "filename": "rosalyn-yalow.json"
+    },
+    {
+      "name": "Ida Noddack",
+      "filename": "ida-noddack.json"
+    },
+    {
+      "name": "Radia Perlman",
+      "filename": "radia-perlman.json"
+    },
+    {
+      "name": "Ada Yonath",
+      "filename": "ada-yonath.json"
+    },
+    {
+      "name": "Cecilia Payne-Gaposchkin",
+      "filename": "cecilia-payne-gaposchkin.json"
+    },
+    {
+      "name": "Ellen Swallow Richards",
+      "filename": "ellen-swallow-richards.json"
+    },
+    {
+      "name": "Mina Rees",
+      "filename": "mina-rees.json"
+    },
+    {
+      "name": "Maryam Mirzakhani",
+      "filename": "maryam-mirzakhani.json"
+    },
+    {
+      "name": "Maria Goeppert Mayer",
+      "filename": "maria-goeppert-mayer.json"
+    },
+    {
+      "name": "Elizabeth Blackwell",
+      "filename": "elizabeth-blackwell.json"
+    },
+    {
+      "name": "Dr. Andrea Ghez",
+      "filename": "dr-andrea-ghez.json"
+    },
+    {
+      "name": "Maria Mitchell",
+      "filename": "maria-mitchell.json"
+    },
+    {
+      "name": "Annie Jump Cannon",
+      "filename": "annie-jump-cannon.json"
+    },
+    {
+      "name": "Henrietta Swan Leavitt",
+      "filename": "henrietta-swan-leavitt.json"
+    },
+    {
+      "name": "Vera Rubin",
+      "filename": "vera-rubin.json"
+    },
+    {
+      "name": "Jocelyn Bell Burnell",
+      "filename": "jocelyn-bell-burnell.json"
+    },
+    {
+      "name": "Margaret Burbidge",
+      "filename": "margaret-burbidge.json"
+    },
+    {
+      "name": "Nancy Grace Roman",
+      "filename": "nancy-grace-roman.json"
+    },
+    {
+      "name": "Florence Nightingale",
+      "filename": "florence-nightingale.json"
+    },
+    {
+      "name": "Virginia Apgar",
+      "filename": "virginia-apgar.json"
+    },
+    {
+      "name": "Helen Taussig",
+      "filename": "helen-taussig.json"
+    },
+    {
+      "name": "Elizabeth Garrett Anderson",
+      "filename": "elizabeth-garrett-anderson.json"
+    },
+    {
+      "name": "Rebecca Lee Crumpler",
+      "filename": "rebecca-lee-crumpler.json"
+    },
+    {
+      "name": "Anandibai Joshi",
+      "filename": "anandibai-joshi.json"
+    },
+    {
+      "name": "Kadambini Ganguly",
+      "filename": "kadambini-ganguly.json"
+    },
+    {
+      "name": "Maria Sibylla Merian",
+      "filename": "maria-sibylla-merian.json"
+    },
+    {
+      "name": "Emilie du Chatelet",
+      "filename": "emilie-du-chatelet.json"
+    },
+    {
+      "name": "Sophia Louisa Jex-Blake",
+      "filename": "sophia-louisa-jex-blake.json"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "name": "Wang Zhenyi",
+  "photo": "./images/wang-zhenyi.jpg",
+  "birthDate": "1768",
+  "deathDate": "1797",
+  "country": "China",
+  "fields": [
+    "Astronomy",
+    "Mathematics"
+  ],
+  "roles": [
+    "Scientist",
+    "Mathematician",
+    "Poet"
+  ],
+  "quote": "Knowledge is powerful and what counts is the usefulness, no matter whether it is Chinese or Western.",
+  "summary": "Trailblazing Chinese scientist and mathematician who made major contributions to astronomy and mathematics, and advocated for women's education.",
+  "shortDescription": "Wang Zhenyi was a brilliant 18th-century Chinese scientist who taught herself astronomy and mathematics, wrote books explaining lunar and solar eclipses, and challenged gender norms through her poetry and teaching. She inspired generations by showing that girls can excel in science and learning.",
+  "detailed_description": {
+    "early_life": "Born in 1768 in China, Wang Zhenyi was raised in a scholarly family and showed exceptional talent in mathematics and astronomy from a young age. Despite the restrictions on women's education in 18th-century China, she was encouraged to pursue her intellectual interests.",
+    "stem_journey": "Wang Zhenyi taught herself advanced mathematics and astronomy, studying both Chinese and Western scientific texts. She wrote several books explaining complex astronomical phenomena in simple terms, including lunar and solar eclipses.",
+    "challenges": "As a woman in 18th-century China, Wang faced significant barriers to education and recognition in scientific fields. She had to overcome societal expectations that limited women's intellectual pursuits.",
+    "achievements": "Wang Zhenyi wrote books on astronomy and mathematics, including explanations of lunar and solar eclipses. She also wrote poetry that challenged gender norms and advocated for women's education and intellectual pursuits.",
+    "legacy": "Wang Zhenyi's work in astronomy and mathematics, combined with her advocacy for women's education, made her a trailblazer in Chinese science. She inspired future generations of women scientists and mathematicians."
+  },
+  "achievements": [
+    "Wrote books on astronomy and mathematics",
+    "Explained lunar and solar eclipses",
+    "Advocated for women's education",
+    "Challenged gender norms through poetry"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "Books on astronomy and mathematics",
+      "url": "https://www.girlmuseum.org/trailblazers-age-of-girls-wang-zhenyi/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Astronomy and Mathematics",
+      "institution": "Home study"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1768,
+      "event": "Born in China"
+    },
+    {
+      "year": 1797,
+      "event": "Passed away, leaving legacy of scientific and literary work"
+    }
+  ],
+  "barriers": [
+    "Faced restrictions on women's education in 18th-century China",
+    "Overcame societal expectations limiting women's intellectual pursuits"
+  ],
+  "impact": "Pioneered women's participation in astronomy and mathematics in China, inspiring future generations.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Wang Zhenyi: Trailblazing Chinese Scientist",
+      "url": "https://www.girlmuseum.org/trailblazers-age-of-girls-wang-zhenyi/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Girl Museum: Wang Zhenyi",
+      "url": "https://www.girlmuseum.org/trailblazers-age-of-girls-wang-zhenyi/"
+    }
+  ],
+  "mentorship": "Advocated for women's education and intellectual pursuits through her writing and example.",
+  "fun_fact": "Wang Zhenyi was also a talented poet who used her writing to challenge gender norms.",
+  "career_path": {
+    "first_job": "Self-taught scientist and mathematician",
+    "career_highlights": [
+      "Wrote books on astronomy and mathematics",
+      "Explained complex scientific concepts",
+      "Advocated for women's education"
+    ],
+    "advice_for_students": "Never let anyone tell you that certain subjects are not for you. Knowledge has no gender, and curiosity knows no bounds."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Science: 50 Fearless Pioneers Who Changed the World",
+      "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race"
+    ],
+    "websites": [
+      "girlswhocode.com",
+      "womeninscience.org",
+      "astronomy.com"
+    ],
+    "programs": [
+      "Astronomy clubs",
+      "Mathematics competitions",
+      "Women in STEM mentorship programs"
+    ],
+    "advice": "Start with what fascinates you most about the universe. Whether it's numbers, stars, or patterns, follow your curiosity."
+  },
+  "challenges": {
+    "academic": [
+      "Limited access to formal education for women"
+    ],
+    "professional": [
+      "Societal restrictions on women's intellectual pursuits"
+    ],
+    "personal": [
+      "Overcoming gender-based barriers to recognition"
+    ],
+    "how_overcame": "Used self-study and determination to master complex subjects, and used her writing to advocate for change"
+  },
+  "education_details": {
+    "high_school": "Self-taught in advanced mathematics and astronomy",
+    "college_major": "Self-educated in scientific fields",
+    "key_courses": [
+      "Advanced Mathematics",
+      "Astronomy",
+      "Scientific Writing"
+    ],
+    "study_tips": "Connect abstract concepts to real-world observations and never stop asking questions"
+  },
+  "modern_impact": {
+    "current_applications": "Her work in astronomy and mathematics continues to inspire women in STEM fields",
+    "companies_using_her_work": [
+      "Educational institutions worldwide",
+      "Women in STEM organizations"
+    ],
+    "future_implications": "Her advocacy for women's education remains relevant in promoting diversity in STEM"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Mathematics",
+      "Astronomy",
+      "Poetry",
+      "Education"
+    ],
+    "family_background": "Scholarly family that encouraged intellectual pursuits",
+    "hobbies": [
+      "Studying astronomy",
+      "Writing poetry",
+      "Teaching others"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Curious",
+      "Advocate",
+      "Trailblazer"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Chinese intellectual tradition",
+    "cultural_influences": [
+      "Chinese astronomical traditions",
+      "Confucian educational values",
+      "18th-century Chinese society"
+    ],
+    "cultural_challenges": [
+      "Gender restrictions in education",
+      "Societal expectations for women"
+    ],
+    "cultural_contributions": "Bridged traditional Chinese knowledge with advocacy for women's education and intellectual pursuits"
+  },
+  "verified": true
+}

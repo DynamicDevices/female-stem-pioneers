@@ -1,0 +1,30 @@
+{
+  "name": "Emilie du Châtelet",
+  "photo": "./images/emilie-du-chatelet.jpg",
+  "birthDate": "1706",
+  "deathDate": "1749",
+  "country": "France",
+  "fields": [
+    "Physics",
+    "Mathematics"
+  ],
+  "roles": [
+    "Physicist",
+    "Mathematician"
+  ],
+  "quote": "The study of mathematics is the foundation of all exact knowledge of natural phenomena.",
+  "summary": "French mathematician and physicist who translated and commented on Newton's Principia, advancing physics in Europe.",
+  "shortDescription": "Emilie du Châtelet was a French mathematician and physicist who translated and commented on Newton's Principia, advancing physics in Europe. She was instrumental in the understanding of kinetic energy and pioneered women's participation in science. Her work helped establish the foundation for modern physics and demonstrated that women could make significant contributions to scientific understanding.",
+  "achievements": [
+    "Translated Newton's Principia into French",
+    "Advanced understanding of kinetic energy",
+    "Pioneered women's participation in science"
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet"
+    }
+  ],
+  "verified": true
+}

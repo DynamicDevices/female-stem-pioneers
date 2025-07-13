@@ -1,0 +1,30 @@
+{
+  "name": "Margarita Salas",
+  "photo": "./images/margarita-salas.jpg",
+  "birthDate": "1938",
+  "deathDate": "2019",
+  "country": "Spain",
+  "fields": [
+    "Biochemistry",
+    "Molecular Biology"
+  ],
+  "roles": [
+    "Biochemist",
+    "Professor"
+  ],
+  "quote": "Science is a way of life that requires passion and dedication.",
+  "summary": "Pioneering Spanish biochemist who discovered DNA polymerase and advanced molecular biology research.",
+  "shortDescription": "Margarita Salas was a pioneering Spanish biochemist who discovered DNA polymerase and advanced molecular biology research. She founded the Spanish Society of Biochemistry and pioneered molecular biology in Spain. Her work on DNA polymerase from bacteriophage φ29 has been fundamental to DNA amplification techniques and has applications in forensic science and medical diagnostics.",
+  "achievements": [
+    "Discovered DNA polymerase from bacteriophage φ29",
+    "Pioneered molecular biology in Spain",
+    "Founded Spanish Society of Biochemistry"
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Margarita_Salas"
+    }
+  ],
+  "verified": true
+}

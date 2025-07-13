@@ -1,0 +1,178 @@
+{
+  "name": "Gerty Cori",
+  "photo": "./images/gerty-cori.jpg",
+  "birthDate": "1896",
+  "deathDate": "1957",
+  "country": "Czech Republic/United States",
+  "fields": [
+    "Biochemistry",
+    "Medicine"
+  ],
+  "roles": [
+    "Biochemist",
+    "Professor"
+  ],
+  "quote": "The love for and dedication to one's work is the foundation of all happiness.",
+  "summary": "First woman to win the Nobel Prize in Physiology or Medicine for her work on carbohydrate metabolism.",
+  "shortDescription": "Gerty Cori was the first woman to win the Nobel Prize in Physiology or Medicine for her work on carbohydrate metabolism. She discovered the Cori cycle and pioneered research in biochemistry. Her work with her husband Carl Cori on how the body processes glucose has been fundamental to our understanding of metabolism and diabetes research.",
+  "detailed_description": {
+    "early_life": "Born in Prague, Gerty showed exceptional academic ability from an early age. She earned her medical degree from the German University of Prague and developed a passion for biochemistry.",
+    "stem_journey": "Gerty worked with her husband Carl Cori on carbohydrate metabolism research. She discovered the Cori cycle and became the first woman to win the Nobel Prize in Physiology or Medicine.",
+    "challenges": "Faced gender discrimination in science and had to overcome barriers as a woman in biochemistry. She often worked in her husband's shadow despite making equal contributions.",
+    "achievements": "Became the first woman to win the Nobel Prize in Physiology or Medicine, discovered the Cori cycle, and pioneered research in carbohydrate metabolism and biochemistry.",
+    "legacy": "Gerty opened doors for women in biochemistry and medicine. Her work on carbohydrate metabolism is fundamental to understanding diabetes and metabolic diseases."
+  },
+  "achievements": [
+    "Nobel Prize in Physiology or Medicine (1947)",
+    "Discovered the Cori cycle",
+    "Pioneered research in biochemistry"
+  ],
+  "awards": [
+    "Nobel Prize in Physiology or Medicine (1947)",
+    "Garvan-Olin Medal (1948)",
+    "National Academy of Sciences member"
+  ],
+  "publications": [
+    {
+      "title": "The Cori Cycle: Carbohydrate Metabolism",
+      "url": "https://www.nobelprize.org/prizes/medicine/1947/cori-gt/facts/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "MD",
+      "field": "Medicine",
+      "institution": "German University of Prague"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1896,
+      "event": "Born in Prague"
+    },
+    {
+      "year": 1920,
+      "event": "Earned medical degree"
+    },
+    {
+      "year": 1922,
+      "event": "Married Carl Cori and moved to US"
+    },
+    {
+      "year": 1947,
+      "event": "Won Nobel Prize in Physiology or Medicine"
+    },
+    {
+      "year": 1957,
+      "event": "Died in Missouri"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in science",
+    "Working in husband's shadow",
+    "Limited recognition for women's contributions"
+  ],
+  "impact": "Pioneered biochemistry research and became the first woman to win the Nobel Prize in Physiology or Medicine.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Gerty Cori: The First Woman to Win the Nobel Prize in Physiology or Medicine",
+      "url": "https://www.nobelprize.org/prizes/medicine/1947/cori-gt/facts/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gerty_Cori"
+    }
+  ],
+  "mentorship": "Inspired future generations of women in biochemistry and medicine through her groundbreaking research.",
+  "fun_fact": "Gerty was the first woman to win the Nobel Prize in Physiology or Medicine, and she shared the prize with her husband Carl Cori.",
+  "career_path": {
+    "first_job": "Medical researcher",
+    "career_highlights": [
+      "First woman to win Nobel Prize in Physiology or Medicine",
+      "Pioneer in biochemistry research",
+      "Professor at Washington University"
+    ],
+    "advice_for_students": "Dedication to your work and passion for discovery are the keys to scientific success."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Science: 50 Fearless Pioneers",
+      "The Nobel Prize: A History of Genius"
+    ],
+    "websites": [
+      "nobelprize.org",
+      "biochemistry.org",
+      "womeninscience.org"
+    ],
+    "programs": [
+      "Biochemistry summer camps",
+      "Women in STEM mentorship programs"
+    ],
+    "advice": "Follow your passion for understanding how living things work. Biochemistry connects chemistry to life itself."
+  },
+  "challenges": {
+    "academic": [
+      "Gender barriers in medical education"
+    ],
+    "professional": [
+      "Working in husband's shadow despite equal contributions"
+    ],
+    "personal": [
+      "Balancing family and scientific career"
+    ],
+    "how_overcame": "Focused on excellence in research and demonstrated the value of women's contributions to science"
+  },
+  "education_details": {
+    "high_school": "Schools in Prague",
+    "college_major": "Medicine",
+    "key_courses": [
+      "Biochemistry",
+      "Physiology",
+      "Medical Research"
+    ],
+    "study_tips": "Connect chemical processes to biological functions to understand metabolism"
+  },
+  "modern_impact": {
+    "current_applications": "Her work on carbohydrate metabolism is fundamental to diabetes research",
+    "companies_using_her_work": [
+      "Pharmaceutical companies",
+      "Medical research institutions"
+    ],
+    "future_implications": "Her discoveries continue to influence metabolic disease research and treatment"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Medicine",
+      "Biochemistry",
+      "Scientific research"
+    ],
+    "family_background": "Jewish family in Prague",
+    "hobbies": [
+      "Scientific research",
+      "Collaboration with husband Carl"
+    ],
+    "personality_traits": [
+      "Dedicated",
+      "Analytical",
+      "Collaborative",
+      "Pioneering"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Czech Jewish",
+    "cultural_influences": [
+      "European scientific tradition",
+      "Jewish intellectual culture",
+      "American research environment"
+    ],
+    "cultural_challenges": [
+      "Gender discrimination in science",
+      "Working in husband's shadow"
+    ],
+    "cultural_contributions": "Demonstrated that women could excel in biochemistry and win the highest scientific honors"
+  },
+  "verified": true
+}

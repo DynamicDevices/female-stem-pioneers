@@ -16,7 +16,10 @@ Corrupting the JavaScript will break the site and data tools. Please be careful 
 A static web app that showcases women pioneers in STEM. Each profile includes rich metadata, images or diverse fallback icons, and educational content for students.
 
 ## Core Data & Structure
-- **Pioneer Data:** All pioneer profiles are in `js/pioneers.js` as JavaScript objects in an array.
+- **Pioneer Data:** All pioneer profiles are now stored as individual JSON files in `js/pioneers/` directory.
+  - Each pioneer has its own file: `js/pioneers/pioneer-name.json`
+  - An index file `js/pioneers/index.json` contains the list of all pioneers
+  - The `js/pioneers-loader.js` dynamically loads all pioneer files
   - Each object includes: `name`, `photo`, `birthDate`, `deathDate`, `country`, `fields`, `roles`, `quote`, `summary`, `shortDescription`, `detailed_description`, `achievements`, `awards`, `publications`, `education`, `timeline`, `barriers`, `impact`, `media`, `references`, `mentorship`, `fun_fact`, `career_path`, `student_resources`, `challenges`, `education_details`, `modern_impact`, `personal_info`, `cultural_background`.
   - **No duplicate keys** in any object. All fields should be arrays or objects as per recent entries.
   - **Descriptions** must be short, engaging, and accessible for students.
@@ -35,7 +38,9 @@ A static web app that showcases women pioneers in STEM. Each profile includes ri
 - **Mobile-First:** Layout and cards must be responsive.
 
 ## Rules for Adding/Editing Pioneers (AI-Specific)
-- **Always check for duplicates** before adding a new pioneer (search `js/pioneers.js` for the name).
+- **Always check for duplicates** before adding a new pioneer (check `js/pioneers/index.json` for the name).
+- **Create individual JSON files** for new pioneers in `js/pioneers/` directory.
+- **Update the index file** `js/pioneers/index.json` when adding new pioneers.
 - **Follow the full metadata structure** as in the latest entries.
 - **If a field is missing data,** provide a meaningful fallback (never leave placeholders like "content is being generated").
 - **Fact-check all information,** especially for lesser-known pioneers.
@@ -47,7 +52,9 @@ A static web app that showcases women pioneers in STEM. Each profile includes ri
 - `index.html` – Main page
 - `css/styles.css` – Styles
 - `js/app.js` – App logic
-- `js/pioneers.js` – Pioneer data (edit/add here)
+- `js/pioneers-loader.js` – Dynamic pioneer loader
+- `js/pioneers/` – Directory containing individual pioneer JSON files
+- `js/pioneers/index.json` – Index of all pioneers
 - `js/icon-mapping.js` – Fallback icon logic
 - `images/` – Pioneer images
 - `icons/` – App icons
@@ -65,30 +72,29 @@ A static web app that showcases women pioneers in STEM. Each profile includes ri
 
 ## Critical Learnings: Safe File Editing (v1.6.0+)
 
-### JavaScript File Safety (Especially `js/pioneers.js`)
-- **ALWAYS run `npm run check-syntax` after any edits** to verify JavaScript validity
+### JavaScript File Safety (Especially Individual Pioneer Files)
+- **ALWAYS validate JSON syntax** after creating or editing individual pioneer files
 - **ALWAYS run `npm run check-duplicates`** after adding or modifying pioneer entries
 - **Use precise text replacement** rather than automated scripts when editing complex JSON structures
-- **The file now contains helpful comments** at the top and bottom with editing guidelines
-- **Each pioneer object must be complete** with all required fields and proper JSON structure
-- **The last object in the array ends with `}` (no trailing comma)**
-- **If corruption occurs, restore from git history:** `git show <commit-hash>:js/pioneers.js > js/pioneers.js`
+- **Each pioneer JSON file must be complete** with all required fields and proper JSON structure
+- **Update the index file** `js/pioneers/index.json` when adding new pioneers
+- **If corruption occurs, restore from git history:** `git show <commit-hash>:js/pioneers/pioneer-name.json > js/pioneers/pioneer-name.json`
 
 ### Duplicate Prevention
 - **Check for duplicates before adding new pioneers** using `npm run check-duplicates`
-- **Search for exact names** in `js/pioneers.js` before adding entries
-- **When removing duplicates, use precise text replacement** with exact boundaries
+- **Search for exact names** in `js/pioneers/index.json` before adding entries
+- **When removing duplicates, delete the individual JSON file** and update the index
 - **Verify syntax and structure after any duplicate removal**
 
 ### File Structure Guidelines
-- **The pioneers array starts with `const pioneers = [` and ends with `];`**
-- **Each pioneer object starts with `{` and ends with `},` (except the last one)**
-- **Maintain proper indentation and JSON structure**
-- **The file includes comprehensive comments** explaining the structure and editing guidelines
+- **Each pioneer has its own JSON file** in `js/pioneers/pioneer-name.json`
+- **The index file** `js/pioneers/index.json` contains the list of all pioneers
+- **Maintain proper indentation and JSON structure** in each individual file
+- **Use the pioneers loader** `js/pioneers-loader.js` to dynamically load all pioneers
 
 ### Recovery Procedures
-- **If syntax errors occur:** Restore from a clean git commit using `git show <commit-hash>:js/pioneers.js > js/pioneers.js`
-- **If duplicates are found:** Use precise text replacement to remove specific duplicate entries
+- **If syntax errors occur:** Restore from a clean git commit using `git show <commit-hash>:js/pioneers/pioneer-name.json > js/pioneers/pioneer-name.json`
+- **If duplicates are found:** Delete the duplicate JSON file and update the index
 - **Always test after recovery:** Run both syntax and duplicate checks
 
 ### Version Management

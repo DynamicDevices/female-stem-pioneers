@@ -1,0 +1,180 @@
+{
+  "name": "Annie Jump Cannon",
+  "photo": "./images/annie-jump-cannon.jpg",
+  "birthDate": "1863",
+  "deathDate": "1941",
+  "country": "United States",
+  "fields": [
+    "Astronomy"
+  ],
+  "roles": [
+    "Astronomer"
+  ],
+  "quote": "I am the only person, man or woman, who has ever done this well.",
+  "summary": "Pioneering astronomer who classified over 350,000 stars and developed the stellar classification system still used today.",
+  "shortDescription": "Annie Jump Cannon was a pioneering astronomer who classified over 350,000 stars and developed the stellar classification system still used today. She was known as the 'census taker of the sky' and received numerous awards for her groundbreaking work.",
+  "detailed_description": {
+    "early_life": "Born in Delaware in 1863, Annie was deaf from childhood due to scarlet fever. She studied physics and astronomy at Wellesley College and later at Radcliffe College.",
+    "stem_journey": "Annie joined the Harvard College Observatory in 1896 and began classifying stars based on their spectra. She could classify three stars per minute and eventually classified over 350,000 stars.",
+    "challenges": "As a deaf woman in the early 20th century, Annie faced communication barriers and gender discrimination in the scientific community.",
+    "achievements": "Developed the stellar classification system (OBAFGKM), classified over 350,000 stars, and was the first woman to receive an honorary doctorate from Oxford University.",
+    "legacy": "Annie's stellar classification system is still used today and her work revolutionized our understanding of stellar evolution and the universe."
+  },
+  "achievements": [
+    "Developed the stellar classification system (OBAFGKM)",
+    "Classified over 350,000 stars",
+    "First woman to receive honorary doctorate from Oxford University",
+    "Received the Henry Draper Medal from the National Academy of Sciences"
+  ],
+  "awards": [
+    "Henry Draper Medal (1931)",
+    "Honorary doctorate from Oxford University (1925)",
+    "National Academy of Sciences member"
+  ],
+  "publications": [
+    {
+      "title": "The Henry Draper Catalogue",
+      "url": "https://en.wikipedia.org/wiki/Annie_Jump_Cannon"
+    }
+  ],
+  "education": [
+    {
+      "degree": "BS",
+      "field": "Physics",
+      "institution": "Wellesley College"
+    },
+    {
+      "degree": "MS",
+      "field": "Astronomy",
+      "institution": "Radcliffe College"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1896,
+      "event": "Joined Harvard College Observatory"
+    },
+    {
+      "year": 1925,
+      "event": "Received honorary doctorate from Oxford University"
+    },
+    {
+      "year": 1931,
+      "event": "Awarded Henry Draper Medal"
+    }
+  ],
+  "barriers": [
+    "Deafness from childhood",
+    "Gender discrimination in astronomy",
+    "Limited recognition for her contributions"
+  ],
+  "impact": "Her stellar classification system revolutionized astronomy and is still used today.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Annie Jump Cannon: The Census Taker of the Sky",
+      "url": "https://www.biography.com/scientist/annie-jump-cannon"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Annie_Jump_Cannon"
+    },
+    {
+      "title": "Biography.com",
+      "url": "https://www.biography.com/scientist/annie-jump-cannon"
+    }
+  ],
+  "mentorship": "Mentored many women astronomers and advocated for women's recognition in science.",
+  "fun_fact": "Annie could classify three stars per minute and eventually classified over 350,000 stars in her career.",
+  "career_path": {
+    "first_job": "Assistant at Harvard College Observatory",
+    "career_highlights": [
+      "Developed stellar classification system",
+      "Classified over 350,000 stars",
+      "Received numerous prestigious awards"
+    ],
+    "advice_for_students": "Focus on your strengths and don't let obstacles stop you from pursuing your passion."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "The Glass Universe by Dava Sobel",
+      "Annie Jump Cannon: A Life in Astronomy"
+    ],
+    "websites": [
+      "harvard.edu",
+      "wellesley.edu"
+    ],
+    "programs": [
+      "Women in Astronomy programs",
+      "Deaf scientists support groups"
+    ],
+    "advice": "Develop your own system for organizing information and trust your instincts."
+  },
+  "challenges": {
+    "academic": [
+      "Deafness affecting communication",
+      "Limited formal education opportunities"
+    ],
+    "professional": [
+      "Gender discrimination in astronomy",
+      "Underrecognition of her contributions"
+    ],
+    "personal": [
+      "Deafness from childhood"
+    ],
+    "how_overcame": "Developed exceptional visual skills and focused on her strengths in pattern recognition"
+  },
+  "education_details": {
+    "high_school": "Attended Wellesley College",
+    "college_major": "Physics",
+    "key_courses": [
+      "Physics",
+      "Astronomy",
+      "Mathematics"
+    ],
+    "study_tips": "Develop your own methods for organizing and remembering information"
+  },
+  "modern_impact": {
+    "current_applications": "Her stellar classification system is still used by astronomers worldwide",
+    "companies_using_her_work": [
+      "All major observatories",
+      "NASA",
+      "International Astronomical Union"
+    ],
+    "future_implications": "Her work continues to be fundamental to stellar astronomy"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Astronomy",
+      "Photography",
+      "Pattern recognition"
+    ],
+    "family_background": "Daughter of a shipbuilder and state senator",
+    "hobbies": [
+      "Photography",
+      "Travel",
+      "Stargazing"
+    ],
+    "personality_traits": [
+      "Meticulous",
+      "Patient",
+      "Determined",
+      "Observant"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "Victorian era women's education movement",
+      "Harvard College Observatory culture"
+    ],
+    "cultural_challenges": [
+      "Gender discrimination in science",
+      "Disability discrimination"
+    ],
+    "cultural_contributions": "Pioneered women's role in professional astronomy and demonstrated that disability is not a barrier to scientific achievement"
+  },
+  "verified": true
+}

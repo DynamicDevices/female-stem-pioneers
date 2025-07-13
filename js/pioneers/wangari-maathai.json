@@ -1,0 +1,54 @@
+{
+  "name": "Wangari Maathai",
+  "photo": "./images/wangari-maathai.jpg",
+  "birthDate": "1940",
+  "deathDate": "2011",
+  "country": "Kenya",
+  "fields": [
+    "Biology",
+    "Environmental Science"
+  ],
+  "roles": [
+    "Environmentalist",
+    "Biologist",
+    "Activist"
+  ],
+  "quote": "It's the little things citizens do. That's what will make the difference. My little thing is planting trees.",
+  "summary": "First African woman to win the Nobel Peace Prize for her environmental and women's rights work.",
+  "shortDescription": "Wangari Maathai was a Kenyan environmentalist who founded the Green Belt Movement, planting over 51 million trees across Africa. She was the first African woman to win the Nobel Peace Prize for her work combining environmental conservation with women's empowerment. Wangari showed how science and activism can work together to create positive change for communities and the planet.",
+  "achievements": [
+    "First African woman to win Nobel Peace Prize",
+    "Founded the Green Belt Movement",
+    "Planted over 51 million trees",
+    "Pioneered community-based environmental conservation"
+  ],
+  "awards": [
+    "Nobel Peace Prize (2004)",
+    "Right Livelihood Award (1984)"
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Biological Sciences",
+      "institution": "University of Nairobi"
+    }
+  ],
+  "impact": "Revolutionized environmental conservation in Africa and empowered women through tree planting.",
+  "fun_fact": "Wangari was the first woman in East and Central Africa to earn a doctorate degree.",
+  "career_path": {
+    "first_job": "Research assistant at University of Nairobi",
+    "career_highlights": [
+      "Founded Green Belt Movement in 1977",
+      "Elected to Kenyan Parliament",
+      "Won Nobel Peace Prize in 2004"
+    ],
+    "advice_for_students": "Start with small actions in your community. Every tree planted makes a difference."
+  },
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wangari_Maathai"
+    }
+  ],
+  "verified": true
+}

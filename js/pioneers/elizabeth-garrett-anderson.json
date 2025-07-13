@@ -1,0 +1,177 @@
+{
+  "name": "Elizabeth Garrett Anderson",
+  "photo": "./images/elizabeth-garrett-anderson.jpg",
+  "birthDate": "1836",
+  "deathDate": "1917",
+  "country": "United Kingdom",
+  "fields": [
+    "Medicine",
+    "Women's Rights"
+  ],
+  "roles": [
+    "Physician",
+    "Suffragist",
+    "Educator"
+  ],
+  "quote": "I resolved to study medicine and become a doctor.",
+  "summary": "First woman to qualify as a physician and surgeon in Britain, and the first female mayor in England.",
+  "shortDescription": "Elizabeth Garrett Anderson was the first woman to qualify as a physician and surgeon in Britain. She overcame tremendous barriers to become a doctor and went on to found the first hospital staffed by women, the New Hospital for Women in London. She also became the first female mayor in England and was a leading advocate for women's suffrage.",
+  "detailed_description": {
+    "early_life": "Born in 1836 in London, Elizabeth was educated at home and showed early interest in medicine. She was inspired by Elizabeth Blackwell, the first woman to receive a medical degree in the United States.",
+    "stem_journey": "Elizabeth decided to become a doctor despite facing immense opposition. She studied privately and worked as a nurse to gain experience, eventually passing the Society of Apothecaries' examination to become a licensed physician.",
+    "challenges": "Faced intense opposition from the medical establishment, was denied admission to medical schools, and had to fight for recognition of her qualifications. She also faced societal resistance to women in medicine.",
+    "achievements": "Became the first woman to qualify as a physician in Britain, founded the New Hospital for Women, became the first female mayor in England, and was a leading suffragist.",
+    "legacy": "Paved the way for women in medicine in Britain and inspired generations of female physicians. Her work continues to influence medical education and women's rights."
+  },
+  "achievements": [
+    "First woman to qualify as a physician and surgeon in Britain",
+    "Founded the New Hospital for Women in London",
+    "First female mayor in England",
+    "Leading advocate for women's suffrage"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "Medical writings and reports",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Garrett_Anderson"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Medical qualification",
+      "field": "Medicine",
+      "institution": "Society of Apothecaries"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1865,
+      "event": "Qualified as a physician"
+    },
+    {
+      "year": 1872,
+      "event": "Founded the New Hospital for Women"
+    },
+    {
+      "year": 1908,
+      "event": "Became first female mayor in England"
+    }
+  ],
+  "barriers": [
+    "Denied admission to medical schools",
+    "Opposition from medical establishment",
+    "Societal resistance to women in medicine"
+  ],
+  "impact": "Paved the way for women in medicine in Britain and inspired generations of female physicians.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Elizabeth Garrett Anderson: Pioneer of Women in Medicine",
+      "url": "https://www.britannica.com/biography/Elizabeth-Garrett-Anderson"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Garrett_Anderson"
+    },
+    {
+      "title": "Britannica",
+      "url": "https://www.britannica.com/biography/Elizabeth-Garrett-Anderson"
+    }
+  ],
+  "mentorship": "Inspired and supported other women pursuing medical careers.",
+  "fun_fact": "Elizabeth Garrett Anderson was the first female mayor in England, serving in Aldeburgh from 1908-1910.",
+  "career_path": {
+    "first_job": "Nurse and medical student",
+    "career_highlights": [
+      "Qualified as physician in 1865",
+      "Founded New Hospital for Women",
+      "Became first female mayor"
+    ],
+    "advice_for_students": "Don't let anyone tell you what you can't do. Persistence and determination can overcome even the strongest barriers."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Elizabeth Garrett Anderson: A Determined Woman",
+      "Women in Medicine: Historical Perspectives"
+    ],
+    "websites": [
+      "wikipedia.org",
+      "britannica.com"
+    ],
+    "programs": [
+      "Women in Medicine programs",
+      "Medical school preparation programs"
+    ],
+    "advice": "Follow your passion and don't let barriers stop you. Every field needs diverse perspectives."
+  },
+  "challenges": {
+    "academic": [
+      "Denied admission to medical schools",
+      "Had to find alternative paths to qualification"
+    ],
+    "professional": [
+      "Opposition from medical establishment",
+      "Societal resistance to women in medicine"
+    ],
+    "personal": [
+      "Family and societal pressure",
+      "Financial challenges"
+    ],
+    "how_overcame": "Used determination and found alternative paths to achieve her goals, including private study and working as a nurse"
+  },
+  "education_details": {
+    "high_school": "Home education",
+    "college_major": "Self-taught medicine",
+    "key_courses": [
+      "Anatomy",
+      "Physiology",
+      "Medical practice"
+    ],
+    "study_tips": "Find mentors and alternative paths when traditional routes are blocked"
+  },
+  "modern_impact": {
+    "current_applications": "Her work continues to inspire women in medicine worldwide",
+    "companies_using_her_work": [
+      "Medical schools",
+      "Women's health organizations",
+      "Medical associations"
+    ],
+    "future_implications": "Her legacy continues to promote gender equality in medicine"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Medicine",
+      "Women's rights",
+      "Education"
+    ],
+    "family_background": "Middle-class English family",
+    "hobbies": [
+      "Reading",
+      "Advocacy work",
+      "Public speaking"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Pioneering",
+      "Compassionate",
+      "Resilient"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "British",
+    "cultural_influences": [
+      "Victorian era society",
+      "Women's suffrage movement",
+      "British medical tradition"
+    ],
+    "cultural_challenges": [
+      "Victorian gender roles",
+      "Class barriers in medicine",
+      "Societal resistance to change"
+    ],
+    "cultural_contributions": "Challenged Victorian gender norms and paved the way for women in professional medicine"
+  },
+  "verified": false
+} 

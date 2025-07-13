@@ -1,0 +1,177 @@
+{
+  "name": "Maria Goeppert Mayer",
+  "photo": "./images/maria-goeppert-mayer.jpg",
+  "birthDate": "1906",
+  "deathDate": "1972",
+  "country": "Germany/United States",
+  "fields": [
+    "Physics",
+    "Nuclear Physics"
+  ],
+  "roles": [
+    "Physicist",
+    "Nobel Laureate"
+  ],
+  "quote": "Mathematics was easy for me. I had a very good teacher.",
+  "summary": "Nobel Prize-winning physicist who developed the nuclear shell model of the atomic nucleus.",
+  "shortDescription": "Maria Goeppert Mayer was a Nobel Prize-winning physicist who developed the nuclear shell model, explaining how protons and neutrons are arranged in the atomic nucleus. She was only the second woman to win the Nobel Prize in Physics and her work laid the foundation for our understanding of nuclear structure.",
+  "detailed_description": {
+    "early_life": "Born in 1906 in Kattowitz, Germany (now Poland), Maria showed exceptional talent in mathematics and physics from an early age. Her father was a professor of pediatrics who encouraged her scientific interests.",
+    "stem_journey": "Maria studied physics at the University of Göttingen, earning her PhD in 1930. She moved to the United States with her husband Joseph Mayer and worked at various universities, often without pay due to anti-nepotism rules.",
+    "challenges": "Maria faced discrimination as a woman in physics and was often denied paid positions due to university anti-nepotism rules. She worked as a volunteer researcher for many years while her husband had paid positions.",
+    "achievements": "Maria developed the nuclear shell model, explaining how protons and neutrons are arranged in atomic nuclei like layers in an onion. She won the Nobel Prize in Physics in 1963, becoming only the second woman to win this prize.",
+    "legacy": "Maria's nuclear shell model is fundamental to our understanding of nuclear physics and has applications in nuclear power and medical imaging. She opened doors for women in theoretical physics."
+  },
+  "achievements": [
+    "Won Nobel Prize in Physics (1963)",
+    "Developed nuclear shell model",
+    "Second woman to win Nobel Prize in Physics",
+    "Pioneered nuclear structure research",
+    "Explained magic numbers in nuclear physics"
+  ],
+  "awards": [
+    "Nobel Prize in Physics (1963)",
+    "National Medal of Science",
+    "Elected to National Academy of Sciences"
+  ],
+  "publications": [
+    {
+      "title": "On Closed Shells in Nuclei",
+      "year": "1948"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Physics",
+      "institution": "University of Göttingen"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1930,
+      "event": "Earned PhD in physics"
+    },
+    {
+      "year": 1948,
+      "event": "Published nuclear shell model theory"
+    },
+    {
+      "year": 1963,
+      "event": "Won Nobel Prize in Physics"
+    }
+  ],
+  "barriers": [
+    "Faced discrimination as a woman in physics",
+    "Denied paid positions due to anti-nepotism rules",
+    "Worked as volunteer researcher for many years"
+  ],
+  "impact": "Her nuclear shell model revolutionized our understanding of atomic nuclei and has applications in nuclear power and medical imaging.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Maria Goeppert Mayer: Nobel Prize-winning physicist",
+      "url": "https://www.nobelprize.org/prizes/physics/1963/mayer/facts/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer"
+    }
+  ],
+  "mentorship": "Mentored many students in theoretical physics despite facing discrimination herself.",
+  "fun_fact": "Maria was the second woman to win the Nobel Prize in Physics, after Marie Curie.",
+  "career_path": {
+    "first_job": "Volunteer researcher at Johns Hopkins University",
+    "career_highlights": [
+      "Worked at University of Chicago",
+      "Developed nuclear shell model",
+      "Won Nobel Prize in Physics"
+    ],
+    "advice_for_students": "Follow your passion for science even when faced with obstacles. Persistence and dedication can overcome discrimination."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Maria Goeppert Mayer: A Life in Physics",
+      "The Second Creation: Makers of the Revolution in Twentieth-Century Physics"
+    ],
+    "websites": [
+      "nobelprize.org",
+      "physics.org",
+      "womeninphysics.org"
+    ],
+    "programs": [
+      "Physics summer programs",
+      "Women in physics organizations"
+    ],
+    "advice": "Study physics with passion and don't let anyone tell you that women can't excel in theoretical physics."
+  },
+  "challenges": {
+    "academic": [
+      "Limited opportunities for women in physics",
+      "Anti-nepotism rules preventing paid positions"
+    ],
+    "professional": [
+      "Discrimination against women in science",
+      "Working without pay for many years"
+    ],
+    "personal": [
+      "Balancing family and career",
+      "Moving between countries"
+    ],
+    "how_overcame": "Persisted in research despite lack of recognition, focused on scientific discovery, and found supportive colleagues"
+  },
+  "education_details": {
+    "high_school": "Excelled in mathematics and science",
+    "college_major": "Physics",
+    "key_courses": [
+      "Nuclear Physics",
+      "Quantum Mechanics",
+      "Mathematical Physics",
+      "Theoretical Physics"
+    ],
+    "study_tips": "Combine theoretical understanding with mathematical rigor and never stop asking questions"
+  },
+  "modern_impact": {
+    "current_applications": "Nuclear shell model is used in nuclear power plants and medical imaging",
+    "companies_using_her_work": [
+      "Nuclear power companies",
+      "Medical research institutions",
+      "Physics research laboratories"
+    ],
+    "future_implications": "Nuclear fusion research builds on understanding of nuclear structure"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Physics",
+      "Mathematics",
+      "Chemistry"
+    ],
+    "family_background": "Father was a professor of pediatrics",
+    "hobbies": [
+      "Physics research",
+      "Teaching",
+      "Reading"
+    ],
+    "personality_traits": [
+      "Brilliant",
+      "Determined",
+      "Humble",
+      "Curious"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "German Jewish",
+    "cultural_influences": [
+      "German scientific tradition",
+      "Jewish intellectual culture"
+    ],
+    "cultural_challenges": [
+      "Anti-Semitism in Nazi Germany",
+      "Gender discrimination in academia"
+    ],
+    "cultural_contributions": "Bridged German and American scientific traditions, influenced generations of physicists"
+  },
+  "verified": false
+}

@@ -1,0 +1,181 @@
+{
+  "name": "Margaret Knight",
+  "photo": "./images/margaret-knight.jpg",
+  "birthDate": "1838",
+  "deathDate": "1914",
+  "country": "United States",
+  "fields": [
+    "Invention",
+    "Engineering"
+  ],
+  "roles": [
+    "Inventor",
+    "Engineer"
+  ],
+  "quote": "As a child, I never cared for things that girls usually do; . . . I was always making things.",
+  "summary": "Inventor of the machine to make flat-bottomed paper bags and holder of many patents.",
+  "shortDescription": "Margaret Knight was an inventor who created the machine that makes flat-bottomed paper bags. She held dozens of patents and proved that women can be great inventors and engineers.",
+  "detailed_description": {
+    "early_life": "Born in 1838 in Maine, Margaret Knight showed exceptional mechanical talent from childhood. She preferred making tools and machines over traditional girls' activities, earning the nickname 'Lady Edison.'",
+    "stem_journey": "Margaret began working in textile mills at age 12, where she invented safety devices for looms. She went on to invent numerous machines, including the flat-bottomed paper bag machine.",
+    "challenges": "As a woman inventor in the 19th century, Margaret faced significant gender barriers. She had to fight for recognition of her inventions and defend her patents against male competitors.",
+    "achievements": "Margaret held over 20 patents for various inventions, including the flat-bottomed paper bag machine, safety devices for textile mills, and household improvements. She became one of the most successful women inventors of her time.",
+    "legacy": "Margaret's work proved that women could be successful inventors and engineers. She paved the way for future generations of women in STEM fields."
+  },
+  "achievements": [
+    "Invented flat-bottomed paper bag machine",
+    "Held over 20 patents for various inventions",
+    "Created safety devices for textile mills",
+    "Pioneered women's participation in invention"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "Multiple patents for mechanical inventions",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Mechanical Engineering",
+      "institution": "On-the-job learning"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1838,
+      "event": "Born in Maine"
+    },
+    {
+      "year": 1850,
+      "event": "Began working in textile mills"
+    },
+    {
+      "year": 1868,
+      "event": "Invented flat-bottomed paper bag machine"
+    },
+    {
+      "year": 1871,
+      "event": "Received patent for paper bag machine"
+    },
+    {
+      "year": 1914,
+      "event": "Passed away, leaving legacy of innovation"
+    }
+  ],
+  "barriers": [
+    "Faced gender discrimination in 19th-century invention world",
+    "Had to fight for recognition of her inventions",
+    "Defended patents against male competitors"
+  ],
+  "impact": "Revolutionized paper bag manufacturing and proved women could be successful inventors.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Margaret Knight: The Lady Edison",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "references": [
+    {
+      "title": "Smithsonian Lemelson Center: Margaret Knight",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "mentorship": "Inspired future generations of women inventors through her example and success.",
+  "fun_fact": "Margaret was called 'Lady Edison' because of her prolific inventing, similar to Thomas Edison.",
+  "career_path": {
+    "first_job": "Textile mill worker at age 12",
+    "career_highlights": [
+      "Invented safety devices for textile mills",
+      "Created flat-bottomed paper bag machine",
+      "Held over 20 patents"
+    ],
+    "advice_for_students": "Don't let anyone tell you what you can't do because of your gender. Follow your interests and talents."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women Inventors: Hidden in History",
+      "The Lady Edison: Margaret Knight"
+    ],
+    "websites": [
+      "womeninventors.org",
+      "invent.org",
+      "patentoffice.gov"
+    ],
+    "programs": [
+      "Invention competitions",
+      "Engineering summer camps",
+      "Women in STEM mentorship"
+    ],
+    "advice": "Start with simple machines and work your way up. The best inventors solve real problems."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal education opportunities for women"
+    ],
+    "professional": [
+      "Facing gender discrimination in invention",
+      "Fighting for patent recognition"
+    ],
+    "personal": [
+      "Overcoming societal expectations for women"
+    ],
+    "how_overcame": "Used determination and mechanical skills to prove her inventions worked, fought for patent rights"
+  },
+  "education_details": {
+    "high_school": "Limited formal education, self-taught in mechanics",
+    "college_major": "Self-taught mechanical engineering",
+    "key_courses": [
+      "Mechanical Engineering",
+      "Machine Design",
+      "Patent Law",
+      "Business"
+    ],
+    "study_tips": "Learn by doing and solving real problems"
+  },
+  "modern_impact": {
+    "current_applications": "Her paper bag technology is still used in manufacturing today",
+    "companies_using_her_work": [
+      "Paper bag manufacturers",
+      "Textile companies",
+      "Women inventors"
+    ],
+    "future_implications": "Her example continues to inspire women in engineering and invention"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Machines",
+      "Tools",
+      "Invention",
+      "Problem-solving"
+    ],
+    "family_background": "Working-class family in Maine",
+    "hobbies": [
+      "Making tools and machines",
+      "Inventing",
+      "Improving existing technology"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Innovative",
+      "Practical",
+      "Pioneering"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "19th-century American industrial revolution",
+      "New England manufacturing culture",
+      "Women's rights movement"
+    ],
+    "cultural_challenges": [
+      "Gender barriers in 19th-century America",
+      "Limited opportunities for women in industry"
+    ],
+    "cultural_contributions": "Pioneered American women's participation in mechanical invention and engineering"
+  },
+  "verified": true
+}

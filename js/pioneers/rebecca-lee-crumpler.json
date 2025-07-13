@@ -1,0 +1,173 @@
+{
+  "name": "Rebecca Lee Crumpler",
+  "photo": "./images/rebecca-lee-crumpler.jpg",
+  "birthDate": "1831",
+  "deathDate": "1895",
+  "country": "United States",
+  "fields": [
+    "Medicine",
+    "Public Health"
+  ],
+  "roles": [
+    "Physician",
+    "Author",
+    "Public Health Advocate"
+  ],
+  "quote": "I early conceived a liking for, and sought every opportunity to relieve the sufferings of others.",
+  "summary": "First African American woman to earn a medical degree in the United States and author of one of the first medical books by an African American.",
+  "shortDescription": "Rebecca Lee Crumpler was the first African American woman to earn a medical degree in the United States. She practiced medicine in Boston and Virginia, focusing on caring for women and children, especially in underserved communities. She also wrote 'A Book of Medical Discourses,' one of the first medical books by an African American.",
+  "detailed_description": {
+    "early_life": "Born in 1831 in Delaware, Rebecca was raised by an aunt who cared for sick neighbors, which inspired her interest in medicine. She worked as a nurse before pursuing medical education.",
+    "stem_journey": "Rebecca worked as a nurse for eight years before being accepted to the New England Female Medical College in Boston, where she became the first African American woman to earn a medical degree.",
+    "challenges": "Faced racism and sexism in medical education and practice, worked in underserved communities with limited resources, and had to overcome societal barriers as an African American woman in medicine.",
+    "achievements": "First African American woman to earn a medical degree in the US, practiced medicine in Boston and Virginia, wrote one of the first medical books by an African American, and provided care to underserved communities.",
+    "legacy": "Paved the way for African American women in medicine and inspired generations of healthcare professionals from diverse backgrounds."
+  },
+  "achievements": [
+    "First African American woman to earn a medical degree in the United States",
+    "Practiced medicine in Boston and Virginia",
+    "Wrote 'A Book of Medical Discourses'",
+    "Provided care to underserved communities"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "A Book of Medical Discourses",
+      "url": "https://en.wikipedia.org/wiki/Rebecca_Lee_Crumpler"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Medical degree",
+      "field": "Medicine",
+      "institution": "New England Female Medical College"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1864,
+      "event": "Graduated from medical school"
+    },
+    {
+      "year": 1883,
+      "event": "Published 'A Book of Medical Discourses'"
+    }
+  ],
+  "barriers": [
+    "Racism in medical education and practice",
+    "Sexism in the medical field",
+    "Limited opportunities for African American women"
+  ],
+  "impact": "Paved the way for African American women in medicine and inspired generations of healthcare professionals.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Rebecca Lee Crumpler: First African American Woman Doctor",
+      "url": "https://www.britannica.com/biography/Rebecca-Lee-Crumpler"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rebecca_Lee_Crumpler"
+    },
+    {
+      "title": "Britannica",
+      "url": "https://www.britannica.com/biography/Rebecca-Lee-Crumpler"
+    }
+  ],
+  "mentorship": "Inspired other African American women to pursue medical careers.",
+  "fun_fact": "Rebecca Lee Crumpler wrote 'A Book of Medical Discourses' in 1883, one of the first medical books by an African American.",
+  "career_path": {
+    "first_job": "Nurse",
+    "career_highlights": [
+      "First African American woman medical graduate",
+      "Practiced in Boston and Virginia",
+      "Published medical book"
+    ],
+    "advice_for_students": "Follow your passion for helping others and don't let barriers stop you from achieving your goals."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "A Book of Medical Discourses by Rebecca Lee Crumpler",
+      "African American Women in Medicine"
+    ],
+    "websites": [
+      "wikipedia.org",
+      "britannica.com"
+    ],
+    "programs": [
+      "Medical school preparation programs",
+      "Diversity in medicine programs"
+    ],
+    "advice": "Your background and experiences can be your greatest strength in medicine and science."
+  },
+  "challenges": {
+    "academic": [
+      "Limited educational opportunities",
+      "Racism in medical education"
+    ],
+    "professional": [
+      "Discrimination in medical practice",
+      "Limited practice opportunities"
+    ],
+    "personal": [
+      "Societal barriers as African American woman",
+      "Working in underserved communities"
+    ],
+    "how_overcame": "Used determination and focused on helping others, found supportive communities, and created her own opportunities"
+  },
+  "education_details": {
+    "high_school": "Limited formal education",
+    "college_major": "Medicine",
+    "key_courses": [
+      "Anatomy",
+      "Physiology",
+      "Medical practice"
+    ],
+    "study_tips": "Use your experiences to guide your studies and find mentors who support your goals"
+  },
+  "modern_impact": {
+    "current_applications": "Her legacy continues to inspire diversity in medicine",
+    "companies_using_her_work": [
+      "Medical schools",
+      "Diversity programs",
+      "Healthcare organizations"
+    ],
+    "future_implications": "Her work promotes representation and diversity in healthcare"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Helping others",
+      "Medicine",
+      "Community health"
+    ],
+    "family_background": "African American family in Delaware",
+    "hobbies": [
+      "Writing",
+      "Community service",
+      "Medical practice"
+    ],
+    "personality_traits": [
+      "Compassionate",
+      "Determined",
+      "Pioneering",
+      "Service-oriented"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "African American",
+    "cultural_influences": [
+      "African American community",
+      "19th-century American society",
+      "Women's rights movement"
+    ],
+    "cultural_challenges": [
+      "Racism and discrimination",
+      "Limited opportunities for African Americans",
+      "Gender barriers in medicine"
+    ],
+    "cultural_contributions": "Pioneered African American women's participation in medicine and healthcare"
+  },
+  "verified": false
+} 

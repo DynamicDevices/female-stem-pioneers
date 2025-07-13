@@ -1,0 +1,30 @@
+{
+  "name": "Yvonne Brill",
+  "photo": "./images/yvonne-brill.jpg",
+  "birthDate": "1924",
+  "deathDate": "2013",
+  "country": "Canada/United States",
+  "fields": [
+    "Engineering",
+    "Aerospace"
+  ],
+  "roles": [
+    "Engineer",
+    "Inventor"
+  ],
+  "quote": "Engineering is about solving problems and making things work better.",
+  "summary": "Aerospace engineer who invented the hydrazine resistojet propulsion system used in satellites.",
+  "shortDescription": "Yvonne Brill was an aerospace engineer who invented the hydrazine resistojet propulsion system used in satellites. She developed propulsion systems for satellites and was the first woman to receive National Medal of Technology and Innovation. Her work on satellite propulsion systems has been crucial to modern space technology and telecommunications.",
+  "achievements": [
+    "Invented hydrazine resistojet propulsion system",
+    "Developed propulsion systems for satellites",
+    "First woman to receive National Medal of Technology and Innovation"
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yvonne_Brill"
+    }
+  ],
+  "verified": true
+}

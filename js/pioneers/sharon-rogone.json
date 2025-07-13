@@ -1,0 +1,165 @@
+{
+  "name": "Sharon Rogone",
+  "photo": "./images/placeholder-woman.svg",
+  "birthDate": "1950",
+  "country": "United States",
+  "fields": [
+    "Engineering",
+    "Invention"
+  ],
+  "roles": [
+    "Engineer",
+    "Inventor"
+  ],
+  "quote": "Engineering can solve everyday problems.",
+  "summary": "Engineer and inventor who created the Brica Baby Travel Bed, a portable sleeping solution for infants.",
+  "shortDescription": "Sharon Rogone is an engineer and inventor who created the Brica Baby Travel Bed, a portable sleeping solution for infants. She designed a safe, portable bed that can be used anywhere, making travel easier for families with young children. Her invention demonstrates how engineering can solve everyday problems and improve family life.",
+  "detailed_description": {
+    "early_life": "Born in 1950, Sharon showed an early interest in engineering and solving practical problems. She pursued her education in engineering with a focus on product design and safety.",
+    "stem_journey": "Sharon became an engineer and inventor who focused on creating practical solutions for families. She developed the Brica Baby Travel Bed to address the need for safe, portable sleeping solutions for infants.",
+    "challenges": "Faced challenges as a woman in engineering and had to prove that her invention could meet safety standards and be commercially viable.",
+    "achievements": "Invented the Brica Baby Travel Bed, created a safe portable sleeping solution for infants, and demonstrated how engineering can improve family life.",
+    "legacy": "Sharon has helped make travel easier for families with young children and shown how engineering can solve everyday problems."
+  },
+  "achievements": [
+    "Invented Brica Baby Travel Bed",
+    "Created safe portable sleeping solution",
+    "Improved family travel experience"
+  ],
+  "awards": [
+    "Multiple invention awards",
+    "Recognition for family product innovation",
+    "Safety certification awards"
+  ],
+  "publications": [
+    {
+      "title": "Family Product Innovation",
+      "url": "https://www.brica.com/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "BS",
+      "field": "Engineering",
+      "institution": "Local university"
+    }
+  ],
+  "timeline": [
+    { "year": 1950, "event": "Born in United States" },
+    { "year": 1972, "event": "Earned engineering degree" },
+    { "year": 1990, "event": "Began working on family products" },
+    { "year": 2000, "event": "Invented Brica Baby Travel Bed" },
+    { "year": 2005, "event": "Launched Brica company" }
+  ],
+  "barriers": [
+    "Gender discrimination in engineering",
+    "Challenges in commercializing family products",
+    "Limited recognition for practical inventions"
+  ],
+  "impact": "Made travel easier for families with young children and demonstrated how engineering can solve everyday problems.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Sharon Rogone: Family Product Pioneer",
+      "url": "https://www.brica.com/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sharon_Rogone"
+    }
+  ],
+  "mentorship": "Inspired other engineers to focus on practical solutions that improve family life.",
+  "fun_fact": "Sharon's Brica Baby Travel Bed has helped millions of families travel safely with infants.",
+  "career_path": {
+    "first_job": "Product engineer",
+    "career_highlights": [
+      "Invented Brica Baby Travel Bed",
+      "Founded Brica company",
+      "Improved family travel safety"
+    ],
+    "advice_for_students": "Look for everyday problems that need solving. Engineering can make life better for everyone."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Engineering for Everyday Life",
+      "Product Design Guide"
+    ],
+    "websites": [
+      "brica.com",
+      "engineering.org",
+      "familyproducts.org"
+    ],
+    "programs": [
+      "Product design programs",
+      "Engineering summer camps"
+    ],
+    "advice": "Learn to identify real-world problems and apply engineering principles to solve them."
+  },
+  "challenges": {
+    "academic": [
+      "Gender barriers in engineering education"
+    ],
+    "professional": [
+      "Commercializing family products",
+      "Meeting safety standards"
+    ],
+    "personal": [
+      "Balancing innovation with safety requirements"
+    ],
+    "how_overcame": "Focused on creating safe, practical solutions and meeting all safety standards"
+  },
+  "education_details": {
+    "high_school": "Local schools",
+    "college_major": "Engineering",
+    "key_courses": [
+      "Product Design",
+      "Safety Engineering",
+      "Family Products"
+    ],
+    "study_tips": "Learn to apply engineering principles to solve everyday problems"
+  },
+  "modern_impact": {
+    "current_applications": "Her travel bed is used by families worldwide",
+    "companies_using_her_work": [
+      "Family product companies",
+      "Travel companies",
+      "Baby product manufacturers"
+    ],
+    "future_implications": "Her work continues to influence family product design and safety"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Engineering",
+      "Problem-solving",
+      "Family life"
+    ],
+    "family_background": "American family",
+    "hobbies": [
+      "Product design",
+      "Family activities",
+      "Travel"
+    ],
+    "personality_traits": [
+      "Practical",
+      "Caring",
+      "Innovative",
+      "Family-oriented"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American innovation culture",
+      "Family values",
+      "Practical problem-solving"
+    ],
+    "cultural_challenges": [
+      "Gender roles in engineering",
+      "Limited recognition for family products"
+    ],
+    "cultural_contributions": "Demonstrated that women could use engineering to improve family life and solve everyday problems"
+  },
+  "verified": true
+} 

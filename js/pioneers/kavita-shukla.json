@@ -1,0 +1,178 @@
+{
+  "name": "Kavita Shukla",
+  "summary": "Inventor and entrepreneur who created FreshPaper to keep food fresh longer.",
+  "shortDescription": "Kavita Shukla invented FreshPaper, a simple sheet that keeps fruits and vegetables fresh for longer. Her innovation helps reduce food waste and makes healthy food more accessible around the world.",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "1980s",
+  "country": "United States/India",
+  "fields": [
+    "Food Science",
+    "Invention"
+  ],
+  "roles": [
+    "Inventor",
+    "Entrepreneur"
+  ],
+  "quote": "I really love pursuing things and doing things that make me feel creative.",
+  "detailed_description": {
+    "early_life": "Born in the 1980s to Indian immigrant parents, Kavita Shukla showed an early interest in science and helping others. She was inspired by her grandmother's traditional knowledge and her desire to solve real-world problems.",
+    "stem_journey": "Kavita began developing FreshPaper as a teenager, combining her grandmother's traditional knowledge with modern science. She studied food science and chemistry to understand how to preserve produce naturally.",
+    "challenges": "As a young woman inventor, Kavita faced skepticism about whether a teenager could create a viable product. She also had to balance her education with developing her invention and starting a business.",
+    "achievements": "Kavita invented FreshPaper, a simple sheet infused with spices that keeps fruits and vegetables fresh longer. Her invention helps reduce food waste and makes healthy food more accessible to families.",
+    "legacy": "Kavita's work demonstrates how traditional knowledge can be combined with modern science to create practical solutions for global problems like food waste."
+  },
+  "achievements": [
+    "Invented FreshPaper food preservation technology",
+    "Reduced food waste through natural preservation",
+    "Made healthy food more accessible",
+    "Combined traditional knowledge with modern science"
+  ],
+  "awards": [
+    "Lemelson-MIT Student Prize",
+    "National Geographic Emerging Explorer"
+  ],
+  "publications": [
+    {
+      "title": "FreshPaper technology patents",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Food Science",
+      "field": "Chemistry and Food Technology",
+      "institution": "Harvard University"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1980,
+      "event": "Born to Indian immigrant parents"
+    },
+    {
+      "year": 1995,
+      "event": "Began developing FreshPaper as teenager"
+    },
+    {
+      "year": 2010,
+      "event": "Founded Fenugreen company"
+    },
+    {
+      "year": 2012,
+      "event": "Launched FreshPaper product"
+    }
+  ],
+  "barriers": [
+    "Skepticism about young inventors",
+    "Balancing education with entrepreneurship"
+  ],
+  "impact": "Reduced food waste and made healthy food more accessible to families worldwide.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Kavita Shukla: Food Preservation Innovator",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "references": [
+    {
+      "title": "Smithsonian Lemelson Center: Kavita Shukla",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "mentorship": "Inspired young inventors and showed how traditional knowledge can inform modern innovation.",
+  "fun_fact": "Kavita's invention was inspired by her grandmother's traditional knowledge of spices and food preservation.",
+  "career_path": {
+    "first_job": "Young inventor and entrepreneur",
+    "career_highlights": [
+      "Developed FreshPaper as teenager",
+      "Founded Fenugreen company",
+      "Reduced global food waste"
+    ],
+    "advice_for_students": "Don't let your age stop you from pursuing your ideas. The best inventions often come from solving problems you see around you."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "The Innovator's DNA",
+      "Food Science for Kids"
+    ],
+    "websites": [
+      "foodscience.org",
+      "entrepreneurship.org",
+      "fenugreen.com"
+    ],
+    "programs": [
+      "Young inventor programs",
+      "Food science camps",
+      "Entrepreneurship workshops"
+    ],
+    "advice": "Start with problems you see in your own life. The best inventions solve real-world problems."
+  },
+  "challenges": {
+    "academic": [
+      "Balancing school with invention development"
+    ],
+    "professional": [
+      "Skepticism about young inventors",
+      "Starting business while in school"
+    ],
+    "personal": [
+      "Managing time between education and entrepreneurship"
+    ],
+    "how_overcame": "Used determination and practical problem-solving to prove that young inventors can create valuable solutions"
+  },
+  "education_details": {
+    "high_school": "Strong foundation in science and mathematics",
+    "college_major": "Food Science and Chemistry",
+    "key_courses": [
+      "Chemistry",
+      "Food Science",
+      "Business",
+      "Entrepreneurship"
+    ],
+    "study_tips": "Combine scientific knowledge with practical problem-solving"
+  },
+  "modern_impact": {
+    "current_applications": "FreshPaper continues to reduce food waste worldwide",
+    "companies_using_her_work": [
+      "Food retailers",
+      "Restaurants",
+      "Families worldwide"
+    ],
+    "future_implications": "Inspiring sustainable food preservation solutions"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Science",
+      "Helping others",
+      "Food",
+      "Innovation"
+    ],
+    "family_background": "Indian immigrant family with traditional knowledge",
+    "hobbies": [
+      "Food science experimentation",
+      "Entrepreneurship",
+      "Helping others"
+    ],
+    "personality_traits": [
+      "Innovative",
+      "Determined",
+      "Compassionate",
+      "Practical"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Indian American",
+    "cultural_influences": [
+      "Indian traditional knowledge",
+      "American innovation culture",
+      "Immigrant work ethic"
+    ],
+    "cultural_challenges": [
+      "Balancing cultural traditions with modern innovation",
+      "Immigrant family expectations"
+    ],
+    "cultural_contributions": "Bridged Indian traditional knowledge with modern American innovation"
+  },
+  "verified": false
+}

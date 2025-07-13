@@ -1,0 +1,187 @@
+{
+  "name": "Dorothy Mary Crowfoot Hodgkin",
+  "photo": "./images/dorothy-hodgkin.jpg",
+  "birthDate": "1910",
+  "deathDate": "1994",
+  "country": "United Kingdom",
+  "fields": [
+    "Chemistry",
+    "Crystallography"
+  ],
+  "roles": [
+    "Chemist",
+    "Crystallographer"
+  ],
+  "quote": "I was captured for life by chemistry and by crystals.",
+  "summary": "Nobel Prize-winning chemist who determined the structure of penicillin and vitamin B12 using X-ray crystallography.",
+  "shortDescription": "Dorothy Mary Crowfoot Hodgkin was a Nobel Prize-winning chemist who determined the structure of penicillin and vitamin B12 using X-ray crystallography. She was instrumental in the discovery of the structure of DNA and antibiotic research. Her work on protein structures has been crucial to understanding how drugs work and developing new medicines.",
+  "detailed_description": {
+    "early_life": "Born in Cairo, Egypt, Dorothy showed exceptional talent in chemistry from an early age. She studied at Oxford and Cambridge, developing a passion for X-ray crystallography and molecular structure determination.",
+    "stem_journey": "Dorothy pioneered X-ray crystallography techniques to determine the structure of complex molecules. She solved the structures of penicillin, vitamin B12, and insulin, revolutionizing our understanding of molecular biology.",
+    "challenges": "Faced gender discrimination in chemistry and had to overcome barriers as a woman in crystallography. She also dealt with rheumatoid arthritis throughout her career, which affected her hands.",
+    "achievements": "Won the Nobel Prize in Chemistry, determined the structure of penicillin and vitamin B12, and pioneered X-ray crystallography techniques that revolutionized molecular biology and drug development.",
+    "legacy": "Dorothy opened doors for women in chemistry and crystallography. Her work on molecular structures is fundamental to modern drug development and understanding of biological molecules."
+  },
+  "achievements": [
+    "Nobel Prize in Chemistry (1964)",
+    "Determined structure of penicillin",
+    "Solved structure of vitamin B12"
+  ],
+  "awards": [
+    "Nobel Prize in Chemistry (1964)",
+    "Order of Merit (1965)",
+    "Copley Medal (1976)"
+  ],
+  "publications": [
+    {
+      "title": "X-ray Crystallography and Molecular Structure",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1964/hodgkin/facts/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Chemistry",
+      "institution": "University of Cambridge"
+    },
+    {
+      "degree": "BA",
+      "field": "Chemistry",
+      "institution": "University of Oxford"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1910,
+      "event": "Born in Cairo, Egypt"
+    },
+    {
+      "year": 1932,
+      "event": "Graduated from Oxford"
+    },
+    {
+      "year": 1937,
+      "event": "Earned PhD from Cambridge"
+    },
+    {
+      "year": 1945,
+      "event": "Determined structure of penicillin"
+    },
+    {
+      "year": 1964,
+      "event": "Won Nobel Prize in Chemistry"
+    },
+    {
+      "year": 1994,
+      "event": "Died in England"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in chemistry",
+    "Physical challenges from rheumatoid arthritis",
+    "Limited recognition for women's contributions"
+  ],
+  "impact": "Pioneered X-ray crystallography and revolutionized our understanding of molecular structures.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Dorothy Hodgkin: Nobel Prize-Winning Crystallographer",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1964/hodgkin/facts/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dorothy_Hodgkin"
+    }
+  ],
+  "mentorship": "Inspired future generations of women in chemistry and crystallography through her groundbreaking research.",
+  "fun_fact": "Dorothy suffered from rheumatoid arthritis but continued her crystallography work, often using her hands despite the pain.",
+  "career_path": {
+    "first_job": "Research chemist",
+    "career_highlights": [
+      "Nobel Prize in Chemistry",
+      "Pioneer in X-ray crystallography",
+      "Professor at Oxford University"
+    ],
+    "advice_for_students": "Follow your passion for understanding molecular structures. The beauty of crystals can reveal the secrets of life."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Dorothy Hodgkin: A Life",
+      "Women in Science: 50 Fearless Pioneers"
+    ],
+    "websites": [
+      "nobelprize.org",
+      "chemistry.org",
+      "crystallography.org"
+    ],
+    "programs": [
+      "Chemistry summer camps",
+      "Crystallography workshops"
+    ],
+    "advice": "Learn to see the beauty in molecular structures. Understanding how molecules fit together is key to understanding life."
+  },
+  "challenges": {
+    "academic": [
+      "Gender barriers in chemistry education"
+    ],
+    "professional": [
+      "Physical challenges from rheumatoid arthritis"
+    ],
+    "personal": [
+      "Balancing research with physical limitations"
+    ],
+    "how_overcame": "Adapted her techniques to work with her physical limitations and focused on excellence in research"
+  },
+  "education_details": {
+    "high_school": "Schools in England",
+    "college_major": "Chemistry",
+    "key_courses": [
+      "Chemistry",
+      "X-ray Crystallography",
+      "Molecular Biology"
+    ],
+    "study_tips": "Learn to visualize three-dimensional structures and understand how molecules interact"
+  },
+  "modern_impact": {
+    "current_applications": "Her X-ray crystallography techniques are fundamental to modern drug discovery",
+    "companies_using_her_work": [
+      "Pharmaceutical companies",
+      "Research institutions worldwide"
+    ],
+    "future_implications": "Her work continues to influence structural biology and drug development"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Chemistry",
+      "Crystals",
+      "Molecular structures"
+    ],
+    "family_background": "British colonial family",
+    "hobbies": [
+      "X-ray crystallography",
+      "Teaching and mentoring students"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Analytical",
+      "Persistent",
+      "Inspiring"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "British",
+    "cultural_influences": [
+      "British scientific tradition",
+      "Oxford and Cambridge academic culture",
+      "Early 20th-century chemistry"
+    ],
+    "cultural_challenges": [
+      "Gender roles in British academia",
+      "Physical disability in scientific work"
+    ],
+    "cultural_contributions": "Demonstrated that women could excel in advanced chemistry and overcome physical challenges to make groundbreaking discoveries"
+  },
+  "verified": true
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Nancy Grace Roman",
+  "photo": "./images/nancy-grace-roman.jpg",
+  "birthDate": "1925",
+  "deathDate": "2018",
+  "country": "United States",
+  "fields": [
+    "Astronomy"
+  ],
+  "roles": [
+    "Astronomer"
+  ],
+  "quote": "I was always interested in science, and I was always interested in space.",
+  "summary": "Known as the 'Mother of Hubble' for her role in planning and developing the Hubble Space Telescope.",
+  "shortDescription": "Nancy Grace Roman was a pioneering astronomer known as the 'Mother of Hubble' for her crucial role in planning and developing the Hubble Space Telescope. She was the first woman to hold an executive position at NASA and paved the way for women in space science.",
+  "detailed_description": {
+    "early_life": "Born in Tennessee in 1925, Nancy was fascinated by astronomy from childhood. She earned her PhD in astronomy from the University of Chicago in 1949.",
+    "stem_journey": "Nancy joined NASA in 1959 and became the first woman to hold an executive position at the agency. She played a crucial role in planning and developing the Hubble Space Telescope.",
+    "challenges": "As a woman in astronomy in the 1950s and 1960s, Nancy faced significant gender discrimination. She was often the only woman in her department and had to fight for recognition.",
+    "achievements": "Known as the 'Mother of Hubble' for her role in developing the Hubble Space Telescope, was the first woman executive at NASA, and made fundamental contributions to space astronomy.",
+    "legacy": "Nancy's work on the Hubble Space Telescope revolutionized our ability to observe the universe and inspired generations of women in space science."
+  },
+  "achievements": [
+    "Known as the 'Mother of Hubble'",
+    "First woman executive at NASA",
+    "Pioneered space-based astronomy",
+    "Developed numerous space missions"
+  ],
+  "awards": [
+    "NASA Exceptional Scientific Achievement Medal (1969)",
+    "Federal Woman's Award (1962)",
+    "William Randolph Lovelace II Award (1980)"
+  ],
+  "publications": [
+    {
+      "title": "The Hubble Space Telescope",
+      "url": "https://en.wikipedia.org/wiki/Nancy_Grace_Roman"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Astronomy",
+      "institution": "University of Chicago"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1959,
+      "event": "Joined NASA"
+    },
+    {
+      "year": 1960,
+      "event": "Became first woman executive at NASA"
+    },
+    {
+      "year": 1990,
+      "event": "Hubble Space Telescope launched"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in astronomy",
+    "Being the only woman in her department",
+    "Limited recognition for her contributions"
+  ],
+  "impact": "Her work on the Hubble Space Telescope revolutionized space astronomy.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Nancy Grace Roman: The Mother of Hubble",
+      "url": "https://www.biography.com/scientist/nancy-grace-roman"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nancy_Grace_Roman"
+    },
+    {
+      "title": "Biography.com",
+      "url": "https://www.biography.com/scientist/nancy-grace-roman"
+    }
+  ],
+  "mentorship": "Nancy mentored many women astronomers and advocated for women's participation in space science.",
+  "fun_fact": "Nancy Grace Roman was known as the 'Mother of Hubble' for her crucial role in developing the Hubble Space Telescope.",
+  "career_path": {
+    "first_job": "Research assistant at Yerkes Observatory",
+    "career_highlights": [
+      "Joined NASA in 1959",
+      "Became first woman executive at NASA",
+      "Developed Hubble Space Telescope"
+    ],
+    "advice_for_students": "Follow your passion and don't let gender barriers stop you from pursuing your dreams."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "The Hubble Space Telescope: A Story of Innovation",
+      "Nancy Grace Roman's NASA papers"
+    ],
+    "websites": [
+      "nasa.gov",
+      "hubblesite.org"
+    ],
+    "programs": [
+      "Women in Space Science programs",
+      "NASA internships"
+    ],
+    "advice": "Develop your technical skills and don't be afraid to take on leadership roles."
+  },
+  "challenges": {
+    "academic": [
+      "Gender discrimination in astronomy"
+    ],
+    "professional": [
+      "Being the only woman in her department",
+      "Limited recognition for her work"
+    ],
+    "personal": [
+      "Balancing family life with demanding career"
+    ],
+    "how_overcame": "Focused on her passion for astronomy and built supportive networks"
+  },
+  "education_details": {
+    "high_school": "Attended University of Chicago",
+    "college_major": "Astronomy",
+    "key_courses": [
+      "Astronomy",
+      "Physics",
+      "Mathematics"
+    ],
+    "study_tips": "Develop strong technical skills and learn to work in teams"
+  },
+  "modern_impact": {
+    "current_applications": "The Hubble Space Telescope continues to revolutionize our understanding of the universe",
+    "companies_using_her_work": [
+      "NASA",
+      "Space agencies worldwide",
+      "Astronomical observatories"
+    ],
+    "future_implications": "Her work paved the way for future space telescopes and missions"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Astronomy",
+      "Space exploration",
+      "Mathematics"
+    ],
+    "family_background": "Daughter of a geophysicist",
+    "hobbies": [
+      "Stargazing",
+      "Reading about space",
+      "Advocating for women in science"
+    ],
+    "personality_traits": [
+      "Curious",
+      "Determined",
+      "Visionary",
+      "Generous"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "Post-war American space program",
+      "University of Chicago astronomy tradition"
+    ],
+    "cultural_challenges": [
+      "Gender discrimination in science",
+      "Limited women's leadership roles"
+    ],
+    "cultural_contributions": "Pioneered women's role in space science and NASA leadership"
+  },
+  "verified": true
+}

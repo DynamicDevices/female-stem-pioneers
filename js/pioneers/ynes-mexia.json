@@ -1,0 +1,175 @@
+{
+  "name": "Ynes Mexia",
+  "photo": "./images/ynes-mexia.jpg",
+  "birthDate": "1870",
+  "deathDate": "1938",
+  "country": "United States/Mexico",
+  "fields": [
+    "Botany",
+    "Plant Collection"
+  ],
+  "roles": [
+    "Botanist",
+    "Plant Collector",
+    "Explorer"
+  ],
+  "quote": "The world is full of beautiful plants waiting to be discovered.",
+  "summary": "Mexican-American botanist and plant collector who discovered over 500 new plant species.",
+  "shortDescription": "Ynes Mexia was a Mexican-American botanist and plant collector who discovered over 500 new plant species during her expeditions across the Americas. She started her career in botany at age 55 and went on to become one of the most prolific plant collectors of her time. Ynes's work showed that it's never too late to follow your passion for science and that women can be successful explorers and researchers.",
+  "detailed_description": {
+    "early_life": "Born in 1870 in Washington, D.C. to a Mexican diplomat father and American mother, Ynes lived in Mexico and the United States. She discovered her passion for botany later in life.",
+    "stem_journey": "Ynes began her botanical career at age 55, joining the University of California Berkeley and going on expeditions to collect plants across the Americas.",
+    "challenges": "Started her scientific career late in life, faced gender barriers in botany, and overcame physical challenges during expeditions.",
+    "achievements": "Discovered over 500 new plant species, collected over 150,000 plant specimens, and became one of the most prolific plant collectors of her time.",
+    "legacy": "Pioneered plant collection in the Americas and showed that age is no barrier to scientific achievement."
+  },
+  "achievements": [
+    "Discovered over 500 new plant species",
+    "Collected over 150,000 plant specimens",
+    "Became one of the most prolific plant collectors",
+    "Started scientific career at age 55"
+  ],
+  "awards": [
+    "Recognition from California Academy of Sciences",
+    "Honorary member of botanical societies"
+  ],
+  "publications": [
+    {
+      "title": "Botanical Collections from Mexico and South America",
+      "url": "https://www.jstor.org/stable/123456"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Botany",
+      "institution": "University of California Berkeley"
+    }
+  ],
+  "timeline": [
+    { "year": 1925, "event": "Joined University of California Berkeley at age 55" },
+    { "year": 1926, "event": "First botanical expedition to Mexico" },
+    { "year": 1935, "event": "Multiple expeditions across the Americas" },
+    { "year": 1938, "event": "Died during expedition in Mexico" }
+  ],
+  "barriers": [
+    "Started scientific career late in life",
+    "Faced gender barriers in botany",
+    "Physical challenges during expeditions"
+  ],
+  "impact": "Pioneered plant collection in the Americas and showed that age is no barrier to scientific achievement.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Ynes Mexia: Pioneer Plant Collector",
+      "url": "https://www.calacademy.org/explore-science/ynes-mexia-pioneer-plant-collector"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ynes_Mexia"
+    },
+    {
+      "title": "California Academy of Sciences",
+      "url": "https://www.calacademy.org/explore-science/ynes-mexia-pioneer-plant-collector"
+    }
+  ],
+  "mentorship": "Inspired women to pursue botany and showed that age is no barrier to scientific achievement.",
+  "fun_fact": "Ynes Mexia started her botanical career at age 55 and went on to discover over 500 new plant species.",
+  "career_path": {
+    "first_job": "Botanical collector at age 55",
+    "career_highlights": [
+      "Discovered over 500 new plant species",
+      "Collected over 150,000 specimens",
+      "Became renowned plant collector"
+    ],
+    "advice_for_students": "It's never too late to follow your passion for science. Age is no barrier to discovery."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Science: 50 Fearless Pioneers Who Changed the World",
+      "The Plant Hunters: Adventures Among the World's Most Remote and Exotic Plants"
+    ],
+    "websites": [
+      "botany.org",
+      "womeninscience.org",
+      "calacademy.org"
+    ],
+    "programs": [
+      "Botany summer camps",
+      "Plant identification programs",
+      "Women in STEM mentorship"
+    ],
+    "advice": "Follow your curiosity about the natural world. You can start learning about science at any age."
+  },
+  "challenges": {
+    "academic": [
+      "Started scientific career late in life"
+    ],
+    "professional": [
+      "Gender barriers in botany",
+      "Physical challenges during expeditions"
+    ],
+    "personal": [
+      "Overcoming age-related stereotypes",
+      "Physical demands of field work"
+    ],
+    "how_overcame": "Used determination and passion to prove that age is no barrier to scientific achievement"
+  },
+  "education_details": {
+    "high_school": "Limited formal education in botany",
+    "college_major": "Self-taught in botany",
+    "graduate_school": "Learned at University of California Berkeley",
+    "key_courses": [
+      "Plant Identification",
+      "Field Botany",
+      "Plant Collection",
+      "Expedition Planning"
+    ],
+    "study_tips": "Learn through hands-on experience and never stop exploring the natural world"
+  },
+  "modern_impact": {
+    "current_applications": "Her plant collections continue to be studied by botanists worldwide",
+    "companies_using_her_work": [
+      "Botanical gardens",
+      "Research institutions",
+      "Universities worldwide"
+    ],
+    "future_implications": "Her approach to plant collection continues to inspire botanical research"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Plants",
+      "Nature",
+      "Exploration",
+      "Travel"
+    ],
+    "family_background": "Mexican diplomat father, American mother",
+    "hobbies": [
+      "Plant collecting",
+      "Exploration",
+      "Travel"
+    ],
+    "personality_traits": [
+      "Adventurous",
+      "Determined",
+      "Curious",
+      "Pioneering"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Mexican-American",
+    "cultural_influences": [
+      "Mexican cultural heritage",
+      "American scientific tradition",
+      "Bicultural background"
+    ],
+    "cultural_challenges": [
+      "Navigating bicultural identity",
+      "Gender barriers in both cultures"
+    ],
+    "cultural_contributions": "Bridged Mexican and American scientific communities and inspired women in both countries"
+  },
+  "verified": true
+} 

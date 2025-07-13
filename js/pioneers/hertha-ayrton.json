@@ -1,0 +1,30 @@
+{
+  "name": "Hertha Ayrton",
+  "photo": "./images/hertha-ayrton.jpg",
+  "birthDate": "1854",
+  "deathDate": "1923",
+  "country": "United Kingdom",
+  "fields": [
+    "Physics",
+    "Engineering"
+  ],
+  "roles": [
+    "Physicist",
+    "Engineer"
+  ],
+  "quote": "An error that ascribes to a man what was actually the work of a woman has more lives than a cat.",
+  "summary": "British physicist and engineer who studied electric arcs and was the first woman to read a paper before the Royal Society.",
+  "shortDescription": "Hertha Ayrton was a British physicist and engineer who studied electric arcs and was the first woman to read a paper before the Royal Society. She held 26 patents for inventions and was instrumental in the field of electrical engineering. Her research on electric arcs and sand ripples contributed to our understanding of fluid dynamics and electrical phenomena.",
+  "achievements": [
+    "First woman to read paper before Royal Society",
+    "Studied electric arcs and sand ripples",
+    "Held 26 patents for inventions"
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hertha_Ayrton"
+    }
+  ],
+  "verified": true
+}

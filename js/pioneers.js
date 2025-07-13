@@ -17385,6 +17385,860 @@ const pioneers = [
       "cultural_contributions": "Pioneered women's participation in medical education and practice"
     },
     "verified": true
+  },
+  {
+    "name": "Agnes Pockels",
+    "photo": "./images/agnes-pockels.jpg",
+    "birthDate": "1862",
+    "deathDate": "1935",
+    "country": "Germany",
+    "fields": [
+      "Chemistry",
+      "Surface Chemistry"
+    ],
+    "roles": [
+      "Chemist",
+      "Researcher"
+    ],
+    "quote": "I have been working on surface tension for many years.",
+    "summary": "German chemist who pioneered surface chemistry and developed the Pockels trough for measuring surface tension.",
+    "shortDescription": "Agnes Pockels was a German chemist who made groundbreaking contributions to surface chemistry. She developed the Pockels trough for measuring surface tension and conducted pioneering research on thin films, despite having no formal university education.",
+    "detailed_description": {
+      "early_life": "Born in Venice, Italy in 1862, Agnes showed early interest in science and conducted experiments in her home kitchen. She was largely self-educated in chemistry.",
+      "stem_journey": "Agnes conducted pioneering research on surface chemistry and thin films, developing the Pockels trough for measuring surface tension. She corresponded with Lord Rayleigh and published her findings.",
+      "challenges": "As a woman in 19th-century Germany, Agnes faced significant barriers to formal education and scientific recognition. She had to conduct her research at home with limited resources.",
+      "achievements": "Developed the Pockels trough for measuring surface tension, made pioneering contributions to surface chemistry, and published important research on thin films.",
+      "legacy": "Agnes's work laid the foundation for modern surface chemistry and influenced the development of colloid science."
+    },
+    "achievements": [
+      "Developed the Pockels trough for measuring surface tension",
+      "Pioneered research in surface chemistry",
+      "Published important work on thin films",
+      "Influenced development of colloid science"
+    ],
+    "awards": [
+      "Laura Leonard Prize (1931)",
+      "Honorary doctorate from Technical University of Braunschweig (1932)"
+    ],
+    "publications": [
+      {
+        "title": "Surface Tension",
+        "url": "https://en.wikipedia.org/wiki/Agnes_Pockels"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Chemistry",
+        "institution": "Independent Study"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1891,
+        "event": "Published first paper on surface tension"
+      },
+      {
+        "year": 1931,
+        "event": "Received Laura Leonard Prize"
+      },
+      {
+        "year": 1932,
+        "event": "Received honorary doctorate"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in science",
+      "Limited formal education opportunities",
+      "Working in isolation without laboratory access"
+    ],
+    "impact": "Her work revolutionized surface chemistry and influenced the development of colloid science.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Agnes Pockels: Pioneer of Surface Chemistry",
+        "url": "https://www.britannica.com/biography/Agnes-Pockels"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Agnes_Pockels"
+      }
+    ],
+    "mentorship": "Inspired women in chemistry through her determination and scientific achievements.",
+    "fun_fact": "Agnes Pockels conducted her pioneering research on surface tension using equipment she built in her kitchen.",
+    "career_path": {
+      "first_job": "Independent researcher in surface chemistry",
+      "career_highlights": [
+        "Developed Pockels trough",
+        "Published research on surface tension",
+        "Received honorary doctorate"
+      ],
+      "advice_for_students": "Don't let limited resources stop you from pursuing your scientific interests. You can make important discoveries with simple equipment."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Agnes Pockels: Pioneer of Surface Chemistry",
+        "Women in Chemistry"
+      ],
+      "websites": [
+        "wikipedia.org",
+        "britannica.com"
+      ],
+      "programs": [
+        "Women in Chemistry programs",
+        "Surface chemistry research"
+      ],
+      "advice": "Learn to work with what you have and don't be afraid to build your own equipment if necessary."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal education opportunities for women"
+      ],
+      "professional": [
+        "Gender discrimination in science",
+        "Working in isolation"
+      ],
+      "personal": [
+        "Limited access to laboratory equipment"
+      ],
+      "how_overcame": "Built her own equipment and conducted research at home, focusing on her passion for chemistry"
+    },
+    "education_details": {
+      "high_school": "Self-educated in chemistry",
+      "college_major": "Independent study in chemistry",
+      "key_courses": [
+        "Chemistry",
+        "Physics",
+        "Mathematics"
+      ],
+      "study_tips": "Learn to work with simple equipment and focus on understanding fundamental principles"
+    },
+    "modern_impact": {
+      "current_applications": "Her surface tension measurement techniques are still used in modern chemistry",
+      "companies_using_her_work": [
+        "Chemical companies",
+        "Research laboratories",
+        "Universities"
+      ],
+      "future_implications": "Her work continues to influence surface chemistry and colloid science"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Chemistry",
+        "Experiments",
+        "Surface phenomena"
+      ],
+      "family_background": "Daughter of a military officer",
+      "hobbies": [
+        "Conducting experiments",
+        "Reading scientific literature",
+        "Corresponding with other scientists"
+      ],
+      "personality_traits": [
+        "Curious",
+        "Determined",
+        "Independent",
+        "Innovative"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "German",
+      "cultural_influences": [
+        "19th-century German science",
+        "European scientific community",
+        "Victorian era intellectual culture"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 19th-century Germany",
+        "Limited opportunities for women in science"
+      ],
+      "cultural_contributions": "Pioneered women's participation in chemistry and surface science"
+    },
+    "verified": true
+  },
+  {
+    "name": "Ida Noddack",
+    "photo": "./images/ida-noddack.jpg",
+    "birthDate": "1896",
+    "deathDate": "1978",
+    "country": "Germany",
+    "fields": [
+      "Chemistry",
+      "Physics"
+    ],
+    "roles": [
+      "Chemist",
+      "Physicist"
+    ],
+    "quote": "The nucleus is not only a source of energy, but also a source of new elements.",
+    "summary": "German chemist who co-discovered rhenium and made important contributions to nuclear chemistry.",
+    "shortDescription": "Ida Noddack was a German chemist who co-discovered the element rhenium with her husband Walter Noddack. She also made important contributions to nuclear chemistry and was one of the first scientists to suggest nuclear fission.",
+    "detailed_description": {
+      "early_life": "Born in Lackhausen, Germany in 1896, Ida showed early interest in chemistry and physics. She studied at the Technical University of Berlin and earned her doctorate in chemistry.",
+      "stem_journey": "Ida worked with her husband Walter Noddack on the discovery of new elements. They discovered rhenium in 1925 and she made important contributions to nuclear chemistry.",
+      "challenges": "As a woman in early 20th-century German science, Ida faced gender discrimination and often had her contributions overlooked in favor of her husband's work.",
+      "achievements": "Co-discovered rhenium, made contributions to nuclear chemistry, suggested nuclear fission before it was discovered, and published important research on element discovery.",
+      "legacy": "Ida's work on element discovery and nuclear chemistry influenced the development of modern chemistry and nuclear physics."
+    },
+    "achievements": [
+      "Co-discovered rhenium (element 75)",
+      "Made contributions to nuclear chemistry",
+      "Suggested nuclear fission before its discovery",
+      "Published important research on element discovery"
+    ],
+    "awards": [
+      "Liebig Medal (1931)",
+      "Scheele Medal (1934)"
+    ],
+    "publications": [
+      {
+        "title": "On Element 75",
+        "url": "https://en.wikipedia.org/wiki/Ida_Noddack"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Chemistry",
+        "institution": "Technical University of Berlin"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1925,
+        "event": "Co-discovered rhenium"
+      },
+      {
+        "year": 1931,
+        "event": "Received Liebig Medal"
+      },
+      {
+        "year": 1934,
+        "event": "Published paper suggesting nuclear fission"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in science",
+      "Having contributions overlooked in favor of husband's work",
+      "Limited recognition for her achievements"
+    ],
+    "impact": "Her discovery of rhenium and contributions to nuclear chemistry influenced modern chemistry and nuclear physics.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Ida Noddack: The Woman Who Discovered Rhenium",
+        "url": "https://www.britannica.com/biography/Ida-Noddack"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ida_Noddack"
+      }
+    ],
+    "mentorship": "Inspired women in chemistry through her discoveries and determination.",
+    "fun_fact": "Ida Noddack was one of the first scientists to suggest nuclear fission, though her idea was initially dismissed by the scientific community.",
+    "career_path": {
+      "first_job": "Research chemist with her husband Walter",
+      "career_highlights": [
+        "Co-discovered rhenium",
+        "Published research on nuclear chemistry",
+        "Suggested nuclear fission"
+      ],
+      "advice_for_students": "Don't be afraid to challenge established theories and think creatively about scientific problems."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Ida Noddack: Pioneer of Nuclear Chemistry",
+        "Women in Chemistry"
+      ],
+      "websites": [
+        "wikipedia.org",
+        "britannica.com"
+      ],
+      "programs": [
+        "Women in Chemistry programs",
+        "Nuclear chemistry research"
+      ],
+      "advice": "Learn to think independently and don't be afraid to propose new ideas, even if they challenge established thinking."
+    },
+    "challenges": {
+      "academic": [
+        "Gender discrimination in chemistry"
+      ],
+      "professional": [
+        "Having contributions overlooked",
+        "Limited recognition for achievements"
+      ],
+      "personal": [
+        "Working in husband's shadow"
+      ],
+      "how_overcame": "Focused on her research and continued to publish important work despite limited recognition"
+    },
+    "education_details": {
+      "high_school": "Attended Technical University of Berlin",
+      "college_major": "Chemistry",
+      "key_courses": [
+        "Chemistry",
+        "Physics",
+        "Nuclear chemistry"
+      ],
+      "study_tips": "Learn to think independently and don't be afraid to challenge established ideas"
+    },
+    "modern_impact": {
+      "current_applications": "Her discovery of rhenium has applications in high-temperature alloys and catalysts",
+      "companies_using_her_work": [
+        "Chemical companies",
+        "Nuclear research facilities",
+        "Materials science laboratories"
+      ],
+      "future_implications": "Her work continues to influence nuclear chemistry and element discovery"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Chemistry",
+        "Physics",
+        "Element discovery"
+      ],
+      "family_background": "Married to chemist Walter Noddack",
+      "hobbies": [
+        "Research",
+        "Reading scientific literature",
+        "Traveling for research"
+      ],
+      "personality_traits": [
+        "Curious",
+        "Determined",
+        "Independent thinker",
+        "Innovative"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "German",
+      "cultural_influences": [
+        "Early 20th-century German science",
+        "European scientific community",
+        "Nuclear physics development"
+      ],
+      "cultural_challenges": [
+        "Gender roles in early 20th-century Germany",
+        "Limited recognition for women scientists"
+      ],
+      "cultural_contributions": "Pioneered women's participation in nuclear chemistry and element discovery"
+    },
+    "verified": true
+  },
+  {
+    "name": "Inge Lehmann",
+    "photo": "./images/inge-lehmann.jpg",
+    "birthDate": "1888",
+    "deathDate": "1993",
+    "country": "Denmark",
+    "fields": [
+      "Geophysics",
+      "Seismology"
+    ],
+    "roles": [
+      "Geophysicist",
+      "Seismologist"
+    ],
+    "quote": "You should know how many incompetent men I had to compete with.",
+    "summary": "Danish seismologist who discovered the Earth's inner core and made fundamental contributions to understanding Earth's structure.",
+    "shortDescription": "Inge Lehmann was a Danish seismologist who discovered the Earth's inner core in 1936. Her work revolutionized our understanding of Earth's structure and she became one of the most respected seismologists of the 20th century.",
+    "detailed_description": {
+      "early_life": "Born in Copenhagen, Denmark in 1888, Inge showed early interest in mathematics and science. She studied mathematics and physics at the University of Copenhagen.",
+      "stem_journey": "Inge became interested in seismology and began analyzing seismic data. In 1936, she discovered the Earth's inner core by analyzing seismic wave patterns.",
+      "challenges": "As a woman in early 20th-century science, Inge faced significant gender discrimination and had to prove herself repeatedly in a male-dominated field.",
+      "achievements": "Discovered the Earth's inner core, made fundamental contributions to seismology, established seismic observatories, and influenced understanding of Earth's structure.",
+      "legacy": "Inge's discovery of the inner core revolutionized our understanding of Earth's structure and influenced modern geophysics."
+    },
+    "achievements": [
+      "Discovered the Earth's inner core (1936)",
+      "Made fundamental contributions to seismology",
+      "Established seismic observatories",
+      "Influenced understanding of Earth's structure"
+    ],
+    "awards": [
+      "William Bowie Medal (1971)",
+      "Gold Medal from Royal Danish Academy (1965)",
+      "Elected to Royal Society (1969)"
+    ],
+    "publications": [
+      {
+        "title": "P'",
+        "url": "https://en.wikipedia.org/wiki/Inge_Lehmann"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MA",
+        "field": "Mathematics",
+        "institution": "University of Copenhagen"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1936,
+        "event": "Discovered the Earth's inner core"
+      },
+      {
+        "year": 1965,
+        "event": "Received Gold Medal from Royal Danish Academy"
+      },
+      {
+        "year": 1971,
+        "event": "Received William Bowie Medal"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in science",
+      "Working in male-dominated field",
+      "Limited recognition for her contributions"
+    ],
+    "impact": "Her discovery of the inner core revolutionized our understanding of Earth's structure and influenced modern geophysics.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Inge Lehmann: The Woman Who Discovered the Earth's Inner Core",
+        "url": "https://www.britannica.com/biography/Inge-Lehmann"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Inge_Lehmann"
+      }
+    ],
+    "mentorship": "Inspired women in geophysics through her discoveries and determination.",
+    "fun_fact": "Inge Lehmann lived to be 104 years old, making her one of the longest-lived scientists in history.",
+    "career_path": {
+      "first_job": "Assistant in actuarial science",
+      "career_highlights": [
+        "Discovered Earth's inner core",
+        "Established seismic observatories",
+        "Made fundamental contributions to seismology"
+      ],
+      "advice_for_students": "Don't let anyone tell you what you can't do. Your contributions are valuable regardless of your gender."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Inge Lehmann: The Woman Who Discovered the Earth's Inner Core",
+        "Women in Geophysics"
+      ],
+      "websites": [
+        "wikipedia.org",
+        "britannica.com"
+      ],
+      "programs": [
+        "Women in Geophysics programs",
+        "Seismology summer camps"
+      ],
+      "advice": "Learn to analyze data carefully and don't be afraid to challenge established theories."
+    },
+    "challenges": {
+      "academic": [
+        "Gender discrimination in science"
+      ],
+      "professional": [
+        "Working in male-dominated field",
+        "Limited recognition for achievements"
+      ],
+      "personal": [
+        "Proving herself repeatedly"
+      ],
+      "how_overcame": "Focused on her research and let her discoveries speak for themselves"
+    },
+    "education_details": {
+      "high_school": "Attended University of Copenhagen",
+      "college_major": "Mathematics",
+      "key_courses": [
+        "Mathematics",
+        "Physics",
+        "Seismology"
+      ],
+      "study_tips": "Learn to analyze data carefully and think critically about your observations"
+    },
+    "modern_impact": {
+      "current_applications": "Her work on Earth's structure influences modern geophysics and earthquake studies",
+      "companies_using_her_work": [
+        "Geological surveys",
+        "Earthquake monitoring centers",
+        "Universities"
+      ],
+      "future_implications": "Her discoveries continue to influence our understanding of Earth's structure"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Physics",
+        "Earth sciences"
+      ],
+      "family_background": "Daughter of a psychologist",
+      "hobbies": [
+        "Analyzing seismic data",
+        "Reading scientific literature",
+        "Traveling for research"
+      ],
+      "personality_traits": [
+        "Analytical",
+        "Determined",
+        "Curious",
+        "Persistent"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Danish",
+      "cultural_influences": [
+        "Early 20th-century Danish science",
+        "European scientific community",
+        "Geophysics development"
+      ],
+      "cultural_challenges": [
+        "Gender roles in early 20th-century Denmark",
+        "Limited opportunities for women in science"
+      ],
+      "cultural_contributions": "Pioneered women's participation in geophysics and seismology"
+    },
+    "verified": true
+  },
+  {
+    "name": "Janaki Ammal",
+    "photo": "./images/janaki-ammal.jpg",
+    "birthDate": "1897",
+    "deathDate": "1984",
+    "country": "India",
+    "fields": [
+      "Botany",
+      "Cytogenetics"
+    ],
+    "roles": [
+      "Botanist",
+      "Cytogeneticist"
+    ],
+    "quote": "I will work for the betterment of Indian agriculture.",
+    "summary": "Indian botanist and cytogeneticist who made significant contributions to plant breeding and conservation.",
+    "shortDescription": "Janaki Ammal was an Indian botanist and cytogeneticist who made significant contributions to plant breeding and conservation. She worked on sugarcane breeding and helped establish the Botanical Survey of India.",
+    "detailed_description": {
+      "early_life": "Born in Tellicherry, India in 1897, Janaki showed early interest in plants and nature. She studied botany at Queen Mary's College and later earned her doctorate from the University of Michigan.",
+      "stem_journey": "Janaki specialized in cytogenetics and plant breeding, working on sugarcane improvement and plant conservation. She helped establish the Botanical Survey of India.",
+      "challenges": "As a woman in early 20th-century India, Janaki faced gender discrimination and cultural barriers. She had to overcome societal expectations and limited opportunities for women in science.",
+      "achievements": "Made contributions to plant breeding, helped establish Botanical Survey of India, worked on sugarcane improvement, and contributed to plant conservation.",
+      "legacy": "Janaki's work influenced Indian agriculture and plant conservation, and she inspired future generations of women scientists in India."
+    },
+    "achievements": [
+      "Made contributions to plant breeding",
+      "Helped establish Botanical Survey of India",
+      "Worked on sugarcane improvement",
+      "Contributed to plant conservation"
+    ],
+    "awards": [
+      "Padma Shri (1977)"
+    ],
+    "publications": [
+      {
+        "title": "Chromosome Atlas of Cultivated Plants",
+        "url": "https://en.wikipedia.org/wiki/Janaki_Ammal"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Botany",
+        "institution": "University of Michigan"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1925,
+        "event": "Earned PhD from University of Michigan"
+      },
+      {
+        "year": 1951,
+        "event": "Helped establish Botanical Survey of India"
+      },
+      {
+        "year": 1977,
+        "event": "Received Padma Shri"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in science",
+      "Cultural barriers in India",
+      "Limited opportunities for women in science"
+    ],
+    "impact": "Her work influenced Indian agriculture and plant conservation, and she inspired future generations of women scientists.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Janaki Ammal: Pioneer of Indian Botany",
+        "url": "https://www.britannica.com/biography/Janaki-Ammal"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Janaki_Ammal"
+      }
+    ],
+    "mentorship": "Inspired women in botany through her achievements and determination.",
+    "fun_fact": "Janaki Ammal was one of the first Indian women to earn a PhD in botany and work in plant breeding.",
+    "career_path": {
+      "first_job": "Botanist at Sugarcane Breeding Institute",
+      "career_highlights": [
+        "Worked on sugarcane breeding",
+        "Helped establish Botanical Survey of India",
+        "Made contributions to plant conservation"
+      ],
+      "advice_for_students": "Follow your passion for nature and don't let cultural barriers stop you from pursuing your dreams."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Janaki Ammal: Pioneer of Indian Botany",
+        "Women in Botany"
+      ],
+      "websites": [
+        "wikipedia.org",
+        "britannica.com"
+      ],
+      "programs": [
+        "Women in Botany programs",
+        "Plant conservation programs"
+      ],
+      "advice": "Learn to observe nature carefully and don't be afraid to pursue your interests in plant science."
+    },
+    "challenges": {
+      "academic": [
+        "Gender discrimination in science",
+        "Cultural barriers in India"
+      ],
+      "professional": [
+        "Limited opportunities for women in science",
+        "Working in male-dominated field"
+      ],
+      "personal": [
+        "Overcoming societal expectations"
+      ],
+      "how_overcame": "Focused on her passion for plants and used her education to make important contributions"
+    },
+    "education_details": {
+      "high_school": "Attended Queen Mary's College",
+      "college_major": "Botany",
+      "key_courses": [
+        "Botany",
+        "Cytogenetics",
+        "Plant breeding"
+      ],
+      "study_tips": "Learn to observe nature carefully and develop strong laboratory skills"
+    },
+    "modern_impact": {
+      "current_applications": "Her work on plant breeding continues to influence Indian agriculture",
+      "companies_using_her_work": [
+        "Agricultural research institutions",
+        "Botanical gardens",
+        "Plant conservation organizations"
+      ],
+      "future_implications": "Her legacy continues to inspire plant conservation and agricultural research"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Plants",
+        "Nature",
+        "Botany"
+      ],
+      "family_background": "From traditional Indian family",
+      "hobbies": [
+        "Studying plants",
+        "Field work",
+        "Reading botanical literature"
+      ],
+      "personality_traits": [
+        "Curious",
+        "Determined",
+        "Observant",
+        "Passionate about nature"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Indian",
+      "cultural_influences": [
+        "Early 20th-century Indian society",
+        "British colonial education",
+        "Indian agricultural traditions"
+      ],
+      "cultural_challenges": [
+        "Gender roles in traditional Indian society",
+        "Cultural barriers to women in science"
+      ],
+      "cultural_contributions": "Pioneered Indian women's participation in botany and plant science"
+    },
+    "verified": true
+  },
+  {
+    "name": "Ynes Mexia",
+    "photo": "./images/ynes-mexia.jpg",
+    "birthDate": "1870",
+    "deathDate": "1938",
+    "country": "Mexico/United States",
+    "fields": [
+      "Botany",
+      "Plant Collection"
+    ],
+    "roles": [
+      "Botanist",
+      "Plant Collector"
+    ],
+    "quote": "I will collect plants until I die.",
+    "summary": "Mexican-American botanist who collected over 150,000 plant specimens and discovered numerous new species.",
+    "shortDescription": "Ynes Mexia was a Mexican-American botanist who collected over 150,000 plant specimens and discovered numerous new species. She began her botanical career at age 55 and became one of the most prolific plant collectors of her time.",
+    "detailed_description": {
+      "early_life": "Born in Washington, D.C. in 1870, Ynes spent her early years in Mexico. She showed interest in nature and plants from an early age, but didn't begin her botanical career until later in life.",
+      "stem_journey": "Ynes began collecting plants at age 55 and became one of the most prolific plant collectors of her time. She collected over 150,000 specimens and discovered numerous new species.",
+      "challenges": "As a woman starting a scientific career at age 55, Ynes faced age discrimination and skepticism. She also faced challenges as a Mexican-American woman in early 20th-century science.",
+      "achievements": "Collected over 150,000 plant specimens, discovered numerous new species, became one of most prolific plant collectors, and contributed to botanical knowledge.",
+      "legacy": "Ynes's plant collections contributed significantly to botanical knowledge and inspired others to pursue their passions regardless of age."
+    },
+    "achievements": [
+      "Collected over 150,000 plant specimens",
+      "Discovered numerous new species",
+      "Became one of most prolific plant collectors",
+      "Contributed to botanical knowledge"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "Plant collections and discoveries",
+        "url": "https://en.wikipedia.org/wiki/Ynes_Mexia"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Botany",
+        "institution": "Independent Study"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1925,
+        "event": "Began plant collecting career"
+      },
+      {
+        "year": 1938,
+        "event": "Died while collecting plants in Mexico"
+      }
+    ],
+    "barriers": [
+      "Age discrimination (started career at 55)",
+      "Gender discrimination in science",
+      "Cultural barriers as Mexican-American"
+    ],
+    "impact": "Her plant collections contributed significantly to botanical knowledge and inspired others to pursue their passions.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Ynes Mexia: The Late-Blooming Botanist",
+        "url": "https://www.britannica.com/biography/Ynes-Mexia"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ynes_Mexia"
+      }
+    ],
+    "mentorship": "Inspired others to pursue their passions regardless of age or background.",
+    "fun_fact": "Ynes Mexia began her botanical career at age 55 and collected over 150,000 plant specimens in just 13 years.",
+    "career_path": {
+      "first_job": "Plant collector at age 55",
+      "career_highlights": [
+        "Collected over 150,000 specimens",
+        "Discovered numerous new species",
+        "Became prolific plant collector"
+      ],
+      "advice_for_students": "It's never too late to pursue your passion. Don't let age or other barriers stop you from following your dreams."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Ynes Mexia: The Late-Blooming Botanist",
+        "Women in Botany"
+      ],
+      "websites": [
+        "wikipedia.org",
+        "britannica.com"
+      ],
+      "programs": [
+        "Botany programs",
+        "Plant collection workshops"
+      ],
+      "advice": "It's never too late to start pursuing your interests. Follow your passion regardless of your age."
+    },
+    "challenges": {
+      "academic": [
+        "Starting scientific career at age 55"
+      ],
+      "professional": [
+        "Age discrimination",
+        "Gender discrimination in science"
+      ],
+      "personal": [
+        "Cultural barriers as Mexican-American"
+      ],
+      "how_overcame": "Focused on her passion for plants and ignored societal expectations about age and gender"
+    },
+    "education_details": {
+      "high_school": "Self-educated in botany",
+      "college_major": "Independent study in botany",
+      "key_courses": [
+        "Botany",
+        "Plant identification",
+        "Field collection methods"
+      ],
+      "study_tips": "Learn to identify plants and develop strong field observation skills"
+    },
+    "modern_impact": {
+      "current_applications": "Her plant collections are preserved in herbaria and continue to be studied by botanists",
+      "companies_using_her_work": [
+        "Botanical gardens",
+        "Herbaria",
+        "Research institutions"
+      ],
+      "future_implications": "Her collections continue to contribute to botanical research and conservation"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Plants",
+        "Nature",
+        "Travel"
+      ],
+      "family_background": "Mexican-American heritage",
+      "hobbies": [
+        "Plant collecting",
+        "Traveling",
+        "Field work"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Passionate",
+        "Adventurous",
+        "Persistent"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Mexican-American",
+      "cultural_influences": [
+        "Mexican culture",
+        "American scientific community",
+        "Early 20th-century botany"
+      ],
+      "cultural_challenges": [
+        "Cultural barriers as Mexican-American",
+        "Gender roles in early 20th-century America"
+      ],
+      "cultural_contributions": "Pioneered Mexican-American women's participation in botany and plant science"
+    },
+    "verified": true
   }
 ];
 

@@ -1,0 +1,176 @@
+{
+  "name": "Lisa Lindahl, Hinda Miller, Polly Palmer Smith",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "1970s",
+  "country": "United States",
+  "fields": [
+    "Invention",
+    "Sports Engineering"
+  ],
+  "roles": [
+    "Inventors",
+    "Entrepreneurs"
+  ],
+  "quote": "This was made by women for women.",
+  "summary": "Inventors of the sports bra (Jogbra), revolutionizing athletic wear for women.",
+  "shortDescription": "Lisa Lindahl, Hinda Miller, and Polly Palmer Smith invented the sports bra, making exercise more comfortable for women and helping to open doors for women in sports.",
+  "detailed_description": {
+    "early_life": "Born in the 1970s, these three women were active in sports and fitness but found that existing athletic wear didn't meet women's needs. They were inspired to create better solutions for women athletes.",
+    "stem_journey": "The trio combined their experiences in sports, business, and design to create the first sports bra. They used their understanding of women's needs to develop a product that would revolutionize athletic wear.",
+    "challenges": "As women inventors in the 1970s, they faced skepticism about their product and had to overcome gender barriers in the male-dominated sports industry. They also had to educate the market about the need for their invention.",
+    "achievements": "They invented the Jogbra, the first sports bra designed specifically for women athletes. Their invention revolutionized athletic wear and helped open doors for women in sports and fitness.",
+    "legacy": "Their work has enabled millions of women to participate comfortably in sports and fitness activities, and their success paved the way for women entrepreneurs in the athletic wear industry."
+  },
+  "achievements": [
+    "Invented the first sports bra (Jogbra)",
+    "Revolutionized athletic wear for women",
+    "Founded successful athletic wear company",
+    "Opened doors for women in sports"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "Sports bra technology and design",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Various",
+      "field": "Business and Design",
+      "institution": "Multiple institutions"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1970,
+      "event": "Born in United States"
+    },
+    {
+      "year": 1977,
+      "event": "Invented the Jogbra sports bra"
+    },
+    {
+      "year": 1978,
+      "event": "Founded Jogbra company"
+    },
+    {
+      "year": 1990,
+      "event": "Company acquired by Playtex"
+    }
+  ],
+  "barriers": [
+    "Faced gender barriers in male-dominated sports industry",
+    "Had to educate market about need for sports bra",
+    "Overcame skepticism about women's athletic wear"
+  ],
+  "impact": "Revolutionized athletic wear for women and enabled greater participation in sports.",
+  "media": [
+    {
+      "type": "article",
+      "title": "The Inventors of the Sports Bra",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "references": [
+    {
+      "title": "Smithsonian Lemelson Center: Jogbra",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "mentorship": "Inspired future generations of women entrepreneurs and inventors in the athletic wear industry.",
+  "fun_fact": "The sports bra was inspired by the women's own experiences with uncomfortable athletic wear during exercise.",
+  "career_path": {
+    "first_job": "Various careers before invention",
+    "career_highlights": [
+      "Invented revolutionary athletic wear",
+      "Founded successful company",
+      "Pioneered women's sports equipment"
+    ],
+    "advice_for_students": "Identify problems that affect you personally and find solutions. Women's needs are valid and important."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women Inventors: Hidden in History",
+      "The Business of Women's Sports"
+    ],
+    "websites": [
+      "womeninventors.org",
+      "sportsbusiness.org",
+      "athleticwear.org"
+    ],
+    "programs": [
+      "Women's entrepreneurship programs",
+      "Sports engineering programs",
+      "Design and innovation competitions"
+    ],
+    "advice": "Study business and design, and don't be afraid to address women's specific needs in your inventions."
+  },
+  "challenges": {
+    "academic": [
+      "Learning business and design skills"
+    ],
+    "professional": [
+      "Breaking into male-dominated sports industry",
+      "Educating market about new product"
+    ],
+    "personal": [
+      "Balancing multiple roles as inventors and entrepreneurs"
+    ],
+    "how_overcame": "Used personal experience and determination to prove the value of their invention"
+  },
+  "education_details": {
+    "high_school": "Various backgrounds in sports and business",
+    "college_major": "Business and design fields",
+    "key_courses": [
+      "Business",
+      "Design",
+      "Sports Science",
+      "Entrepreneurship"
+    ],
+    "study_tips": "Combine practical experience with business knowledge and design skills"
+  },
+  "modern_impact": {
+    "current_applications": "Sports bras are now standard athletic wear for women worldwide",
+    "companies_using_her_work": [
+      "Athletic wear companies",
+      "Sports equipment manufacturers",
+      "Women's fitness industry"
+    ],
+    "future_implications": "Their work continues to inspire women's athletic wear innovation"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Sports",
+      "Fitness",
+      "Business",
+      "Design"
+    ],
+    "family_background": "Various backgrounds with focus on sports and business",
+    "hobbies": [
+      "Sports and fitness",
+      "Business innovation",
+      "Helping other women"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Innovative",
+      "Collaborative",
+      "Entrepreneurial"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "1970s women's rights movement",
+      "Fitness and sports culture",
+      "Entrepreneurial spirit"
+    ],
+    "cultural_challenges": [
+      "Gender barriers in sports industry",
+      "Limited recognition of women's athletic needs"
+    ],
+    "cultural_contributions": "Pioneered American women's participation in sports equipment invention and athletic wear innovation"
+  },
+  "verified": false
+}

@@ -1,0 +1,175 @@
+{
+  "name": "Sophie Germain",
+  "photo": "./images/sophie-germain.jpg",
+  "birthDate": "1776",
+  "deathDate": "1831",
+  "country": "France",
+  "fields": [
+    "Mathematics",
+    "Physics"
+  ],
+  "roles": [
+    "Mathematician",
+    "Physicist"
+  ],
+  "quote": "Algebra is but written geometry and geometry is but written algebra.",
+  "summary": "Pioneered elasticity theory and made contributions to number theory despite facing gender barriers.",
+  "shortDescription": "Sophie Germain was a self-taught mathematician who made foundational contributions to number theory and elasticity theory. She was the first woman to win a prize from the Paris Academy of Sciences. Despite facing significant gender barriers in 18th-century France, she made important contributions to mathematics and physics, including work on Fermat's Last Theorem.",
+  "detailed_description": {
+    "early_life": "Born in Paris in 1776, Sophie was largely self-taught in mathematics. During the French Revolution, she spent time in her family's library studying mathematics, developing a passion for the subject despite her family's disapproval.",
+    "stem_journey": "Sophie corresponded with leading mathematicians including Gauss and Legendre, often using a male pseudonym to avoid gender discrimination. She made significant contributions to number theory and elasticity theory.",
+    "challenges": "Faced severe gender discrimination in mathematics. Had to use a male pseudonym to correspond with other mathematicians. Her family disapproved of her mathematical studies, and she was denied formal education opportunities.",
+    "achievements": "Pioneered elasticity theory, made contributions to Fermat's Last Theorem, and became the first woman to win a prize from the Paris Academy of Sciences. Her work on number theory was foundational.",
+    "legacy": "Sophie opened doors for women in mathematics and inspired future generations of female mathematicians. Her work on elasticity theory has applications in engineering and physics."
+  },
+  "achievements": [
+    "Pioneered elasticity theory",
+    "Made contributions to number theory",
+    "First woman to win a prize from the Paris Academy of Sciences"
+  ],
+  "awards": [
+    "Grand Prix from the Paris Academy of Sciences (1816)"
+  ],
+  "publications": [
+    {
+      "title": "Recherches sur la théorie des surfaces élastiques",
+      "url": "https://archive.org/details/recherchessurla00germgoog"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Mathematics",
+      "institution": "Home study"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1776,
+      "event": "Born in Paris, France"
+    },
+    {
+      "year": 1794,
+      "event": "Began serious study of mathematics"
+    },
+    {
+      "year": 1804,
+      "event": "Began correspondence with Gauss"
+    },
+    {
+      "year": 1816,
+      "event": "Won Grand Prix from Paris Academy of Sciences"
+    },
+    {
+      "year": 1831,
+      "event": "Died in Paris"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in mathematics",
+    "Family disapproval of mathematical studies",
+    "Denied formal education opportunities"
+  ],
+  "impact": "Pioneered elasticity theory and made foundational contributions to number theory, opening doors for women in mathematics.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Sophie Germain: The Revolutionary Mathematician",
+      "url": "https://www.britannica.com/biography/Sophie-Germain"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sophie_Germain"
+    }
+  ],
+  "mentorship": "Corresponded with leading mathematicians including Gauss and Legendre, establishing intellectual networks despite gender barriers.",
+  "fun_fact": "Sophie used the male pseudonym 'M. LeBlanc' to correspond with other mathematicians.",
+  "career_path": {
+    "first_job": "Independent mathematical researcher",
+    "career_highlights": [
+      "Correspondence with leading mathematicians",
+      "Research in number theory and elasticity"
+    ],
+    "advice_for_students": "Follow your passion regardless of barriers. Mathematics is universal and accessible to all who are willing to learn."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Sophie's Diary: A Mathematical Novel",
+      "Women in Mathematics by Lynn Osen"
+    ],
+    "websites": [
+      "mathworld.wolfram.com",
+      "womeninmath.org"
+    ],
+    "programs": [
+      "Women in Mathematics summer programs",
+      "Math circles for girls"
+    ],
+    "advice": "Start with what interests you most in mathematics. Don't let anyone tell you that certain subjects aren't for you."
+  },
+  "challenges": {
+    "academic": [
+      "No formal mathematical education available"
+    ],
+    "professional": [
+      "Had to use male pseudonym to be taken seriously"
+    ],
+    "personal": [
+      "Family disapproval of mathematical pursuits"
+    ],
+    "how_overcame": "Self-taught through extensive reading and correspondence with supportive mathematicians"
+  },
+  "education_details": {
+    "high_school": "Self-taught in mathematics",
+    "college_major": "Independent study of advanced mathematics",
+    "key_courses": [
+      "Number Theory",
+      "Elasticity Theory",
+      "Mathematical Analysis"
+    ],
+    "study_tips": "Connect mathematical concepts to real-world applications and historical context"
+  },
+  "modern_impact": {
+    "current_applications": "Her elasticity theory is used in engineering and materials science",
+    "companies_using_her_work": [
+      "Engineering firms worldwide",
+      "Materials science research"
+    ],
+    "future_implications": "Her elasticity theory continues to influence engineering applications"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Mathematics",
+      "Physics",
+      "Philosophy"
+    ],
+    "family_background": "Middle-class Parisian family",
+    "hobbies": [
+      "Mathematical correspondence",
+      "Reading scientific literature",
+      "Independent research"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Analytical",
+      "Persistent",
+      "Intellectually curious"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "French intellectual tradition",
+    "cultural_influences": [
+      "French Revolution era",
+      "Enlightenment philosophy",
+      "Parisian intellectual circles"
+    ],
+    "cultural_challenges": [
+      "Gender roles in 18th-century France",
+      "Class barriers to education"
+    ],
+    "cultural_contributions": "Demonstrated that women could excel in abstract mathematics and contribute to scientific discourse"
+  },
+  "verified": true
+}

@@ -1,0 +1,169 @@
+{
+  "name": "Sophia Hayden",
+  "summary": "Architect and advocate for women in design and engineering.",
+  "shortDescription": "Sophia Hayden was the first female graduate of MIT’s architecture program and designed the Woman’s Building at the 1893 World’s Fair. She broke barriers for women in architecture and inspired future generations of designers.",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "1868",
+  "deathDate": "1953",
+  "country": "United States",
+  "fields": [
+    "Architecture",
+    "Engineering"
+  ],
+  "roles": [
+    "Architect",
+    "Engineer"
+  ],
+  "quote": "[The Woman's Building] is the result of careful training in classical design and is the expression of what I liked and felt.",
+  "detailed_description": {
+    "early_life": "Born in 1868 in Santiago, Chile, Sophia Hayden showed an early talent for art and design. She moved to the United States and pursued her passion for architecture, despite the challenges facing women in the field.",
+    "stem_journey": "Sophia attended MIT and became the first woman to receive an architecture degree from the prestigious institution. She excelled in her studies and demonstrated exceptional design skills, winning the competition to design the Woman's Building.",
+    "challenges": "As a woman in architecture in the late 19th century, Sophia faced significant discrimination and limited opportunities. She was often excluded from professional societies and faced skepticism about her abilities as a female architect.",
+    "achievements": "Sophia became the first woman to receive an architecture degree from MIT and designed the Woman's Building at the 1893 World's Columbian Exposition in Chicago. Her design was praised for its classical beauty and innovative features.",
+    "legacy": "Sophia's work paved the way for women in architecture and engineering, showing that women could excel in design and construction. Her Woman's Building was a landmark achievement in women's participation in world's fairs."
+  },
+  "achievements": [
+    "First woman to receive architecture degree from MIT",
+    "Designed Woman's Building at 1893 World's Fair",
+    "Pioneered women's role in architecture",
+    "Demonstrated classical design excellence"
+  ],
+  "awards": [
+    "First place in Woman's Building design competition",
+    "Recognition for architectural excellence"
+  ],
+  "publications": [
+    {
+      "title": "Architectural designs and drawings",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Architecture",
+      "field": "Architecture and Design",
+      "institution": "Massachusetts Institute of Technology"
+    }
+  ],
+  "timeline": [
+    { "year": 1868, "event": "Born in Santiago, Chile" },
+    { "year": 1890, "event": "Graduated from MIT as first woman architect" },
+    { "year": 1893, "event": "Designed Woman's Building for World's Fair" },
+    { "year": 1953, "event": "Passed away, leaving architectural legacy" }
+  ],
+  "barriers": [
+    "Gender discrimination in architecture",
+    "Limited opportunities for women in design",
+    "Exclusion from professional societies"
+  ],
+  "impact": "Pioneered women's participation in architecture and demonstrated female excellence in design.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Sophia Hayden: First Woman Architect from MIT",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "references": [
+    {
+      "title": "Smithsonian Lemelson Center: Sophia Hayden",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "mentorship": "Inspired future generations of women to pursue architecture and engineering.",
+  "fun_fact": "Sophia's Woman's Building design was praised for its classical beauty and innovative features, despite facing criticism from some male architects.",
+  "career_path": {
+    "first_job": "Architectural designer",
+    "career_highlights": [
+      "First woman architect from MIT",
+      "Designed landmark Woman's Building",
+      "Pioneered women's role in architecture"
+    ],
+    "advice_for_students": "Follow your passion for design and don't let gender barriers stop you from pursuing architecture."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Architecture",
+      "The World's Columbian Exposition"
+    ],
+    "websites": [
+      "architecture.org",
+      "mit.edu",
+      "womeninarchitecture.org"
+    ],
+    "programs": [
+      "Architecture summer camps",
+      "Design programs",
+      "Women in STEM workshops"
+    ],
+    "advice": "Study both the technical and artistic aspects of architecture. Design is about both function and beauty."
+  },
+  "challenges": {
+    "academic": [
+      "Being first woman in architecture program"
+    ],
+    "professional": [
+      "Gender discrimination in architecture",
+      "Limited opportunities for women designers"
+    ],
+    "personal": [
+      "Facing isolation as only woman in field",
+      "Overcoming societal expectations"
+    ],
+    "how_overcame": "Used exceptional talent and determination to prove women could excel in architecture"
+  },
+  "education_details": {
+    "high_school": "Strong foundation in art and mathematics",
+    "college_major": "Architecture",
+    "key_courses": [
+      "Architectural Design",
+      "Engineering",
+      "Art History",
+      "Mathematics"
+    ],
+    "study_tips": "Combine artistic vision with technical knowledge"
+  },
+  "modern_impact": {
+    "current_applications": "Her work inspired women's participation in architecture",
+    "companies_using_her_work": [
+      "Architecture firms",
+      "Design schools",
+      "Women's organizations"
+    ],
+    "future_implications": "Continues to inspire women in architecture and design"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Art",
+      "Design",
+      "Architecture",
+      "Mathematics"
+    ],
+    "family_background": "International family with appreciation for culture",
+    "hobbies": [
+      "Architectural drawing",
+      "Design",
+      "Art"
+    ],
+    "personality_traits": [
+      "Creative",
+      "Determined",
+      "Talented",
+      "Pioneering"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Chilean American",
+    "cultural_influences": [
+      "Chilean cultural heritage",
+      "American innovation culture",
+      "Classical architectural traditions"
+    ],
+    "cultural_challenges": [
+      "Immigration barriers",
+      "Gender roles in 19th century"
+    ],
+    "cultural_contributions": "Bridged Chilean and American architectural traditions, pioneered women's role in architecture"
+  },
+  "verified": true
+} 

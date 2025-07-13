@@ -1,0 +1,177 @@
+{
+  "name": "Florence Nightingale",
+  "photo": "./images/florence-nightingale.jpg",
+  "birthDate": "1820",
+  "deathDate": "1910",
+  "country": "United Kingdom",
+  "fields": [
+    "Statistics",
+    "Nursing"
+  ],
+  "roles": [
+    "Nurse",
+    "Statistician",
+    "Social Reformer"
+  ],
+  "quote": "I attribute my success to this: I never gave or took any excuse.",
+  "summary": "Pioneering nurse and statistician who revolutionized healthcare and established modern nursing practices.",
+  "shortDescription": "Florence Nightingale was a pioneering nurse and statistician who revolutionized healthcare during the Crimean War. She established modern nursing practices and used statistics to improve healthcare outcomes, becoming the first woman elected to the Royal Statistical Society.",
+  "detailed_description": {
+    "early_life": "Born in Italy in 1820 to wealthy British parents, Florence was educated at home and showed early interest in mathematics and statistics. She defied her family's expectations to pursue nursing.",
+    "stem_journey": "Florence used her mathematical skills to analyze healthcare data and improve hospital conditions. She developed statistical methods to track patient outcomes and hospital efficiency.",
+    "challenges": "As a woman in 19th-century Britain, Florence faced significant opposition to her career choice. Nursing was considered inappropriate for women of her social class.",
+    "achievements": "Revolutionized nursing during the Crimean War, established modern nursing practices, pioneered the use of statistics in healthcare, and was the first woman elected to the Royal Statistical Society.",
+    "legacy": "Florence's work established modern nursing as a profession and demonstrated the importance of statistics in healthcare and public policy."
+  },
+  "achievements": [
+    "Revolutionized nursing during the Crimean War",
+    "Established modern nursing practices",
+    "Pioneered the use of statistics in healthcare",
+    "First woman elected to the Royal Statistical Society"
+  ],
+  "awards": [
+    "Order of Merit (1907)",
+    "Royal Red Cross (1883)",
+    "First woman elected to Royal Statistical Society (1858)"
+  ],
+  "publications": [
+    {
+      "title": "Notes on Nursing",
+      "url": "https://en.wikipedia.org/wiki/Florence_Nightingale"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Mathematics and Statistics",
+      "institution": "Private study"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1854,
+      "event": "Led nursing team in Crimean War"
+    },
+    {
+      "year": 1858,
+      "event": "Elected to Royal Statistical Society"
+    },
+    {
+      "year": 1860,
+      "event": "Founded Nightingale Training School"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in 19th-century society",
+    "Social class expectations",
+    "Opposition to women in healthcare"
+  ],
+  "impact": "Her work established modern nursing as a profession and demonstrated the importance of statistics in healthcare.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Florence Nightingale: The Lady with the Lamp",
+      "url": "https://www.biography.com/scientist/florence-nightingale"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Florence_Nightingale"
+    },
+    {
+      "title": "Biography.com",
+      "url": "https://www.biography.com/scientist/florence-nightingale"
+    }
+  ],
+  "mentorship": "Florence mentored many nurses and established the first professional nursing school.",
+  "fun_fact": "Florence Nightingale was known as 'The Lady with the Lamp' for her night rounds during the Crimean War.",
+  "career_path": {
+    "first_job": "Nurse in Crimean War",
+    "career_highlights": [
+      "Led nursing team in Crimean War",
+      "Established modern nursing practices",
+      "Pioneered healthcare statistics"
+    ],
+    "advice_for_students": "Follow your calling and use your skills to help others."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Notes on Nursing by Florence Nightingale",
+      "Florence Nightingale: The Making of an Icon"
+    ],
+    "websites": [
+      "florence-nightingale.co.uk",
+      "rcn.org.uk"
+    ],
+    "programs": [
+      "Nursing programs",
+      "Healthcare statistics programs"
+    ],
+    "advice": "Use your mathematical skills to solve real-world problems and help others."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal education opportunities for women"
+    ],
+    "professional": [
+      "Opposition to women in healthcare",
+      "Social class barriers"
+    ],
+    "personal": [
+      "Family opposition to her career choice"
+    ],
+    "how_overcame": "Followed her calling despite opposition and used her skills to help others"
+  },
+  "education_details": {
+    "high_school": "Home education with focus on mathematics",
+    "college_major": "Self-taught in statistics and healthcare",
+    "key_courses": [
+      "Mathematics",
+      "Statistics",
+      "Healthcare"
+    ],
+    "study_tips": "Learn to apply mathematical skills to real-world problems"
+  },
+  "modern_impact": {
+    "current_applications": "Her statistical methods are still used in healthcare and public policy",
+    "companies_using_her_work": [
+      "Hospitals worldwide",
+      "Public health organizations",
+      "Statistical societies"
+    ],
+    "future_implications": "Her work continues to influence modern nursing and healthcare statistics"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Mathematics",
+      "Statistics",
+      "Helping others"
+    ],
+    "family_background": "Daughter of wealthy British parents",
+    "hobbies": [
+      "Writing",
+      "Statistics",
+      "Healthcare reform"
+    ],
+    "personality_traits": [
+      "Compassionate",
+      "Determined",
+      "Analytical",
+      "Generous"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "British",
+    "cultural_influences": [
+      "Victorian era social reform movement",
+      "British statistical tradition"
+    ],
+    "cultural_challenges": [
+      "Victorian gender roles",
+      "Social class expectations"
+    ],
+    "cultural_contributions": "Pioneered women's role in healthcare and demonstrated the importance of statistics in public policy"
+  },
+  "verified": true
+}

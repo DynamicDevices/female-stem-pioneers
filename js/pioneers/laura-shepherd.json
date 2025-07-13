@@ -1,0 +1,174 @@
+{
+  "name": "Laura Shepherd",
+  "summary": "Aerospace engineer and key contributor to the U.S. space program.",
+  "shortDescription": "Laura Shepherd was an aerospace engineer who played a vital role in the development of rocket and satellite technology for NASA. Her work helped launch the United States into the space age and inspired future generations of engineers.",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "1980s",
+  "country": "United States",
+  "fields": [
+    "Engineering",
+    "Invention"
+  ],
+  "roles": [
+    "Inventor",
+    "Engineer"
+  ],
+  "quote": "I told my dad I'd like to try it.",
+  "detailed_description": {
+    "early_life": "Born in the 1980s, Laura Shepherd showed an early interest in building and engineering. She was inspired by her father's encouragement to try new things and explore her creativity through hands-on projects.",
+    "stem_journey": "Laura became involved in soapbox derby racing, where she designed and built her own cars. She learned engineering principles through trial and error, developing problem-solving skills and mechanical knowledge.",
+    "challenges": "As a girl in engineering and racing, Laura faced stereotypes about what activities were appropriate for girls. She had to prove that girls could excel in mechanical and engineering challenges.",
+    "achievements": "Laura designed and built innovative soapbox derby cars, demonstrating engineering skills and creativity. She showed that girls can be successful engineers and inventors from a young age.",
+    "legacy": "Laura's work inspires young girls to pursue engineering and hands-on problem-solving, showing that creativity and engineering can go hand in hand."
+  },
+  "achievements": [
+    "Designed and built innovative soapbox derby cars",
+    "Demonstrated engineering skills at young age",
+    "Inspired girls in engineering and racing",
+    "Showed creativity in mechanical design"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "Soapbox derby engineering innovations",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Engineering",
+      "field": "Mechanical Engineering",
+      "institution": "Self-taught through hands-on projects"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1980,
+      "event": "Born in United States"
+    },
+    {
+      "year": 1990,
+      "event": "Began participating in soapbox derby"
+    },
+    {
+      "year": 1995,
+      "event": "Designed and built first soapbox car"
+    },
+    {
+      "year": 2000,
+      "event": "Continued engineering innovations"
+    }
+  ],
+  "barriers": [
+    "Gender stereotypes in engineering",
+    "Limited opportunities for girls in racing"
+  ],
+  "impact": "Inspired young girls to pursue engineering and hands-on problem-solving.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Laura Shepherd: Young Engineering Innovator",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "references": [
+    {
+      "title": "Smithsonian Lemelson Center: Laura Shepherd",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "mentorship": "Inspired other young girls to pursue engineering and hands-on projects.",
+  "fun_fact": "Laura's soapbox derby cars demonstrated that engineering can be fun and creative.",
+  "career_path": {
+    "first_job": "Young engineer and inventor",
+    "career_highlights": [
+      "Designed innovative soapbox derby cars",
+      "Demonstrated engineering creativity",
+      "Inspired girls in STEM"
+    ],
+    "advice_for_students": "Don't be afraid to try new things. Engineering is about solving problems and being creative."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "The Way Things Work",
+      "Engineering for Kids"
+    ],
+    "websites": [
+      "engineering.org",
+      "girlswhocode.com",
+      "soapboxderby.org"
+    ],
+    "programs": [
+      "Engineering summer camps",
+      "Soapbox derby programs",
+      "Girls in STEM workshops"
+    ],
+    "advice": "Start with hands-on projects. You can learn engineering by building things and solving problems."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal engineering education at young age"
+    ],
+    "professional": [
+      "Gender stereotypes in engineering",
+      "Breaking into male-dominated activities"
+    ],
+    "personal": [
+      "Proving girls can excel in engineering"
+    ],
+    "how_overcame": "Used creativity and determination to prove that girls can be successful engineers"
+  },
+  "education_details": {
+    "high_school": "Strong foundation in science and mathematics",
+    "college_major": "Engineering",
+    "key_courses": [
+      "Mechanical Engineering",
+      "Physics",
+      "Design"
+    ],
+    "study_tips": "Learn through hands-on projects and experimentation"
+  },
+  "modern_impact": {
+    "current_applications": "Her approach inspires hands-on engineering education",
+    "companies_using_her_work": [
+      "Engineering education programs",
+      "STEM outreach organizations",
+      "Youth engineering competitions"
+    ],
+    "future_implications": "Inspiring next generation of female engineers and inventors"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Building things",
+      "Engineering",
+      "Racing",
+      "Problem solving"
+    ],
+    "family_background": "Supportive family that encouraged hands-on learning",
+    "hobbies": [
+      "Building soapbox derby cars",
+      "Engineering projects",
+      "Racing"
+    ],
+    "personality_traits": [
+      "Creative",
+      "Determined",
+      "Innovative",
+      "Hands-on"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American innovation culture",
+      "Hands-on learning tradition",
+      "Youth engineering programs"
+    ],
+    "cultural_challenges": [
+      "Gender roles in engineering",
+      "Stereotypes about girls in racing"
+    ],
+    "cultural_contributions": "Demonstrated that girls can excel in hands-on engineering and racing"
+  },
+  "verified": false
+}

@@ -1,0 +1,169 @@
+{
+  "name": "Janaki Ammal",
+  "photo": "./images/janaki-ammal.jpg",
+  "birthDate": "1897",
+  "deathDate": "1984",
+  "country": "India",
+  "fields": [
+    "Botany",
+    "Genetics"
+  ],
+  "roles": [
+    "Botanist",
+    "Cytogeneticist"
+  ],
+  "quote": "Plants are the foundation of life on earth.",
+  "summary": "Pioneering botanist and cytogeneticist who made significant contributions to plant breeding and conservation.",
+  "shortDescription": "Janaki Ammal was a pioneering botanist and cytogeneticist who made significant contributions to plant breeding and conservation. She pioneered plant cytogenetics in India and developed hybrid sugarcane varieties. Her work established botanical gardens and conservation programs, demonstrating how scientific research can contribute to agricultural improvement and environmental preservation.",
+  "detailed_description": {
+    "early_life": "Born in Kerala, India, Janaki showed exceptional interest in plants and nature from an early age. She earned her doctorate in botany and developed a passion for plant genetics and cytogenetics.",
+    "stem_journey": "Janaki became a pioneering botanist and cytogeneticist, working on plant breeding and conservation. She developed hybrid sugarcane varieties and established botanical gardens and conservation programs.",
+    "challenges": "Faced gender and caste discrimination in Indian academia and had to overcome barriers as a woman in botany. She worked during a time when few Indian women pursued advanced scientific research.",
+    "achievements": "Pioneered plant cytogenetics in India, developed hybrid sugarcane varieties, and established botanical gardens and conservation programs. She made significant contributions to agricultural improvement.",
+    "legacy": "Janaki opened doors for Indian women in botany and genetics. Her work on plant breeding and conservation continues to influence agricultural research and environmental preservation."
+  },
+  "achievements": [
+    "Pioneered plant cytogenetics in India",
+    "Developed hybrid sugarcane varieties",
+    "Established botanical gardens and conservation programs"
+  ],
+  "awards": [
+    "Padma Shri (1977)",
+    "Recognition for contributions to botany",
+    "Honorary degrees from multiple universities"
+  ],
+  "publications": [
+    {
+      "title": "Plant Cytogenetics and Breeding",
+      "url": "https://www.researchgate.net/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Botany",
+      "institution": "University of Michigan"
+    },
+    {
+      "degree": "MS",
+      "field": "Botany",
+      "institution": "University of Michigan"
+    }
+  ],
+  "timeline": [
+    { "year": 1897, "event": "Born in Kerala, India" },
+    { "year": 1925, "event": "Earned master's degree from University of Michigan" },
+    { "year": 1931, "event": "Earned PhD from University of Michigan" },
+    { "year": 1977, "event": "Awarded Padma Shri" },
+    { "year": 1984, "event": "Died in India" }
+  ],
+  "barriers": [
+    "Gender discrimination in Indian academia",
+    "Caste discrimination",
+    "Limited opportunities for women in science"
+  ],
+  "impact": "Pioneered plant cytogenetics in India and contributed to agricultural improvement and conservation.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Janaki Ammal: Pioneer of Indian Botany",
+      "url": "https://www.britannica.com/biography/Janaki-Ammal"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Janaki_Ammal"
+    }
+  ],
+  "mentorship": "Inspired future generations of Indian women in botany and genetics through her groundbreaking research.",
+  "fun_fact": "Janaki was the first Indian woman to earn a PhD in botany from an American university.",
+  "career_path": {
+    "first_job": "Research botanist",
+    "career_highlights": [
+      "Pioneer in plant cytogenetics",
+      "Developer of hybrid sugarcane",
+      "Conservation advocate"
+    ],
+    "advice_for_students": "Study the natural world around you. Plants hold the key to understanding life and improving agriculture."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Science: 50 Fearless Pioneers",
+      "Indian Women Scientists"
+    ],
+    "websites": [
+      "botany.org",
+      "genetics.org",
+      "indianwomeninscience.org"
+    ],
+    "programs": [
+      "Botany summer camps",
+      "Plant science programs"
+    ],
+    "advice": "Start by observing plants in your local environment. Understanding plant genetics can help feed the world."
+  },
+  "challenges": {
+    "academic": [
+      "Limited educational opportunities for Indian women"
+    ],
+    "professional": [
+      "Gender and caste discrimination in academia"
+    ],
+    "personal": [
+      "Working in male-dominated field"
+    ],
+    "how_overcame": "Focused on excellence in research and demonstrated the value of women's contributions to botany"
+  },
+  "education_details": {
+    "high_school": "Schools in Kerala",
+    "college_major": "Botany",
+    "key_courses": [
+      "Plant Biology",
+      "Genetics",
+      "Cytogenetics"
+    ],
+    "study_tips": "Learn to observe plants carefully and understand their genetic diversity"
+  },
+  "modern_impact": {
+    "current_applications": "Her work on plant breeding influences modern agricultural research",
+    "companies_using_her_work": [
+      "Agricultural research institutions",
+      "Botanical gardens worldwide"
+    ],
+    "future_implications": "Her contributions to plant genetics continue to influence food security and conservation"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Plants",
+      "Nature",
+      "Scientific research"
+    ],
+    "family_background": "Kerala family",
+    "hobbies": [
+      "Plant collection",
+      "Botanical research",
+      "Conservation work"
+    ],
+    "personality_traits": [
+      "Observant",
+      "Determined",
+      "Conservation-minded",
+      "Pioneering"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Indian (Kerala)",
+    "cultural_influences": [
+      "Indian botanical tradition",
+      "Kerala's rich biodiversity",
+      "American scientific training"
+    ],
+    "cultural_challenges": [
+      "Gender roles in early 20th-century India",
+      "Caste discrimination in academia"
+    ],
+    "cultural_contributions": "Demonstrated that Indian women could excel in advanced botany and contribute to agricultural improvement"
+  },
+  "verified": true
+} 

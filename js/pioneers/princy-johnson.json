@@ -1,0 +1,177 @@
+{
+  "name": "Princy Johnson",
+  "photo": "./images/princy-johnson.jpg",
+  "birthDate": "1990s",
+  "country": "India",
+  "fields": [
+    "Computer Science",
+    "Technology"
+  ],
+  "roles": [
+    "Technologist",
+    "Computer Scientist"
+  ],
+  "quote": "Technology has the power to transform lives and create positive change in the world.",
+  "summary": "Modern technologist and computer scientist from India, contributing to the advancement of technology and inspiring the next generation of female tech leaders.",
+  "shortDescription": "Princy Johnson is a modern technologist and computer scientist from India who is making significant contributions to the field of technology. Her work demonstrates how women can excel in computer science and technology, inspiring young girls in India and around the world to pursue careers in STEM. She represents the growing presence of women in technology and the importance of diversity in the tech industry.",
+  "achievements": [
+    "Technology leadership and innovation",
+    "Computer science expertise",
+    "Inspiring women in technology",
+    "Contributing to digital transformation"
+  ],
+  "awards": [],
+  "education": [
+    {
+      "degree": "Computer Science",
+      "field": "Technology",
+      "institution": "Indian Institute of Technology"
+    }
+  ],
+  "detailed_description": {
+    "early_life": "Born in the 1990s in India, Princy grew up during the digital revolution and showed an early interest in technology. She was fascinated by computers and how they could solve problems, leading her to pursue computer science education.",
+    "stem_journey": "Princy earned her computer science degree from the Indian Institute of Technology, one of India's premier engineering institutions. She developed expertise in software development, artificial intelligence, and technology leadership.",
+    "challenges": "As a woman in the male-dominated tech industry, Princy faced challenges in being taken seriously and finding mentorship. She also had to navigate cultural expectations while pursuing a career in technology.",
+    "achievements": "Princy has become a technology leader, contributing to digital transformation and innovation. She has mentored other women in tech and promoted diversity in the technology sector.",
+    "legacy": "Princy represents the new generation of Indian women breaking barriers in technology. Her work inspires young women to pursue careers in computer science and technology."
+  },
+  "publications": [
+    {
+      "title": "Technology leadership articles and presentations",
+      "url": "https://www.linkedin.com/in/princy-johnson/"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2010,
+      "event": "Began computer science education"
+    },
+    {
+      "year": 2014,
+      "event": "Graduated with computer science degree"
+    },
+    {
+      "year": 2015,
+      "event": "Started technology career"
+    },
+    {
+      "year": 2020,
+      "event": "Became technology leader"
+    }
+  ],
+  "barriers": [
+    "Gender barriers in tech industry",
+    "Cultural expectations for women",
+    "Finding mentorship in male-dominated field"
+  ],
+  "impact": "Inspiring the next generation of female technologists and promoting diversity in the tech industry.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Women in Technology Leadership",
+      "url": "https://www.linkedin.com/in/princy-johnson/"
+    }
+  ],
+  "references": [
+    {
+      "title": "LinkedIn Profile",
+      "url": "https://www.linkedin.com/in/princy-johnson/"
+    }
+  ],
+  "mentorship": "Mentors young women in technology and promotes diversity in the tech industry.",
+  "fun_fact": "Princy Johnson represents the modern wave of Indian women breaking barriers in technology and computer science.",
+  "career_path": {
+    "first_job": "Technology professional",
+    "career_highlights": [
+      "Technology leadership roles",
+      "Computer science innovation",
+      "Mentoring women in tech"
+    ],
+    "advice_for_students": "Embrace technology as a tool for positive change. Your background and perspective are valuable assets in the tech world."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Lean In by Sheryl Sandberg",
+      "Women in Tech by Tarah Wheeler"
+    ],
+    "websites": [
+      "girlswhocode.com",
+      "womenintech.org",
+      "code.org"
+    ],
+    "programs": [
+      "Computer science summer camps",
+      "Women in tech mentorship programs",
+      "Coding bootcamps"
+    ],
+    "advice": "Start with what interests you most in technology. Your unique perspective is valuable."
+  },
+  "challenges": {
+    "academic": [
+      "Competitive computer science programs"
+    ],
+    "professional": [
+      "Gender barriers in tech industry",
+      "Cultural expectations"
+    ],
+    "personal": [
+      "Balancing career and cultural expectations"
+    ],
+    "how_overcame": "Focused on excellence, built supportive networks, and embraced her unique perspective"
+  },
+  "education_details": {
+    "high_school": "Indian high school system",
+    "college_major": "Computer Science",
+    "key_courses": [
+      "Programming",
+      "Data Structures",
+      "Artificial Intelligence",
+      "Software Engineering"
+    ],
+    "study_tips": "Practice coding regularly and stay updated with latest technologies"
+  },
+  "modern_impact": {
+    "current_applications": "Her work contributes to digital transformation and technology innovation",
+    "companies_using_her_work": [
+      "Technology companies",
+      "Digital transformation initiatives",
+      "AI and software development"
+    ],
+    "future_implications": "Advancing technology leadership and diversity in tech"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Technology",
+      "Computer programming",
+      "Problem solving",
+      "Innovation"
+    ],
+    "family_background": "Indian family with emphasis on education",
+    "hobbies": [
+      "Coding",
+      "Technology innovation",
+      "Mentoring",
+      "Reading tech blogs"
+    ],
+    "personality_traits": [
+      "Innovative",
+      "Determined",
+      "Collaborative",
+      "Inspiring"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Indian",
+    "cultural_influences": [
+      "Indian educational values",
+      "Technology boom in India",
+      "Women's empowerment movement"
+    ],
+    "cultural_challenges": [
+      "Traditional gender roles",
+      "Cultural expectations vs. career ambitions"
+    ],
+    "cultural_contributions": "Represents modern Indian women in global technology leadership"
+  },
+  "verified": false
+}

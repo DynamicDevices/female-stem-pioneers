@@ -1,0 +1,183 @@
+{
+  "name": "Stephanie Kwolek",
+  "photo": "./images/stephanie-kwolek.jpg",
+  "birthDate": "1923",
+  "deathDate": "2014",
+  "country": "United States",
+  "fields": [
+    "Chemistry"
+  ],
+  "roles": [
+    "Chemist",
+    "Inventor"
+  ],
+  "quote": "To invent, I draw upon my knowledge, intuition, creativity, experience, common sense, perseverance, flexibility, and hard work.",
+  "summary": "Inventor of Kevlar, the strong fiber used in bulletproof vests and many other products.",
+  "shortDescription": "Stephanie Kwolek was a chemist who invented Kevlar, a super-strong fiber used in bulletproof vests and many other products. Her discovery has saved countless lives.",
+  "detailed_description": {
+    "early_life": "Born in 1923 in Pennsylvania, Stephanie Kwolek showed an early interest in science and nature. She was inspired by her father's work as a naturalist and her own curiosity about the natural world.",
+    "stem_journey": "Stephanie earned her degree in chemistry and went to work for DuPont, where she spent her entire career. She was assigned to work on new synthetic fibers, leading to her discovery of Kevlar.",
+    "challenges": "As a woman chemist in the 1950s and 1960s, Stephanie faced gender barriers in the male-dominated chemical industry. She had to prove her worth through her research and discoveries.",
+    "achievements": "Stephanie invented Kevlar, a revolutionary synthetic fiber that is five times stronger than steel. Her invention has saved countless lives in bulletproof vests and other protective equipment.",
+    "legacy": "Stephanie's work has had a profound impact on safety and protection worldwide. She proved that women could make groundbreaking discoveries in chemistry."
+  },
+  "achievements": [
+    "Invented Kevlar synthetic fiber",
+    "Created material five times stronger than steel",
+    "Saved countless lives with bulletproof vests",
+    "Held multiple patents for synthetic fibers"
+  ],
+  "awards": [
+    "National Medal of Technology",
+    "Perkin Medal",
+    "National Inventors Hall of Fame"
+  ],
+  "publications": [
+    {
+      "title": "Kevlar and synthetic fiber research",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "education": [
+    {
+      "degree": "BS",
+      "field": "Chemistry",
+      "institution": "Carnegie Mellon University"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1923,
+      "event": "Born in Pennsylvania"
+    },
+    {
+      "year": 1946,
+      "event": "Graduated from Carnegie Mellon University"
+    },
+    {
+      "year": 1946,
+      "event": "Began working at DuPont"
+    },
+    {
+      "year": 1965,
+      "event": "Invented Kevlar"
+    },
+    {
+      "year": 2014,
+      "event": "Passed away, leaving legacy of innovation"
+    }
+  ],
+  "barriers": [
+    "Faced gender barriers in male-dominated chemical industry",
+    "Overcame skepticism about women in chemistry"
+  ],
+  "impact": "Revolutionized protective materials and saved countless lives with Kevlar technology.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Stephanie Kwolek: Inventor of Kevlar",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "references": [
+    {
+      "title": "Smithsonian Lemelson Center: Stephanie Kwolek",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "mentorship": "Inspired future generations of women chemists through her groundbreaking discoveries.",
+  "fun_fact": "Stephanie originally wanted to be a doctor but couldn't afford medical school, so she became a chemist instead.",
+  "career_path": {
+    "first_job": "Chemist at DuPont",
+    "career_highlights": [
+      "Spent entire career at DuPont",
+      "Invented revolutionary Kevlar fiber",
+      "Held multiple patents"
+    ],
+    "advice_for_students": "Follow your curiosity and don't be afraid to pursue unconventional ideas. The best discoveries often come from unexpected directions."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Chemistry: Their Changing Roles from Alchemical Times to the Mid-Twentieth Century",
+      "The Chemistry of Polymers"
+    ],
+    "websites": [
+      "chemistry.org",
+      "acs.org",
+      "science.org"
+    ],
+    "programs": [
+      "Chemistry summer camps",
+      "Science competitions",
+      "Women in STEM mentorship"
+    ],
+    "advice": "Study chemistry and materials science, and don't be afraid to experiment with new ideas."
+  },
+  "challenges": {
+    "academic": [
+      "Overcoming gender barriers in chemistry education"
+    ],
+    "professional": [
+      "Breaking into male-dominated chemical industry",
+      "Getting research discoveries recognized"
+    ],
+    "personal": [
+      "Balancing career with personal life"
+    ],
+    "how_overcame": "Used determination and scientific excellence to prove her worth, focused on practical applications"
+  },
+  "education_details": {
+    "high_school": "Strong foundation in science and mathematics",
+    "college_major": "Chemistry",
+    "key_courses": [
+      "Chemistry",
+      "Physics",
+      "Mathematics",
+      "Materials Science"
+    ],
+    "study_tips": "Connect theoretical chemistry with practical applications and real-world problems"
+  },
+  "modern_impact": {
+    "current_applications": "Kevlar continues to be used in bulletproof vests and protective equipment worldwide",
+    "companies_using_her_work": [
+      "Military and law enforcement",
+      "Safety equipment manufacturers",
+      "Automotive industry"
+    ],
+    "future_implications": "Her work inspires new materials development for safety and protection"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Science",
+      "Nature",
+      "Chemistry",
+      "Problem-solving"
+    ],
+    "family_background": "Father was a naturalist who encouraged scientific curiosity",
+    "hobbies": [
+      "Gardening",
+      "Reading",
+      "Scientific research"
+    ],
+    "personality_traits": [
+      "Curious",
+      "Determined",
+      "Innovative",
+      "Humble"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American innovation culture",
+      "Post-war chemical industry",
+      "Women's rights movement"
+    ],
+    "cultural_challenges": [
+      "Gender barriers in 1950s-1960s chemical industry",
+      "Limited opportunities for women in science"
+    ],
+    "cultural_contributions": "Pioneered American women's participation in chemical research and materials science"
+  },
+  "verified": true
+}

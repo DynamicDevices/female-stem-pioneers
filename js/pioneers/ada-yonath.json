@@ -1,0 +1,179 @@
+{
+  "name": "Ada Yonath",
+  "photo": "./images/ada-yonath.jpg",
+  "birthDate": "1939",
+  "country": "Israel",
+  "fields": [
+    "Crystallography",
+    "Biochemistry"
+  ],
+  "roles": [
+    "Crystallographer",
+    "Nobel Laureate"
+  ],
+  "quote": "Science is about curiosity and persistence.",
+  "summary": "Nobel Prize-winning crystallographer who determined the structure of ribosomes.",
+  "shortDescription": "Ada Yonath is a Nobel Prize-winning crystallographer who determined the structure of ribosomes, the protein-making machines in cells. Her work has been crucial for developing new antibiotics and understanding how life works at the molecular level.",
+  "detailed_description": {
+    "early_life": "Born in 1939 in Jerusalem, Israel, Ada showed early interest in science and nature. She grew up in a poor family but was encouraged to pursue education. She earned her PhD in crystallography from the Weizmann Institute of Science.",
+    "stem_journey": "Ada began her career studying protein structures and became fascinated by ribosomes, the cellular machines that make proteins. She pioneered cryo-crystallography techniques to study these complex structures, often working against skepticism from the scientific community.",
+    "challenges": "Ada faced skepticism from the scientific community about her approach to studying ribosomes. She also worked in a male-dominated field and had to overcome technical challenges in crystallography that many thought were impossible.",
+    "achievements": "Ada determined the structure of ribosomes using cryo-crystallography and won the Nobel Prize in Chemistry in 2009. Her work has been crucial for developing new antibiotics and understanding how life works at the molecular level.",
+    "legacy": "Ada's work revolutionized our understanding of protein synthesis and has led to new antibiotics. She opened doors for women in crystallography and inspired countless scientists to study complex biological structures."
+  },
+  "achievements": [
+    "Won Nobel Prize in Chemistry",
+    "Determined ribosome structure",
+    "Pioneered cryo-crystallography",
+    "Developed new antibiotic targets",
+    "Advanced protein structure understanding",
+    "Revolutionized crystallography techniques"
+  ],
+  "awards": [
+    "Nobel Prize in Chemistry (2009)",
+    "Wolf Prize in Chemistry",
+    "L'Oréal-UNESCO Award",
+    "Israel Prize"
+  ],
+  "publications": [
+    {
+      "title": "Structure of the 30S ribosomal subunit",
+      "year": "2000"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Crystallography",
+      "institution": "Weizmann Institute of Science"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1968,
+      "event": "Earned PhD in crystallography"
+    },
+    {
+      "year": 2000,
+      "event": "Determined ribosome structure"
+    },
+    {
+      "year": 2009,
+      "event": "Won Nobel Prize in Chemistry"
+    }
+  ],
+  "barriers": [
+    "Skepticism from scientific community",
+    "Working in male-dominated field",
+    "Technical challenges in crystallography"
+  ],
+  "impact": "Her work on ribosome structure has revolutionized our understanding of protein synthesis and led to new antibiotics.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Ada Yonath: Nobel Prize-winning crystallographer",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2009/yonath/facts/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ada_Yonath"
+    }
+  ],
+  "mentorship": "Mentored many students in crystallography and supported women in science throughout her career.",
+  "fun_fact": "Ada was the first Israeli woman to win the Nobel Prize in Chemistry.",
+  "career_path": {
+    "first_job": "Researcher at Weizmann Institute of Science",
+    "career_highlights": [
+      "Pioneered cryo-crystallography",
+      "Determined ribosome structure",
+      "Won Nobel Prize"
+    ],
+    "advice_for_students": "Follow your curiosity in science and don't let anyone tell you that something is impossible to study."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "The Nobel Prize: A History of Genius, Controversy, and Prestige",
+      "Women in Science: 50 Fearless Pioneers Who Changed the World"
+    ],
+    "websites": [
+      "nobelprize.org",
+      "crystallography.org",
+      "womeninscience.org"
+    ],
+    "programs": [
+      "Crystallography summer programs",
+      "Women in science organizations"
+    ],
+    "advice": "Study chemistry and biology with passion and don't be afraid to tackle the most complex problems."
+  },
+  "challenges": {
+    "academic": [
+      "Skepticism from scientific community",
+      "Working in male-dominated field"
+    ],
+    "professional": [
+      "Technical challenges in crystallography",
+      "Limited funding for research"
+    ],
+    "personal": [
+      "Growing up in poverty",
+      "Working against skepticism"
+    ],
+    "how_overcame": "Focused on her scientific work, developed innovative techniques, and persisted despite skepticism"
+  },
+  "education_details": {
+    "high_school": "Excelled in science despite poverty",
+    "college_major": "Chemistry",
+    "key_courses": [
+      "Crystallography",
+      "Biochemistry",
+      "Molecular Biology",
+      "Chemistry"
+    ],
+    "study_tips": "Connect chemical principles to biological systems and never stop asking questions"
+  },
+  "modern_impact": {
+    "current_applications": "Ribosome structure understanding influences antibiotic development",
+    "companies_using_her_work": [
+      "Pharmaceutical companies",
+      "Research institutions",
+      "Medical laboratories"
+    ],
+    "future_implications": "Continues to influence drug development and molecular biology research"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Science",
+      "Nature",
+      "Chemistry",
+      "Biology"
+    ],
+    "family_background": "Poor family that valued education",
+    "hobbies": [
+      "Scientific research",
+      "Teaching",
+      "Reading"
+    ],
+    "personality_traits": [
+      "Curious",
+      "Determined",
+      "Innovative",
+      "Persistent"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Israeli",
+    "cultural_influences": [
+      "Israeli scientific tradition",
+      "Jewish intellectual culture"
+    ],
+    "cultural_challenges": [
+      "Growing up in poverty",
+      "Gender discrimination in science"
+    ],
+    "cultural_contributions": "Advanced Israeli crystallography research and influenced molecular biology worldwide"
+  },
+  "verified": true
+}

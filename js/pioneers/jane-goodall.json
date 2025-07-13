@@ -1,0 +1,182 @@
+{
+  "name": "Jane Goodall",
+  "photo": "./images/jane-goodall.jpg",
+  "birthDate": "1934",
+  "country": "United Kingdom",
+  "fields": [
+    "Primatology",
+    "Anthropology"
+  ],
+  "roles": [
+    "Primatologist",
+    "Anthropologist"
+  ],
+  "quote": "What you do makes a difference, and you have to decide what kind of difference you want to make.",
+  "summary": "World-renowned primatologist who transformed our understanding of chimpanzees and animal behavior.",
+  "shortDescription": "Jane Goodall was a world-renowned primatologist who transformed our understanding of chimpanzees and animal behavior. She founded the Jane Goodall Institute and was the UN Messenger of Peace. Her groundbreaking research showed that chimpanzees use tools and have complex social relationships, revolutionizing our understanding of animal intelligence and conservation.",
+  "detailed_description": {
+    "early_life": "Born in London, Jane showed a deep love for animals from an early age. She dreamed of working with animals in Africa and saved money to travel there, eventually meeting Louis Leakey who gave her the opportunity to study chimpanzees.",
+    "stem_journey": "Jane began her groundbreaking research on chimpanzees in Gombe, Tanzania in 1960. She revolutionized primatology by living among the chimpanzees and observing their behavior, discovering that they use tools and have complex social relationships.",
+    "challenges": "Faced skepticism from the scientific community for her unconventional research methods. She had no formal scientific training initially and had to prove that her observations were valid scientific research.",
+    "achievements": "Transformed primatology by discovering chimpanzees use tools, founded the Jane Goodall Institute, became UN Messenger of Peace, and revolutionized our understanding of animal intelligence and conservation.",
+    "legacy": "Jane opened doors for women in primatology and conservation. Her work fundamentally changed how we understand animal intelligence and the relationship between humans and other species."
+  },
+  "achievements": [
+    "Transformed primatology",
+    "Founded the Jane Goodall Institute",
+    "UN Messenger of Peace"
+  ],
+  "awards": [
+    "UN Messenger of Peace",
+    "Dame Commander of the Order of the British Empire",
+    "Hubbard Medal from National Geographic"
+  ],
+  "publications": [
+    {
+      "title": "In the Shadow of Man",
+      "url": "https://janegoodall.org/"
+    },
+    {
+      "title": "Through a Window: My Thirty Years with the Chimpanzees of Gombe",
+      "url": "https://janegoodall.org/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Ethology",
+      "institution": "University of Cambridge"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1934,
+      "event": "Born in London, England"
+    },
+    {
+      "year": 1960,
+      "event": "Began chimpanzee research in Gombe"
+    },
+    {
+      "year": 1965,
+      "event": "Earned PhD from Cambridge"
+    },
+    {
+      "year": 1977,
+      "event": "Founded the Jane Goodall Institute"
+    },
+    {
+      "year": 2002,
+      "event": "Named UN Messenger of Peace"
+    }
+  ],
+  "barriers": [
+    "No formal scientific training initially",
+    "Skepticism from scientific community",
+    "Unconventional research methods"
+  ],
+  "impact": "Revolutionized primatology and conservation, fundamentally changing our understanding of animal intelligence.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Jane Goodall: The Woman Who Redefined Man",
+      "url": "https://www.nationalgeographic.com/magazine/article/jane-goodall"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jane_Goodall"
+    }
+  ],
+  "mentorship": "Inspired generations of women in primatology and conservation through her groundbreaking research and advocacy.",
+  "fun_fact": "Jane's first discovery was that chimpanzees use tools - she observed them using sticks to fish for termites, which was previously thought to be a uniquely human behavior.",
+  "career_path": {
+    "first_job": "Secretary and waitress to save money for Africa",
+    "career_highlights": [
+      "Pioneering chimpanzee research",
+      "Founding the Jane Goodall Institute",
+      "Global conservation advocacy"
+    ],
+    "advice_for_students": "Follow your passion and don't let anyone tell you what you can't do. Sometimes the best discoveries come from unconventional approaches."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "My Life with the Chimpanzees",
+      "The Chimpanzees I Love"
+    ],
+    "websites": [
+      "janegoodall.org",
+      "rootsandshoots.org",
+      "nationalgeographic.com"
+    ],
+    "programs": [
+      "Roots & Shoots youth program",
+      "Conservation summer camps"
+    ],
+    "advice": "Start by observing the world around you. Every living thing has something to teach us."
+  },
+  "challenges": {
+    "academic": [
+      "No formal scientific training initially"
+    ],
+    "professional": [
+      "Skepticism from scientific community"
+    ],
+    "personal": [
+      "Living alone in the wilderness"
+    ],
+    "how_overcame": "Proved the value of her research through careful observation and documentation"
+  },
+  "education_details": {
+    "high_school": "Schools in England",
+    "college_major": "Ethology (animal behavior)",
+    "key_courses": [
+      "Animal Behavior",
+      "Conservation Biology",
+      "Field Research Methods"
+    ],
+    "study_tips": "Learn to observe carefully and record what you see. Patience is key in field research."
+  },
+  "modern_impact": {
+    "current_applications": "Her research methods influence modern conservation and animal behavior studies",
+    "companies_using_her_work": [
+      "Conservation organizations worldwide",
+      "Research institutions"
+    ],
+    "future_implications": "Her work continues to inspire conservation efforts and our understanding of animal intelligence"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Animals",
+      "Nature",
+      "Africa"
+    ],
+    "family_background": "Middle-class English family",
+    "hobbies": [
+      "Observing animals",
+      "Conservation advocacy",
+      "Writing and speaking"
+    ],
+    "personality_traits": [
+      "Compassionate",
+      "Determined",
+      "Observant",
+      "Inspiring"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "British",
+    "cultural_influences": [
+      "British natural history tradition",
+      "Post-war environmental awareness",
+      "African conservation movement"
+    ],
+    "cultural_challenges": [
+      "Gender roles in 1960s science",
+      "Colonial attitudes toward Africa"
+    ],
+    "cultural_contributions": "Demonstrated that women could excel in field research and bridge cultural gaps in conservation"
+  },
+  "verified": true
+}

@@ -1,0 +1,165 @@
+{
+  "name": "Alexis Lewis",
+  "photo": "./images/placeholder-woman.svg",
+  "birthDate": "2000",
+  "country": "United States",
+  "fields": [
+    "Engineering",
+    "Invention"
+  ],
+  "roles": [
+    "Inventor",
+    "Engineer"
+  ],
+  "quote": "Age doesn't matter when it comes to innovation.",
+  "summary": "Young inventor who created a device to help refugees transport water and supplies more easily.",
+  "shortDescription": "Alexis Lewis is a young inventor who created a device to help refugees transport water and supplies more easily. She designed a wheeled carrier that can be pulled or pushed and can carry heavy loads over rough terrain. Her invention demonstrates how young people can use engineering to solve real-world humanitarian problems.",
+  "detailed_description": {
+    "early_life": "Born in 2000, Alexis showed an early interest in engineering and helping others. She began inventing at a young age and participated in science fairs and innovation competitions.",
+    "stem_journey": "Alexis became interested in helping refugees and developed a wheeled carrier device to help them transport water and supplies more easily. She combined engineering principles with humanitarian concerns.",
+    "challenges": "Faced skepticism as a young inventor and had to prove that her ideas could work. Also had to learn engineering principles at a young age.",
+    "achievements": "Invented a wheeled carrier for refugees, won multiple invention competitions, and demonstrated how young people can solve humanitarian problems through engineering.",
+    "legacy": "Alexis inspired other young people to use their engineering skills to help others and showed that age is no barrier to innovation."
+  },
+  "achievements": [
+    "Invented wheeled carrier for refugees",
+    "Won multiple invention competitions",
+    "Demonstrated youth innovation potential"
+  ],
+  "awards": [
+    "Multiple invention competition awards",
+    "Recognition for humanitarian innovation",
+    "Young inventor awards"
+  ],
+  "publications": [
+    {
+      "title": "Youth Innovation for Humanitarian Aid",
+      "url": "https://www.invent.org/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "High School",
+      "field": "Engineering",
+      "institution": "Local schools"
+    }
+  ],
+  "timeline": [
+    { "year": 2000, "event": "Born in United States" },
+    { "year": 2015, "event": "Began inventing at age 15" },
+    { "year": 2016, "event": "Invented wheeled carrier for refugees" },
+    { "year": 2017, "event": "Won invention competitions" },
+    { "year": 2018, "event": "Continued innovation work" }
+  ],
+  "barriers": [
+    "Age discrimination in innovation",
+    "Limited resources as young inventor",
+    "Skepticism about youth capabilities"
+  ],
+  "impact": "Demonstrated that young people can use engineering to solve humanitarian problems.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Alexis Lewis: Young Inventor for Humanity",
+      "url": "https://www.invent.org/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alexis_Lewis"
+    }
+  ],
+  "mentorship": "Inspired other young people to pursue innovation and use their skills to help others.",
+  "fun_fact": "Alexis began inventing at age 15 and won her first invention competition while still in high school.",
+  "career_path": {
+    "first_job": "Young inventor",
+    "career_highlights": [
+      "Invented wheeled carrier for refugees",
+      "Won multiple invention competitions",
+      "Inspired youth innovation"
+    ],
+    "advice_for_students": "Don't let your age stop you from pursuing your ideas. Innovation has no age limit."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Young Inventors Guide",
+      "Engineering for Kids"
+    ],
+    "websites": [
+      "invent.org",
+      "sciencebuddies.org",
+      "youthinnovation.org"
+    ],
+    "programs": [
+      "Youth invention programs",
+      "Engineering summer camps"
+    ],
+    "advice": "Start with problems you care about. Your age doesn't matter when it comes to making a difference."
+  },
+  "challenges": {
+    "academic": [
+      "Learning engineering principles at young age"
+    ],
+    "professional": [
+      "Age discrimination in innovation",
+      "Limited resources as young inventor"
+    ],
+    "personal": [
+      "Balancing school with invention work"
+    ],
+    "how_overcame": "Focused on her passion for helping others and ignored age-related skepticism"
+  },
+  "education_details": {
+    "high_school": "Local schools",
+    "college_major": "Engineering (planned)",
+    "key_courses": [
+      "Engineering Design",
+      "Humanitarian Aid",
+      "Innovation"
+    ],
+    "study_tips": "Learn to identify real-world problems and apply engineering principles to solve them"
+  },
+  "modern_impact": {
+    "current_applications": "Her invention could help refugees worldwide",
+    "companies_using_her_work": [
+      "Humanitarian organizations",
+      "Refugee aid groups",
+      "Youth innovation programs"
+    ],
+    "future_implications": "Her work inspires other young people to use engineering for humanitarian purposes"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Engineering",
+      "Helping others",
+      "Problem-solving"
+    ],
+    "family_background": "American family",
+    "hobbies": [
+      "Invention",
+      "Humanitarian work",
+      "Engineering projects"
+    ],
+    "personality_traits": [
+      "Compassionate",
+      "Innovative",
+      "Determined",
+      "Youthful"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American innovation culture",
+      "Youth empowerment movement",
+      "Humanitarian values"
+    ],
+    "cultural_challenges": [
+      "Age discrimination in innovation",
+      "Limited recognition for youth contributions"
+    ],
+    "cultural_contributions": "Demonstrated that young people could use engineering to solve humanitarian problems"
+  },
+  "verified": true
+} 

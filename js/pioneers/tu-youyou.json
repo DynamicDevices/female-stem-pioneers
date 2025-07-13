@@ -1,0 +1,187 @@
+{
+  "name": "Tu Youyou",
+  "photo": "./images/tu-youyou.jpg",
+  "birthDate": "1930",
+  "country": "China",
+  "fields": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "roles": [
+    "Chemist",
+    "Pharmaceutical Researcher",
+    "Nobel Laureate"
+  ],
+  "quote": "Every scientist dreams of doing something that can help the world.",
+  "summary": "Nobel Prize-winning chemist who discovered artemisinin, a treatment for malaria that has saved millions of lives.",
+  "shortDescription": "Tu Youyou is a Nobel Prize-winning chemist who discovered artemisinin, a treatment for malaria that has saved millions of lives around the world. She found the cure by studying traditional Chinese medicine and testing ancient herbal remedies. Her discovery shows how combining traditional knowledge with modern science can solve global health problems and save countless lives.",
+  "detailed_description": {
+    "early_life": "Born in Ningbo, China in 1930, Tu Youyou showed early interest in medicine and science. She studied pharmacology at Peking University and became interested in traditional Chinese medicine.",
+    "stem_journey": "Tu joined the Academy of Traditional Chinese Medicine in Beijing and began researching treatments for malaria, which was a major health problem in China and worldwide.",
+    "challenges": "Faced skepticism about traditional Chinese medicine, worked during China's Cultural Revolution, and had to prove her research methods to the international scientific community.",
+    "achievements": "Discovered artemisinin from sweet wormwood, won the Nobel Prize in Physiology or Medicine in 2015, and her treatment has saved millions of lives.",
+    "legacy": "Her discovery of artemisinin has become the standard treatment for malaria worldwide and shows the value of traditional medicine in modern drug discovery."
+  },
+  "achievements": [
+    "Nobel Prize in Physiology or Medicine (2015)",
+    "Discovered artemisinin for malaria treatment",
+    "Saved millions of lives worldwide",
+    "First Chinese woman to win Nobel Prize in science"
+  ],
+  "awards": [
+    "Nobel Prize in Physiology or Medicine (2015)",
+    "Lasker Award (2011)",
+    "Warren Alpert Foundation Prize (2015)"
+  ],
+  "publications": [
+    {
+      "title": "The discovery of artemisinin (qinghaosu) and gifts from Chinese medicine",
+      "url": "https://www.nature.com/articles/nm1006_1207"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "field": "Pharmacy",
+      "institution": "Peking University"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1955,
+      "event": "Graduated from Peking University School of Pharmacy"
+    },
+    {
+      "year": 1969,
+      "event": "Began research on malaria treatment"
+    },
+    {
+      "year": 1972,
+      "event": "Discovered artemisinin from sweet wormwood"
+    },
+    {
+      "year": 2015,
+      "event": "Won Nobel Prize in Physiology or Medicine"
+    }
+  ],
+  "barriers": [
+    "Faced skepticism about traditional Chinese medicine",
+    "Worked during China's Cultural Revolution",
+    "Had to prove research methods to international community"
+  ],
+  "impact": "Her discovery of artemisinin has saved millions of lives worldwide and is now the standard treatment for malaria.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Tu Youyou: Nobel Prize-winning chemist",
+      "url": "https://www.nobelprize.org/prizes/medicine/2015/tu/facts/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tu_Youyou"
+    },
+    {
+      "title": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/2015/tu/facts/"
+    }
+  ],
+  "mentorship": "Inspired women in chemistry and showed how traditional knowledge can lead to modern medical breakthroughs.",
+  "fun_fact": "Tu Youyou tested the malaria treatment on herself first to ensure it was safe before giving it to patients.",
+  "career_path": {
+    "first_job": "Researcher at Academy of Traditional Chinese Medicine",
+    "career_highlights": [
+      "Discovered artemisinin",
+      "Won Nobel Prize in 2015",
+      "Saved millions of lives"
+    ],
+    "advice_for_students": "Don't be afraid to explore unconventional approaches. Sometimes the best solutions come from unexpected sources."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Science: 50 Fearless Pioneers Who Changed the World",
+      "The Nobel Prize: A History of Genius, Controversy, and Prestige"
+    ],
+    "websites": [
+      "nobelprize.org",
+      "chemistry.org",
+      "womeninscience.org"
+    ],
+    "programs": [
+      "Chemistry summer camps",
+      "Women in STEM mentorship programs",
+      "Science competitions"
+    ],
+    "advice": "Keep an open mind about different approaches to solving problems. Traditional knowledge and modern science can work together."
+  },
+  "challenges": {
+    "academic": [
+      "Limited resources during Cultural Revolution"
+    ],
+    "professional": [
+      "Skepticism about traditional medicine",
+      "Proving research methods to international community"
+    ],
+    "personal": [
+      "Working during political upheaval",
+      "Balancing family and research"
+    ],
+    "how_overcame": "Used determination and creativity to continue research, combined traditional and modern approaches"
+  },
+  "education_details": {
+    "high_school": "Excelled in science and medicine",
+    "college_major": "Pharmacy",
+    "graduate_school": "Peking University School of Pharmacy",
+    "key_courses": [
+      "Chemistry",
+      "Pharmacology",
+      "Traditional Chinese Medicine",
+      "Research Methods"
+    ],
+    "study_tips": "Learn from multiple sources and don't dismiss traditional knowledge"
+  },
+  "modern_impact": {
+    "current_applications": "Artemisinin is the standard treatment for malaria worldwide",
+    "companies_using_her_work": [
+      "Pharmaceutical companies",
+      "World Health Organization",
+      "Global health organizations"
+    ],
+    "future_implications": "Her approach inspires research combining traditional and modern medicine"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Medicine",
+      "Chemistry",
+      "Traditional Chinese medicine",
+      "Helping people"
+    ],
+    "family_background": "Encouraged education and scientific inquiry",
+    "hobbies": [
+      "Reading scientific literature",
+      "Studying traditional medicine",
+      "Research"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Curious",
+      "Patient",
+      "Compassionate"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Chinese",
+    "cultural_influences": [
+      "Traditional Chinese medicine",
+      "Chinese scientific tradition",
+      "Cultural Revolution period"
+    ],
+    "cultural_challenges": [
+      "Working during Cultural Revolution",
+      "Proving traditional medicine to international community"
+    ],
+    "cultural_contributions": "Bridged traditional Chinese medicine with modern pharmaceutical research"
+  },
+  "verified": true
+}

@@ -1,0 +1,179 @@
+{
+  "name": "Radia Perlman",
+  "photo": "./images/radia-perlman.jpg",
+  "birthDate": "1951",
+  "country": "United States",
+  "fields": [
+    "Computer Science",
+    "Networking"
+  ],
+  "roles": [
+    "Computer Scientist",
+    "Network Engineer"
+  ],
+  "quote": "The Internet is not just one thing, it's a collection of things.",
+  "summary": "Computer scientist known as the 'Mother of the Internet' for inventing the spanning tree protocol.",
+  "shortDescription": "Radia Perlman is a computer scientist known as the 'Mother of the Internet' for inventing the spanning tree protocol, which is fundamental to how computer networks work. Her work made the Internet possible and she holds over 100 patents in networking technology.",
+  "detailed_description": {
+    "early_life": "Born in 1951 in New Jersey, Radia showed early talent in mathematics and science. She earned her bachelor's degree in mathematics from MIT and her master's and PhD in computer science from MIT, where she was one of the few women in the field.",
+    "stem_journey": "Radia began her career at Digital Equipment Corporation where she invented the spanning tree protocol in 1985. This algorithm is fundamental to how computer networks work and made the Internet possible by preventing network loops.",
+    "challenges": "Radia faced discrimination as a woman in computer science and was often the only woman in her department. She also had to work in a male-dominated field where her contributions were sometimes overlooked.",
+    "achievements": "Radia invented the spanning tree protocol, which is essential for computer networks. She holds over 100 patents in networking technology and is known as the 'Mother of the Internet' for her fundamental contributions to networking.",
+    "legacy": "Radia's work made the Internet possible and continues to influence how computer networks work today. She opened doors for women in computer science and inspired countless female engineers."
+  },
+  "achievements": [
+    "Invented spanning tree protocol",
+    "Known as 'Mother of the Internet'",
+    "Holds over 100 networking patents",
+    "Pioneered network routing algorithms",
+    "Made Internet possible",
+    "Advanced network security"
+  ],
+  "awards": [
+    "National Inventors Hall of Fame",
+    "Internet Hall of Fame",
+    "Multiple technical achievement awards",
+    "Honorary degrees from universities"
+  ],
+  "publications": [
+    {
+      "title": "An Algorithm for Distributed Computation of a Spanning Tree in an Extended LAN",
+      "year": "1985"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Computer Science",
+      "institution": "MIT"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1973,
+      "event": "Earned bachelor's degree from MIT"
+    },
+    {
+      "year": 1985,
+      "event": "Invented spanning tree protocol"
+    },
+    {
+      "year": 2016,
+      "event": "Inducted into Internet Hall of Fame"
+    }
+  ],
+  "barriers": [
+    "Discrimination as a woman in computer science",
+    "Being the only woman in her department",
+    "Contributions sometimes overlooked"
+  ],
+  "impact": "Her spanning tree protocol made the Internet possible and continues to be fundamental to computer networking worldwide.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Radia Perlman: Mother of the Internet",
+      "url": "https://www.biography.com/scientist/radia-perlman"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Radia_Perlman"
+    }
+  ],
+  "mentorship": "Mentored many students in computer science and supported women in technology throughout her career.",
+  "fun_fact": "Radia is known as the 'Mother of the Internet' for her fundamental contributions to networking.",
+  "career_path": {
+    "first_job": "Software engineer at Digital Equipment Corporation",
+    "career_highlights": [
+      "Invented spanning tree protocol",
+      "Holds over 100 patents",
+      "Known as Mother of the Internet"
+    ],
+    "advice_for_students": "Follow your passion for technology and don't let anyone tell you that women can't excel in computer science or networking."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Interconnections: Bridges, Routers, Switches, and Internetworking Protocols",
+      "Women in Computing: Shaping the Future"
+    ],
+    "websites": [
+      "mit.edu",
+      "computerhistory.org",
+      "womenintechnology.org"
+    ],
+    "programs": [
+      "Computer science summer programs",
+      "Women in technology organizations"
+    ],
+    "advice": "Study computer science with passion and look for ways to solve real-world networking problems."
+  },
+  "challenges": {
+    "academic": [
+      "Being a woman in computer science",
+      "Limited opportunities for women"
+    ],
+    "professional": [
+      "Discrimination in technology",
+      "Contributions sometimes overlooked"
+    ],
+    "personal": [
+      "Working in male-dominated field",
+      "Facing societal expectations"
+    ],
+    "how_overcame": "Focused on her technical work, found supportive colleagues, and persisted despite discrimination"
+  },
+  "education_details": {
+    "high_school": "Excelled in mathematics and science",
+    "college_major": "Computer Science",
+    "key_courses": [
+      "Computer Networks",
+      "Algorithms",
+      "Mathematics",
+      "Programming"
+    ],
+    "study_tips": "Connect theoretical concepts to practical networking problems and never stop learning new technologies"
+  },
+  "modern_impact": {
+    "current_applications": "Spanning tree protocol is used in all computer networks worldwide",
+    "companies_using_her_work": [
+      "All major technology companies",
+      "Internet service providers",
+      "Network equipment manufacturers"
+    ],
+    "future_implications": "Continues to influence network security and Internet architecture"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Mathematics",
+      "Computer Science",
+      "Networking",
+      "Problem solving"
+    ],
+    "family_background": "Supportive family that encouraged her scientific interests",
+    "hobbies": [
+      "Computer programming",
+      "Teaching",
+      "Reading"
+    ],
+    "personality_traits": [
+      "Brilliant",
+      "Innovative",
+      "Determined",
+      "Technical"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American technological innovation",
+      "MIT computer science tradition"
+    ],
+    "cultural_challenges": [
+      "Gender discrimination in technology",
+      "Working in male-dominated field"
+    ],
+    "cultural_contributions": "Advanced American computer science and influenced Internet development worldwide"
+  },
+  "verified": true
+}

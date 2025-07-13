@@ -1,0 +1,163 @@
+{
+  "name": "Ellen Swallow Richards",
+  "photo": "./images/ellen-swallow-richards.jpg",
+  "birthDate": "1842",
+  "deathDate": "1911",
+  "country": "United States",
+  "fields": [
+    "Chemistry",
+    "Sanitary Engineering",
+    "Home Economics"
+  ],
+  "roles": [
+    "Chemist",
+    "Engineer",
+    "Educator"
+  ],
+  "quote": "The environment that people live in is the environment they learn to live in, respond to, and perpetuate.",
+  "summary": "Pioneering chemist and the founder of home economics, first woman admitted to MIT.",
+  "shortDescription": "Ellen Swallow Richards was the first woman admitted to MIT and a trailblazer in chemistry and environmental science. She founded the field of home economics and advanced water quality standards.",
+  "detailed_description": {
+    "early_life": "Born in Massachusetts, Ellen excelled in science and was determined to pursue higher education despite social barriers.",
+    "stem_journey": "She became the first woman admitted to MIT, conducted groundbreaking research in chemistry, and established the first water quality standards in the U.S.",
+    "challenges": "Faced gender discrimination in academia and science.",
+    "achievements": "Founded home economics, advanced sanitary engineering, and improved public health.",
+    "legacy": "Her work laid the foundation for environmental engineering and women's education in science."
+  },
+  "achievements": [
+    "First woman admitted to MIT",
+    "Founded home economics",
+    "Established water quality standards"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "Ellen Swallow Richards: Founder of Home Economics",
+      "url": "https://en.wikipedia.org/wiki/Ellen_Swallow_Richards"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "field": "Chemistry",
+      "institution": "Vassar College"
+    },
+    {
+      "degree": "Graduate studies",
+      "field": "Chemistry",
+      "institution": "MIT"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1870,
+      "event": "Admitted to MIT"
+    },
+    {
+      "year": 1887,
+      "event": "Founded American Home Economics Association"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in science"
+  ],
+  "impact": "Pioneered environmental and sanitary engineering.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Ellen Swallow Richards: Environmental Pioneer",
+      "url": "https://www.britannica.com/biography/Ellen-Swallow-Richards"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ellen_Swallow_Richards"
+    },
+    {
+      "title": "Britannica",
+      "url": "https://www.britannica.com/biography/Ellen-Swallow-Richards"
+    }
+  ],
+  "mentorship": "Mentored women in science and engineering.",
+  "fun_fact": "She was the first woman to earn a degree in chemistry in the U.S.",
+  "career_path": {
+    "first_job": "Chemistry instructor",
+    "career_highlights": [
+      "MIT graduate",
+      "Founded home economics"
+    ],
+    "advice_for_students": "Use science to improve everyday life."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Ellen Swallow Richards: Pioneer in Science and Engineering"
+    ],
+    "websites": [
+      "wikipedia.org",
+      "britannica.com"
+    ],
+    "programs": [
+      "Women in STEM initiatives"
+    ],
+    "advice": "Science can make the world a better place."
+  },
+  "challenges": {
+    "academic": [
+      "Few women in science programs"
+    ],
+    "professional": [
+      "Discrimination in academia"
+    ],
+    "personal": [
+      "Balancing research and advocacy"
+    ],
+    "how_overcame": "Focused on practical solutions and built supportive networks."
+  },
+  "education_details": {
+    "high_school": "Public school in Massachusetts",
+    "college_major": "Chemistry",
+    "key_courses": [
+      "Chemistry",
+      "Sanitary Engineering"
+    ],
+    "study_tips": "Apply your knowledge to real-world problems."
+  },
+  "modern_impact": {
+    "current_applications": "Her work is used in environmental engineering and public health.",
+    "companies_using_her_work": [
+      "Environmental agencies",
+      "Universities"
+    ],
+    "future_implications": "Science education for all."
+  },
+  "personal_info": {
+    "early_interests": [
+      "Science",
+      "Teaching",
+      "Public health"
+    ],
+    "family_background": "Massachusetts family",
+    "hobbies": [
+      "Gardening",
+      "Writing"
+    ],
+    "personality_traits": [
+      "Innovative",
+      "Persistent",
+      "Practical"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "19th-century science",
+      "Women's education"
+    ],
+    "cultural_challenges": [
+      "Barriers for women in science"
+    ],
+    "cultural_contributions": "Pioneered women's participation in science."
+  },
+  "verified": false
+} 

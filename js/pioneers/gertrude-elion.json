@@ -1,0 +1,180 @@
+{
+  "name": "Gertrude Elion",
+  "photo": "./images/gertrude-elion.jpg",
+  "birthDate": "1918",
+  "deathDate": "1999",
+  "country": "United States",
+  "fields": [
+    "Pharmacology",
+    "Chemistry"
+  ],
+  "roles": [
+    "Pharmacologist",
+    "Nobel Laureate"
+  ],
+  "quote": "Don't let anyone tell you that you can't do something because you're a woman.",
+  "summary": "Nobel Prize-winning pharmacologist who developed drugs for leukemia, herpes, and organ transplants.",
+  "shortDescription": "Gertrude Elion was a Nobel Prize-winning pharmacologist who developed life-saving drugs for leukemia, herpes, and organ transplants. She pioneered rational drug design and created treatments that have saved millions of lives. Her work revolutionized how we develop medicines.",
+  "detailed_description": {
+    "early_life": "Born in 1918 in New York City, Gertrude showed exceptional talent in science from an early age. She graduated from Hunter College at age 19 and earned her master's degree in chemistry from New York University.",
+    "stem_journey": "Gertrude began her career in research laboratories, often working without pay due to discrimination against women. She joined Burroughs Wellcome (now GlaxoSmithKline) where she pioneered rational drug design, creating medicines based on understanding how diseases work.",
+    "challenges": "Gertrude faced discrimination as a woman in science and was often denied opportunities because of her gender. She also had to work without pay for many years and was excluded from certain research positions.",
+    "achievements": "Gertrude developed life-saving drugs for leukemia, herpes, and organ transplants. She won the Nobel Prize in Physiology or Medicine in 1988 and pioneered the field of rational drug design, revolutionizing how medicines are developed.",
+    "legacy": "Gertrude's work has saved millions of lives and revolutionized drug development. She opened doors for women in pharmacology and inspired countless scientists to pursue careers in drug discovery."
+  },
+  "achievements": [
+    "Won Nobel Prize in Physiology or Medicine",
+    "Developed drugs for leukemia and herpes",
+    "Pioneered rational drug design",
+    "Created immunosuppressive drugs for transplants",
+    "Developed first antiviral drug",
+    "Held 45 patents"
+  ],
+  "awards": [
+    "Nobel Prize in Physiology or Medicine (1988)",
+    "National Medal of Science",
+    "Garvan Medal",
+    "Elected to National Academy of Sciences"
+  ],
+  "publications": [
+    {
+      "title": "Purine metabolism in man",
+      "year": "1972"
+    }
+  ],
+  "education": [
+    {
+      "degree": "MS",
+      "field": "Chemistry",
+      "institution": "New York University"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1937,
+      "event": "Graduated from Hunter College"
+    },
+    {
+      "year": 1941,
+      "event": "Earned master's degree in chemistry"
+    },
+    {
+      "year": 1988,
+      "event": "Won Nobel Prize in Physiology or Medicine"
+    }
+  ],
+  "barriers": [
+    "Discrimination as a woman in science",
+    "Denied opportunities due to gender",
+    "Worked without pay for many years"
+  ],
+  "impact": "Her work has saved millions of lives and revolutionized how medicines are developed, influencing modern drug discovery.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Gertrude Elion: Nobel Prize-winning pharmacologist",
+      "url": "https://www.nobelprize.org/prizes/medicine/1988/elion/facts/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gertrude_Elion"
+    }
+  ],
+  "mentorship": "Mentored many students in pharmacology and supported women in science throughout her career.",
+  "fun_fact": "Gertrude was the first woman inducted into the National Inventors Hall of Fame.",
+  "career_path": {
+    "first_job": "Research assistant at various laboratories",
+    "career_highlights": [
+      "Pioneered rational drug design",
+      "Developed life-saving drugs",
+      "Won Nobel Prize"
+    ],
+    "advice_for_students": "Don't let anyone tell you that you can't do something because you're a woman. Follow your passion for science and never give up."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "The Nobel Prize: A History of Genius, Controversy, and Prestige",
+      "Women in Science: 50 Fearless Pioneers Who Changed the World"
+    ],
+    "websites": [
+      "nobelprize.org",
+      "pharmacology.org",
+      "womeninscience.org"
+    ],
+    "programs": [
+      "Pharmacology summer programs",
+      "Women in science organizations"
+    ],
+    "advice": "Study chemistry and biology with passion and look for ways to apply your knowledge to help people."
+  },
+  "challenges": {
+    "academic": [
+      "Discrimination as a woman in science",
+      "Limited educational opportunities"
+    ],
+    "professional": [
+      "Working without pay for many years",
+      "Exclusion from certain research positions"
+    ],
+    "personal": [
+      "Facing societal expectations",
+      "Working in isolation"
+    ],
+    "how_overcame": "Focused on her scientific work, found supportive colleagues, and persisted despite discrimination"
+  },
+  "education_details": {
+    "high_school": "Excelled in science",
+    "college_major": "Chemistry",
+    "key_courses": [
+      "Chemistry",
+      "Pharmacology",
+      "Biochemistry",
+      "Drug Design"
+    ],
+    "study_tips": "Connect chemical principles to biological systems and real-world health problems"
+  },
+  "modern_impact": {
+    "current_applications": "Rational drug design influences modern pharmaceutical development",
+    "companies_using_her_work": [
+      "All major pharmaceutical companies",
+      "Research institutions",
+      "Medical schools"
+    ],
+    "future_implications": "Continues to influence drug discovery and personalized medicine"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Chemistry",
+      "Medicine",
+      "Helping others",
+      "Research"
+    ],
+    "family_background": "Supportive family that encouraged her scientific interests",
+    "hobbies": [
+      "Scientific research",
+      "Teaching",
+      "Reading"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Brilliant",
+      "Compassionate",
+      "Innovative"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American Jewish",
+    "cultural_influences": [
+      "American scientific tradition",
+      "Jewish intellectual culture"
+    ],
+    "cultural_challenges": [
+      "Gender discrimination in science",
+      "Religious discrimination"
+    ],
+    "cultural_contributions": "Advanced American pharmacology research and influenced drug development worldwide"
+  },
+  "verified": true
+}

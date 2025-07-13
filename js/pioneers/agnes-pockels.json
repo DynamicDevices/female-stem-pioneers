@@ -1,0 +1,165 @@
+{
+  "name": "Agnes Pockels",
+  "photo": "./images/agnes-pockels.jpg",
+  "birthDate": "1862",
+  "deathDate": "1935",
+  "country": "Germany",
+  "fields": [
+    "Chemistry",
+    "Physics"
+  ],
+  "roles": [
+    "Chemist",
+    "Physicist"
+  ],
+  "quote": "Science is not limited by gender, only by curiosity and determination.",
+  "summary": "Self-taught chemist who pioneered surface chemistry and invented the surface film balance.",
+  "shortDescription": "Agnes Pockels was a self-taught chemist who pioneered surface chemistry and invented the surface film balance. She contributed to the field of surface science and was the first woman to receive the Davy Medal. Her work on surface tension and thin films laid the foundation for modern surface chemistry and has applications in materials science and nanotechnology.",
+  "detailed_description": {
+    "early_life": "Born in Italy and raised in Germany, Agnes showed an early interest in science despite limited formal education opportunities for women. She conducted her research at home using equipment she built herself.",
+    "stem_journey": "Agnes became a self-taught chemist who pioneered surface chemistry research. She invented the surface film balance and conducted groundbreaking research on surface tension and thin films.",
+    "challenges": "Faced significant gender barriers in science education and had to conduct research independently at home. She worked without formal laboratory access or institutional support.",
+    "achievements": "Invented the surface film balance, pioneered surface chemistry research, and published over 20 scientific papers. Her work laid the foundation for modern surface science.",
+    "legacy": "Agnes opened doors for women in chemistry and demonstrated that important scientific discoveries could be made outside traditional academic institutions."
+  },
+  "achievements": [
+    "Invented surface film balance",
+    "Pioneered surface chemistry",
+    "Published over 20 scientific papers"
+  ],
+  "awards": [
+    "Davy Medal (1931)",
+    "First woman to receive the Davy Medal",
+    "Recognition for surface chemistry contributions"
+  ],
+  "publications": [
+    {
+      "title": "Surface Chemistry Research Papers",
+      "url": "https://www.rsc.org/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Chemistry",
+      "institution": "Home laboratory"
+    }
+  ],
+  "timeline": [
+    { "year": 1862, "event": "Born in Italy" },
+    { "year": 1891, "event": "Published first paper on surface tension" },
+    { "year": 1931, "event": "Awarded Davy Medal" },
+    { "year": 1935, "event": "Died in Germany" }
+  ],
+  "barriers": [
+    "Limited formal education for women",
+    "No access to institutional laboratories",
+    "Gender discrimination in science"
+  ],
+  "impact": "Pioneered surface chemistry and demonstrated that women could make significant scientific contributions.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Agnes Pockels: Pioneer of Surface Chemistry",
+      "url": "https://www.britannica.com/biography/Agnes-Pockels"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Agnes_Pockels"
+    }
+  ],
+  "mentorship": "Inspired future generations of women in chemistry through her independent research and discoveries.",
+  "fun_fact": "Agnes conducted her pioneering research on surface tension using equipment she built in her kitchen.",
+  "career_path": {
+    "first_job": "Independent researcher",
+    "career_highlights": [
+      "Invented surface film balance",
+      "Published over 20 scientific papers",
+      "Received Davy Medal"
+    ],
+    "advice_for_students": "Curiosity and determination can overcome barriers. Don't let lack of formal education stop you from pursuing science."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Chemistry",
+      "The History of Surface Science"
+    ],
+    "websites": [
+      "rsc.org",
+      "chemistry.org",
+      "womeninchemistry.org"
+    ],
+    "programs": [
+      "Chemistry summer camps",
+      "Surface science programs"
+    ],
+    "advice": "Start with simple experiments at home. Scientific discovery doesn't require expensive equipment."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal education opportunities"
+    ],
+    "professional": [
+      "No access to institutional laboratories",
+      "Gender discrimination in science"
+    ],
+    "personal": [
+      "Working independently without support"
+    ],
+    "how_overcame": "Built her own equipment and conducted research independently, focusing on her scientific curiosity"
+  },
+  "education_details": {
+    "high_school": "Limited formal education",
+    "college_major": "Self-taught in chemistry",
+    "key_courses": [
+      "Surface Chemistry",
+      "Physics",
+      "Laboratory Techniques"
+    ],
+    "study_tips": "Learn to build and adapt equipment for your experiments"
+  },
+  "modern_impact": {
+    "current_applications": "Her surface chemistry work influences modern materials science",
+    "companies_using_her_work": [
+      "Materials science companies",
+      "Nanotechnology research",
+      "Surface coating industries"
+    ],
+    "future_implications": "Her contributions to surface chemistry continue to influence modern materials and nanotechnology"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Chemistry",
+      "Physics",
+      "Scientific experimentation"
+    ],
+    "family_background": "German-Italian family",
+    "hobbies": [
+      "Building laboratory equipment",
+      "Conducting experiments",
+      "Scientific correspondence"
+    ],
+    "personality_traits": [
+      "Independent",
+      "Curious",
+      "Determined",
+      "Innovative"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "German-Italian",
+    "cultural_influences": [
+      "German scientific tradition",
+      "Italian cultural background",
+      "19th-century European science"
+    ],
+    "cultural_challenges": [
+      "Gender roles in 19th-century Germany",
+      "Limited educational opportunities for women"
+    ],
+    "cultural_contributions": "Demonstrated that women could make significant scientific contributions despite cultural and institutional barriers"
+  },
+  "verified": true
+} 

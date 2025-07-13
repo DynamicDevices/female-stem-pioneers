@@ -1,0 +1,169 @@
+{
+  "name": "Lise Meitner",
+  "photo": "./images/lise-meitner.jpg",
+  "birthDate": "1878",
+  "deathDate": "1968",
+  "country": "Austria",
+  "fields": [
+    "Physics",
+    "Nuclear Physics"
+  ],
+  "roles": [
+    "Physicist",
+    "Professor"
+  ],
+  "quote": "Science makes people reach selflessly for truth and objectivity; it teaches people to accept reality, with wonder and admiration, not to mention the deep awe and joy that the natural order of things brings to the true scientist.",
+  "summary": "Pioneering nuclear physicist who discovered nuclear fission but was denied the Nobel Prize due to discrimination.",
+  "shortDescription": "Lise Meitner was a brilliant physicist who discovered nuclear fission - the process that powers nuclear reactors and atomic bombs. She worked with Otto Hahn for 30 years, but when they discovered fission, only Hahn received the Nobel Prize. Lise's story shows how women's contributions were often overlooked, even when they made groundbreaking discoveries.",
+  "achievements": [
+    "Discovered nuclear fission with Otto Hahn",
+    "Pioneered research in nuclear physics",
+    "Made fundamental contributions to radioactivity",
+    "First woman to become a full professor in Germany"
+  ],
+  "awards": [
+    "Max Planck Medal",
+    "Enrico Fermi Award",
+    "Elected to Royal Swedish Academy of Sciences"
+  ],
+  "publications": [],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Physics",
+      "institution": "University of Vienna"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1906,
+      "event": "Earned PhD in physics"
+    },
+    {
+      "year": 1912,
+      "event": "Began collaboration with Otto Hahn"
+    },
+    {
+      "year": 1938,
+      "event": "Fled Nazi Germany to Sweden"
+    },
+    {
+      "year": 1939,
+      "event": "Published paper explaining nuclear fission"
+    }
+  ],
+  "barriers": [
+    "Faced discrimination as a woman in physics",
+    "Denied Nobel Prize despite key contributions",
+    "Forced to flee Nazi Germany",
+    "Work often attributed to male colleagues"
+  ],
+  "impact": "Her discovery of nuclear fission revolutionized physics and led to both nuclear power and nuclear weapons.",
+  "media": [],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lise_Meitner"
+    },
+    {
+      "title": "Atomic Heritage Foundation",
+      "url": "https://www.atomicheritage.org/profile/lise-meitner"
+    }
+  ],
+  "mentorship": "Mentored many students and inspired women in physics.",
+  "fun_fact": "Element 109, meitnerium, is named after Lise Meitner.",
+  "career_path": {
+    "first_job": "Research assistant",
+    "career_highlights": [
+      "Worked at Kaiser Wilhelm Institute",
+      "Became professor at University of Berlin",
+      "Research at Stockholm University"
+    ],
+    "advice_for_students": "Follow your scientific curiosity and don't let discrimination stop you from pursuing your passion for discovery."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Lise Meitner: A Life in Physics",
+      "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements"
+    ],
+    "websites": [
+      "physics.org",
+      "atomicheritage.org",
+      "nobelprize.org"
+    ],
+    "programs": [
+      "Physics summer programs",
+      "Women in physics organizations"
+    ],
+    "advice": "Study physics with passion and persistence. The universe is full of mysteries waiting to be discovered."
+  },
+  "challenges": {
+    "academic": [
+      "Limited opportunities for women in physics",
+      "Had to work without pay for years"
+    ],
+    "professional": [
+      "Discrimination against women in science",
+      "Work attributed to male colleagues",
+      "Forced to flee Nazi Germany"
+    ],
+    "personal": [
+      "Facing anti-Semitism in Nazi Germany",
+      "Being overlooked for major awards"
+    ],
+    "how_overcame": "Persisted in her research despite discrimination, focused on scientific discovery, and found supportive colleagues"
+  },
+  "education_details": {
+    "high_school": "Excelled in mathematics and science",
+    "college_major": "Physics",
+    "key_courses": [
+      "Nuclear Physics",
+      "Radioactivity",
+      "Quantum Mechanics",
+      "Mathematical Physics"
+    ],
+    "study_tips": "Combine theoretical understanding with experimental work and never stop asking questions"
+  },
+  "modern_impact": {
+    "current_applications": "Nuclear fission is used in nuclear power plants and medical applications",
+    "companies_using_her_work": [
+      "Nuclear power companies",
+      "Medical research institutions",
+      "Physics research laboratories"
+    ],
+    "future_implications": "Nuclear fusion research builds on understanding of nuclear processes"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Physics",
+      "Mathematics",
+      "Chemistry"
+    ],
+    "family_background": "Jewish family in Austria",
+    "hobbies": [
+      "Physics research",
+      "Teaching",
+      "Walking"
+    ],
+    "personality_traits": [
+      "Brilliant",
+      "Determined",
+      "Humble",
+      "Curious"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Austrian Jewish",
+    "cultural_influences": [
+      "Austrian scientific tradition",
+      "Jewish intellectual culture"
+    ],
+    "cultural_challenges": [
+      "Anti-Semitism in Nazi Germany",
+      "Gender discrimination in science"
+    ],
+    "cultural_contributions": "Bridged Austrian and Swedish scientific traditions, influenced nuclear physics worldwide"
+  },
+  "legacy": "Lise Meitner's discovery of nuclear fission revolutionized physics and our understanding of atomic processes. Despite being denied the Nobel Prize, her work laid the foundation for nuclear power and medical applications. She opened doors for women in physics and demonstrated that women could make groundbreaking discoveries in nuclear science.",
+  "verified": true
+}

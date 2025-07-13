@@ -1,0 +1,30 @@
+{
+  "name": "Flossie Wong-Staal",
+  "photo": "./images/flossie-wong-staal.jpg",
+  "birthDate": "1947",
+  "deathDate": "2020",
+  "country": "China/United States",
+  "fields": [
+    "Biology",
+    "Virology"
+  ],
+  "roles": [
+    "Virologist",
+    "Molecular Biologist"
+  ],
+  "quote": "Science is a way of thinking much more than it is a body of knowledge.",
+  "summary": "First to clone HIV and determine its gene functions, advancing AIDS research.",
+  "shortDescription": "Flossie Wong-Staal was the first to clone HIV and determine its gene functions, advancing AIDS research. Her groundbreaking work on HIV genetics has been crucial to understanding the virus and developing treatments. She was a leader in AIDS research and her contributions have saved countless lives through improved understanding of HIV infection and treatment.",
+  "achievements": [
+    "First to clone HIV",
+    "Mapped HIV gene functions",
+    "Leader in AIDS research"
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flossie_Wong-Staal"
+    }
+  ],
+  "verified": true
+}

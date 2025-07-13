@@ -1,0 +1,188 @@
+{
+  "name": "Barbara McClintock",
+  "photo": "./images/barbara-mcclintock.jpg",
+  "birthDate": "1902",
+  "deathDate": "1992",
+  "country": "United States",
+  "fields": [
+    "Genetics",
+    "Biology"
+  ],
+  "roles": [
+    "Geneticist",
+    "Cytogeneticist",
+    "Nobel Laureate"
+  ],
+  "quote": "If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off... no matter what they say.",
+  "summary": "Nobel Prize-winning geneticist who discovered transposable elements (jumping genes) in maize.",
+  "shortDescription": "Barbara McClintock was a Nobel Prize-winning geneticist who discovered transposable elements, or 'jumping genes,' in corn plants. Her groundbreaking research showed that genes can move around in DNA, which was revolutionary at the time. Despite being ignored by the scientific community for decades, she persisted in her research and eventually won the Nobel Prize, proving that sometimes the most important discoveries take time to be recognized.",
+  "detailed_description": {
+    "early_life": "Born in 1902 in Connecticut, Barbara showed early interest in science and independence. She earned her PhD in botany and began studying genetics at Cornell University.",
+    "stem_journey": "Barbara pioneered the field of cytogenetics, studying chromosomes in corn plants. She discovered transposable elements but her work was largely ignored for decades.",
+    "challenges": "Faced skepticism and rejection from the scientific community for decades, worked in isolation, and had to prove her revolutionary findings.",
+    "achievements": "Discovered transposable elements (jumping genes), won the Nobel Prize in Physiology or Medicine in 1983, and revolutionized understanding of genetics.",
+    "legacy": "Her discovery of transposable elements revolutionized genetics and showed that genes can move around in DNA, leading to new understanding of evolution and disease."
+  },
+  "achievements": [
+    "Nobel Prize in Physiology or Medicine (1983)",
+    "Discovered transposable elements (jumping genes)",
+    "Pioneered cytogenetics",
+    "Revolutionized understanding of genetics"
+  ],
+  "awards": [
+    "Nobel Prize in Physiology or Medicine (1983)",
+    "National Medal of Science (1970)",
+    "Albert Lasker Basic Medical Research Award (1981)"
+  ],
+  "publications": [
+    {
+      "title": "The Discovery and Characterization of Transposable Elements",
+      "url": "https://www.nobelprize.org/prizes/medicine/1983/mcclintock/facts/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Botany",
+      "institution": "Cornell University"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1927,
+      "event": "Earned PhD from Cornell University"
+    },
+    {
+      "year": 1944,
+      "event": "Discovered transposable elements"
+    },
+    {
+      "year": 1983,
+      "event": "Won Nobel Prize in Physiology or Medicine"
+    },
+    {
+      "year": 1992,
+      "event": "Died at age 90"
+    }
+  ],
+  "barriers": [
+    "Faced skepticism from scientific community",
+    "Worked in isolation for decades",
+    "Had to prove revolutionary findings"
+  ],
+  "impact": "Her discovery of transposable elements revolutionized genetics and led to new understanding of evolution and disease.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Barbara McClintock: Nobel Prize-winning geneticist",
+      "url": "https://www.nobelprize.org/prizes/medicine/1983/mcclintock/facts/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Barbara_McClintock"
+    },
+    {
+      "title": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/1983/mcclintock/facts/"
+    }
+  ],
+  "mentorship": "Inspired women in genetics and showed the importance of persistence in scientific research.",
+  "fun_fact": "Barbara McClintock was the first woman to receive an unshared Nobel Prize in Physiology or Medicine.",
+  "career_path": {
+    "first_job": "Research assistant at Cornell University",
+    "career_highlights": [
+      "Discovered transposable elements",
+      "Won Nobel Prize in 1983",
+      "Pioneered cytogenetics"
+    ],
+    "advice_for_students": "Trust your instincts and don't give up, even when others don't understand your work."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Science: 50 Fearless Pioneers Who Changed the World",
+      "A Feeling for the Organism: The Life and Work of Barbara McClintock"
+    ],
+    "websites": [
+      "nobelprize.org",
+      "genetics.org",
+      "womeninscience.org"
+    ],
+    "programs": [
+      "Genetics summer camps",
+      "Women in STEM mentorship programs",
+      "Science competitions"
+    ],
+    "advice": "Follow your curiosity and don't be afraid to challenge conventional thinking. Sometimes the most important discoveries take time to be recognized."
+  },
+  "challenges": {
+    "academic": [
+      "Limited opportunities for women in science in early 1900s"
+    ],
+    "professional": [
+      "Skepticism from scientific community",
+      "Working in isolation for decades"
+    ],
+    "personal": [
+      "Being ahead of her time",
+      "Facing rejection of her work"
+    ],
+    "how_overcame": "Used determination and persistence to continue research despite skepticism"
+  },
+  "education_details": {
+    "high_school": "Excelled in science and mathematics",
+    "college_major": "Botany",
+    "graduate_school": "PhD in Botany from Cornell",
+    "key_courses": [
+      "Botany",
+      "Genetics",
+      "Cytology",
+      "Research Methods"
+    ],
+    "study_tips": "Follow your curiosity and don't be afraid to challenge conventional wisdom"
+  },
+  "modern_impact": {
+    "current_applications": "Transposable elements are now understood to play important roles in evolution and disease",
+    "companies_using_her_work": [
+      "Biotechnology companies",
+      "Research institutions",
+      "Medical schools"
+    ],
+    "future_implications": "Her work continues to inspire research in genetics and evolution"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Science",
+      "Independence",
+      "Genetics",
+      "Research"
+    ],
+    "family_background": "Encouraged independence and scientific inquiry",
+    "hobbies": [
+      "Studying corn genetics",
+      "Reading scientific literature",
+      "Independent research"
+    ],
+    "personality_traits": [
+      "Independent",
+      "Determined",
+      "Curious",
+      "Persistent"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American scientific tradition",
+      "Early 20th century women's movement",
+      "Academic research culture"
+    ],
+    "cultural_challenges": [
+      "Limited opportunities for women in science",
+      "Working in male-dominated field"
+    ],
+    "cultural_contributions": "Broke barriers for women in genetics and showed the importance of persistence in science"
+  },
+  "verified": true
+}

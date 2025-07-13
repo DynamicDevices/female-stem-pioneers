@@ -1,0 +1,54 @@
+{
+  "name": "Sally Ride",
+  "photo": "./images/sally-ride.jpg",
+  "birthDate": "1951",
+  "deathDate": "2012",
+  "country": "United States",
+  "fields": [
+    "Physics",
+    "Astronautics"
+  ],
+  "roles": [
+    "Astronaut",
+    "Physicist",
+    "Professor"
+  ],
+  "quote": "I would like to be remembered as someone who was not afraid to do what she wanted to do, and as someone who took risks along the way in order to achieve her goals.",
+  "summary": "First American woman in space and youngest American astronaut to travel to space.",
+  "shortDescription": "Sally Ride was the first American woman to travel to space, breaking barriers and inspiring millions of girls to pursue careers in science and engineering. She flew on the Space Shuttle Challenger in 1983 and later became a professor of physics. Sally founded a company to create science programs for students and wrote children's books about space. She showed that the sky is not the limit for women in STEM.",
+  "achievements": [
+    "First American woman in space",
+    "Youngest American astronaut to travel to space",
+    "Founded Sally Ride Science to inspire students",
+    "Wrote children's books about space"
+  ],
+  "awards": [
+    "NASA Space Flight Medal",
+    "Inducted into National Women's Hall of Fame"
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Physics",
+      "institution": "Stanford University"
+    }
+  ],
+  "impact": "Inspired generations of women to pursue careers in space exploration and STEM.",
+  "fun_fact": "Sally Ride was also a nationally ranked tennis player in college.",
+  "career_path": {
+    "first_job": "Physics researcher at Stanford University",
+    "career_highlights": [
+      "Selected as NASA astronaut in 1978",
+      "First space flight in 1983",
+      "Founded Sally Ride Science in 2001"
+    ],
+    "advice_for_students": "Follow your curiosity and don't let stereotypes limit your dreams. Space is for everyone."
+  },
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sally_Ride"
+    }
+  ],
+  "verified": true
+}

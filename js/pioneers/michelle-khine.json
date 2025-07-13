@@ -1,0 +1,187 @@
+{
+  "name": "Michelle Khine",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "1975",
+  "country": "United States",
+  "fields": [
+    "Biomedical Engineering"
+  ],
+  "roles": [
+    "Engineer",
+    "Inventor",
+    "Professor"
+  ],
+  "quote": "I didn't fit into any of the parameters that most people would think of as an inventor.",
+  "summary": "Inventor of Shrinky Dinks-based microfluidic devices for medical diagnostics.",
+  "shortDescription": "Michelle Khine is a biomedical engineer who turned a childhood toy into a tool for medical diagnostics, making healthcare more accessible and affordable.",
+  "detailed_description": {
+    "early_life": "Born in 1975, Michelle Khine showed an early interest in science and engineering. She was inspired by her desire to make healthcare more accessible and affordable for everyone.",
+    "stem_journey": "Michelle earned her PhD in biomedical engineering and became a professor. She used her creative approach to solve medical problems, including using Shrinky Dinks to create microfluidic devices.",
+    "challenges": "As a woman in biomedical engineering, Michelle faced skepticism about her unconventional approach to problem-solving. She had to prove that creative solutions could be scientifically valid.",
+    "achievements": "Michelle invented microfluidic devices using Shrinky Dinks, making medical diagnostics more affordable. She has become a leader in biomedical engineering and entrepreneurship.",
+    "legacy": "Michelle's work has made medical diagnostics more accessible and affordable, inspiring others to think creatively about solving healthcare problems."
+  },
+  "achievements": [
+    "Invented Shrinky Dinks-based microfluidic devices",
+    "Made medical diagnostics more affordable",
+    "Pioneered creative approaches to biomedical engineering",
+    "Founded successful biomedical companies"
+  ],
+  "awards": [
+    "MIT Technology Review Innovator Under 35",
+    "National Science Foundation CAREER Award"
+  ],
+  "publications": [
+    {
+      "title": "Shrinky Dinks microfluidic technology",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Biomedical Engineering",
+      "institution": "University of California, Berkeley"
+    },
+    {
+      "degree": "BS",
+      "field": "Engineering",
+      "institution": "University of California, Los Angeles"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1975,
+      "event": "Born in United States"
+    },
+    {
+      "year": 1997,
+      "event": "Graduated from UCLA"
+    },
+    {
+      "year": 2005,
+      "event": "Completed PhD at UC Berkeley"
+    },
+    {
+      "year": 2009,
+      "event": "Invented Shrinky Dinks microfluidic technology"
+    },
+    {
+      "year": 2010,
+      "event": "Founded biomedical companies"
+    }
+  ],
+  "barriers": [
+    "Faced skepticism about unconventional approaches",
+    "Overcame challenges as woman in biomedical engineering"
+  ],
+  "impact": "Made medical diagnostics more accessible and affordable through creative engineering solutions.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Michelle Khine: Creative Biomedical Engineer",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "references": [
+    {
+      "title": "Smithsonian Lemelson Center: Michelle Khine",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "mentorship": "Inspires students to think creatively about solving medical problems through engineering.",
+  "fun_fact": "Michelle's breakthrough came when she used Shrinky Dinks, a childhood toy, to create microfluidic devices for medical diagnostics.",
+  "career_path": {
+    "first_job": "Biomedical engineering researcher",
+    "career_highlights": [
+      "Invented revolutionary medical diagnostic technology",
+      "Founded successful biomedical companies",
+      "Became professor and mentor"
+    ],
+    "advice_for_students": "Don't be afraid to think outside the box. Sometimes the best solutions come from unexpected places."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Biomedical Engineering: Bridging Medicine and Technology",
+      "Microfluidics: Fundamentals and Applications"
+    ],
+    "websites": [
+      "biomedical.org",
+      "engineering.org",
+      "medicaldiagnostics.org"
+    ],
+    "programs": [
+      "Biomedical engineering programs",
+      "Medical technology summer camps",
+      "Women in STEM mentorship"
+    ],
+    "advice": "Study both engineering and biology, and don't be afraid to combine different fields in creative ways."
+  },
+  "challenges": {
+    "academic": [
+      "Overcoming skepticism about unconventional approaches"
+    ],
+    "professional": [
+      "Breaking into male-dominated biomedical engineering",
+      "Getting creative solutions taken seriously"
+    ],
+    "personal": [
+      "Balancing research with entrepreneurship"
+    ],
+    "how_overcame": "Used rigorous research to prove creative solutions work, focused on practical applications"
+  },
+  "education_details": {
+    "high_school": "Strong foundation in mathematics and science",
+    "college_major": "Engineering",
+    "key_courses": [
+      "Biomedical Engineering",
+      "Microfluidics",
+      "Biology",
+      "Entrepreneurship"
+    ],
+    "study_tips": "Combine technical skills with creative problem-solving and real-world applications"
+  },
+  "modern_impact": {
+    "current_applications": "Her microfluidic technology continues to be used in medical diagnostics",
+    "companies_using_her_work": [
+      "Medical device companies",
+      "Diagnostic laboratories",
+      "Biomedical research institutions"
+    ],
+    "future_implications": "Her work inspires affordable and accessible medical technology solutions"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Science",
+      "Engineering",
+      "Healthcare",
+      "Problem-solving"
+    ],
+    "family_background": "Supportive family that encouraged scientific curiosity",
+    "hobbies": [
+      "Creative problem-solving",
+      "Teaching",
+      "Medical innovation"
+    ],
+    "personality_traits": [
+      "Creative",
+      "Innovative",
+      "Determined",
+      "Visionary"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American innovation culture",
+      "Biomedical research community",
+      "Entrepreneurial spirit"
+    ],
+    "cultural_challenges": [
+      "Gender barriers in engineering",
+      "Skepticism about unconventional approaches"
+    ],
+    "cultural_contributions": "Pioneered American leadership in creative biomedical engineering and affordable medical technology"
+  },
+  "verified": false
+}

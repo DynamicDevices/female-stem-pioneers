@@ -1,0 +1,195 @@
+{
+  "name": "Grace Hopper",
+  "photo": "./images/grace-hopper.jpg",
+  "birthDate": "1906",
+  "deathDate": "1992",
+  "country": "United States",
+  "fields": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "roles": [
+    "Computer Scientist",
+    "Navy Admiral"
+  ],
+  "quote": "The most damaging phrase in the language is 'We've always done it this way!'",
+  "summary": "Pioneering computer scientist who developed the first compiler and popularized the term 'debugging'.",
+  "shortDescription": "Grace Hopper was a pioneering computer scientist who developed the first compiler and popularized the term 'debugging'. She was instrumental in the development of COBOL, a programming language that is still widely used today. As a Navy Admiral, she broke barriers for women in both technology and the military, becoming the first woman to receive the National Medal of Technology and inspiring generations of programmers.",
+  "detailed_description": {
+    "early_life": "Born in New York City, Grace showed exceptional mathematical ability from an early age. She was curious about how things worked and often took apart household items to understand their mechanisms.",
+    "stem_journey": "Grace earned her PhD in mathematics from Yale University in 1934, one of only a few women with doctorates in mathematics at the time. She joined the Navy during World War II and worked on the Harvard Mark I computer.",
+    "challenges": "Faced gender discrimination in both academia and the military. She was often the only woman in her technical teams and had to prove herself repeatedly in male-dominated environments.",
+    "achievements": "Developed the first compiler, led development of COBOL programming language, and became the first woman to reach the rank of Rear Admiral in the U.S. Navy.",
+    "legacy": "Revolutionized computer programming and paved the way for women in computer science and the military. Her work made computers accessible to non-technical users."
+  },
+  "achievements": [
+    "Developed first computer compiler",
+    "Led development of COBOL programming language",
+    "Received National Medal of Technology"
+  ],
+  "awards": [
+    "National Medal of Technology (1991)",
+    "IEEE Computer Society Pioneer Award (1980)"
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Mathematics",
+      "institution": "Yale University"
+    },
+    {
+      "degree": "MA",
+      "field": "Mathematics",
+      "institution": "Yale University"
+    },
+    {
+      "degree": "BA",
+      "field": "Mathematics and Physics",
+      "institution": "Vassar College"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1928,
+      "event": "Graduated from Vassar College"
+    },
+    {
+      "year": 1934,
+      "event": "Earned PhD in mathematics from Yale"
+    },
+    {
+      "year": 1943,
+      "event": "Joined U.S. Navy during World War II"
+    },
+    {
+      "year": 1952,
+      "event": "Developed the first compiler"
+    },
+    {
+      "year": 1959,
+      "event": "Led development of COBOL programming language"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in mathematics and computer science",
+    "Being the only woman in technical teams",
+    "Age discrimination when trying to rejoin the Navy"
+  ],
+  "impact": "Revolutionized computer programming by making it accessible to non-technical users and paved the way for women in computer science.",
+  "media": [
+    {
+      "type": "documentary",
+      "title": "Grace Hopper: The Queen of Code",
+      "url": "https://www.youtube.com/watch?v=AZI6vtESdQU"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grace_Hopper"
+    },
+    {
+      "title": "Computer History Museum",
+      "url": "https://computerhistory.org/profile/grace-hopper/"
+    }
+  ],
+  "mentorship": "Mentored countless programmers and advocated for women in computer science throughout her career.",
+  "fun_fact": "Grace Hopper is credited with popularizing the term 'debugging' after an actual bug (a moth) was found in the Harvard Mark II computer.",
+  "career_path": {
+    "first_job": "Mathematics professor at Vassar College",
+    "career_highlights": [
+      "Worked on Harvard Mark I computer during WWII",
+      "Developed first compiler at Remington Rand",
+      "Led COBOL development team",
+      "Became Navy Rear Admiral"
+    ],
+    "advice_for_students": "Don't be afraid to challenge the status quo. The most dangerous phrase is 'We've always done it this way.'"
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Grace Hopper and the Invention of the Information Age by Kurt Beyer",
+      "The Innovators by Walter Isaacson"
+    ],
+    "websites": [
+      "gracehopper.org",
+      "computerhistory.org",
+      "code.org"
+    ],
+    "programs": [
+      "Grace Hopper Celebration of Women in Computing",
+      "Computer science summer camps",
+      "Navy STEM programs"
+    ],
+    "advice": "Learn to program and don't be afraid to be the only woman in the room. Your perspective is valuable."
+  },
+  "challenges": {
+    "academic": [
+      "Being one of few women in mathematics PhD programs",
+      "Proving herself in male-dominated academic environments"
+    ],
+    "professional": [
+      "Gender discrimination in computer science",
+      "Age discrimination when trying to rejoin Navy"
+    ],
+    "personal": [
+      "Balancing family and career demands",
+      "Navigating military and civilian career paths"
+    ],
+    "how_overcame": "Relied on her mathematical skills and determination. She focused on results and built supportive networks"
+  },
+  "education_details": {
+    "high_school": "Wadleigh High School, New York",
+    "college_major": "Mathematics and Physics at Vassar College",
+    "graduate_school": "PhD in Mathematics from Yale University",
+    "key_courses": [
+      "Advanced Mathematics",
+      "Physics",
+      "Computer Programming",
+      "Military Science"
+    ],
+    "study_tips": "Build strong foundations in mathematics. Learn to think logically and solve problems systematically."
+  },
+  "modern_impact": {
+    "current_applications": "Her compiler technology is the foundation of all modern programming languages",
+    "companies_using_her_work": [
+      "All major technology companies",
+      "Financial institutions using COBOL",
+      "Government agencies"
+    ],
+    "future_implications": "Her work continues to influence programming language design and computer science education"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Mathematics",
+      "Understanding how things work",
+      "Military service"
+    ],
+    "family_background": "Encouraged by parents to pursue education and independence",
+    "hobbies": [
+      "Programming",
+      "Teaching",
+      "Military service"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Innovative",
+      "Direct",
+      "Leadership-oriented"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American heritage",
+    "cultural_influences": [
+      "World War II era patriotism",
+      "Early computer industry culture",
+      "Military tradition"
+    ],
+    "cultural_challenges": [
+      "Gender roles in 1940s-1980s America",
+      "Military culture and gender barriers",
+      "Being a pioneer in computer science"
+    ],
+    "cultural_contributions": "Bridged military service with technological innovation, showing how women can excel in both technical and leadership roles"
+  },
+  "verified": true
+}

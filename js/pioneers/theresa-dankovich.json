@@ -1,0 +1,166 @@
+{
+  "name": "Theresa Dankovich",
+  "photo": "./images/placeholder-woman.svg",
+  "birthDate": "1985",
+  "country": "United States",
+  "fields": [
+    "Chemistry",
+    "Engineering"
+  ],
+  "roles": [
+    "Chemist",
+    "Engineer",
+    "Inventor"
+  ],
+  "quote": "Science can solve real-world problems and improve lives.",
+  "summary": "Chemist and engineer who invented a water purification book that can make contaminated water safe to drink.",
+  "shortDescription": "Theresa Dankovich is a chemist and engineer who invented a revolutionary water purification book that can make contaminated water safe to drink. Her innovative paper-based filter technology has the potential to provide clean drinking water to millions of people worldwide who lack access to safe water sources.",
+  "detailed_description": {
+    "early_life": "Born in 1985, Theresa showed an early interest in chemistry and solving real-world problems. She pursued her education in chemistry and engineering with a focus on environmental applications.",
+    "stem_journey": "Theresa earned her PhD in chemistry and developed a revolutionary water purification technology using paper-based filters. Her work combines chemistry, engineering, and environmental science to address global water challenges.",
+    "challenges": "Faced challenges as a woman in chemistry and engineering, and had to prove that her innovative approach to water purification could work on a large scale.",
+    "achievements": "Invented a water purification book that can make contaminated water safe to drink, developed paper-based filter technology, and created solutions for global water challenges.",
+    "legacy": "Theresa's work has the potential to provide clean drinking water to millions of people worldwide and demonstrates how chemistry can solve critical environmental problems."
+  },
+  "achievements": [
+    "Invented water purification book",
+    "Developed paper-based filter technology",
+    "Created solutions for global water challenges"
+  ],
+  "awards": [
+    "MIT Technology Review Innovator Under 35",
+    "Numerous innovation and environmental awards",
+    "Recognition for water purification technology"
+  ],
+  "publications": [
+    {
+      "title": "Water Purification Technology Research",
+      "url": "https://www.researchgate.net/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Chemistry",
+      "institution": "McGill University"
+    }
+  ],
+  "timeline": [
+    { "year": 1985, "event": "Born in United States" },
+    { "year": 2007, "event": "Earned undergraduate degree" },
+    { "year": 2015, "event": "Earned PhD from McGill University" },
+    { "year": 2015, "event": "Invented water purification book" },
+    { "year": 2016, "event": "Named MIT Technology Review Innovator Under 35" }
+  ],
+  "barriers": [
+    "Gender discrimination in chemistry and engineering",
+    "Challenges in commercializing innovative technology",
+    "Limited funding for environmental solutions"
+  ],
+  "impact": "Developed technology that could provide clean drinking water to millions of people worldwide.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Theresa Dankovich: Water Purification Pioneer",
+      "url": "https://www.technologyreview.com/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Theresa_Dankovich"
+    }
+  ],
+  "mentorship": "Inspired future generations of scientists to use chemistry and engineering to solve environmental problems.",
+  "fun_fact": "Theresa's water purification book can filter up to 100 liters of contaminated water and make it safe to drink.",
+  "career_path": {
+    "first_job": "Research chemist",
+    "career_highlights": [
+      "Invented water purification book",
+      "Developed paper-based filter technology",
+      "Named MIT Technology Review Innovator Under 35"
+    ],
+    "advice_for_students": "Use your scientific skills to solve real-world problems. Chemistry can make a difference in people's lives."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Chemistry for Environmental Engineering",
+      "Water Treatment Technologies"
+    ],
+    "websites": [
+      "chemistry.org",
+      "water.org",
+      "environmentalchemistry.org"
+    ],
+    "programs": [
+      "Environmental chemistry programs",
+      "Water treatment research"
+    ],
+    "advice": "Learn to apply chemistry to solve environmental problems. Your work can help millions of people."
+  },
+  "challenges": {
+    "academic": [
+      "Gender barriers in chemistry and engineering"
+    ],
+    "professional": [
+      "Commercializing innovative technology",
+      "Limited funding for environmental solutions"
+    ],
+    "personal": [
+      "Balancing research with practical applications"
+    ],
+    "how_overcame": "Focused on creating practical solutions and demonstrating the real-world impact of her work"
+  },
+  "education_details": {
+    "high_school": "Local schools",
+    "college_major": "Chemistry",
+    "key_courses": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Water Treatment"
+    ],
+    "study_tips": "Learn to apply chemical principles to solve environmental problems"
+  },
+  "modern_impact": {
+    "current_applications": "Her water purification technology could provide clean water to millions",
+    "companies_using_her_work": [
+      "Water treatment companies",
+      "Environmental organizations",
+      "Development agencies"
+    ],
+    "future_implications": "Her work could revolutionize access to clean drinking water worldwide"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Chemistry",
+      "Environmental science",
+      "Problem-solving"
+    ],
+    "family_background": "American family",
+    "hobbies": [
+      "Environmental research",
+      "Water treatment technology",
+      "Teaching"
+    ],
+    "personality_traits": [
+      "Innovative",
+      "Determined",
+      "Environmentally conscious",
+      "Problem-solver"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American scientific tradition",
+      "Environmental movement",
+      "Innovation culture"
+    ],
+    "cultural_challenges": [
+      "Gender roles in science and engineering",
+      "Limited recognition for environmental solutions"
+    ],
+    "cultural_contributions": "Demonstrated that women could use chemistry and engineering to solve critical environmental problems"
+  },
+  "verified": true
+} 

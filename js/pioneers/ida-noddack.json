@@ -1,0 +1,179 @@
+{
+  "name": "Ida Noddack",
+  "photo": "./images/ida-noddack.jpg",
+  "birthDate": "1896",
+  "deathDate": "1978",
+  "country": "Germany",
+  "fields": [
+    "Chemistry",
+    "Physics"
+  ],
+  "roles": [
+    "Chemist",
+    "Physicist"
+  ],
+  "quote": "Science is not about being right, it's about being curious.",
+  "summary": "German chemist who co-discovered rhenium and predicted nuclear fission.",
+  "shortDescription": "Ida Noddack was a German chemist who co-discovered the element rhenium and was the first to predict nuclear fission. Her work on element 75 (rhenium) with her husband Walter Noddack was groundbreaking, and her prediction of nuclear fission was ahead of its time.",
+  "detailed_description": {
+    "early_life": "Born in 1896 in Germany, Ida showed early interest in chemistry and science. She studied chemistry at the Technical University of Berlin and earned her PhD in 1921, becoming one of the first women to earn a doctorate in chemistry in Germany.",
+    "stem_journey": "Ida worked with her husband Walter Noddack on analytical chemistry and the search for new elements. In 1925, they co-discovered rhenium (element 75), and Ida became the first woman to discover a chemical element.",
+    "challenges": "Ida faced discrimination as a woman in chemistry and was often overshadowed by her husband in publications. Her prediction of nuclear fission in 1934 was largely ignored by the scientific community, possibly due to gender bias.",
+    "achievements": "Ida co-discovered rhenium in 1925 and was the first to predict nuclear fission in 1934. She pioneered analytical chemistry techniques and made important contributions to our understanding of the periodic table.",
+    "legacy": "Ida's discovery of rhenium and prediction of nuclear fission were groundbreaking contributions to chemistry and physics. She opened doors for women in analytical chemistry and demonstrated that women could make fundamental discoveries in science."
+  },
+  "achievements": [
+    "Co-discovered element rhenium (Re)",
+    "First to predict nuclear fission",
+    "Pioneered analytical chemistry techniques",
+    "Discovered new chemical elements",
+    "First woman to discover a chemical element",
+    "Advanced understanding of periodic table"
+  ],
+  "awards": [
+    "Liebig Medal",
+    "Recognition for rhenium discovery",
+    "Honorary degrees from universities"
+  ],
+  "publications": [
+    {
+      "title": "Über das Element 75",
+      "year": "1925"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Chemistry",
+      "institution": "Technical University of Berlin"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1921,
+      "event": "Earned PhD in chemistry"
+    },
+    {
+      "year": 1925,
+      "event": "Co-discovered rhenium"
+    },
+    {
+      "year": 1934,
+      "event": "Predicted nuclear fission"
+    }
+  ],
+  "barriers": [
+    "Discrimination as a woman in chemistry",
+    "Overshadowed by husband in publications",
+    "Nuclear fission prediction ignored due to gender bias"
+  ],
+  "impact": "Her discovery of rhenium and prediction of nuclear fission were fundamental contributions to chemistry and physics.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Ida Noddack: Pioneer in analytical chemistry",
+      "url": "https://www.biography.com/scientist/ida-noddack"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ida_Noddack"
+    }
+  ],
+  "mentorship": "Pioneered women's role in analytical chemistry and inspired future female chemists.",
+  "fun_fact": "Ida was the first woman to discover a chemical element.",
+  "career_path": {
+    "first_job": "Research chemist with husband Walter Noddack",
+    "career_highlights": [
+      "Co-discovered rhenium",
+      "Predicted nuclear fission",
+      "Pioneered analytical chemistry"
+    ],
+    "advice_for_students": "Follow your curiosity in science and don't let anyone tell you that women can't make fundamental discoveries in chemistry."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table",
+      "Women in Chemistry: Their Changing Roles from Alchemical Times to the Mid-Twentieth Century"
+    ],
+    "websites": [
+      "chemistry.org",
+      "womeninchemistry.org",
+      "periodictable.com"
+    ],
+    "programs": [
+      "Chemistry summer programs",
+      "Women in chemistry organizations"
+    ],
+    "advice": "Study chemistry with passion and don't be afraid to challenge established theories."
+  },
+  "challenges": {
+    "academic": [
+      "Discrimination as a woman in chemistry",
+      "Limited recognition for her work"
+    ],
+    "professional": [
+      "Overshadowed by husband in publications",
+      "Nuclear fission prediction ignored"
+    ],
+    "personal": [
+      "Working in male-dominated field",
+      "Facing societal expectations"
+    ],
+    "how_overcame": "Focused on her scientific work, collaborated with supportive colleagues, and persisted despite lack of recognition"
+  },
+  "education_details": {
+    "high_school": "Excelled in chemistry and science",
+    "college_major": "Chemistry",
+    "key_courses": [
+      "Analytical Chemistry",
+      "Physical Chemistry",
+      "Inorganic Chemistry",
+      "Nuclear Chemistry"
+    ],
+    "study_tips": "Connect chemical principles to real-world applications and never stop questioning established theories"
+  },
+  "modern_impact": {
+    "current_applications": "Rhenium is used in high-temperature alloys and catalysts",
+    "companies_using_her_work": [
+      "Chemical companies",
+      "Research institutions",
+      "Nuclear research facilities"
+    ],
+    "future_implications": "Continues to influence analytical chemistry and nuclear physics research"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Chemistry",
+      "Analytical techniques",
+      "Element discovery",
+      "Research"
+    ],
+    "family_background": "Supportive family that encouraged her scientific interests",
+    "hobbies": [
+      "Chemical research",
+      "Reading",
+      "Travel"
+    ],
+    "personality_traits": [
+      "Curious",
+      "Determined",
+      "Analytical",
+      "Pioneering"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "German",
+    "cultural_influences": [
+      "German scientific tradition",
+      "European chemistry culture"
+    ],
+    "cultural_challenges": [
+      "Gender discrimination in German science",
+      "Working in male-dominated field"
+    ],
+    "cultural_contributions": "Advanced German analytical chemistry and influenced element discovery worldwide"
+  },
+  "verified": false
+} 

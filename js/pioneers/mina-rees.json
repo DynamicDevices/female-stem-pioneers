@@ -1,0 +1,179 @@
+{
+  "name": "Mina Rees",
+  "photo": "./images/mina-rees.jpg",
+  "birthDate": "1902",
+  "deathDate": "1997",
+  "country": "United States",
+  "fields": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "roles": [
+    "Mathematician",
+    "Computer Scientist"
+  ],
+  "quote": "Mathematics is the language of science.",
+  "summary": "Mathematician who led the development of early computers and was the first female president of the American Mathematical Society.",
+  "shortDescription": "Mina Rees was a mathematician who led the development of early computers during World War II and became the first female president of the American Mathematical Society. Her work on computing machines helped pave the way for modern computer science.",
+  "detailed_description": {
+    "early_life": "Born in 1902 in New York, Mina showed exceptional talent in mathematics from an early age. She attended Hunter College and earned her PhD in mathematics from the University of Chicago in 1931.",
+    "stem_journey": "Mina began her career teaching mathematics at Hunter College. During World War II, she joined the Applied Mathematics Panel where she led the development of early computing machines and mathematical research for military applications.",
+    "challenges": "Mina faced discrimination as a woman in mathematics and was often the only woman in her department. She also had to balance her academic career with her wartime work.",
+    "achievements": "Mina became the first female president of the American Mathematical Society in 1971. She led the development of early computers during World War II and established the Office of Naval Research's mathematics program.",
+    "legacy": "Mina's work on early computers helped pave the way for modern computer science. She opened doors for women in mathematics and established important research programs."
+  },
+  "achievements": [
+    "First female president of American Mathematical Society",
+    "Led early computer development",
+    "Pioneered computing research",
+    "Advanced mathematical education",
+    "Established Office of Naval Research mathematics program",
+    "Led Applied Mathematics Panel during WWII"
+  ],
+  "awards": [
+    "First female president of American Mathematical Society",
+    "National Medal of Science",
+    "Honorary degrees from multiple universities"
+  ],
+  "publications": [
+    {
+      "title": "Mathematical Research in the United States",
+      "year": "1950"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Mathematics",
+      "institution": "University of Chicago"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1931,
+      "event": "Earned PhD in mathematics"
+    },
+    {
+      "year": 1943,
+      "event": "Joined Applied Mathematics Panel"
+    },
+    {
+      "year": 1971,
+      "event": "Became first female president of American Mathematical Society"
+    }
+  ],
+  "barriers": [
+    "Discrimination as a woman in mathematics",
+    "Being the only woman in her department",
+    "Balancing academic and wartime work"
+  ],
+  "impact": "Her work on early computers and mathematical research programs influenced the development of modern computing and mathematics education.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Mina Rees: Pioneer in Computing and Mathematics",
+      "url": "https://www.biography.com/scientist/mina-rees"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mina_Rees"
+    }
+  ],
+  "mentorship": "Mentored many students in mathematics and supported women in STEM throughout her career.",
+  "fun_fact": "Mina was the first female president of the American Mathematical Society in 1971.",
+  "career_path": {
+    "first_job": "Mathematics instructor at Hunter College",
+    "career_highlights": [
+      "Led early computer development",
+      "First female president of American Mathematical Society",
+      "Established mathematics research programs"
+    ],
+    "advice_for_students": "Follow your passion for mathematics and don't let gender stereotypes stop you from pursuing your dreams."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Mathematics: The Addition of Difference",
+      "Mina Rees and the Office of Naval Research"
+    ],
+    "websites": [
+      "ams.org",
+      "womeninmath.org",
+      "computerhistory.org"
+    ],
+    "programs": [
+      "Mathematics summer programs",
+      "Women in mathematics organizations"
+    ],
+    "advice": "Study mathematics with passion and look for ways to apply it to real-world problems."
+  },
+  "challenges": {
+    "academic": [
+      "Discrimination as a woman in mathematics",
+      "Limited opportunities for women"
+    ],
+    "professional": [
+      "Being the only woman in her department",
+      "Balancing multiple roles"
+    ],
+    "personal": [
+      "Working during wartime",
+      "Facing societal expectations"
+    ],
+    "how_overcame": "Focused on her mathematical work, found supportive colleagues, and persisted despite discrimination"
+  },
+  "education_details": {
+    "high_school": "Excelled in mathematics",
+    "college_major": "Mathematics",
+    "key_courses": [
+      "Advanced Mathematics",
+      "Computer Science",
+      "Applied Mathematics",
+      "Mathematical Research"
+    ],
+    "study_tips": "Connect abstract mathematics to practical applications and real-world problems"
+  },
+  "modern_impact": {
+    "current_applications": "Early computer development influences modern computing",
+    "companies_using_her_work": [
+      "Computer science departments",
+      "Mathematics research institutions",
+      "Government research agencies"
+    ],
+    "future_implications": "Continues to influence mathematics education and computer science development"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Mathematics",
+      "Education",
+      "Research",
+      "Public service"
+    ],
+    "family_background": "Supportive family that valued education",
+    "hobbies": [
+      "Mathematics research",
+      "Teaching",
+      "Reading"
+    ],
+    "personality_traits": [
+      "Brilliant",
+      "Determined",
+      "Leadership",
+      "Innovative"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American mathematical tradition",
+      "Women's education movement"
+    ],
+    "cultural_challenges": [
+      "Gender discrimination in mathematics",
+      "Limited opportunities for women in STEM"
+    ],
+    "cultural_contributions": "Pioneered women's role in mathematics and computing, influenced generations of female mathematicians"
+  },
+  "verified": true
+}

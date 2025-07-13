@@ -1,0 +1,178 @@
+{
+  "name": "Kadambini Ganguly",
+  "photo": "./images/kadambini-ganguly.jpg",
+  "birthDate": "1861",
+  "deathDate": "1923",
+  "country": "India",
+  "fields": [
+    "Medicine",
+    "Women's Rights"
+  ],
+  "roles": [
+    "Physician",
+    "Suffragist",
+    "Educator"
+  ],
+  "quote": "Education is the key to women's emancipation.",
+  "summary": "First Indian woman to practice medicine in India and one of the first women to graduate from college in India.",
+  "shortDescription": "Kadambini Ganguly was one of the first Indian women to graduate from college and the first Indian woman to practice medicine in India. She overcame tremendous cultural barriers to pursue education and medicine, becoming a pioneer for women's rights and education in India.",
+  "detailed_description": {
+    "early_life": "Born in 1861 in Bengal, India, Kadambini showed exceptional intelligence and was encouraged to pursue education. She was one of the first Indian women to attend college.",
+    "stem_journey": "Kadambini graduated from Bethune College in Calcutta and then pursued medical education, becoming one of the first Indian women to practice medicine in India.",
+    "challenges": "Faced intense cultural opposition to women's education, had to overcome societal barriers, and dealt with discrimination as a woman in medicine.",
+    "achievements": "First Indian woman to practice medicine in India, one of first women to graduate from college in India, and leading advocate for women's rights.",
+    "legacy": "Paved the way for Indian women in medicine and education, inspiring generations of women to pursue their dreams."
+  },
+  "achievements": [
+    "First Indian woman to practice medicine in India",
+    "One of first women to graduate from college in India",
+    "Leading advocate for women's rights",
+    "Pioneered women's education in India"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "Medical practice and women's rights advocacy",
+      "url": "https://en.wikipedia.org/wiki/Kadambini_Ganguly"
+    }
+  ],
+  "education": [
+    {
+      "degree": "College degree",
+      "field": "General education",
+      "institution": "Bethune College"
+    },
+    {
+      "degree": "Medical degree",
+      "field": "Medicine",
+      "institution": "Medical College Calcutta"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1883,
+      "event": "Graduated from Bethune College"
+    },
+    {
+      "year": 1886,
+      "event": "Began medical practice"
+    }
+  ],
+  "barriers": [
+    "Cultural opposition to women's education",
+    "Societal resistance to women in medicine",
+    "Limited opportunities for Indian women"
+  ],
+  "impact": "Paved the way for Indian women in medicine and education, inspiring generations of women.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Kadambini Ganguly: Pioneer of Women in Medicine",
+      "url": "https://www.britannica.com/biography/Kadambini-Ganguly"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kadambini_Ganguly"
+    },
+    {
+      "title": "Britannica",
+      "url": "https://www.britannica.com/biography/Kadambini-Ganguly"
+    }
+  ],
+  "mentorship": "Inspired other Indian women to pursue education and medical careers.",
+  "fun_fact": "Kadambini Ganguly was one of the first Indian women to graduate from college and the first to practice medicine in India.",
+  "career_path": {
+    "first_job": "Student and pioneer",
+    "career_highlights": [
+      "Graduated from college in 1883",
+      "Began medical practice in 1886",
+      "Advocated for women's rights"
+    ],
+    "advice_for_students": "Education is the foundation of empowerment. Use it to help others and inspire future generations."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Kadambini Ganguly: Pioneer of Women's Education",
+      "Women in Medicine: Indian Perspectives"
+    ],
+    "websites": [
+      "wikipedia.org",
+      "britannica.com"
+    ],
+    "programs": [
+      "Women's education programs",
+      "Medical school preparation"
+    ],
+    "advice": "Your education can be a powerful tool for change. Use it to help others and inspire future generations."
+  },
+  "challenges": {
+    "academic": [
+      "Limited educational opportunities for women",
+      "Cultural barriers to higher education"
+    ],
+    "professional": [
+      "Discrimination in medical practice",
+      "Societal resistance to women doctors"
+    ],
+    "personal": [
+      "Cultural and family pressure",
+      "Societal expectations"
+    ],
+    "how_overcame": "Used determination and found supportive mentors, focused on helping others through medicine"
+  },
+  "education_details": {
+    "high_school": "Home education and private tutoring",
+    "college_major": "General education",
+    "key_courses": [
+      "Literature",
+      "Science",
+      "Medicine"
+    ],
+    "study_tips": "Connect your studies to real-world applications and helping others"
+  },
+  "modern_impact": {
+    "current_applications": "Her legacy continues to inspire Indian women in medicine and education",
+    "companies_using_her_work": [
+      "Medical schools in India",
+      "Women's education programs",
+      "Healthcare organizations"
+    ],
+    "future_implications": "Her work promotes gender equality in education and medicine in India"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Education",
+      "Medicine",
+      "Women's rights"
+    ],
+    "family_background": "Bengali family in colonial India",
+    "hobbies": [
+      "Reading",
+      "Advocacy work",
+      "Medical practice"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Pioneering",
+      "Compassionate",
+      "Educated"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Indian (Bengali)",
+    "cultural_influences": [
+      "Bengali culture",
+      "British colonial education",
+      "Women's rights movement"
+    ],
+    "cultural_challenges": [
+      "Traditional gender roles",
+      "Cultural opposition to women's education",
+      "Colonial barriers"
+    ],
+    "cultural_contributions": "Pioneered Indian women's participation in higher education and medicine"
+  },
+  "verified": false
+} 

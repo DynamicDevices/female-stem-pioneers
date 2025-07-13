@@ -1,0 +1,172 @@
+{
+  "name": "Maria Mitchell",
+  "photo": "./images/maria-mitchell.jpg",
+  "birthDate": "1818",
+  "deathDate": "1889",
+  "country": "United States",
+  "fields": [
+    "Astronomy"
+  ],
+  "roles": [
+    "Astronomer",
+    "Educator"
+  ],
+  "quote": "We especially need imagination in science. It is not all mathematics, nor all logic, but it is somewhat beauty and poetry.",
+  "summary": "First professional female astronomer in the United States who discovered a comet and paved the way for women in science.",
+  "shortDescription": "Maria Mitchell was the first professional female astronomer in the United States and discovered a comet in 1847. She became the first woman elected to the American Academy of Arts and Sciences and was a pioneer in women's education in science.",
+  "detailed_description": {
+    "early_life": "Born in Nantucket, Massachusetts in 1818, Maria was encouraged by her father to study astronomy. She learned to use astronomical instruments and began making observations from their rooftop observatory.",
+    "stem_journey": "In 1847, Maria discovered a comet using her telescope, which became known as 'Miss Mitchell's Comet.' This discovery brought her international recognition and a gold medal from the King of Denmark.",
+    "challenges": "As a woman in 19th-century America, Maria faced significant barriers to pursuing science professionally. She was often excluded from scientific societies and meetings.",
+    "achievements": "Discovered a comet in 1847, became the first woman elected to the American Academy of Arts and Sciences, and was appointed professor of astronomy at Vassar College.",
+    "legacy": "Maria Mitchell's work paved the way for women in astronomy and science education. She inspired generations of women to pursue careers in science."
+  },
+  "achievements": [
+    "Discovered 'Miss Mitchell's Comet' in 1847",
+    "First woman elected to American Academy of Arts and Sciences",
+    "First professional female astronomer in the United States",
+    "Professor of astronomy at Vassar College"
+  ],
+  "awards": [
+    "Gold Medal from King of Denmark (1848)",
+    "Honorary member of American Academy of Arts and Sciences"
+  ],
+  "publications": [
+    {
+      "title": "Maria Mitchell: Life, Letters, and Journals",
+      "url": "https://en.wikipedia.org/wiki/Maria_Mitchell"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Astronomy",
+      "institution": "Home education and private study"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1847,
+      "event": "Discovered 'Miss Mitchell's Comet'"
+    },
+    {
+      "year": 1848,
+      "event": "Received gold medal from King of Denmark"
+    },
+    {
+      "year": 1865,
+      "event": "Appointed professor at Vassar College"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in 19th-century science",
+    "Limited access to formal education for women"
+  ],
+  "impact": "Pioneered women's participation in professional astronomy and science education.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Maria Mitchell: America's First Woman Astronomer",
+      "url": "https://www.biography.com/scientist/maria-mitchell"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maria_Mitchell"
+    },
+    {
+      "title": "Biography.com",
+      "url": "https://www.biography.com/scientist/maria-mitchell"
+    }
+  ],
+  "mentorship": "Mentored many women students at Vassar College and advocated for women's education in science.",
+  "fun_fact": "Maria Mitchell was the first person to discover a comet using a telescope.",
+  "career_path": {
+    "first_job": "Librarian at Nantucket Atheneum",
+    "career_highlights": [
+      "Discovered a comet in 1847",
+      "Became professor at Vassar College",
+      "Founded the Association for the Advancement of Women"
+    ],
+    "advice_for_students": "Follow your curiosity and don't let anyone tell you what you can't do because of your gender."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Maria Mitchell: Life, Letters, and Journals",
+      "The Maria Mitchell Association website"
+    ],
+    "websites": [
+      "maria-mitchell.org",
+      "vassar.edu"
+    ],
+    "programs": [
+      "Maria Mitchell Association programs",
+      "Women in STEM mentorship programs"
+    ],
+    "advice": "Start with what interests you most and build from there. Science is for everyone."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal education opportunities for women"
+    ],
+    "professional": [
+      "Exclusion from scientific societies",
+      "Gender discrimination in academia"
+    ],
+    "personal": [
+      "Balancing family expectations with scientific pursuits"
+    ],
+    "how_overcame": "Found supportive mentors and focused on her passion for astronomy"
+  },
+  "education_details": {
+    "high_school": "Home education with focus on astronomy",
+    "college_major": "Self-taught in astronomy and mathematics",
+    "key_courses": [
+      "Astronomy",
+      "Mathematics",
+      "Navigation"
+    ],
+    "study_tips": "Learn by doing - hands-on experience with instruments and observations"
+  },
+  "modern_impact": {
+    "current_applications": "Her legacy continues in women's astronomy programs and education",
+    "companies_using_her_work": [
+      "Vassar College",
+      "Maria Mitchell Association"
+    ],
+    "future_implications": "Inspiring future generations of women astronomers"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Astronomy",
+      "Mathematics",
+      "Navigation"
+    ],
+    "family_background": "Daughter of a teacher and amateur astronomer",
+    "hobbies": [
+      "Stargazing",
+      "Teaching",
+      "Writing"
+    ],
+    "personality_traits": [
+      "Curious",
+      "Determined",
+      "Independent",
+      "Generous"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American (Quaker background)",
+    "cultural_influences": [
+      "Quaker values of equality and education",
+      "Nantucket whaling culture"
+    ],
+    "cultural_challenges": [
+      "19th-century gender roles",
+      "Limited women's education"
+    ],
+    "cultural_contributions": "Pioneered women's role in professional science and education"
+  },
+  "verified": true
+}

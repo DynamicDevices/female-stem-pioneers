@@ -1,0 +1,181 @@
+{
+  "name": "Jocelyn Bell Burnell",
+  "photo": "./images/jocelyn-bell-burnell.jpg",
+  "birthDate": "1943",
+  "country": "United Kingdom",
+  "fields": [
+    "Astronomy",
+    "Physics"
+  ],
+  "roles": [
+    "Astronomer",
+    "Physicist"
+  ],
+  "quote": "I am not in the slightest bit interested in the discovery of pulsars. What I am interested in is the discovery of pulsars by a woman.",
+  "summary": "Discovered pulsars as a graduate student, revolutionizing our understanding of neutron stars.",
+  "shortDescription": "Jocelyn Bell Burnell discovered pulsars as a graduate student, one of the most important astronomical discoveries of the 20th century. Despite her crucial role in the discovery, she was controversially excluded from the Nobel Prize awarded to her supervisor.",
+  "detailed_description": {
+    "early_life": "Born in Northern Ireland in 1943, Jocelyn was interested in science from an early age. She studied physics at the University of Glasgow and later at Cambridge University.",
+    "stem_journey": "As a PhD student at Cambridge, Jocelyn helped build a radio telescope and discovered the first pulsar in 1967. She went on to discover three more pulsars.",
+    "challenges": "As a woman in physics in the 1960s, Jocelyn faced significant discrimination. Her discovery of pulsars was initially attributed to her male supervisor, who received the Nobel Prize without her.",
+    "achievements": "Discovered the first pulsar, discovered three additional pulsars, and made fundamental contributions to our understanding of neutron stars and the universe.",
+    "legacy": "Jocelyn's discovery of pulsars revolutionized astronomy and our understanding of neutron stars. She has become a strong advocate for women in science."
+  },
+  "achievements": [
+    "Discovered the first pulsar in 1967",
+    "Discovered three additional pulsars",
+    "Revolutionized understanding of neutron stars",
+    "Received numerous awards including the Breakthrough Prize"
+  ],
+  "awards": [
+    "Breakthrough Prize in Fundamental Physics (2018)",
+    "Dame Commander of the Order of the British Empire (2007)",
+    "Beatrice M. Tinsley Prize (1987)"
+  ],
+  "publications": [
+    {
+      "title": "Little Green Men, White Dwarfs or Pulsars?",
+      "url": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Physics",
+      "institution": "University of Cambridge"
+    },
+    {
+      "degree": "BS",
+      "field": "Physics",
+      "institution": "University of Glasgow"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1967,
+      "event": "Discovered the first pulsar"
+    },
+    {
+      "year": 1968,
+      "event": "Discovered three more pulsars"
+    },
+    {
+      "year": 2018,
+      "event": "Awarded Breakthrough Prize"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in physics",
+    "Nobel Prize controversy",
+    "Limited recognition for her work"
+  ],
+  "impact": "Her discovery of pulsars revolutionized astronomy and our understanding of neutron stars.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Jocelyn Bell Burnell: The Woman Who Discovered Pulsars",
+      "url": "https://www.biography.com/scientist/jocelyn-bell-burnell"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell"
+    },
+    {
+      "title": "Biography.com",
+      "url": "https://www.biography.com/scientist/jocelyn-bell-burnell"
+    }
+  ],
+  "mentorship": "Jocelyn has become a strong advocate for women in science and has mentored many female physicists.",
+  "fun_fact": "Jocelyn Bell Burnell was controversially excluded from the Nobel Prize for her discovery of pulsars.",
+  "career_path": {
+    "first_job": "Research assistant at Cambridge University",
+    "career_highlights": [
+      "Discovered pulsars as a graduate student",
+      "Became professor at multiple universities",
+      "Advocated for women in science"
+    ],
+    "advice_for_students": "Focus on the science and don't let recognition be your primary motivation."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "A Quaker Astronomer Reflects by Jocelyn Bell Burnell",
+      "The Glass Universe by Dava Sobel"
+    ],
+    "websites": [
+      "ox.ac.uk",
+      "glasgow.ac.uk"
+    ],
+    "programs": [
+      "Women in Physics programs",
+      "Radio astronomy programs"
+    ],
+    "advice": "Develop your own methods and trust your observations, even if others don't immediately see their value."
+  },
+  "challenges": {
+    "academic": [
+      "Gender discrimination in physics",
+      "Limited recognition for major discoveries"
+    ],
+    "professional": [
+      "Nobel Prize controversy",
+      "Being overlooked for major awards"
+    ],
+    "personal": [
+      "Balancing family life with research"
+    ],
+    "how_overcame": "Focused on the science itself and became an advocate for others"
+  },
+  "education_details": {
+    "high_school": "Attended University of Glasgow",
+    "college_major": "Physics",
+    "key_courses": [
+      "Physics",
+      "Astronomy",
+      "Mathematics"
+    ],
+    "study_tips": "Learn to recognize patterns and develop systematic approaches to data analysis"
+  },
+  "modern_impact": {
+    "current_applications": "Pulsars are used for navigation, testing relativity, and studying gravitational waves",
+    "companies_using_her_work": [
+      "NASA",
+      "Major observatories worldwide",
+      "Gravitational wave detectors"
+    ],
+    "future_implications": "Essential for understanding neutron stars and testing fundamental physics"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Physics",
+      "Astronomy",
+      "Radio technology"
+    ],
+    "family_background": "Daughter of an architect",
+    "hobbies": [
+      "Radio astronomy",
+      "Advocating for women in science",
+      "Quaker activities"
+    ],
+    "personality_traits": [
+      "Observant",
+      "Determined",
+      "Generous",
+      "Humble"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Northern Irish",
+    "cultural_influences": [
+      "Quaker values",
+      "British scientific tradition"
+    ],
+    "cultural_challenges": [
+      "Gender discrimination in physics",
+      "Regional discrimination"
+    ],
+    "cultural_contributions": "Demonstrated that women could make fundamental discoveries in physics and astronomy"
+  },
+  "verified": true
+}

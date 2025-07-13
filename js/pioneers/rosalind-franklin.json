@@ -1,0 +1,186 @@
+{
+  "name": "Rosalind Franklin",
+  "photo": "./images/rosalind-franklin.png",
+  "birthDate": "1920",
+  "deathDate": "1958",
+  "country": "United Kingdom",
+  "fields": [
+    "Chemistry",
+    "Biology"
+  ],
+  "roles": [
+    "Chemist",
+    "Crystallographer"
+  ],
+  "quote": "Science and everyday life cannot and should not be separated.",
+  "summary": "Chemist whose X-ray diffraction images of DNA were crucial to understanding its double helix structure.",
+  "shortDescription": "Rosalind Franklin's X-ray diffraction images of DNA were crucial to understanding its double helix structure. Her work laid the foundation for the discovery of the structure of DNA and the understanding of genetic inheritance. Despite her critical contributions to one of the most important scientific discoveries of the 20th century, her work was initially overlooked, highlighting the importance of recognizing all contributors to scientific breakthroughs.",
+  "detailed_description": {
+    "early_life": "Born in London to a prominent Jewish family, Rosalind showed exceptional academic ability from an early age. She was determined to pursue a career in science despite family expectations for women.",
+    "stem_journey": "Rosalind earned her PhD in physical chemistry from Cambridge University and became an expert in X-ray crystallography. Her work on DNA structure at King's College London produced the famous 'Photo 51' that revealed the double helix.",
+    "challenges": "Faced gender discrimination in science and was often excluded from important discussions about her own research. Her work was shared without her permission, leading to the Nobel Prize being awarded to others.",
+    "achievements": "Produced the crucial X-ray diffraction images of DNA that revealed its double helix structure, pioneered crystallography techniques, and made significant contributions to understanding virus structures.",
+    "legacy": "Her work was fundamental to understanding DNA structure, though she wasn't recognized during her lifetime. She inspired generations of women in science and highlighted the importance of proper attribution."
+  },
+  "achievements": [
+    "Produced X-ray diffraction images of DNA",
+    "Contributed to understanding virus structures",
+    "Pioneered crystallography techniques"
+  ],
+  "awards": [],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Physical Chemistry",
+      "institution": "University of Cambridge"
+    },
+    {
+      "degree": "BA",
+      "field": "Natural Sciences",
+      "institution": "Newnham College, Cambridge"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1941,
+      "event": "Graduated from Cambridge University"
+    },
+    {
+      "year": 1945,
+      "event": "Earned PhD in physical chemistry"
+    },
+    {
+      "year": 1951,
+      "event": "Joined King's College London to study DNA"
+    },
+    {
+      "year": 1952,
+      "event": "Produced 'Photo 51' showing DNA structure"
+    },
+    {
+      "year": 1958,
+      "event": "Passed away from ovarian cancer"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in science",
+    "Exclusion from important research discussions",
+    "Work shared without permission"
+  ],
+  "impact": "Her X-ray diffraction work was crucial to understanding DNA structure, though she wasn't recognized during her lifetime.",
+  "media": [
+    {
+      "type": "documentary",
+      "title": "DNA: The Secret of Life",
+      "url": "https://www.pbs.org/wgbh/nova/transcripts/2809dna.html"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "title": "Rosalind Franklin Society",
+      "url": "https://rosalindfranklinsociety.org/"
+    }
+  ],
+  "mentorship": "Inspired women in science through her dedication to research and the importance of proper scientific attribution.",
+  "fun_fact": "Rosalind Franklin's famous 'Photo 51' of DNA was shown to Watson and Crick without her permission, leading to their discovery of the double helix structure.",
+  "career_path": {
+    "first_job": "Research chemist at British Coal Utilization Research Association",
+    "career_highlights": [
+      "Research on coal structure in Paris",
+      "DNA structure research at King's College London",
+      "Virus structure research at Birkbeck College"
+    ],
+    "advice_for_students": "Focus on the quality of your research and don't let others take credit for your work. Science should be collaborative and properly attributed."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Rosalind Franklin: The Dark Lady of DNA by Brenda Maddox",
+      "The Double Helix by James Watson"
+    ],
+    "websites": [
+      "rosalindfranklinsociety.org",
+      "dnalc.org",
+      "nature.com"
+    ],
+    "programs": [
+      "Women in Chemistry programs",
+      "Crystallography workshops",
+      "DNA and genetics programs"
+    ],
+    "advice": "Learn to advocate for yourself and your research. Proper attribution is crucial in science."
+  },
+  "challenges": {
+    "academic": [
+      "Gender discrimination in chemistry and physics",
+      "Being excluded from important research discussions"
+    ],
+    "professional": [
+      "Work shared without permission",
+      "Lack of recognition for contributions"
+    ],
+    "personal": [
+      "Battling ovarian cancer",
+      "Navigating male-dominated scientific environment"
+    ],
+    "how_overcame": "Focused on excellence in her research and maintained high scientific standards despite obstacles"
+  },
+  "education_details": {
+    "high_school": "St Paul's Girls' School, London",
+    "college_major": "Natural Sciences at Cambridge",
+    "graduate_school": "PhD in Physical Chemistry from Cambridge",
+    "key_courses": [
+      "Chemistry",
+      "Physics",
+      "Mathematics",
+      "Crystallography"
+    ],
+    "study_tips": "Build strong foundations in both chemistry and physics. Attention to detail is crucial in experimental science."
+  },
+  "modern_impact": {
+    "current_applications": "Her crystallography techniques are used in drug discovery and structural biology",
+    "companies_using_her_work": [
+      "Pharmaceutical companies",
+      "Research institutions",
+      "Biotechnology companies"
+    ],
+    "future_implications": "Her work continues to influence structural biology and the importance of proper scientific attribution"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Chemistry and physics",
+      "Scientific research",
+      "Travel and hiking"
+    ],
+    "family_background": "Born to a prominent Jewish family in London",
+    "hobbies": [
+      "Hiking and mountaineering",
+      "Travel",
+      "Scientific research"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Intelligent",
+      "Independent",
+      "Detail-oriented"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "British Jewish heritage",
+    "cultural_influences": [
+      "British academic tradition",
+      "Jewish intellectual culture",
+      "Post-war scientific community"
+    ],
+    "cultural_challenges": [
+      "Gender roles in 1940s-1950s Britain",
+      "Jewish identity in post-war Europe",
+      "Being a woman in male-dominated science"
+    ],
+    "cultural_contributions": "Pioneered women's roles in structural biology and highlighted the importance of proper scientific attribution"
+  },
+  "verified": true
+}

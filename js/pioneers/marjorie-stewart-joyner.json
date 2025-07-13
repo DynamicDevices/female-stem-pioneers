@@ -1,0 +1,180 @@
+{
+  "name": "Marjorie Stewart Joyner",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "1896",
+  "deathDate": "1994",
+  "country": "United States",
+  "fields": [
+    "Invention",
+    "Beauty Technology"
+  ],
+  "roles": [
+    "Inventor",
+    "Entrepreneur"
+  ],
+  "quote": "If I've set an example for other people—not just black people, not just poor people, not just women—I want it to be that you shouldn't be limited in what you try to do.",
+  "summary": "Inventor of the permanent wave machine for hair and a leader in beauty technology.",
+  "shortDescription": "Marjorie Stewart Joyner invented the permanent wave machine, making it easier to style hair. She was a trailblazer in the beauty industry and a mentor to many African American women entrepreneurs.",
+  "detailed_description": {
+    "early_life": "Born in 1896 in Virginia, Marjorie Stewart Joyner showed an early interest in beauty and helping others. She moved to Chicago and became involved in the beauty industry, working with Madam C.J. Walker.",
+    "stem_journey": "Marjorie became a beauty school instructor and worked with Madam C.J. Walker's company. She used her knowledge of hair styling and engineering to invent the permanent wave machine.",
+    "challenges": "As an African American woman in the early 1900s, Marjorie faced significant racial and gender barriers. She had to overcome discrimination in both the beauty industry and invention world.",
+    "achievements": "Marjorie invented the permanent wave machine and became a leader in beauty technology. She trained thousands of African American women in beauty techniques and entrepreneurship.",
+    "legacy": "Marjorie's work revolutionized hair styling and opened doors for African American women in business and invention. She inspired generations of women entrepreneurs."
+  },
+  "achievements": [
+    "Invented permanent wave machine",
+    "Trained thousands of African American women in beauty",
+    "Pioneered beauty technology innovation",
+    "Mentored women entrepreneurs"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "Beauty school training manuals",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Beauty School Training",
+      "field": "Cosmetology",
+      "institution": "Various beauty schools"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1896,
+      "event": "Born in Virginia"
+    },
+    {
+      "year": 1916,
+      "event": "Moved to Chicago"
+    },
+    {
+      "year": 1928,
+      "event": "Invented permanent wave machine"
+    },
+    {
+      "year": 1945,
+      "event": "Founded United Beauty School Owners and Teachers Association"
+    },
+    {
+      "year": 1994,
+      "event": "Passed away, leaving legacy of innovation and mentorship"
+    }
+  ],
+  "barriers": [
+    "Faced racial and gender discrimination in early 1900s",
+    "Overcame barriers as African American woman inventor"
+  ],
+  "impact": "Revolutionized hair styling technology and empowered African American women entrepreneurs.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Marjorie Stewart Joyner: Beauty Technology Pioneer",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "references": [
+    {
+      "title": "Smithsonian Lemelson Center: Marjorie Stewart Joyner",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "mentorship": "Trained thousands of African American women in beauty techniques and entrepreneurship.",
+  "fun_fact": "Marjorie's permanent wave machine was inspired by her desire to help African American women style their hair more easily.",
+  "career_path": {
+    "first_job": "Beauty school instructor",
+    "career_highlights": [
+      "Invented revolutionary beauty technology",
+      "Trained thousands of women",
+      "Founded beauty school association"
+    ],
+    "advice_for_students": "Don't let anyone limit what you can achieve. Use your skills to help others and build community."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+      "Women Inventors: Hidden in History"
+    ],
+    "websites": [
+      "blackinventors.org",
+      "womeninventors.org",
+      "beautyindustry.org"
+    ],
+    "programs": [
+      "Beauty school programs",
+      "Women entrepreneurship programs",
+      "African American history studies"
+    ],
+    "advice": "Learn about beauty and business, but also study engineering and invention. The best innovations combine different skills."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal education opportunities for African American women"
+    ],
+    "professional": [
+      "Facing racial and gender discrimination",
+      "Breaking into male-dominated invention world"
+    ],
+    "personal": [
+      "Overcoming societal barriers to success"
+    ],
+    "how_overcame": "Used determination and community support to build successful career and help others"
+  },
+  "education_details": {
+    "high_school": "Limited formal education due to racial barriers",
+    "college_major": "Self-taught in beauty and business",
+    "key_courses": [
+      "Cosmetology",
+      "Business",
+      "Engineering",
+      "Teaching"
+    ],
+    "study_tips": "Combine practical skills with business knowledge and community building"
+  },
+  "modern_impact": {
+    "current_applications": "Her permanent wave technology influenced modern hair styling",
+    "companies_using_her_work": [
+      "Beauty industry companies",
+      "Hair styling salons",
+      "African American beauty businesses"
+    ],
+    "future_implications": "Her example continues to inspire African American women entrepreneurs and inventors"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Beauty",
+      "Helping others",
+      "Business",
+      "Teaching"
+    ],
+    "family_background": "Working-class African American family",
+    "hobbies": [
+      "Teaching beauty techniques",
+      "Mentoring others",
+      "Community building"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Generous",
+      "Innovative",
+      "Mentor"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "African American",
+    "cultural_influences": [
+      "African American beauty traditions",
+      "Chicago's African American community",
+      "Madam C.J. Walker's business empire"
+    ],
+    "cultural_challenges": [
+      "Racial discrimination in early 1900s",
+      "Gender barriers in business and invention"
+    ],
+    "cultural_contributions": "Pioneered African American women's participation in beauty technology and entrepreneurship"
+  },
+  "verified": true
+}

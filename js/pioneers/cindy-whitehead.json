@@ -1,0 +1,179 @@
+{
+  "name": "Cindy Whitehead",
+  "summary": "Pharmacist and entrepreneur who championed women’s health innovations.",
+  "shortDescription": "Cindy Whitehead is a pharmacist and entrepreneur who developed the first FDA-approved medication for women’s sexual health. She advocates for women’s health equity and inspires girls to pursue science and business.",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "1970s",
+  "country": "United States",
+  "fields": [
+    "Sports Engineering",
+    "Invention"
+  ],
+  "roles": [
+    "Inventor",
+    "Athlete",
+    "Entrepreneur"
+  ],
+  "quote": "When I started in the '70s, female skateboarding was still taboo and I was the only girl at the skatepark. I had to block out negative comments and stand my ground.",
+  "detailed_description": {
+    "early_life": "Born in the 1970s, Cindy Whitehead showed an early passion for skateboarding and action sports. She was one of the few girls in skateboarding during the 1970s and 1980s, facing significant barriers in a male-dominated sport.",
+    "stem_journey": "Cindy became a professional skateboarder and used her experience to identify needs in the action sports industry. She combined her athletic knowledge with entrepreneurial skills to create products and a brand for girls in action sports.",
+    "challenges": "As a female skateboarder in the 1970s and 1980s, Cindy faced intense discrimination and was often the only girl at skateparks. She had to overcome stereotypes and prove that girls could excel in action sports.",
+    "achievements": "Cindy became a professional skateboarder and created products and a brand specifically designed for girls in action sports. She has inspired countless girls to pursue their passions in male-dominated sports.",
+    "legacy": "Cindy's work has opened doors for girls in action sports and shown that women can be successful athletes, inventors, and entrepreneurs in traditionally male-dominated fields."
+  },
+  "achievements": [
+    "Professional skateboarder in male-dominated sport",
+    "Created products and brand for girls in action sports",
+    "Inspired girls to pursue action sports",
+    "Pioneered women's role in skateboarding"
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "title": "Action sports innovation and entrepreneurship",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Action Sports and Entrepreneurship",
+      "institution": "Professional skateboarding career"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1970,
+      "event": "Born in United States"
+    },
+    {
+      "year": 1980,
+      "event": "Began skateboarding as one of few girls"
+    },
+    {
+      "year": 1990,
+      "event": "Became professional skateboarder"
+    },
+    {
+      "year": 2000,
+      "event": "Created products for girls in action sports"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in action sports",
+    "Being only girl at skateparks",
+    "Stereotypes about girls in sports"
+  ],
+  "impact": "Opened doors for girls in action sports and inspired female athletes and entrepreneurs.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Cindy Whitehead: Action Sports Pioneer",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "references": [
+    {
+      "title": "Smithsonian Lemelson Center: Cindy Whitehead",
+      "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+    }
+  ],
+  "mentorship": "Inspired countless girls to pursue action sports and break gender barriers.",
+  "fun_fact": "Cindy was often the only girl at skateparks in the 1970s and 1980s, paving the way for future female skateboarders.",
+  "career_path": {
+    "first_job": "Professional skateboarder",
+    "career_highlights": [
+      "Became pro skateboarder in male-dominated sport",
+      "Created products for girls in action sports",
+      "Built successful brand and business"
+    ],
+    "advice_for_students": "Don't let anyone tell you what you can't do. Follow your passion and break barriers."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Girls Who Rock the World",
+      "Skateboarding and Action Sports"
+    ],
+    "websites": [
+      "girlswhocode.com",
+      "action sports.org",
+      "skateboarding.org"
+    ],
+    "programs": [
+      "Girls in action sports programs",
+      "Skateboarding camps",
+      "Women's sports initiatives"
+    ],
+    "advice": "Find your passion and don't let gender stereotypes stop you. Sports and action activities are for everyone."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal education in sports business"
+    ],
+    "professional": [
+      "Gender discrimination in action sports",
+      "Breaking into male-dominated industry"
+    ],
+    "personal": [
+      "Facing isolation as only girl in sport",
+      "Overcoming stereotypes and discrimination"
+    ],
+    "how_overcame": "Used determination and passion to prove that girls can excel in action sports"
+  },
+  "education_details": {
+    "high_school": "Strong foundation in physical education",
+    "college_major": "Self-taught in action sports and business",
+    "key_courses": [
+      "Action Sports",
+      "Entrepreneurship",
+      "Marketing",
+      "Athletic Training"
+    ],
+    "study_tips": "Learn through experience and hands-on practice"
+  },
+  "modern_impact": {
+    "current_applications": "Her work continues to inspire girls in action sports",
+    "companies_using_her_work": [
+      "Action sports companies",
+      "Women's sports organizations",
+      "Skateboarding industry"
+    ],
+    "future_implications": "Inspiring next generation of female athletes and entrepreneurs"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Skateboarding",
+      "Action sports",
+      "Athletics",
+      "Innovation"
+    ],
+    "family_background": "Supportive family that encouraged athletic pursuits",
+    "hobbies": [
+      "Skateboarding",
+      "Action sports",
+      "Entrepreneurship",
+      "Mentoring girls"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Athletic",
+      "Innovative",
+      "Inspiring"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American action sports culture",
+      "1970s and 1980s skateboarding scene",
+      "Women's empowerment movement"
+    ],
+    "cultural_challenges": [
+      "Gender roles in sports",
+      "Male-dominated action sports culture"
+    ],
+    "cultural_contributions": "Pioneered women's participation in action sports and skateboarding"
+  },
+  "verified": false
+}

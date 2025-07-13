@@ -1,0 +1,180 @@
+{
+  "name": "Mary Cartwright",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "1900",
+  "deathDate": "1998",
+  "country": "United Kingdom",
+  "fields": [
+    "Mathematics"
+  ],
+  "roles": [
+    "Mathematician"
+  ],
+  "quote": "Mathematics is a creative art.",
+  "summary": "Pioneering mathematician in chaos theory and nonlinear differential equations.",
+  "shortDescription": "Mary Cartwright was a pioneering mathematician in chaos theory and nonlinear differential equations. She made major contributions to chaos theory and was the first female president of the London Mathematical Society. Her work on differential equations helped establish the mathematical foundation for understanding complex systems and chaotic behavior.",
+  "detailed_description": {
+    "early_life": "Born in Northamptonshire, England, Mary showed exceptional mathematical talent from an early age. She studied at Oxford University and later earned her doctorate, developing a passion for analysis and differential equations.",
+    "stem_journey": "Mary became a leading mathematician in analysis and differential equations. She made pioneering contributions to chaos theory and nonlinear dynamics, working on problems that would later become fundamental to understanding complex systems.",
+    "challenges": "Faced gender discrimination in mathematics and had to overcome barriers as a woman in a male-dominated field. She worked during a time when few women pursued advanced mathematics.",
+    "achievements": "Made major contributions to chaos theory and nonlinear differential equations, became the first female president of the London Mathematical Society, and pioneered research in complex dynamical systems.",
+    "legacy": "Mary opened doors for women in mathematics and made foundational contributions to chaos theory. Her work on nonlinear dynamics continues to influence modern mathematics and science."
+  },
+  "achievements": [
+    "Major contributions to chaos theory",
+    "First female president of the London Mathematical Society"
+  ],
+  "awards": [
+    "First female president of the London Mathematical Society",
+    "Sylvester Medal from the Royal Society",
+    "De Morgan Medal from the London Mathematical Society"
+  ],
+  "publications": [
+    {
+      "title": "Nonlinear Differential Equations and Chaos Theory",
+      "url": "https://www.lms.ac.uk/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "DPhil",
+      "field": "Mathematics",
+      "institution": "University of Oxford"
+    },
+    {
+      "degree": "BA",
+      "field": "Mathematics",
+      "institution": "University of Oxford"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1900,
+      "event": "Born in Northamptonshire, England"
+    },
+    {
+      "year": 1923,
+      "event": "Graduated from Oxford University"
+    },
+    {
+      "year": 1930,
+      "event": "Earned doctorate from Oxford"
+    },
+    {
+      "year": 1947,
+      "event": "Became first female president of London Mathematical Society"
+    },
+    {
+      "year": 1998,
+      "event": "Died in Cambridge"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in mathematics",
+    "Limited opportunities for women in academia",
+    "Working in male-dominated field"
+  ],
+  "impact": "Pioneered chaos theory and opened doors for women in mathematics.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Mary Cartwright: Pioneer of Chaos Theory",
+      "url": "https://www.britannica.com/biography/Mary-Cartwright"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mary_Cartwright"
+    }
+  ],
+  "mentorship": "Inspired future generations of women in mathematics through her groundbreaking research and leadership.",
+  "fun_fact": "Mary Cartwright was the first woman to be president of the London Mathematical Society, a position she held from 1947 to 1949.",
+  "career_path": {
+    "first_job": "Mathematics lecturer",
+    "career_highlights": [
+      "Pioneer in chaos theory",
+      "First female president of London Mathematical Society",
+      "Professor at Cambridge University"
+    ],
+    "advice_for_students": "Mathematics is a creative art. Follow your curiosity and don't be afraid to explore new mathematical territories."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Women in Mathematics: The Addition of Difference",
+      "Chaos Theory and Nonlinear Dynamics"
+    ],
+    "websites": [
+      "mathworld.wolfram.com",
+      "womeninmath.org",
+      "lms.ac.uk"
+    ],
+    "programs": [
+      "Mathematics summer camps",
+      "Women in Mathematics programs"
+    ],
+    "advice": "Study the fundamentals of analysis and differential equations. Complex systems often reveal beautiful mathematical patterns."
+  },
+  "challenges": {
+    "academic": [
+      "Gender barriers in mathematics education"
+    ],
+    "professional": [
+      "Working in male-dominated mathematical community"
+    ],
+    "personal": [
+      "Limited recognition for women's contributions"
+    ],
+    "how_overcame": "Focused on excellence in research and demonstrated the value of women's contributions to mathematics"
+  },
+  "education_details": {
+    "high_school": "Schools in England",
+    "college_major": "Mathematics",
+    "key_courses": [
+      "Analysis",
+      "Differential Equations",
+      "Complex Variables"
+    ],
+    "study_tips": "Learn to see the beauty in mathematical patterns and connections between different areas of mathematics"
+  },
+  "modern_impact": {
+    "current_applications": "Her work on chaos theory influences modern dynamical systems research",
+    "companies_using_her_work": [
+      "Research institutions worldwide",
+      "Universities and mathematical societies"
+    ],
+    "future_implications": "Her contributions to nonlinear dynamics continue to influence modern mathematics and science"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Mathematics",
+      "Analysis",
+      "Problem-solving"
+    ],
+    "family_background": "English middle-class family",
+    "hobbies": [
+      "Mathematical research",
+      "Teaching and mentoring students"
+    ],
+    "personality_traits": [
+      "Analytical",
+      "Creative",
+      "Determined",
+      "Pioneering"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "British",
+    "cultural_influences": [
+      "British mathematical tradition",
+      "Oxford academic culture",
+      "Early 20th-century mathematics"
+    ],
+    "cultural_challenges": [
+      "Gender roles in early 20th-century Britain",
+      "Male dominance in mathematics"
+    ],
+    "cultural_contributions": "Demonstrated that women could excel in advanced mathematics and contribute to foundational mathematical research"
+  },
+  "verified": true
+}

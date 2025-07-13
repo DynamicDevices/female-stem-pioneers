@@ -1,0 +1,183 @@
+{
+  "name": "Fabiola Gianotti",
+  "photo": "./images/fabiola-gianotti.jpg",
+  "birthDate": "1960",
+  "country": "Italy",
+  "fields": [
+    "Particle Physics",
+    "Physics"
+  ],
+  "roles": [
+    "Physicist",
+    "Research Director"
+  ],
+  "quote": "Science is a universal language that transcends borders and cultures.",
+  "summary": "First woman to lead CERN, the world's largest particle physics laboratory, and discoverer of the Higgs boson.",
+  "shortDescription": "Fabiola Gianotti is the first woman to lead CERN, the world's largest particle physics laboratory. She was the spokesperson for the ATLAS experiment that discovered the Higgs boson, one of the most important discoveries in physics. Fabiola's leadership at CERN shows that women can lead the world's most advanced scientific collaborations and make groundbreaking discoveries.",
+  "achievements": [
+    "First woman Director-General of CERN",
+    "Led ATLAS experiment that discovered Higgs boson",
+    "Pioneered particle physics research",
+    "Inspired women in physics worldwide"
+  ],
+  "awards": [
+    "Enrico Fermi Prize (2013)",
+    "Breakthrough Prize in Fundamental Physics (2013)",
+    "Order of Merit of the Italian Republic"
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Particle Physics",
+      "institution": "University of Milan"
+    }
+  ],
+  "detailed_description": {
+    "early_life": "Born in 1960 in Milan, Italy, Fabiola showed an early interest in science and music. She excelled in school and was particularly drawn to physics and mathematics. Her parents supported her education, and she developed a passion for understanding the fundamental laws of nature.",
+    "stem_journey": "Fabiola earned her PhD in particle physics from the University of Milan in 1989. She joined CERN in 1987 and began working on particle physics experiments. Her expertise in experimental physics and leadership skills led her to become the spokesperson for the ATLAS experiment.",
+    "challenges": "As a woman in physics leadership, Fabiola faced the challenge of being taken seriously in a male-dominated field. She also had to balance her scientific work with administrative responsibilities as she rose to leadership positions.",
+    "achievements": "Fabiola led the ATLAS experiment that discovered the Higgs boson in 2012, one of the most important discoveries in physics. She became the first woman Director-General of CERN in 2016, leading the world's largest particle physics laboratory.",
+    "legacy": "Fabiola's leadership at CERN and her role in the Higgs boson discovery have made her a role model for women in physics. She has shown that women can lead the world's most advanced scientific collaborations."
+  },
+  "publications": [
+    {
+      "title": "Higgs boson discovery papers",
+      "url": "https://en.wikipedia.org/wiki/Fabiola_Gianotti#Career"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1987,
+      "event": "Joined CERN as research physicist"
+    },
+    {
+      "year": 1989,
+      "event": "Earned PhD in particle physics"
+    },
+    {
+      "year": 2009,
+      "event": "Became ATLAS experiment spokesperson"
+    },
+    {
+      "year": 2012,
+      "event": "Led discovery of Higgs boson"
+    },
+    {
+      "year": 2016,
+      "event": "Became CERN Director-General"
+    }
+  ],
+  "barriers": [
+    "Gender barriers in physics leadership",
+    "Balancing scientific and administrative roles"
+  ],
+  "impact": "Led the discovery of the Higgs boson and became a role model for women in physics leadership.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Fabiola Gianotti: The First Woman to Lead CERN",
+      "url": "https://home.cern/news/news/cern/fabiola-gianotti-elected-cern-director-general"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fabiola_Gianotti"
+    }
+  ],
+  "mentorship": "Inspired women in physics through her leadership and achievements, showing that women can lead major scientific institutions.",
+  "fun_fact": "Fabiola Gianotti is also a trained classical pianist and sometimes plays piano for CERN events.",
+  "career_path": {
+    "first_job": "Research physicist at CERN",
+    "career_highlights": [
+      "Joined CERN in 1987",
+      "Led ATLAS experiment from 2009-2013",
+      "Became CERN Director-General in 2016"
+    ],
+    "advice_for_students": "Follow your passion for understanding how the universe works. Physics is for everyone who is curious."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "The Particle at the End of the Universe",
+      "Higgs: The Invention and Discovery of the 'God Particle'"
+    ],
+    "websites": [
+      "cern.ch",
+      "particleadventure.org",
+      "physics.org"
+    ],
+    "programs": [
+      "CERN summer student program",
+      "Physics research internships",
+      "Particle physics workshops"
+    ],
+    "advice": "Stay curious about how the universe works. Physics is about asking the right questions."
+  },
+  "challenges": {
+    "academic": [
+      "Complex mathematical concepts in particle physics"
+    ],
+    "professional": [
+      "Gender barriers in physics leadership",
+      "Managing large international collaborations"
+    ],
+    "personal": [
+      "Balancing scientific and administrative work"
+    ],
+    "how_overcame": "Focused on excellence in research, developed leadership skills, and built strong collaborations"
+  },
+  "education_details": {
+    "high_school": "Classical high school in Milan",
+    "college_major": "Physics",
+    "key_courses": [
+      "Particle Physics",
+      "Quantum Mechanics",
+      "Statistical Physics",
+      "Experimental Physics"
+    ],
+    "study_tips": "Understand the fundamental principles and their experimental verification"
+  },
+  "modern_impact": {
+    "current_applications": "Her work on Higgs boson discovery advances our understanding of fundamental particles",
+    "companies_using_her_work": [
+      "CERN",
+      "Particle physics laboratories worldwide",
+      "Theoretical physics research"
+    ],
+    "future_implications": "Advancing our understanding of the universe's fundamental building blocks"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Physics",
+      "Mathematics",
+      "Classical music",
+      "Piano"
+    ],
+    "family_background": "Italian family in Milan",
+    "hobbies": [
+      "Playing classical piano",
+      "Reading physics papers",
+      "Traveling for scientific conferences"
+    ],
+    "personality_traits": [
+      "Analytical",
+      "Determined",
+      "Collaborative",
+      "Inspiring"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Italian",
+    "cultural_influences": [
+      "Italian scientific tradition",
+      "European physics community",
+      "Classical music culture"
+    ],
+    "cultural_challenges": [
+      "Gender roles in Italian society",
+      "International collaboration barriers"
+    ],
+    "cultural_contributions": "Represented Italian excellence in international physics leadership"
+  },
+  "verified": true
+}

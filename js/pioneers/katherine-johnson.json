@@ -1,0 +1,189 @@
+{
+  "name": "Katherine Johnson",
+  "photo": "./images/katherine-johnson.jpg",
+  "birthDate": "1918",
+  "deathDate": "2020",
+  "country": "United States",
+  "fields": [
+    "Mathematics",
+    "Physics"
+  ],
+  "roles": [
+    "Mathematician",
+    "Computer"
+  ],
+  "quote": "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed... anything that could be counted, I did.",
+  "summary": "NASA mathematician whose calculations were critical to the success of early space missions.",
+  "shortDescription": "Katherine Johnson was a brilliant mathematician who calculated the trajectories for NASA's first space missions, including the Apollo 11 moon landing. She worked at NASA when computers were people, not machines, and her precise calculations helped ensure the safety of astronauts. Katherine broke barriers as a Black woman in a male-dominated field and inspired the movie 'Hidden Figures.' Her work literally launched humanity into space.",
+  "detailed_description": {
+    "early_life": "Born in White Sulphur Springs, West Virginia, Katherine showed exceptional mathematical ability from an early age. She graduated from high school at 14 and college at 18, displaying extraordinary talent in mathematics.",
+    "stem_journey": "Katherine worked as a teacher before joining NASA's predecessor NACA in 1953. She calculated trajectories for space missions when computers were people, not machines, and her work was trusted by astronauts.",
+    "challenges": "Faced both racial and gender discrimination as a Black woman in a male-dominated field. She had to prove herself repeatedly and was often excluded from important meetings.",
+    "achievements": "Calculated trajectories for Apollo 11 moon landing, verified computer calculations for John Glenn's flight, and worked on the Space Shuttle program. Her calculations were critical to space mission success.",
+    "legacy": "Inspired millions through the movie 'Hidden Figures' and showed that women of color can excel in mathematics and science. Her work literally launched humanity into space."
+  },
+  "achievements": [
+    "Calculated trajectories for Apollo 11 moon landing",
+    "Verified computer calculations for John Glenn's flight",
+    "Worked on Space Shuttle program"
+  ],
+  "awards": [
+    "Presidential Medal of Freedom (2015)",
+    "Congressional Gold Medal (2019)"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "field": "Mathematics",
+      "institution": "West Virginia State University"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1932,
+      "event": "Graduated from high school at age 14"
+    },
+    {
+      "year": 1936,
+      "event": "Graduated from college at age 18"
+    },
+    {
+      "year": 1953,
+      "event": "Joined NASA's predecessor NACA"
+    },
+    {
+      "year": 1961,
+      "event": "Calculated trajectory for Alan Shepard's flight"
+    },
+    {
+      "year": 1962,
+      "event": "Verified calculations for John Glenn's orbital flight"
+    },
+    {
+      "year": 1969,
+      "event": "Calculated trajectories for Apollo 11 moon landing"
+    }
+  ],
+  "barriers": [
+    "Racial discrimination in STEM fields",
+    "Gender discrimination in mathematics",
+    "Segregation in workplace and education"
+  ],
+  "impact": "Her calculations were critical to the success of early space missions and inspired millions.",
+  "media": [
+    {
+      "type": "movie",
+      "title": "Hidden Figures",
+      "url": "https://www.imdb.com/title/tt4846340/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Katherine_Johnson"
+    },
+    {
+      "title": "NASA Biography",
+      "url": "https://www.nasa.gov/content/katherine-johnson-biography"
+    }
+  ],
+  "mentorship": "Inspired countless women and girls, especially African American students, to pursue careers in mathematics and science.",
+  "fun_fact": "Katherine graduated from high school at age 14 and college at age 18.",
+  "career_path": {
+    "first_job": "Teacher in West Virginia",
+    "career_highlights": [
+      "Joined NASA's predecessor NACA in 1953",
+      "Calculated trajectory for Alan Shepard's flight",
+      "Verified calculations for John Glenn's orbital flight"
+    ],
+    "advice_for_students": "Learn everything you can, then do what you want to do. Math is everywhere in the world around us."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Hidden Figures by Margot Lee Shetterly",
+      "Reaching for the Moon by Katherine Johnson",
+      "My Remarkable Journey by Katherine Johnson"
+    ],
+    "websites": [
+      "nasa.gov",
+      "mathcounts.org",
+      "blackgirlscode.org"
+    ],
+    "programs": [
+      "Math competitions",
+      "African American STEM programs",
+      "Women in mathematics mentorship"
+    ],
+    "advice": "Don't let anyone tell you what you can't do. Math is a language that opens doors to understanding the universe."
+  },
+  "challenges": {
+    "academic": [
+      "Limited educational opportunities for African American students",
+      "Being the only woman in mathematics classes"
+    ],
+    "professional": [
+      "Racial and gender discrimination at NASA",
+      "Segregation in workplace facilities"
+    ],
+    "personal": [
+      "Balancing family and career demands",
+      "Proving herself repeatedly in male-dominated field"
+    ],
+    "how_overcame": "Relied on her exceptional mathematical skills and determination. She focused on excellence and let her work speak for itself"
+  },
+  "education_details": {
+    "high_school": "Graduated at age 14 from high school",
+    "college_major": "Mathematics at West Virginia State University",
+    "graduate_school": "Self-taught advanced mathematics",
+    "key_courses": [
+      "Advanced Mathematics",
+      "Physics",
+      "Calculus",
+      "Analytical Geometry"
+    ],
+    "study_tips": "Practice mathematics daily and see it as a tool for understanding the world around you"
+  },
+  "modern_impact": {
+    "current_applications": "Her mathematical methods are still used in aerospace calculations and orbital mechanics",
+    "companies_using_her_work": [
+      "NASA and space agencies worldwide",
+      "Aerospace companies",
+      "Universities teaching orbital mechanics"
+    ],
+    "future_implications": "Her legacy continues to inspire diversity in mathematics and aerospace engineering"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Mathematics and counting",
+      "Understanding how things work",
+      "Education and learning"
+    ],
+    "family_background": "Encouraged by parents to pursue education despite segregation",
+    "hobbies": [
+      "Mathematics",
+      "Teaching",
+      "Reading"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Intelligent",
+      "Persistent",
+      "Humble"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "African American heritage",
+    "cultural_influences": [
+      "African American educational values",
+      "Post-war American space program",
+      "Civil Rights Movement era"
+    ],
+    "cultural_challenges": [
+      "Racial segregation in education and workplace",
+      "Limited opportunities for African American women",
+      "Gender barriers in mathematics"
+    ],
+    "cultural_contributions": "Pioneered African American women's roles in mathematics and aerospace, inspiring future generations"
+  },
+  "verified": true
+}

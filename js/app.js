@@ -1,6 +1,9 @@
 // Female STEM Pioneers - Interactive App
 // Handles search, filtering, sorting, and display of pioneer cards
 
+// DEBUG: Check if the pioneers loader is available
+console.log('window.pioneersLoader:', window.pioneersLoader);
+
 // Add this function at the top-level (global scope), before the PioneersApp class
 defineSetFallbackIcon();
 
@@ -33,27 +36,83 @@ function defineSetFallbackIcon() {
 
 class PioneersApp {
   constructor() {
-    this.pioneers = window.pioneers || [];
-    this.filteredPioneers = [...this.pioneers];
+    this.pioneers = [];
+    this.filteredPioneers = [];
     this.searchTerm = "";
     this.sortBy = "name";
     this.fieldFilter = "";
+    this.loaded = false;
 
-    console.log(
-      "PioneersApp initialized with",
-      this.pioneers.length,
-      "pioneers",
-    );
-    console.log("Window pioneers:", window.pioneers ? window.pioneers.length : "undefined");
+    console.log("PioneersApp initialized - loading pioneers...");
 
     this.init();
   }
 
-  init() {
+  async init() {
     this.setupEventListeners();
     this.setupModal();
-    this.updateStats();
-    this.renderPioneers();
+    
+    // Load pioneers asynchronously
+    try {
+      await this.loadPioneers();
+      this.updateStats();
+      this.renderPioneers();
+    } catch (error) {
+      console.error('Failed to load pioneers:', error);
+      this.showErrorMessage('Failed to load pioneer data. Please refresh the page.');
+    }
+  }
+
+  async loadPioneers() {
+    if (this.loaded) {
+      return;
+    }
+
+    // Show loading indicator
+    this.showLoadingIndicator();
+
+    try {
+      // Use the pioneers loader if available, otherwise fall back to window.pioneers
+      if (window.pioneersLoader) {
+        this.pioneers = await window.pioneersLoader.getAllPioneers();
+      } else if (window.pioneers) {
+        this.pioneers = window.pioneers;
+      } else {
+        throw new Error('No pioneers data available');
+      }
+
+      this.filteredPioneers = [...this.pioneers];
+      this.loaded = true;
+      
+      console.log(`Loaded ${this.pioneers.length} pioneers`);
+      
+      // Hide loading indicator
+      this.hideLoadingIndicator();
+    } catch (error) {
+      this.hideLoadingIndicator();
+      throw error;
+    }
+  }
+
+  showLoadingIndicator() {
+    const container = document.getElementById('pioneersContainer');
+    if (container) {
+      container.innerHTML = '<div class="loading">Loading pioneers...</div>';
+    }
+  }
+
+  hideLoadingIndicator() {
+    const loadingElement = document.querySelector('.loading');
+    if (loadingElement) {
+      loadingElement.remove();
+    }
+  }
+
+  showErrorMessage(message) {
+    const container = document.getElementById('pioneersContainer');
+    if (container) {
+      container.innerHTML = `<div class="error-message">${message}</div>`;
+    }
   }
 
   setupEventListeners() {

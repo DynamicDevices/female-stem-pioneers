@@ -1,0 +1,191 @@
+{
+  "name": "Rita Levi-Montalcini",
+  "photo": "./images/rita-levi-montalcini.jpg",
+  "birthDate": "1909",
+  "deathDate": "2012",
+  "country": "Italy",
+  "fields": [
+    "Neuroscience",
+    "Biology"
+  ],
+  "roles": [
+    "Neuroscientist",
+    "Nobel Laureate"
+  ],
+  "quote": "Above all, don't fear difficult moments. The best comes from them.",
+  "summary": "Nobel Prize-winning neuroscientist who discovered nerve growth factor and lived to 103, continuing research into her 100s.",
+  "shortDescription": "Rita Levi-Montalcini was a Nobel Prize-winning neuroscientist who discovered nerve growth factor, a protein that helps nerve cells grow and survive. Despite facing discrimination as a Jewish woman in fascist Italy, she continued her research in secret and went on to win the Nobel Prize in Physiology or Medicine. Rita lived to 103 years old and continued doing research well into her 100s, showing that passion for science has no age limit.",
+  "detailed_description": {
+    "early_life": "Born in Turin, Italy in 1909, Rita was inspired by her family's intellectual background. Her father encouraged her education despite societal expectations for women at the time.",
+    "stem_journey": "Rita studied medicine at the University of Turin and began research in neurology. During World War II, she was forced to work in secret due to anti-Jewish laws, setting up a laboratory in her bedroom.",
+    "challenges": "Faced discrimination as a Jewish woman in fascist Italy, had to work in secret during WWII, and overcame gender barriers in science throughout her career.",
+    "achievements": "Discovered nerve growth factor (NGF), won the Nobel Prize in Physiology or Medicine in 1986, and continued research into her 100s.",
+    "legacy": "Her discovery of NGF opened new understanding of how nerve cells develop and has led to treatments for neurological disorders."
+  },
+  "achievements": [
+    "Nobel Prize in Physiology or Medicine (1986)",
+    "Discovered nerve growth factor (NGF)",
+    "Continued research into her 100s",
+    "First Nobel laureate to reach 100 years old"
+  ],
+  "awards": [
+    "Nobel Prize in Physiology or Medicine (1986)",
+    "National Medal of Science (1987)",
+    "Golden Plate Award (1987)"
+  ],
+  "publications": [
+    {
+      "title": "In Praise of Imperfection: My Life and Work",
+      "url": "https://www.amazon.com/Praise-Imperfection-Life-Work-Montalcini/dp/0465031017"
+    }
+  ],
+  "education": [
+    {
+      "degree": "MD",
+      "field": "Medicine",
+      "institution": "University of Turin"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1936,
+      "event": "Graduated from University of Turin Medical School"
+    },
+    {
+      "year": 1947,
+      "event": "Joined Washington University in St. Louis"
+    },
+    {
+      "year": 1952,
+      "event": "Discovered nerve growth factor (NGF)"
+    },
+    {
+      "year": 1986,
+      "event": "Won Nobel Prize in Physiology or Medicine"
+    },
+    {
+      "year": 2012,
+      "event": "Died at age 103, still active in research"
+    }
+  ],
+  "barriers": [
+    "Faced anti-Jewish discrimination in fascist Italy",
+    "Gender barriers in science throughout career",
+    "Had to work in secret during WWII"
+  ],
+  "impact": "Her discovery of nerve growth factor revolutionized understanding of neural development and has led to treatments for neurological disorders.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Rita Levi-Montalcini: Nobel Prize-winning neuroscientist",
+      "url": "https://www.nobelprize.org/prizes/medicine/1986/levi-montalcini/facts/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini"
+    },
+    {
+      "title": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/1986/levi-montalcini/facts/"
+    }
+  ],
+  "mentorship": "Inspired generations of women in neuroscience and showed that age is no barrier to scientific discovery.",
+  "fun_fact": "Rita Levi-Montalcini was the first Nobel laureate to reach 100 years old and continued doing research into her 100s.",
+  "career_path": {
+    "first_job": "Research assistant at University of Turin",
+    "career_highlights": [
+      "Discovered nerve growth factor",
+      "Won Nobel Prize in 1986",
+      "Continued research into her 100s"
+    ],
+    "advice_for_students": "Follow your passion for science regardless of obstacles. Age and gender are no barriers to discovery."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "In Praise of Imperfection: My Life and Work by Rita Levi-Montalcini",
+      "Women in Science: 50 Fearless Pioneers Who Changed the World"
+    ],
+    "websites": [
+      "nobelprize.org",
+      "brainfacts.org",
+      "womeninscience.org"
+    ],
+    "programs": [
+      "Neuroscience summer camps",
+      "Women in STEM mentorship programs",
+      "Science competitions"
+    ],
+    "advice": "Don't let anyone tell you what you can't do. Science is for everyone, regardless of age or background."
+  },
+  "challenges": {
+    "academic": [
+      "Limited opportunities for women in science in 1930s Italy"
+    ],
+    "professional": [
+      "Anti-Jewish discrimination during WWII",
+      "Gender barriers in neuroscience"
+    ],
+    "personal": [
+      "Working in secret during wartime",
+      "Overcoming societal expectations"
+    ],
+    "how_overcame": "Used determination and creativity to continue research in secret, focused on her passion for understanding the brain"
+  },
+  "education_details": {
+    "high_school": "Excelled in science and mathematics",
+    "college_major": "Medicine",
+    "graduate_school": "University of Turin Medical School",
+    "key_courses": [
+      "Anatomy",
+      "Physiology",
+      "Neurology",
+      "Research Methods"
+    ],
+    "study_tips": "Connect theoretical knowledge to real-world applications and never stop asking questions"
+  },
+  "modern_impact": {
+    "current_applications": "Nerve growth factor research continues in treating neurological disorders",
+    "companies_using_her_work": [
+      "Pharmaceutical companies",
+      "Research institutions",
+      "Medical schools"
+    ],
+    "future_implications": "Her work continues to inspire research in neural regeneration and brain development"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Biology",
+      "Medicine",
+      "Scientific research",
+      "Understanding the brain"
+    ],
+    "family_background": "Intellectual family that encouraged education",
+    "hobbies": [
+      "Scientific research",
+      "Reading",
+      "Writing"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Curious",
+      "Resilient",
+      "Passionate about science"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Italian Jewish",
+    "cultural_influences": [
+      "Italian scientific tradition",
+      "Jewish intellectual heritage",
+      "European neuroscience community"
+    ],
+    "cultural_challenges": [
+      "Anti-Jewish discrimination in fascist Italy",
+      "Gender barriers in Italian science"
+    ],
+    "cultural_contributions": "Broke barriers for women and Jewish scientists in Italy and internationally"
+  },
+  "verified": true
+}

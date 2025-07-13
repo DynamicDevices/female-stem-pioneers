@@ -1,0 +1,171 @@
+{
+  "name": "Mary Anning",
+  "photo": "./images/mary-anning.jpg",
+  "birthDate": "1799",
+  "deathDate": "1847",
+  "country": "United Kingdom",
+  "fields": [
+    "Paleontology",
+    "Geology"
+  ],
+  "roles": [
+    "Fossil Hunter",
+    "Paleontologist"
+  ],
+  "quote": "I am well known throughout the whole of Europe.",
+  "summary": "Self-taught fossil hunter who discovered the first complete ichthyosaur skeleton and made groundbreaking paleontological discoveries.",
+  "shortDescription": "Mary Anning was a self-taught fossil hunter who discovered the first complete ichthyosaur skeleton and made groundbreaking paleontological discoveries. Despite having no formal education, she became one of the most important fossil hunters of the 19th century. Mary's discoveries helped establish the field of paleontology and proved that women could make significant contributions to science even without formal training.",
+  "achievements": [
+    "Discovered first complete ichthyosaur skeleton",
+    "Found first complete plesiosaur skeleton",
+    "Discovered first pterosaur outside Germany",
+    "Pioneered fossil hunting techniques"
+  ],
+  "awards": [],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Paleontology",
+      "institution": "Lyme Regis beaches"
+    }
+  ],
+  "detailed_description": {
+    "early_life": "Born in 1799 in Lyme Regis, England, Mary grew up in poverty. Her father was a cabinetmaker who collected fossils to sell, and Mary learned fossil hunting from him. At age 11, her father died, leaving the family destitute.",
+    "stem_journey": "Mary began fossil hunting to support her family, selling fossils to tourists and scientists. She taught herself anatomy, geology, and scientific illustration. Despite having no formal education, she became an expert in fossil identification and preparation.",
+    "challenges": "Mary faced extreme poverty and was often excluded from scientific circles because she was a woman and had no formal education. Male scientists often took credit for her discoveries, and she struggled to make a living from her work.",
+    "achievements": "Mary discovered the first complete ichthyosaur skeleton at age 12, the first complete plesiosaur skeleton, and the first pterosaur outside Germany. Her discoveries helped establish the field of paleontology and proved that women could excel in science.",
+    "legacy": "Mary's discoveries revolutionized our understanding of prehistoric life. She proved that women could make significant contributions to science without formal education, inspiring generations of female scientists."
+  },
+  "publications": [
+    {
+      "title": "Fossil discoveries documented in scientific journals",
+      "url": "https://en.wikipedia.org/wiki/Mary_Anning#Scientific_contributions"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1811,
+      "event": "Discovered first complete ichthyosaur skeleton at age 12"
+    },
+    {
+      "year": 1823,
+      "event": "Found first complete plesiosaur skeleton"
+    },
+    {
+      "year": 1828,
+      "event": "Discovered first pterosaur outside Germany"
+    }
+  ],
+  "barriers": [
+    "Poverty and lack of formal education",
+    "Gender discrimination in scientific circles",
+    "Male scientists taking credit for her discoveries"
+  ],
+  "impact": "Revolutionized paleontology and proved women could excel in science without formal education.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Mary Anning: The Fossil Hunter",
+      "url": "https://www.nhm.ac.uk/discover/mary-anning.html"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mary_Anning"
+    }
+  ],
+  "mentorship": "Inspired women to pursue science despite barriers, showing that passion and dedication can overcome lack of formal education.",
+  "fun_fact": "Mary Anning was struck by lightning as a baby but survived, which her family said made her intelligent.",
+  "career_path": {
+    "first_job": "Fossil hunter with her father",
+    "career_highlights": [
+      "Discovered ichthyosaur at age 12",
+      "Found plesiosaur in 1823",
+      "Discovered pterosaur in 1828"
+    ],
+    "advice_for_students": "Follow your curiosity wherever it leads. You don't need formal education to make important discoveries."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "The Fossil Hunter: Dinosaurs, Evolution, and the Woman Whose Discoveries Changed the World",
+      "Remarkable Creatures by Tracy Chevalier"
+    ],
+    "websites": [
+      "naturalhistorymuseum.org.uk",
+      "paleontology.org",
+      "fossilguy.com"
+    ],
+    "programs": [
+      "Paleontology summer camps",
+      "Fossil hunting field trips",
+      "Natural history museum programs"
+    ],
+    "advice": "Start with what you can observe in nature. You don't need expensive equipment to make discoveries."
+  },
+  "challenges": {
+    "academic": [
+      "No formal education in science"
+    ],
+    "professional": [
+      "Poverty and financial struggles",
+      "Exclusion from scientific societies"
+    ],
+    "personal": [
+      "Family poverty after father's death"
+    ],
+    "how_overcame": "Taught herself through observation and practice, persisted despite financial hardship"
+  },
+  "education_details": {
+    "high_school": "No formal education",
+    "college_major": "Self-taught in paleontology and anatomy",
+    "key_courses": [
+      "Fossil identification",
+      "Anatomy",
+      "Geology",
+      "Scientific illustration"
+    ],
+    "study_tips": "Learn through direct observation and hands-on experience"
+  },
+  "modern_impact": {
+    "current_applications": "Her fossil discoveries form the foundation of modern paleontology",
+    "companies_using_her_work": [
+      "Natural history museums worldwide",
+      "Paleontology research institutions"
+    ],
+    "future_implications": "Continues to inspire citizen science and amateur fossil hunting"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Fossil hunting",
+      "Natural history",
+      "Drawing and illustration"
+    ],
+    "family_background": "Working-class family in coastal England",
+    "hobbies": [
+      "Fossil hunting",
+      "Scientific illustration",
+      "Reading scientific papers"
+    ],
+    "personality_traits": [
+      "Curious",
+      "Determined",
+      "Observant",
+      "Resilient"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Working-class English",
+    "cultural_influences": [
+      "Coastal community life",
+      "Victorian era scientific interest",
+      "Working-class self-education movement"
+    ],
+    "cultural_challenges": [
+      "Class barriers to scientific participation",
+      "Gender roles in Victorian society"
+    ],
+    "cultural_contributions": "Proved that working-class women could contribute to science, challenging social barriers"
+  },
+  "verified": true
+}

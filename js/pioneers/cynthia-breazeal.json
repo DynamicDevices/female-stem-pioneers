@@ -1,0 +1,191 @@
+{
+  "name": "Cynthia Breazeal",
+  "photo": "./images/rachel-carson.jpg",
+  "birthDate": "1967",
+  "country": "United States",
+  "fields": [
+    "Robotics"
+  ],
+  "roles": [
+    "Roboticist",
+    "Professor"
+  ],
+  "quote": "Robots will become a part of our everyday lives.",
+  "summary": "Pioneer in social robotics and human-robot interaction.",
+  "shortDescription": "Cynthia Breazeal is a roboticist who created some of the first social robots that can interact with people in friendly, human-like ways. Her work is shaping the future of robotics and artificial intelligence.",
+  "detailed_description": {
+    "early_life": "Born in 1967, Cynthia Breazeal showed an early fascination with robots and artificial intelligence. She was inspired by science fiction and the potential for robots to help people.",
+    "stem_journey": "Cynthia earned her PhD from MIT, where she worked on robotics and artificial intelligence. She became a pioneer in social robotics, creating robots that could interact naturally with humans.",
+    "challenges": "As a woman in robotics and AI, Cynthia faced skepticism about her research in social robotics. Many doubted that robots could have emotional intelligence or social skills.",
+    "achievements": "Cynthia created Kismet, one of the first social robots, and founded Jibo, a social robot company. She has pioneered the field of human-robot interaction and social robotics.",
+    "legacy": "Cynthia's work has revolutionized how we think about robots, showing that they can be social, helpful companions rather than just industrial tools."
+  },
+  "achievements": [
+    "Created Kismet, the first social robot",
+    "Pioneered human-robot interaction research",
+    "Founded Jibo social robot company",
+    "Established social robotics as a field"
+  ],
+  "awards": [
+    "MIT Technology Review Innovator of the Year",
+    "National Science Foundation CAREER Award"
+  ],
+  "publications": [
+    {
+      "title": "Designing Sociable Robots",
+      "url": "https://www.media.mit.edu/people/cynthiab/overview/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Electrical Engineering and Computer Science",
+      "institution": "MIT"
+    },
+    {
+      "degree": "MS",
+      "field": "Electrical Engineering",
+      "institution": "MIT"
+    },
+    {
+      "degree": "BS",
+      "field": "Electrical Engineering",
+      "institution": "UC Santa Barbara"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1967,
+      "event": "Born in United States"
+    },
+    {
+      "year": 1989,
+      "event": "Graduated from UC Santa Barbara"
+    },
+    {
+      "year": 2000,
+      "event": "Completed PhD at MIT"
+    },
+    {
+      "year": 2003,
+      "event": "Created Kismet social robot"
+    },
+    {
+      "year": 2012,
+      "event": "Founded Jibo company"
+    }
+  ],
+  "barriers": [
+    "Faced skepticism about social robotics research",
+    "Overcame doubts about robots having emotional intelligence"
+  ],
+  "impact": "Revolutionized robotics by making robots social and interactive companions.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Cynthia Breazeal: Pioneer of Social Robotics",
+      "url": "https://www.media.mit.edu/people/cynthiab/overview/"
+    }
+  ],
+  "references": [
+    {
+      "title": "MIT Media Lab: Cynthia Breazeal",
+      "url": "https://www.media.mit.edu/people/cynthiab/overview/"
+    }
+  ],
+  "mentorship": "Mentored countless students in robotics and AI, inspiring the next generation of roboticists.",
+  "fun_fact": "Cynthia's robot Kismet was inspired by her observations of how babies learn to interact with their parents.",
+  "career_path": {
+    "first_job": "Research scientist at MIT",
+    "career_highlights": [
+      "Pioneered social robotics field",
+      "Created breakthrough social robots",
+      "Founded successful robotics company"
+    ],
+    "advice_for_students": "Don't be afraid to pursue unconventional ideas. The most innovative breakthroughs often come from thinking differently about familiar problems."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Designing Sociable Robots by Cynthia Breazeal",
+      "Robot Ethics: The Ethical and Social Implications of Robotics"
+    ],
+    "websites": [
+      "mit.edu",
+      "robotics.org",
+      "ai.org"
+    ],
+    "programs": [
+      "Robotics summer camps",
+      "AI and machine learning programs",
+      "Engineering competitions"
+    ],
+    "advice": "Start with programming and electronics, then explore how robots can help people. The best robots solve real human problems."
+  },
+  "challenges": {
+    "academic": [
+      "Overcoming skepticism about social robotics research"
+    ],
+    "professional": [
+      "Establishing new field of social robotics",
+      "Breaking into male-dominated robotics field"
+    ],
+    "personal": [
+      "Balancing research with entrepreneurship"
+    ],
+    "how_overcame": "Used rigorous research and demonstrations to prove the value of social robotics, focused on human-centered design"
+  },
+  "education_details": {
+    "high_school": "Strong foundation in mathematics and science",
+    "college_major": "Electrical Engineering",
+    "key_courses": [
+      "Computer Science",
+      "Artificial Intelligence",
+      "Psychology",
+      "Design"
+    ],
+    "study_tips": "Combine technical skills with understanding of human behavior and social interaction"
+  },
+  "modern_impact": {
+    "current_applications": "Her work influences modern social robots and AI assistants",
+    "companies_using_her_work": [
+      "Technology companies",
+      "Healthcare robotics",
+      "Educational institutions"
+    ],
+    "future_implications": "Her research shapes the future of human-robot collaboration and AI interaction"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Robotics",
+      "Artificial Intelligence",
+      "Science Fiction",
+      "Human-Computer Interaction"
+    ],
+    "family_background": "Supportive family that encouraged scientific curiosity",
+    "hobbies": [
+      "Reading science fiction",
+      "Designing robots",
+      "Teaching"
+    ],
+    "personality_traits": [
+      "Innovative",
+      "Determined",
+      "Visionary",
+      "Collaborative"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "American innovation culture",
+      "MIT research environment",
+      "Science fiction and popular culture"
+    ],
+    "cultural_challenges": [
+      "Gender barriers in robotics",
+      "Skepticism about unconventional research"
+    ],
+    "cultural_contributions": "Pioneered American leadership in social robotics and human-robot interaction"
+  },
+  "verified": true
+}

@@ -1,0 +1,173 @@
+{
+  "name": "Marie Curie",
+  "photo": "./images/marie-curie.jpg",
+  "birthDate": "1867",
+  "deathDate": "1934",
+  "country": "Poland/France",
+  "fields": [
+    "Physics",
+    "Chemistry"
+  ],
+  "roles": [
+    "Physicist",
+    "Chemist",
+    "Professor"
+  ],
+  "quote": "One never notices what has been done; one can only see what remains to be done.",
+  "summary": "First woman to win a Nobel Prize and the only person to win in two different sciences.",
+  "shortDescription": "Marie Curie was a brilliant scientist who discovered the elements polonium and radium. She was the first woman to win a Nobel Prize and the only person to win in two different sciences—Physics and Chemistry. Her research led to life-saving medical advances like X-rays and cancer treatments. Marie's determination and curiosity opened doors for women in science everywhere.",
+  "detailed_description": {
+    "early_life": "Born in Poland in 1867, Marie showed exceptional talent in school despite restrictions on Polish students. Her parents were teachers who emphasized education, and she worked as a governess to save money for university.",
+    "stem_journey": "Marie moved to Paris in 1891 to study at the Sorbonne, often going without food to afford her studies. She earned degrees in physics and mathematics, then began research with Pierre Curie, whom she married.",
+    "challenges": "Marie faced discrimination as a woman in science and was denied admission to the University of Warsaw because she was female. She worked in poverty and faced resistance from male colleagues throughout her career.",
+    "achievements": "Marie discovered two new elements - polonium and radium - and used the term 'radioactivity.' She won Nobel Prizes in both Physics (1903) and Chemistry (1911), the first person to win in two different sciences.",
+    "legacy": "Marie opened doors for women in science worldwide. Her research led to X-ray technology and cancer treatments. She remains a symbol of scientific excellence and determination."
+  },
+  "achievements": [
+    "First woman to win a Nobel Prize",
+    "First person to win Nobel Prizes in two different scientific fields",
+    "Discovered radium and polonium",
+    "Pioneered research on radioactivity"
+  ],
+  "awards": [
+    "Nobel Prize in Physics (1903)",
+    "Nobel Prize in Chemistry (1911)"
+  ],
+  "publications": [],
+  "education": [
+    {
+      "degree": "Doctorate",
+      "field": "Physics",
+      "institution": "University of Paris"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1898,
+      "event": "Discovered polonium and radium"
+    },
+    {
+      "year": 1903,
+      "event": "Won Nobel Prize in Physics"
+    },
+    {
+      "year": 1911,
+      "event": "Won Nobel Prize in Chemistry"
+    }
+  ],
+  "barriers": [
+    "Faced gender discrimination in academia and research"
+  ],
+  "impact": "Transformed the understanding of radioactivity and opened doors for women in science.",
+  "media": [
+    {
+      "type": "movie",
+      "title": "Radioactive",
+      "url": "https://www.imdb.com/title/tt6017756/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "title": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/"
+    }
+  ],
+  "mentorship": "Supported the scientific careers of her daughter Irène and other women.",
+  "fun_fact": "Her notebooks are still radioactive.",
+  "career_path": {
+    "first_job": "Research assistant at the University of Paris",
+    "career_highlights": [
+      "Led groundbreaking radioactivity research",
+      "Became professor at the University of Paris"
+    ],
+    "advice_for_students": "Persistence is key in science. Don't be afraid to work hard and question everything. Your gender doesn't determine your abilities."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Radioactive: Marie & Pierre Curie",
+      "Marie Curie: A Life by Susan Quinn"
+    ],
+    "websites": [
+      "nobelprize.org",
+      "sciencegirls.org",
+      "curie-museum.org"
+    ],
+    "programs": [
+      "Physics summer programs",
+      "Women in Science initiatives"
+    ],
+    "advice": "Find what fascinates you and pursue it with passion. Science needs diverse perspectives."
+  },
+  "challenges": {
+    "academic": [
+      "Limited access to higher education for women in Poland"
+    ],
+    "professional": [
+      "Gender discrimination in academia",
+      "Lack of funding for women researchers"
+    ],
+    "personal": [
+      "Working while raising children",
+      "Health issues from radiation exposure"
+    ],
+    "how_overcame": "Focused on her research despite obstacles and built a supportive scientific community"
+  },
+  "education_details": {
+    "high_school": "Excelled in mathematics and science",
+    "college_major": "Physics and Mathematics",
+    "graduate_school": "Ph.D. in Physics from University of Paris",
+    "key_courses": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Research Methods"
+    ],
+    "study_tips": "Combine theoretical knowledge with hands-on experimentation"
+  },
+  "modern_impact": {
+    "current_applications": "Her discoveries led to medical treatments and nuclear technology",
+    "companies_using_her_work": [
+      "Medical imaging companies",
+      "Nuclear power plants",
+      "Research institutions"
+    ],
+    "future_implications": "Radioactivity research continues in cancer treatment and clean energy"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Scientific research"
+    ],
+    "family_background": "First in family to pursue higher education",
+    "hobbies": [
+      "Reading scientific literature",
+      "Laboratory work",
+      "Teaching"
+    ],
+    "personality_traits": [
+      "Dedicated",
+      "Curious",
+      "Persistent",
+      "Innovative"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Polish and French intellectual traditions",
+    "cultural_influences": [
+      "Polish resistance to Russian occupation",
+      "French scientific community"
+    ],
+    "cultural_challenges": [
+      "Polish nationalism vs. French assimilation",
+      "Gender barriers in both cultures"
+    ],
+    "cultural_contributions": "Brought Polish determination and French scientific rigor to her work, transcending national boundaries"
+  },
+  "verified": true
+}

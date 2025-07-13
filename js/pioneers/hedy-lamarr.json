@@ -1,0 +1,172 @@
+{
+  "name": "Hedy Lamarr",
+  "photo": "./images/hedy-lamarr.jpg",
+  "birthDate": "1914",
+  "deathDate": "2000",
+  "country": "Austria/United States",
+  "fields": [
+    "Engineering",
+    "Invention"
+  ],
+  "roles": [
+    "Inventor",
+    "Actress"
+  ],
+  "quote": "The brains of people are more interesting than the looks I think.",
+  "summary": "Hollywood actress and inventor who co-developed frequency-hopping spread spectrum technology used in modern wireless communications.",
+  "shortDescription": "Hedy Lamarr was a Hollywood actress and inventor who co-developed frequency-hopping spread spectrum technology used in modern wireless communications. Her invention, which predates modern WiFi and Bluetooth, laid the groundwork for secure communication systems. Despite being known primarily for her acting career, her technological contributions have had a lasting impact on modern communication technology.",
+  "detailed_description": {
+    "early_life": "Born in Vienna, Austria, Hedy showed early interest in science and technology. She was fascinated by how things worked and often took apart household items to understand their mechanisms.",
+    "stem_journey": "While working in Hollywood, Hedy continued her scientific interests. During World War II, she collaborated with composer George Antheil to develop frequency-hopping technology to prevent enemy interception of radio-controlled torpedoes.",
+    "challenges": "Faced skepticism as a woman inventor and actress. Her scientific contributions were often overlooked because of her Hollywood career. She struggled to get recognition for her technical innovations.",
+    "achievements": "Co-invented frequency-hopping spread spectrum technology that became the foundation for modern wireless communications including WiFi, Bluetooth, and GPS.",
+    "legacy": "Her invention revolutionized wireless communication and continues to impact modern technology. She proved that creativity spans across different fields."
+  },
+  "achievements": [
+    "Co-invented frequency-hopping spread spectrum",
+    "Influenced modern wireless communications",
+    "Inducted into National Inventors Hall of Fame"
+  ],
+  "awards": [
+    "National Inventors Hall of Fame (2014)",
+    "Electronic Frontier Foundation Pioneer Award (1997)"
+  ],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Engineering and Technology",
+      "institution": "Independent Study"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1942,
+      "event": "Co-invented frequency-hopping spread spectrum technology"
+    },
+    {
+      "year": 1997,
+      "event": "Received Electronic Frontier Foundation Pioneer Award"
+    },
+    {
+      "year": 2014,
+      "event": "Posthumously inducted into National Inventors Hall of Fame"
+    }
+  ],
+  "barriers": [
+    "Faced skepticism as a woman inventor",
+    "Scientific contributions overlooked due to acting career",
+    "Gender bias in engineering and technology fields"
+  ],
+  "impact": "Her frequency-hopping invention became the foundation for modern wireless communications including WiFi, Bluetooth, and GPS systems.",
+  "media": [
+    {
+      "type": "documentary",
+      "title": "Bombshell: The Hedy Lamarr Story",
+      "url": "https://www.imdb.com/title/tt7282468/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+    },
+    {
+      "title": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/hedy-lamarr"
+    }
+  ],
+  "mentorship": "Inspired women to pursue both creative and technical careers, showing that interests can span multiple fields.",
+  "fun_fact": "Hedy Lamarr was also a Hollywood actress who appeared in over 30 films, including the controversial 'Ecstasy' which made her famous.",
+  "career_path": {
+    "first_job": "Actress in European films",
+    "career_highlights": [
+      "Successful Hollywood acting career",
+      "Co-invented frequency-hopping technology",
+      "Pioneered wireless communication technology"
+    ],
+    "advice_for_students": "Don't let others define you by one aspect of your life. You can be interested in both arts and sciences. Follow your curiosity wherever it leads."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Hedy's Folly: The Life and Breakthrough Inventions of Hedy Lamarr",
+      "The Only Woman in the Room by Marie Benedict"
+    ],
+    "websites": [
+      "invent.org",
+      "womeninventors.org",
+      "ieee.org"
+    ],
+    "programs": [
+      "Women in Engineering programs",
+      "Invention and innovation camps",
+      "STEM and arts integration programs"
+    ],
+    "advice": "Explore both technical and creative interests. Innovation often happens at the intersection of different fields."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal engineering education"
+    ],
+    "professional": [
+      "Gender bias in engineering and invention",
+      "Skepticism about women inventors"
+    ],
+    "personal": [
+      "Balancing acting career with scientific interests",
+      "Getting recognition for technical contributions"
+    ],
+    "how_overcame": "Used her fame to access resources and continued pursuing her scientific interests despite skepticism"
+  },
+  "education_details": {
+    "high_school": "Attended school in Vienna",
+    "college_major": "Self-taught in engineering and technology",
+    "key_courses": [
+      "Independent study of radio technology",
+      "Self-directed learning in engineering"
+    ],
+    "study_tips": "Combine different interests and don't be afraid to learn outside traditional educational paths"
+  },
+  "modern_impact": {
+    "current_applications": "Her frequency-hopping technology is used in WiFi, Bluetooth, GPS, and military communications",
+    "companies_using_her_work": [
+      "All major technology companies",
+      "Telecommunications companies",
+      "Military and defense contractors"
+    ],
+    "future_implications": "Her work continues to influence secure wireless communication and 5G technology"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Science and technology",
+      "Acting and performing",
+      "Understanding how things work"
+    ],
+    "family_background": "Born to Jewish parents in Vienna",
+    "hobbies": [
+      "Inventing and tinkering",
+      "Acting and performing",
+      "Studying technology"
+    ],
+    "personality_traits": [
+      "Creative",
+      "Innovative",
+      "Determined",
+      "Multi-talented"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Austrian Jewish heritage",
+    "cultural_influences": [
+      "Viennese intellectual culture",
+      "Hollywood film industry",
+      "American innovation culture"
+    ],
+    "cultural_challenges": [
+      "Anti-Semitism in Europe",
+      "Gender stereotypes in both acting and science",
+      "Cultural barriers as an immigrant"
+    ],
+    "cultural_contributions": "Bridged European intellectual tradition with American innovation, showing how creativity spans cultures and fields"
+  },
+  "verified": true
+}
