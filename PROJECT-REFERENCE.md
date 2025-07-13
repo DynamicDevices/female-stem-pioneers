@@ -11,3 +11,23 @@ This project is a static web app that celebrates and highlights WOMEN pioneers i
 - Easy to add new FEMALE pioneers via `add-pioneer.js`
 
 The project is specifically designed to showcase and celebrate WOMEN'S contributions to STEM fields, suitable for educational, outreach, and inspirational purposes focused on female representation in science and technology.
+
+## Image Management
+
+### Image Requirements
+- All pioneer images should be placed in the `images/` directory
+- Use `.jpg` or `.png` format for photos, `.svg` for icons/symbols
+- Image filenames should match the pioneer's name (e.g., `ada-lovelace.jpg`)
+- For pioneers without available photos, use field-specific SVG icons (e.g., chemistry flask for chemists, π symbol for mathematicians)
+
+### Commit Requirements
+- **ALWAYS commit new images to git** when adding them to the project
+- Images must be committed before the site will display them properly
+- Use `git add images/*.jpg images/*.png images/*.svg` to add all image files
+- Commit with descriptive messages like "Add pioneer images" or "Add field-specific icons"
+
+### Image Guidelines
+- Prefer public domain or properly licensed images
+- For historical figures without photos, create meaningful field-specific SVG icons
+- Ensure images are appropriately sized and optimized for web use
+- Test that images load correctly in the browser after committing
