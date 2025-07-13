@@ -337,35 +337,6 @@ const pioneers = [
     }
   },
   {
-    "name": "Katherine Johnson",
-    "photo": "./images/katherine-johnson.jpg",
-    "birthDate": "1918",
-    "deathDate": "2020",
-    "country": "United States",
-    "fields": [
-      "Mathematics",
-      "Computing"
-    ],
-    "roles": [
-      "Mathematician",
-      "Computer Scientist"
-    ],
-    "quote": "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed... anything that could be counted, I did.",
-    "summary": "NASA mathematician whose calculations were critical to the success of early space missions, featured in 'Hidden Figures'.",
-    "shortDescription": "Katherine Johnson was a NASA mathematician whose calculations were critical to the success of early space missions, including the Apollo 11 moon landing. Her work helped ensure the safety of astronauts and the success of space exploration. Despite facing both racial and gender discrimination, she became the first African American woman to work as a NASA scientist and received the Presidential Medal of Freedom for her contributions to space exploration.",
-    "achievements": [
-      "Calculated trajectories for Apollo 11 moon landing",
-      "First African American woman to work as a NASA scientist",
-      "Received Presidential Medal of Freedom"
-    ],
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Katherine_Johnson"
-      }
-    ]
-  },
-  {
     "name": "Grace Hopper",
     "photo": "./images/grace-hopper.jpg",
     "birthDate": "1906",
@@ -1771,6 +1742,279 @@ const pioneers = [
         "url": "https://www.linkedin.com/in/princy-johnson/"
       }
     ]
+  },
+  {
+    "name": "Wang Zhenyi",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1768",
+    "deathDate": "1797",
+    "country": "China",
+    "fields": ["Astronomy", "Mathematics"],
+    "roles": ["Scientist", "Mathematician", "Poet"],
+    "quote": "Knowledge is powerful and what counts is the usefulness, no matter whether it is Chinese or Western.",
+    "summary": "Trailblazing Chinese scientist and mathematician who made major contributions to astronomy and mathematics, and advocated for women's education.",
+    "shortDescription": "Wang Zhenyi was a brilliant 18th-century Chinese scientist who taught herself astronomy and mathematics, wrote books explaining lunar and solar eclipses, and challenged gender norms through her poetry and teaching. She inspired generations by showing that girls can excel in science and learning.",
+    "references": [{"title": "Girl Museum: Wang Zhenyi","url": "https://www.girlmuseum.org/trailblazers-age-of-girls-wang-zhenyi/"}]
+  },
+  {
+    "name": "Patricia Bath",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1942",
+    "deathDate": "2019",
+    "country": "United States",
+    "fields": ["Ophthalmology", "Medical Invention"],
+    "roles": ["Doctor", "Inventor"],
+    "quote": "The most important part is having faith and belief in the power of your own ideas.",
+    "summary": "Inventor of the Laserphaco Probe for cataract treatment and the first African American woman doctor to receive a medical patent.",
+    "shortDescription": "Patricia Bath was a pioneering ophthalmologist and inventor whose Laserphaco Probe revolutionized cataract surgery. She broke barriers for women and African Americans in medicine, and her inventions have restored sight to thousands.",
+    "references": [{"title": "Smithsonian Lemelson Center: Patricia Bath","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Ayah Bdeir",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1982",
+    "country": "Lebanon/United States",
+    "fields": ["Engineering", "Invention"],
+    "roles": ["Engineer", "Inventor", "Entrepreneur"],
+    "quote": "I am inspired by empowering people to invent.",
+    "summary": "Founder of littleBits, making engineering and invention accessible to all ages.",
+    "shortDescription": "Ayah Bdeir is an engineer and inventor who created littleBits, a system of electronic building blocks that makes learning about technology fun and creative for everyone.",
+    "references": [{"title": "Smithsonian Lemelson Center: Ayah Bdeir","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Cynthia Breazeal",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1967",
+    "country": "United States",
+    "fields": ["Robotics"],
+    "roles": ["Roboticist", "Professor"],
+    "quote": "Robots will become a part of our everyday lives.",
+    "summary": "Pioneer in social robotics and human-robot interaction.",
+    "shortDescription": "Cynthia Breazeal is a roboticist who created some of the first social robots that can interact with people in friendly, human-like ways. Her work is shaping the future of robotics and artificial intelligence.",
+    "references": [{"title": "MIT Media Lab: Cynthia Breazeal","url": "https://www.media.mit.edu/people/cynthiab/overview/"}]
+  },
+  {
+    "name": "Theresa Dankovich",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1980s",
+    "country": "United States",
+    "fields": ["Chemistry", "Environmental Engineering"],
+    "roles": ["Chemist", "Inventor"],
+    "quote": "It's not just to make this really cool product, but also to help improve people's lives.",
+    "summary": "Inventor of germ-killing water filters (Folia Water) that provide clean water in developing countries.",
+    "shortDescription": "Theresa Dankovich invented affordable, germ-killing water filters that help provide safe drinking water to families around the world. Her work saves lives and improves health in communities with limited resources.",
+    "references": [{"title": "Smithsonian Lemelson Center: Theresa Dankovich","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Marion O'Brien Donovan",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1917",
+    "deathDate": "1998",
+    "country": "United States",
+    "fields": ["Invention"],
+    "roles": ["Inventor"],
+    "quote": "I went to all the big names that you could think of and they said, 'we don't need it—no woman has asked us for that . . .' so I went into manufacturing myself.",
+    "summary": "Inventor of the waterproof diaper cover (The Boater) and other household innovations.",
+    "shortDescription": "Marion O'Brien Donovan was an inventor who created the waterproof diaper cover, making life easier for parents everywhere. She held many patents and showed that women can be successful inventors and entrepreneurs.",
+    "references": [{"title": "Smithsonian Lemelson Center: Marion O'Brien Donovan","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Marilyn Hamilton",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1949",
+    "country": "United States",
+    "fields": ["Engineering", "Invention"],
+    "roles": ["Engineer", "Inventor", "Athlete"],
+    "quote": "Innovation is born from necessity and determination.",
+    "summary": "Inventor of the lightweight sports wheelchair, enabling greater mobility for people with disabilities.",
+    "shortDescription": "Marilyn Hamilton invented the lightweight sports wheelchair, helping people with disabilities to be more active and independent. Her invention changed the world of adaptive sports.",
+    "references": [{"title": "Smithsonian Lemelson Center: Marilyn Hamilton","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Marjorie Stewart Joyner",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1896",
+    "deathDate": "1994",
+    "country": "United States",
+    "fields": ["Invention", "Beauty Technology"],
+    "roles": ["Inventor", "Entrepreneur"],
+    "quote": "If I've set an example for other people—not just black people, not just poor people, not just women—I want it to be that you shouldn't be limited in what you try to do.",
+    "summary": "Inventor of the permanent wave machine for hair and a leader in beauty technology.",
+    "shortDescription": "Marjorie Stewart Joyner invented the permanent wave machine, making it easier to style hair. She was a trailblazer in the beauty industry and a mentor to many African American women entrepreneurs.",
+    "references": [{"title": "Smithsonian Lemelson Center: Marjorie Stewart Joyner","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Michelle Khine",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1975",
+    "country": "United States",
+    "fields": ["Biomedical Engineering"],
+    "roles": ["Engineer", "Inventor", "Professor"],
+    "quote": "I didn't fit into any of the parameters that most people would think of as an inventor.",
+    "summary": "Inventor of Shrinky Dinks-based microfluidic devices for medical diagnostics.",
+    "shortDescription": "Michelle Khine is a biomedical engineer who turned a childhood toy into a tool for medical diagnostics, making healthcare more accessible and affordable.",
+    "references": [{"title": "Smithsonian Lemelson Center: Michelle Khine","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Margaret Knight",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1838",
+    "deathDate": "1914",
+    "country": "United States",
+    "fields": ["Invention", "Engineering"],
+    "roles": ["Inventor", "Engineer"],
+    "quote": "As a child, I never cared for things that girls usually do; . . . I was always making things.",
+    "summary": "Inventor of the machine to make flat-bottomed paper bags and holder of many patents.",
+    "shortDescription": "Margaret Knight was an inventor who created the machine that makes flat-bottomed paper bags. She held dozens of patents and proved that women can be great inventors and engineers.",
+    "references": [{"title": "Smithsonian Lemelson Center: Margaret Knight","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Stephanie Kwolek",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1923",
+    "deathDate": "2014",
+    "country": "United States",
+    "fields": ["Chemistry"],
+    "roles": ["Chemist", "Inventor"],
+    "quote": "To invent, I draw upon my knowledge, intuition, creativity, experience, common sense, perseverance, flexibility, and hard work.",
+    "summary": "Inventor of Kevlar, the strong fiber used in bulletproof vests and many other products.",
+    "shortDescription": "Stephanie Kwolek was a chemist who invented Kevlar, a super-strong fiber used in bulletproof vests and many other products. Her discovery has saved countless lives.",
+    "references": [{"title": "Smithsonian Lemelson Center: Stephanie Kwolek","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Alexis Lewis",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1990s",
+    "country": "United States",
+    "fields": ["Invention", "Humanitarian Engineering"],
+    "roles": ["Inventor", "Student"],
+    "quote": "Inventors are basically anybody and everybody who's ever tried to solve a problem.",
+    "summary": "Inventor of the rescue travois and emergency smoke filtration kit, inspiring young inventors everywhere.",
+    "shortDescription": "Alexis Lewis is a young inventor who created a rescue sled to help families in emergencies and a smoke filtration kit for fire safety. She shows that kids can invent solutions to real-world problems.",
+    "references": [{"title": "Smithsonian Lemelson Center: Alexis Lewis","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Lisa Lindahl, Hinda Miller, Polly Palmer Smith",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1970s",
+    "country": "United States",
+    "fields": ["Invention", "Sports Engineering"],
+    "roles": ["Inventors", "Entrepreneurs"],
+    "quote": "This was made by women for women.",
+    "summary": "Inventors of the sports bra (Jogbra), revolutionizing athletic wear for women.",
+    "shortDescription": "Lisa Lindahl, Hinda Miller, and Polly Palmer Smith invented the sports bra, making exercise more comfortable for women and helping to open doors for women in sports.",
+    "references": [{"title": "Smithsonian Lemelson Center: Jogbra","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Madison Maxey",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1990s",
+    "country": "United States",
+    "fields": ["E-textiles", "Engineering"],
+    "roles": ["Engineer", "Inventor", "Entrepreneur"],
+    "quote": "I felt like it was the right time to finally make my dreams come true.",
+    "summary": "Innovator in electronic textiles and wearable technology.",
+    "shortDescription": "Madison Maxey is an engineer and entrepreneur who creates electronic textiles—fabrics that can sense, light up, or even heat up. Her work is changing how we think about clothing and technology.",
+    "references": [{"title": "Smithsonian Lemelson Center: Madison Maxey","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Amy Prieto",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1976",
+    "country": "United States",
+    "fields": ["Chemistry", "Battery Technology"],
+    "roles": ["Chemist", "Inventor", "Professor"],
+    "quote": "Innovation is about making things better for everyone.",
+    "summary": "Inventor of advanced battery technologies for a cleaner energy future.",
+    "shortDescription": "Amy Prieto is a chemist and inventor who develops new types of batteries that are safer, more powerful, and better for the environment. Her work is helping to power the future.",
+    "references": [{"title": "Smithsonian Lemelson Center: Amy Prieto","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Sharon Rogone",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1950s",
+    "country": "United States",
+    "fields": ["Medical Invention"],
+    "roles": ["Nurse", "Inventor"],
+    "quote": "Whatever you needed to do, you had to make up for yourself, because there weren't products out there.",
+    "summary": "Inventor of medical devices for premature infants, improving neonatal care.",
+    "shortDescription": "Sharon Rogone is a nurse and inventor who created special medical devices for premature babies, making hospital care safer and more comfortable for the tiniest patients.",
+    "references": [{"title": "Smithsonian Lemelson Center: Sharon Rogone","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Charlotte Cramer Sachs",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1907",
+    "deathDate": "2004",
+    "country": "Germany/United States",
+    "fields": ["Invention", "Food Technology"],
+    "roles": ["Inventor", "Entrepreneur"],
+    "quote": "It's like opening another window in your life when you become involved in something creative and new.",
+    "summary": "Inventor of instant cake and muffin mixes, making baking easier for everyone.",
+    "shortDescription": "Charlotte Cramer Sachs was an inventor and entrepreneur who created instant cake and muffin mixes, helping busy families save time and enjoy delicious food.",
+    "references": [{"title": "Smithsonian Lemelson Center: Charlotte Cramer Sachs","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Laura Shepherd",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1980s",
+    "country": "United States",
+    "fields": ["Engineering", "Invention"],
+    "roles": ["Inventor", "Engineer"],
+    "quote": "I told my dad I'd like to try it.",
+    "summary": "Soapbox derby innovator and inventor, inspiring young engineers.",
+    "shortDescription": "Laura Shepherd is an inventor and engineer who built and raced her own soapbox derby cars, showing that girls can be creative problem-solvers and engineers from a young age.",
+    "references": [{"title": "Smithsonian Lemelson Center: Laura Shepherd","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Kavita Shukla",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1980s",
+    "country": "United States/India",
+    "fields": ["Food Science", "Invention"],
+    "roles": ["Inventor", "Entrepreneur"],
+    "quote": "I really love pursuing things and doing things that make me feel creative.",
+    "summary": "Inventor of FreshPaper, a product that keeps produce fresh and helps fight food waste.",
+    "shortDescription": "Kavita Shukla is an inventor who created FreshPaper, a simple sheet that keeps fruits and vegetables fresh longer. Her invention helps reduce food waste and makes healthy food more accessible.",
+    "references": [{"title": "Smithsonian Lemelson Center: Kavita Shukla","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Cindy Whitehead",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1970s",
+    "country": "United States",
+    "fields": ["Sports Engineering", "Invention"],
+    "roles": ["Inventor", "Athlete", "Entrepreneur"],
+    "quote": "When I started in the '70s, female skateboarding was still taboo and I was the only girl at the skatepark. I had to block out negative comments and stand my ground.",
+    "summary": "Pro skateboarder and inventor, advocate for girls in action sports.",
+    "shortDescription": "Cindy Whitehead is a pro skateboarder and inventor who created products and a brand to support girls in action sports. She inspires girls to break barriers and follow their passions.",
+    "references": [{"title": "Smithsonian Lemelson Center: Cindy Whitehead","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Sophia Hayden",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1868",
+    "deathDate": "1953",
+    "country": "United States",
+    "fields": ["Architecture", "Engineering"],
+    "roles": ["Architect", "Engineer"],
+    "quote": "[The Woman's Building] is the result of careful training in classical design and is the expression of what I liked and felt.",
+    "summary": "First woman to receive an architecture degree from MIT, designer of the Woman's Building at the 1893 World's Columbian Exposition.",
+    "shortDescription": "Sophia Hayden was the first woman to earn an architecture degree from MIT and designed the Woman's Building at the 1893 World's Fair, showing that women can lead in engineering and design.",
+    "references": [{"title": "Smithsonian Lemelson Center: Sophia Hayden","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+  },
+  {
+    "name": "Madam C. J. Walker",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "1867",
+    "deathDate": "1919",
+    "country": "United States",
+    "fields": ["Chemistry", "Invention", "Entrepreneurship"],
+    "roles": ["Inventor", "Entrepreneur", "Philanthropist"],
+    "quote": "Don't sit down and wait for the opportunities to come . . . get up and make them!",
+    "summary": "Pioneer of modern African American hair care and cosmetics, inventor and entrepreneur.",
+    "shortDescription": "Madam C. J. Walker was an inventor and entrepreneur who created a successful line of hair care products for African American women, becoming one of the first self-made female millionaires in the U.S.",
+    "references": [{"title": "Smithsonian Lemelson Center: Madam C. J. Walker","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
   }
 ];
 
