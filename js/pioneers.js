@@ -296,696 +296,187 @@ const pioneers = [
   },
   {
     name: "Katherine Johnson",
-    photo: "./images/katherine-johnson.jpg",
+    photo: "./images/placeholder.jpg",
     birthDate: "1918",
     deathDate: "2020",
     country: "United States",
-    fields: ["Mathematics", "Aerospace"],
-    roles: ["Mathematician", "NASA Scientist"],
-    quote: "Girls are capable of doing everything men are capable of doing.",
-    summary:
-      "Trailblazing NASA mathematician whose calculations enabled the first U.S. spaceflights.",
-    shortDescription:
-      "Katherine Johnson was a mathematician whose calculations helped launch the first American astronauts into space. She worked at NASA when 'computers' were people who did math by hand, and her work was so trusted that John Glenn asked her to double-check the numbers before his historic flight. Despite facing racial and gender barriers, Katherine's talent and perseverance made her a trailblazer for women and African Americans in STEM.",
-    detailed_description: {
-      early_life:
-        "Born in 1918 in West Virginia, Katherine showed exceptional mathematical ability from childhood. She graduated high school at 14 and entered college at 15, where she excelled in mathematics.",
-      stem_journey:
-        "Katherine became a teacher after college, then joined NASA in 1953 as a 'computer' - someone who performed mathematical calculations. She quickly proved her abilities and became trusted with critical calculations.",
-      challenges:
-        "As an African American woman in the segregated South, Katherine faced both racial and gender discrimination. She was often the only woman in meetings and had to fight for recognition of her work.",
-      achievements:
-        "Katherine calculated trajectories for Alan Shepard's first space flight and John Glenn's orbital flight. Her calculations were so trusted that Glenn insisted she verify the computer's work before his flight.",
-      legacy:
-        "Katherine broke barriers for African American women in STEM and inspired generations of students. Her story was featured in 'Hidden Figures,' bringing her achievements to worldwide attention.",
-    },
+    fields: ["Mathematics", "Computing"],
+    roles: ["Mathematician", "Computer Scientist"],
+    quote: "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed... anything that could be counted, I did.",
+    summary: "NASA mathematician whose calculations were critical to the success of early space missions, featured in 'Hidden Figures'.",
     achievements: [
-      "Calculated trajectories for NASA space missions",
-      "Worked on the Apollo 11 mission to the Moon",
-      "Helped calculate the flight path for Alan Shepard's first space flight",
-      "Received Presidential Medal of Freedom in 2015",
-    ],
-    awards: [
-      "Presidential Medal of Freedom (2015)",
-      "Congressional Gold Medal (2019)",
-    ],
-    publications: [],
-    education: [
-      {
-        degree: "B.S.",
-        field: "Mathematics",
-        institution: "West Virginia State College",
-      },
-    ],
-    timeline: [
-      { year: 1953, event: "Joined NASA (then NACA)" },
-      { year: 1962, event: "Calculated John Glenn's orbital trajectory" },
-    ],
-    barriers: ["Faced racial and gender discrimination in the workplace"],
-    impact: "Inspired generations of women and minorities to pursue STEM.",
-    media: [
-      {
-        type: "movie",
-        title: "Hidden Figures",
-        url: "https://www.imdb.com/title/tt4846340/",
-      },
+      "Calculated trajectories for Apollo 11 moon landing",
+      "First African American woman to work as a NASA scientist",
+      "Received Presidential Medal of Freedom"
     ],
     references: [
-      {
-        title: "Wikipedia",
-        url: "https://en.wikipedia.org/wiki/Katherine_Johnson",
-      },
-      {
-        title: "NASA Biography",
-        url: "https://www.nasa.gov/content/katherine-johnson-biography",
-      },
-    ],
-    mentorship: "Advocated for women in STEM throughout her career.",
-    fun_fact: "Graduated high school at 14.",
-
-    // High Priority - New Metadata
-    career_path: {
-      first_job: "Teacher at a segregated school",
-      career_highlights: [
-        "Joined NASA as a 'computer'",
-        "Became a key figure in space missions",
-        "Received Presidential Medal of Freedom",
-      ],
-      advice_for_students:
-        "Don't let anyone tell you that you can't do something because of who you are. Your abilities matter more than your background.",
-    },
-    student_resources: {
-      books_for_students: [
-        "Hidden Figures by Margot Lee Shetterly",
-        "Reaching for the Moon by Katherine Johnson",
-      ],
-      websites: ["nasa.gov", "blackgirlscode.org", "mathcounts.org"],
-      programs: [
-        "NASA STEM programs",
-        "Mathematics competitions",
-        "Space camp",
-      ],
-      advice:
-        "Mathematics is everywhere - look for it in the world around you and practice every day.",
-    },
-    challenges: {
-      academic: ["Limited educational opportunities due to segregation"],
-      professional: [
-        "Racial and gender discrimination at NASA",
-        "Being overlooked for promotions",
-      ],
-      personal: [
-        "Balancing work and family",
-        "Being the only woman in many meetings",
-      ],
-      how_overcame:
-        "Focused on her mathematical abilities and proved her worth through excellent work",
-    },
-    education_details: {
-      high_school: "Graduated at age 14 with highest honors",
-      college_major: "Mathematics with French minor",
-      graduate_school: "Completed graduate courses in mathematics",
-      key_courses: ["Advanced Mathematics", "Calculus", "Analytical Geometry"],
-      study_tips:
-        "Practice problems daily and understand the 'why' behind formulas",
-    },
-    modern_impact: {
-      current_applications:
-        "Her calculations methods are still used in space missions",
-      companies_using_her_work: [
-        "NASA",
-        "SpaceX",
-        "Boeing",
-        "Aerospace companies",
-      ],
-      future_implications:
-        "Her work continues to inspire space exploration and STEM education",
-    },
-    personal_info: {
-      early_interests: ["Mathematics", "Numbers", "Space", "Problem-solving"],
-      family_background:
-        "Fourth of five children, parents emphasized education",
-      hobbies: ["Reading", "Mathematics puzzles", "Teaching"],
-      personality_traits: ["Precise", "Determined", "Humble", "Brilliant"],
-    },
-    cultural_background: {
-      heritage: "African American community in segregated West Virginia",
-      cultural_influences: [
-        "Black church community",
-        "Historically Black Colleges",
-        "Civil Rights Movement",
-      ],
-      cultural_challenges: [
-        "Jim Crow segregation",
-        "Limited educational opportunities",
-        "Racial discrimination in STEM",
-      ],
-      cultural_contributions:
-        "Pioneered African American representation in space science and inspired generations of Black women in STEM",
-    },
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Katherine_Johnson" }
+    ]
   },
   {
     name: "Grace Hopper",
-    photo: "./images/grace-hopper.jpg",
+    photo: "./images/placeholder.jpg",
     birthDate: "1906",
     deathDate: "1992",
     country: "United States",
     fields: ["Computer Science", "Mathematics"],
-    roles: ["Computer Scientist", "Rear Admiral, U.S. Navy"],
-    quote:
-      "The most dangerous phrase in the language is, 'We've always done it this way.'",
-    summary:
-      "Developed the first compiler and popularized the term 'debugging' in computing.",
-    shortDescription:
-      "Grace Hopper was a computer scientist and Navy Rear Admiral who helped invent the first computer compiler, making it possible for people to write programs in English-like languages. She loved solving problems and wasn't afraid to challenge the status quo—she even found the first real computer 'bug'! Grace's work made computers easier for everyone to use, and she inspired generations of women in technology and the military.",
-    detailed_description: {
-      early_life:
-        "Born in 1906 in New York City, Grace showed curiosity about how things worked from an early age. Her parents believed in equal education for boys and girls, which was unusual for the time.",
-      stem_journey:
-        "Grace earned degrees in mathematics and physics from Vassar College, then a Ph.D. from Yale. During World War II, she joined the Navy and was assigned to work on the Harvard Mark I computer.",
-      challenges:
-        "Grace faced challenges as a woman in both the military and the emerging field of computer science. She was often the only woman in technical meetings and had to prove herself repeatedly.",
-      achievements:
-        "Grace developed the first compiler, which translated high-level programming languages into machine code. She popularized the term 'debugging' and led the development of COBOL, one of the first programming languages.",
-      legacy:
-        "Grace is known as the 'Queen of Code' and made computers accessible to non-specialists. The Grace Hopper Celebration of Women in Computing is named in her honor.",
-    },
+    roles: ["Computer Scientist", "Navy Admiral"],
+    quote: "The most damaging phrase in the language is 'We've always done it this way!'",
+    summary: "Pioneering computer scientist who developed the first compiler and popularized the term 'debugging'.",
     achievements: [
-      "Developed the first compiler for a computer programming language",
-      "Popularized the term 'debugging' for fixing computer glitches",
-      "One of the first programmers of the Harvard Mark I computer",
-      "Rear Admiral in the U.S. Navy",
-    ],
-    awards: ["Presidential Medal of Freedom (posthumous, 2016)"],
-    publications: [],
-    education: [
-      { degree: "Ph.D.", field: "Mathematics", institution: "Yale University" },
-    ],
-    timeline: [
-      { year: 1944, event: "Worked on Harvard Mark I computer" },
-      { year: 1952, event: "Developed first compiler (A-0 system)" },
-    ],
-    barriers: [
-      "Faced skepticism about the feasibility of high-level programming languages",
-    ],
-    impact:
-      "Pioneered programming languages and inspired women in technology and the military.",
-    media: [
-      {
-        type: "documentary",
-        title: "The Queen of Code",
-        url: "https://vimeo.com/146490153",
-      },
+      "Developed first computer compiler",
+      "Invented COBOL programming language",
+      "First woman to receive National Medal of Technology"
     ],
     references: [
-      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Grace_Hopper" },
-      {
-        title: "Biography.com",
-        url: "https://www.biography.com/scientist/grace-hopper",
-      },
-    ],
-    mentorship:
-      "Mentored young programmers and advocated for computer science education.",
-    fun_fact: "Had a clock in her office that ran backwards.",
-
-    // High Priority - New Metadata
-    career_path: {
-      first_job: "Mathematics professor at Vassar College",
-      career_highlights: [
-        "Joined the Navy during WWII",
-        "Developed the first compiler",
-        "Became Rear Admiral",
-      ],
-      advice_for_students:
-        "Don't be afraid to try new things and think differently. The best innovations often come from asking 'why not?'",
-    },
-    student_resources: {
-      books_for_students: [
-        "Grace Hopper and the Invention of the Information Age",
-        "The Computer and the Brain by John von Neumann",
-      ],
-      websites: ["code.org", "girlswhocode.com", "gracehopper.org"],
-      programs: [
-        "Computer Science summer camps",
-        "Navy STEM programs",
-        "Coding bootcamps",
-      ],
-      advice:
-        "Learn to code early and often. Programming is a language that opens doors to countless opportunities.",
-    },
-    challenges: {
-      academic: ["Being one of few women in mathematics"],
-      professional: [
-        "Gender barriers in military and technology",
-        "Skepticism about high-level programming",
-      ],
-      personal: ["Balancing military career with personal life"],
-      how_overcame:
-        "Proved her ideas through demonstration and built strong professional networks",
-    },
-    education_details: {
-      high_school: "Excelled in mathematics and science",
-      college_major: "Mathematics and Physics",
-      graduate_school: "Ph.D. in Mathematics from Yale University",
-      key_courses: [
-        "Mathematics",
-        "Physics",
-        "Computer Science",
-        "Military Science",
-      ],
-      study_tips:
-        "Learn the fundamentals thoroughly - they're the foundation for everything else",
-    },
-    modern_impact: {
-      current_applications:
-        "Her compiler concepts are used in all modern programming languages",
-      companies_using_her_work: [
-        "All software companies",
-        "Universities",
-        "Government agencies",
-      ],
-      future_implications:
-        "Her work enables AI, machine learning, and all modern software development",
-    },
-    personal_info: {
-      early_interests: [
-        "Mathematics",
-        "Mechanical devices",
-        "Problem-solving",
-        "Military service",
-      ],
-      family_background: "Encouraged to pursue education and independence",
-      hobbies: ["Sailing", "Teaching", "Military history"],
-      personality_traits: [
-        "Innovative",
-        "Determined",
-        "Practical",
-        "Leadership-oriented",
-      ],
-    },
-    cultural_background: {
-      heritage: "American Protestant and military traditions",
-      cultural_influences: [
-        "American individualism",
-        "Military discipline and service",
-        "Yale University academic culture",
-      ],
-      cultural_challenges: [
-        "Gender barriers in military",
-        "Academic elitism",
-        "Traditional gender roles in 1940s America",
-      ],
-      cultural_contributions:
-        "Broke barriers for women in both military and technology, showing American innovation and determination",
-    },
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Grace_Hopper" }
+    ]
   },
   {
     name: "Rosalind Franklin",
-    photo: "./images/rosalind-franklin.png",
+    photo: "./images/placeholder.jpg",
     birthDate: "1920",
     deathDate: "1958",
     country: "United Kingdom",
     fields: ["Chemistry", "Biology"],
-    roles: ["Chemist", "X-ray Crystallographer"],
+    roles: ["Chemist", "Crystallographer"],
     quote: "Science and everyday life cannot and should not be separated.",
-    summary:
-      "Her X-ray diffraction work was key to understanding the structure of DNA.",
-    shortDescription:
-      "Rosalind Franklin was a chemist whose X-ray photographs revealed the structure of DNA, the molecule that carries our genetic code. Her famous 'Photo 51' was key to understanding how DNA works. Even though she faced challenges and wasn't fully recognized during her lifetime, Rosalind's careful research changed science forever and paved the way for discoveries in genetics and medicine.",
-    detailed_description: {
-      early_life:
-        "Born in 1920 in London to a wealthy Jewish family, Rosalind showed exceptional academic ability from an early age. Her family encouraged her education, and she attended St. Paul's Girls' School.",
-      stem_journey:
-        "Rosalind earned a degree in chemistry from Cambridge University, then a Ph.D. in physical chemistry. She worked on coal structures before moving to Paris to study X-ray crystallography.",
-      challenges:
-        "Rosalind faced gender discrimination in science during the 1950s. She was often excluded from important meetings and her work was sometimes overlooked or attributed to male colleagues.",
-      achievements:
-        "Rosalind produced the famous 'Photo 51,' which showed the helical structure of DNA. Her work provided the key evidence that led to the discovery of the double helix structure.",
-      legacy:
-        "Though not fully recognized during her lifetime, Rosalind is now recognized as a pioneer in structural biology. Her story highlights the importance of recognizing women's contributions in science.",
-    },
+    summary: "Chemist whose X-ray diffraction images of DNA were crucial to understanding its double helix structure.",
     achievements: [
-      "Pioneered the use of X-ray diffraction to study DNA",
-      "Produced the famous 'Photo 51' of DNA structure",
-      "Made significant contributions to understanding virus structures",
-      "Worked on the structure of coal and graphite",
-    ],
-    awards: [],
-    publications: [],
-    education: [
-      {
-        degree: "Ph.D.",
-        field: "Physical Chemistry",
-        institution: "University of Cambridge",
-      },
-    ],
-    timeline: [{ year: 1952, event: "Captured Photo 51 of DNA" }],
-    barriers: ["Faced gender bias and lack of recognition during her lifetime"],
-    impact: "Her data enabled the discovery of the DNA double helix structure.",
-    media: [
-      {
-        type: "book",
-        title: "Rosalind Franklin: The Dark Lady of DNA",
-        url: "https://www.goodreads.com/book/show/124047.Rosalind_Franklin",
-      },
+      "Produced X-ray diffraction images of DNA",
+      "Discovered molecular structure of viruses",
+      "Pioneered crystallography techniques"
     ],
     references: [
-      {
-        title: "Wikipedia",
-        url: "https://en.wikipedia.org/wiki/Rosalind_Franklin",
-      },
-      {
-        title: "Biography.com",
-        url: "https://www.biography.com/scientist/rosalind-franklin",
-      },
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Rosalind_Franklin" }
+    ]
+  },
+  {
+    name: "Hedy Lamarr",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1914",
+    deathDate: "2000",
+    country: "Austria/United States",
+    fields: ["Engineering", "Invention"],
+    roles: ["Inventor", "Actress"],
+    quote: "The brains of people are more interesting than the looks I think.",
+    summary: "Hollywood actress and inventor who co-developed frequency-hopping spread spectrum technology used in modern wireless communications.",
+    achievements: [
+      "Co-invented frequency-hopping spread spectrum",
+      "Technology used in Bluetooth and WiFi",
+      "Inducted into National Inventors Hall of Fame"
     ],
-    mentorship:
-      "Supported and collaborated with other scientists, especially women.",
-    fun_fact: "Enjoyed hiking and traveling.",
-
-    // High Priority - New Metadata
-    career_path: {
-      first_job:
-        "Research scientist at the British Coal Utilization Research Association",
-      career_highlights: [
-        "Pioneered X-ray crystallography techniques",
-        "Made crucial contributions to DNA structure discovery",
-      ],
-      advice_for_students:
-        "Focus on the quality of your work rather than seeking recognition. Good science speaks for itself.",
-    },
-    student_resources: {
-      books_for_students: [
-        "Rosalind Franklin: The Dark Lady of DNA",
-        "The Double Helix by James Watson",
-      ],
-      websites: ["dnaftb.org", "sciencegirls.org", "crystallography.org"],
-      programs: [
-        "Chemistry summer programs",
-        "Women in Science initiatives",
-        "X-ray crystallography workshops",
-      ],
-      advice:
-        "Develop strong technical skills and maintain high standards in your research.",
-    },
-    challenges: {
-      academic: ["Gender bias in scientific institutions"],
-      professional: [
-        "Lack of recognition for her contributions",
-        "Competitive and sometimes hostile work environment",
-      ],
-      personal: [
-        "Working in male-dominated field",
-        "Health issues later in life",
-      ],
-      how_overcame:
-        "Maintained focus on scientific excellence and built collaborative relationships",
-    },
-    education_details: {
-      high_school: "Excelled in science and mathematics",
-      college_major: "Physical Chemistry",
-      graduate_school: "Ph.D. in Physical Chemistry from Cambridge University",
-      key_courses: [
-        "Chemistry",
-        "Physics",
-        "Mathematics",
-        "X-ray Crystallography",
-      ],
-      study_tips:
-        "Master the technical skills and understand the underlying principles",
-    },
-    modern_impact: {
-      current_applications:
-        "Her X-ray techniques are used in drug discovery and materials science",
-      companies_using_her_work: [
-        "Pharmaceutical companies",
-        "Research institutions",
-        "Biotech firms",
-      ],
-      future_implications:
-        "Her methods continue to advance structural biology and drug development",
-    },
-    personal_info: {
-      early_interests: [
-        "Chemistry",
-        "Physics",
-        "Mathematics",
-        "Scientific research",
-      ],
-      family_background:
-        "Well-educated family that supported her scientific interests",
-      hobbies: ["Hiking", "Traveling", "Reading scientific literature"],
-      personality_traits: ["Precise", "Independent", "Thorough", "Dedicated"],
-    },
-    cultural_background: {
-      heritage: "British Jewish intellectual and scientific community",
-      cultural_influences: [
-        "British scientific tradition",
-        "Jewish intellectual heritage",
-        "Cambridge University culture",
-      ],
-      cultural_challenges: [
-        "Anti-Semitism in British society",
-        "Gender barriers in British academia",
-        "Class distinctions in British science",
-      ],
-      cultural_contributions:
-        "Brought Jewish intellectual rigor and British scientific precision to her groundbreaking research",
-    },
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Hedy_Lamarr" }
+    ]
+  },
+  {
+    name: "Shirley Ann Jackson",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1946",
+    country: "United States",
+    fields: ["Physics", "Engineering"],
+    roles: ["Physicist", "University President"],
+    quote: "The best way to predict the future is to invent it.",
+    summary: "First African American woman to earn a doctorate from MIT and first woman to lead a top-ranked research university.",
+    achievements: [
+      "First African American woman with MIT physics PhD",
+      "President of Rensselaer Polytechnic Institute",
+      "Chair of Nuclear Regulatory Commission"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Shirley_Ann_Jackson" }
+    ]
+  },
+  {
+    name: "Rachel Carson",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1907",
+    deathDate: "1964",
+    country: "United States",
+    fields: ["Biology", "Environmental Science"],
+    roles: ["Marine Biologist", "Environmentalist"],
+    quote: "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction.",
+    summary: "Marine biologist and conservationist whose book 'Silent Spring' launched the global environmental movement.",
+    achievements: [
+      "Wrote 'Silent Spring' launching environmental movement",
+      "Pioneered marine biology research",
+      "Received Presidential Medal of Freedom"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Rachel_Carson" }
+    ]
+  },
+  {
+    name: "Ada Lovelace",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1815",
+    deathDate: "1852",
+    country: "United Kingdom",
+    fields: ["Mathematics", "Computing"],
+    roles: ["Mathematician", "Computer Pioneer"],
+    quote: "The Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves.",
+    summary: "First computer programmer who wrote the first algorithm intended to be processed by a machine.",
+    achievements: [
+      "First computer programmer",
+      "Wrote first algorithm for mechanical computer",
+      "Pioneered computer science concepts"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ada_Lovelace" }
+    ]
+  },
+  {
+    name: "Marie Curie",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1867",
+    deathDate: "1934",
+    country: "Poland/France",
+    fields: ["Physics", "Chemistry"],
+    roles: ["Physicist", "Chemist"],
+    quote: "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    summary: "First woman to win a Nobel Prize and the only person to win Nobel Prizes in two different scientific fields.",
+    achievements: [
+      "First woman to win Nobel Prize",
+      "Only person with Nobel Prizes in two sciences",
+      "Discovered radium and polonium"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Marie_Curie" }
+    ]
   },
   {
     name: "Chien-Shiung Wu",
-    photo: "./images/chien-shiung-wu.jpg",
+    photo: "./images/placeholder.jpg",
     birthDate: "1912",
     deathDate: "1997",
     country: "China/United States",
     fields: ["Physics"],
     roles: ["Physicist", "Professor"],
-    quote:
-      "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
-    summary:
-      "Experimental physicist known as the 'First Lady of Physics' for her work on the Manhattan Project and parity violation.",
+    quote: "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
+    summary: "Experimental physicist known as the 'First Lady of Physics' for her work on the Manhattan Project and parity violation.",
     achievements: [
       "Conducted the Wu experiment proving parity violation",
       "Worked on the Manhattan Project",
-      "Called the 'First Lady of Physics'",
+      "Called the 'First Lady of Physics'"
     ],
     references: [
       { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Chien-Shiung_Wu" }
     ]
   },
   {
-    name: "Rachel Carson",
-    photo: "./images/rachel-carson.svg",
-    birthDate: "1907",
-    deathDate: "1964",
-    country: "United States",
-    fields: ["Biology", "Environmental Science"],
-    roles: ["Marine Biologist", "Environmentalist", "Writer"],
-    quote:
-      "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction.",
-    summary:
-      "Marine biologist and conservationist whose book 'Silent Spring' launched the environmental movement.",
-    shortDescription:
-      "Rachel Carson was a marine biologist who became one of the most important environmentalists of the 20th century. Her book 'Silent Spring' warned about the dangers of pesticides and helped start the environmental protection movement. Rachel showed how science writing could change the world and protect our planet.",
-    achievements: [
-      "Wrote 'Silent Spring' which launched the environmental movement",
-      "Worked as a marine biologist for the U.S. government",
-      "Helped ban harmful pesticides like DDT",
-      "Pioneered environmental science communication",
-    ],
-    awards: [
-      "National Book Award",
-      "Presidential Medal of Freedom (posthumous)",
-    ],
-    publications: [
-      { title: "Silent Spring", year: 1962 },
-      { title: "The Sea Around Us", year: 1951 },
-    ],
-    education: [
-      {
-        degree: "Master's",
-        field: "Zoology",
-        institution: "Johns Hopkins University",
-      },
-    ],
-    timeline: [
-      { year: 1951, event: "Published 'The Sea Around Us'" },
-      { year: 1962, event: "Published 'Silent Spring'" },
-      { year: 1972, event: "DDT banned in the United States" },
-    ],
-    barriers: [
-      "Faced criticism from chemical industry",
-      "Gender discrimination in science",
-    ],
-    impact:
-      "Launched the environmental movement and changed how we think about protecting our planet.",
-    media: [
-      {
-        type: "book",
-        title: "Silent Spring",
-        url: "https://www.rachelcarson.org/",
-      },
-    ],
-    references: [
-      {
-        title: "Wikipedia",
-        url: "https://en.wikipedia.org/wiki/Rachel_Carson",
-      },
-      {
-        title: "Rachel Carson Council",
-        url: "https://rachelcarsoncouncil.org/",
-      },
-    ],
-    mentorship:
-      "Inspired generations of environmental scientists and activists.",
-    fun_fact:
-      "Rachel originally wanted to be a writer but fell in love with biology.",
-  },
-  {
-    name: "Hedy Lamarr",
-          photo: "./images/hedy-lamarr.jpg",
-    birthDate: "1914",
-    deathDate: "2000",
-    country: "Austria/United States",
-    fields: ["Engineering", "Technology"],
-    roles: ["Inventor", "Actress"],
-    quote: "The brains of people are more interesting than the looks, I think.",
-    summary:
-      "Hollywood actress and brilliant inventor who developed frequency-hopping technology used in modern wireless communications.",
-    shortDescription:
-      "Hedy Lamarr was a famous Hollywood actress who was also a brilliant inventor! She co-invented frequency-hopping technology that helps keep wireless communications secure. This technology is now used in WiFi, Bluetooth, and GPS. Hedy proved that beauty and brains can go together, and her invention helps protect our privacy every day.",
-    achievements: [
-      "Co-invented frequency-hopping spread spectrum technology",
-      "Technology now used in WiFi, Bluetooth, and GPS",
-      "Successful Hollywood actress",
-      "Pioneered secure wireless communications",
-    ],
-    awards: ["National Inventors Hall of Fame (2014, posthumous)"],
-    publications: [],
-    education: [
-      {
-        degree: "Self-taught",
-        field: "Engineering",
-        institution: "Independent study",
-      },
-    ],
-    timeline: [
-      { year: 1942, event: "Patented frequency-hopping technology" },
-      { year: 2014, event: "Inducted into National Inventors Hall of Fame" },
-    ],
-    barriers: [
-      "Stereotypes about actresses not being serious inventors",
-      "Gender discrimination in engineering",
-    ],
-    impact:
-      "Her invention revolutionized wireless communications and is used in billions of devices today.",
-    media: [
-      {
-        type: "documentary",
-        title: "Bombshell: The Hedy Lamarr Story",
-        url: "https://www.imdb.com/title/tt7282468/",
-      },
-    ],
-    references: [
-      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Hedy_Lamarr" },
-      {
-        title: "National Inventors Hall of Fame",
-        url: "https://www.invent.org/inductees/hedy-lamarr",
-      },
-    ],
-    mentorship:
-      "Inspired women to pursue both artistic and scientific careers.",
-    fun_fact:
-      "Hedy was called 'the most beautiful woman in the world' but preferred to be known for her inventions.",
-  },
-  {
-    name: "Shirley Ann Jackson",
-          photo: "./images/shirley-ann-jackson.jpg",
-    birthDate: "1946",
-    country: "United States",
-    fields: ["Physics", "Engineering"],
-    roles: ["Physicist", "University President", "Regulator"],
-    quote:
-      "You have to be prepared to work hard and to be persistent and to be focused.",
-    summary:
-      "First African American woman to earn a Ph.D. from MIT and first woman to chair the U.S. Nuclear Regulatory Commission.",
-    shortDescription:
-      "Shirley Ann Jackson is a brilliant physicist who broke many barriers. She was the first African American woman to earn a Ph.D. from MIT and later became the first woman to lead the U.S. Nuclear Regulatory Commission. Now she's the president of Rensselaer Polytechnic Institute, one of the top engineering schools in the country. Shirley shows that with hard work and determination, you can achieve anything in STEM.",
-    achievements: [
-      "First African American woman to earn a Ph.D. from MIT",
-      "First woman to chair the U.S. Nuclear Regulatory Commission",
-      "President of Rensselaer Polytechnic Institute",
-      "Pioneering research in theoretical physics",
-    ],
-    awards: [
-      "National Medal of Science",
-      "Vannevar Bush Award",
-      "Elected to National Academy of Engineering",
-    ],
-    publications: [{ title: "Theoretical Physics Research", field: "Physics" }],
-    education: [
-      {
-        degree: "Ph.D.",
-        field: "Physics",
-        institution: "Massachusetts Institute of Technology",
-      },
-    ],
-    timeline: [
-      { year: 1968, event: "Earned bachelor's degree from MIT" },
-      {
-        year: 1973,
-        event: "First African American woman to earn Ph.D. from MIT",
-      },
-      {
-        year: 1995,
-        event: "Became chair of U.S. Nuclear Regulatory Commission",
-      },
-      {
-        year: 1999,
-        event: "Became president of Rensselaer Polytechnic Institute",
-      },
-    ],
-    barriers: [
-      "Racial discrimination in academia",
-      "Gender discrimination in physics",
-      "Being one of few African American women in her field",
-    ],
-    impact:
-      "Opened doors for women and minorities in physics and engineering, leading major institutions.",
-    media: [
-      {
-        type: "article",
-        title: "Shirley Ann Jackson: A Trailblazer in Physics",
-        url: "https://www.aps.org/publications/apsnews/201904/jackson.cfm",
-      },
-    ],
-    references: [
-      {
-        title: "Wikipedia",
-        url: "https://en.wikipedia.org/wiki/Shirley_Ann_Jackson",
-      },
-      { title: "RPI President", url: "https://president.rpi.edu/" },
-    ],
-    mentorship:
-      "Mentors countless students and advocates for diversity in STEM.",
-    fun_fact:
-      "Shirley was one of only two African American students in her MIT graduating class.",
-  },
-  {
     name: "Caroline Keep",
-          photo: "./images/caroline-keep.jpg",
+    photo: "./images/placeholder.jpg",
     birthDate: "1980",
     country: "United Kingdom",
     fields: ["Education", "Technology"],
     roles: ["Educator", "STEM Advocate"],
     quote: "Education is the most powerful tool for changing the world.",
-    summary:
-      "Award-winning educator and advocate for makerspaces and STEM education in schools.",
+    summary: "Award-winning educator and advocate for makerspaces and STEM education in schools.",
     achievements: [
       "Winner of the TES New Teacher of the Year Award",
       "Founded makerspaces in UK schools",
-      "Promotes STEM and digital skills for girls",
+      "Promotes STEM and digital skills for girls"
     ],
     references: [
       { title: "TES Awards", url: "https://www.tes.com/awards" }
@@ -1044,7 +535,7 @@ const pioneers = [
       "Discovered artemisinin, saving millions from malaria; Nobel Prize winner.",
     achievements: [
       "Discovered artemisinin for malaria treatment",
-      "First Chinese woman to win a Nobel Prize in Physiology or Medicine",
+      "Nobel Prize in Physiology or Medicine (2015)",
       "Transformed global malaria treatment",
     ],
     references: [
@@ -1083,7 +574,7 @@ const pioneers = [
       "Nobel Prize-winning geneticist who discovered transposable elements (jumping genes).",
     achievements: [
       "Discovered genetic transposition",
-      "First woman to win an unshared Nobel Prize in Physiology or Medicine",
+      "Nobel Prize in Physiology or Medicine (1983)",
       "Pioneered maize cytogenetics",
     ],
     references: [
@@ -2741,6 +2232,173 @@ const pioneers = [
     ],
     references: [
       { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Jane_Goodall" }
+    ]
+  },
+  {
+    name: "Emilie du Châtelet",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1706",
+    deathDate: "1749",
+    country: "France",
+    fields: ["Physics", "Mathematics"],
+    roles: ["Physicist", "Mathematician"],
+    quote: "The study of mathematics is the foundation of all exact knowledge of natural phenomena.",
+    summary: "French mathematician and physicist who translated and commented on Newton's Principia, advancing physics in Europe.",
+    achievements: [
+      "Translated Newton's Principia into French",
+      "Advanced understanding of kinetic energy",
+      "Pioneered women's participation in science"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet" }
+    ]
+  },
+  {
+    name: "Agnes Pockels",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1862",
+    deathDate: "1935",
+    country: "Germany",
+    fields: ["Chemistry", "Physics"],
+    roles: ["Chemist", "Physicist"],
+    quote: "Science is not limited by gender, only by curiosity and determination.",
+    summary: "Self-taught chemist who pioneered surface chemistry and invented the surface film balance.",
+    achievements: [
+      "Invented surface film balance",
+      "Pioneered surface chemistry",
+      "Published over 20 scientific papers"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Agnes_Pockels" }
+    ]
+  },
+  {
+    name: "Hertha Ayrton",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1854",
+    deathDate: "1923",
+    country: "United Kingdom",
+    fields: ["Physics", "Engineering"],
+    roles: ["Physicist", "Engineer"],
+    quote: "An error that ascribes to a man what was actually the work of a woman has more lives than a cat.",
+    summary: "British physicist and engineer who studied electric arcs and was the first woman to read a paper before the Royal Society.",
+    achievements: [
+      "First woman to read paper before Royal Society",
+      "Studied electric arcs and sand ripples",
+      "Held 26 patents for inventions"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Hertha_Ayrton" }
+    ]
+  },
+  {
+    name: "Lise Meitner",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1878",
+    deathDate: "1968",
+    country: "Austria/Germany/Sweden",
+    fields: ["Physics"],
+    roles: ["Physicist"],
+    quote: "Science makes people reach selflessly for truth and objectivity.",
+    summary: "Co-discovered nuclear fission; element Meitnerium named in her honor.",
+    achievements: [
+      "Co-discovered nuclear fission",
+      "First woman full professor of physics in Germany",
+      "Element 109 (Meitnerium) named after her"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Lise_Meitner" }
+    ]
+  },
+  {
+    name: "Dorothy Vaughan",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1910",
+    deathDate: "2008",
+    country: "United States",
+    fields: ["Mathematics", "Computing"],
+    roles: ["Mathematician", "Computer Programmer"],
+    quote: "I changed what I could, and what I couldn't, I endured.",
+    summary: "NASA mathematician and supervisor, featured in 'Hidden Figures'.",
+    achievements: [
+      "First African American supervisor at NASA",
+      "Expert in FORTRAN programming",
+      "Paved the way for women in computing"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Dorothy_Vaughan" }
+    ]
+  },
+  {
+    name: "Ellen Ochoa",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1958",
+    country: "United States",
+    fields: ["Astronomy", "Engineering"],
+    roles: ["Astronaut", "Engineer"],
+    quote: "Don't be afraid to reach for the stars.",
+    summary: "First Hispanic woman in space and former director of Johnson Space Center.",
+    achievements: [
+      "First Hispanic woman in space",
+      "Director of NASA Johnson Space Center",
+      "Inventor with multiple patents"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ellen_Ochoa" }
+    ]
+  },
+  {
+    name: "Ada Yonath",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1939",
+    country: "Israel",
+    fields: ["Chemistry", "Biology"],
+    roles: ["Crystallographer", "Professor"],
+    quote: "Curiosity is the driving force for discovery.",
+    summary: "Nobel Prize-winning crystallographer who revealed the structure of ribosomes.",
+    achievements: [
+      "First woman in 45 years to win Nobel Prize in Chemistry",
+      "Solved structure of ribosomes",
+      "Advanced antibiotic research"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ada_Yonath" }
+    ]
+  },
+  {
+    name: "Valentina Tereshkova",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1937",
+    country: "Russia",
+    fields: ["Astronomy", "Engineering"],
+    roles: ["Cosmonaut", "Engineer"],
+    quote: "Once you've been in space, you appreciate how small and fragile the Earth is.",
+    summary: "First woman to fly in space, piloting Vostok 6 in 1963.",
+    achievements: [
+      "First woman in space",
+      "Orbited Earth 48 times",
+      "Role model for women in STEM worldwide"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Valentina_Tereshkova" }
+    ]
+  },
+  {
+    name: "Radia Perlman",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1951",
+    country: "United States",
+    fields: ["Computer Science", "Engineering"],
+    roles: ["Computer Scientist", "Engineer"],
+    quote: "I never thought of myself as a woman in science. I just thought of myself as a person who loves science.",
+    summary: "Inventor of the spanning-tree protocol, known as the 'Mother of the Internet'.",
+    achievements: [
+      "Invented the spanning-tree protocol",
+      "Pioneered network design and security",
+      "Inducted into the Internet Hall of Fame"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Radia_Perlman" }
     ]
   }
 ];
