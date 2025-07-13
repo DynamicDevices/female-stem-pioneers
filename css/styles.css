@@ -2957,12 +2957,26 @@ body.light-theme .mobile-menu-toggle span {
   pointer-events: none;
   max-height: 200px;
   overflow-y: auto;
+  /* Ensure it's positioned above the card with proper spacing */
+  margin-bottom: 10px;
 }
 
 /* Show below if not enough space above (fallback for top cut-off) */
 .field-badge:hover .field-info-box,
 .field-badge:focus .field-info-box {
   display: block;
+}
+
+/* Ensure the tooltip appears above the card container */
+.pioneer-card {
+  position: relative;
+  overflow: visible;
+}
+
+/* Pioneer field with enhanced styling */
+.pioneer-field {
+  position: relative;
+  overflow: visible;
 }
 
 @media (max-width: 600px) {
@@ -2972,5 +2986,7 @@ body.light-theme .mobile-menu-toggle span {
     transform: none;
     min-width: unset;
     max-width: 95vw;
+    /* Ensure mobile tooltips don't get cut off */
+    bottom: 130%;
   }
 }
