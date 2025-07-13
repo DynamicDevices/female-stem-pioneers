@@ -1589,11 +1589,26 @@ const pioneers = [
 
 // Remove duplicates by name
 const seen = new Set();
+const duplicates = [];
 const uniquePioneers = pioneers.filter((p) => {
-  if (seen.has(p.name)) return false;
+  if (seen.has(p.name)) {
+    duplicates.push(p.name);
+    return false;
+  }
   seen.add(p.name);
   return true;
 });
+
+// Log duplicate removal information
+if (duplicates.length > 0) {
+  console.log(`🔍 Found ${duplicates.length} duplicate pioneer entries:`);
+  console.log(`   Duplicate names: ${[...new Set(duplicates)].join(', ')}`);
+  console.log(`   Original count: ${pioneers.length} pioneers`);
+  console.log(`   After removing duplicates: ${uniquePioneers.length} unique pioneers`);
+  console.log(`   Removed ${pioneers.length - uniquePioneers.length} duplicate entries`);
+} else {
+  console.log(`✅ No duplicate pioneers found. All ${pioneers.length} entries are unique.`);
+}
 
 // Export for use in other files
 if (typeof module !== "undefined" && module.exports) {
