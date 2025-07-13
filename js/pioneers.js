@@ -304,6 +304,7 @@ const pioneers = [
     roles: ["Mathematician", "Computer Scientist"],
     quote: "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed... anything that could be counted, I did.",
     summary: "NASA mathematician whose calculations were critical to the success of early space missions, featured in 'Hidden Figures'.",
+    shortDescription: "Katherine Johnson was a NASA mathematician whose calculations were critical to the success of early space missions, including the Apollo 11 moon landing. Her work helped ensure the safety of astronauts and the success of space exploration. Despite facing both racial and gender discrimination, she became the first African American woman to work as a NASA scientist and received the Presidential Medal of Freedom for her contributions to space exploration.",
     achievements: [
       "Calculated trajectories for Apollo 11 moon landing",
       "First African American woman to work as a NASA scientist",
@@ -323,6 +324,7 @@ const pioneers = [
     roles: ["Computer Scientist", "Navy Admiral"],
     quote: "The most damaging phrase in the language is 'We've always done it this way!'",
     summary: "Pioneering computer scientist who developed the first compiler and popularized the term 'debugging'.",
+    shortDescription: "Grace Hopper was a pioneering computer scientist who developed the first compiler and popularized the term 'debugging'. She was instrumental in the development of COBOL, a programming language that is still widely used today. As a Navy Admiral, she broke barriers for women in both technology and the military, becoming the first woman to receive the National Medal of Technology and inspiring generations of programmers.",
     achievements: [
       "Developed first computer compiler",
       "Invented COBOL programming language",
@@ -342,6 +344,7 @@ const pioneers = [
     roles: ["Chemist", "Crystallographer"],
     quote: "Science and everyday life cannot and should not be separated.",
     summary: "Chemist whose X-ray diffraction images of DNA were crucial to understanding its double helix structure.",
+    shortDescription: "Rosalind Franklin's X-ray diffraction images of DNA were crucial to understanding its double helix structure. Her work laid the foundation for the discovery of the structure of DNA and the understanding of genetic inheritance. Despite her critical contributions to one of the most important scientific discoveries of the 20th century, her work was initially overlooked, highlighting the importance of recognizing all contributors to scientific breakthroughs.",
     achievements: [
       "Produced X-ray diffraction images of DNA",
       "Discovered molecular structure of viruses",
@@ -361,6 +364,7 @@ const pioneers = [
     roles: ["Inventor", "Actress"],
     quote: "The brains of people are more interesting than the looks I think.",
     summary: "Hollywood actress and inventor who co-developed frequency-hopping spread spectrum technology used in modern wireless communications.",
+    shortDescription: "Hedy Lamarr was a Hollywood actress and inventor who co-developed frequency-hopping spread spectrum technology used in modern wireless communications. Her invention, which predates modern WiFi and Bluetooth, laid the groundwork for secure communication systems. Despite being known primarily for her acting career, her technological contributions have had a lasting impact on modern communication technology.",
     achievements: [
       "Co-invented frequency-hopping spread spectrum",
       "Technology used in Bluetooth and WiFi",
@@ -379,6 +383,7 @@ const pioneers = [
     roles: ["Physicist", "University President"],
     quote: "The best way to predict the future is to invent it.",
     summary: "First African American woman to earn a doctorate from MIT and first woman to lead a top-ranked research university.",
+    shortDescription: "Shirley Ann Jackson was the first African American woman to earn a doctorate from MIT and the first woman to lead a top-ranked research university. She was a physicist and advocate for science education, serving as president of Rensselaer Polytechnic Institute and chair of the Nuclear Regulatory Commission. Her leadership has opened doors for women and minorities in STEM fields.",
     achievements: [
       "First African American woman with MIT physics PhD",
       "President of Rensselaer Polytechnic Institute",
@@ -398,6 +403,7 @@ const pioneers = [
     roles: ["Marine Biologist", "Environmentalist"],
     quote: "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction.",
     summary: "Marine biologist and conservationist whose book 'Silent Spring' launched the global environmental movement.",
+    shortDescription: "Rachel Carson was a marine biologist and conservationist whose book 'Silent Spring' launched the global environmental movement. Her work raised awareness about the dangers of pesticides and the importance of preserving natural habitats. Her scientific writing helped bridge the gap between scientific research and public understanding, demonstrating how scientists can communicate complex issues to the general public.",
     achievements: [
       "Wrote 'Silent Spring' launching environmental movement",
       "Pioneered marine biology research",
@@ -455,6 +461,7 @@ const pioneers = [
     roles: ["Physicist", "Professor"],
     quote: "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
     summary: "Experimental physicist known as the 'First Lady of Physics' for her work on the Manhattan Project and parity violation.",
+    shortDescription: "Chien-Shiung Wu was an experimental physicist known as the 'First Lady of Physics' for her work on the Manhattan Project and parity violation. She conducted the Wu experiment proving parity violation, a fundamental principle in physics. Her work on nuclear physics was fundamental to our understanding of atomic energy and she became the first woman to receive the Wolf Prize in Physics.",
     achievements: [
       "Conducted the Wu experiment proving parity violation",
       "Worked on the Manhattan Project",
@@ -473,6 +480,7 @@ const pioneers = [
     roles: ["Educator", "STEM Advocate"],
     quote: "Education is the most powerful tool for changing the world.",
     summary: "Award-winning educator and advocate for makerspaces and STEM education in schools.",
+    shortDescription: "Caroline Keep is an award-winning educator and advocate for makerspaces and STEM education in schools. She founded makerspaces in UK schools and promotes STEM and digital skills for girls. Her innovative approach to education has inspired teachers and students alike, showing how hands-on learning can make STEM subjects more accessible and engaging for all students.",
     achievements: [
       "Winner of the TES New Teacher of the Year Award",
       "Founded makerspaces in UK schools",
@@ -493,6 +501,7 @@ const pioneers = [
       "Innovation is seeing what everybody has seen and thinking what nobody has thought.",
     summary:
       "Robotics engineer and researcher advancing automation and AI in India.",
+    shortDescription: "Princy Johnson is a robotics engineer and researcher advancing automation and AI in India. She developed low-cost robotics solutions for education and published research on AI and automation. Her work demonstrates how technology can be used to solve real-world problems and make STEM education more accessible to students in developing countries.",
     achievements: [
       "Developed low-cost robotics solutions for education",
       "Published research on AI and automation",
@@ -514,6 +523,7 @@ const pioneers = [
       "The beauty of mathematics only shows itself to more patient followers.",
     summary:
       "First woman to win the Fields Medal, the highest honor in mathematics.",
+    shortDescription: "Maryam Mirzakhani was the first woman to win the Fields Medal, the highest honor in mathematics. She pioneered research in geometry and dynamical systems, making groundbreaking contributions to the understanding of complex mathematical structures. Her work showed that women could excel at the highest levels of pure mathematics, inspiring countless young mathematicians around the world.",
     achievements: [
       "First woman and first Iranian to win the Fields Medal",
       "Pioneered research in geometry and dynamical systems",
@@ -533,6 +543,7 @@ const pioneers = [
     quote: "Every scientist dreams of doing something that can help the world.",
     summary:
       "Discovered artemisinin, saving millions from malaria; Nobel Prize winner.",
+    shortDescription: "Tu Youyou discovered artemisinin, a groundbreaking malaria treatment, saving millions of lives. She won the Nobel Prize in Physiology or Medicine for her discovery, becoming the first Chinese woman to win a Nobel Prize in science. Her work demonstrates how traditional medicine and modern scientific methods can be combined to solve global health challenges.",
     achievements: [
       "Discovered artemisinin for malaria treatment",
       "Nobel Prize in Physiology or Medicine (2015)",
@@ -551,6 +562,7 @@ const pioneers = [
     roles: ["Astronaut", "Physician"],
     quote: "Never be limited by other people's limited imaginations.",
     summary: "First African American woman in space; physician and engineer.",
+    shortDescription: "Mae Jemison was the first African American woman in space. She was a physician and engineer, serving as a mission specialist on the Space Shuttle Endeavour. After her space career, she founded the Jemison Group to develop advanced technologies and has been a strong advocate for science education, especially for girls and minorities.",
     achievements: [
       "First African American woman to travel in space",
       "Mission specialist on Space Shuttle Endeavour",
@@ -572,6 +584,7 @@ const pioneers = [
       "If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off... no matter what they say.",
     summary:
       "Nobel Prize-winning geneticist who discovered transposable elements (jumping genes).",
+    shortDescription: "Barbara McClintock was a Nobel Prize-winning geneticist who discovered transposable elements (jumping genes) in maize. Her work laid the foundation for understanding genetic inheritance and plant breeding. Despite initial skepticism from the scientific community, her discoveries revolutionized our understanding of genetics and earned her the Nobel Prize in Physiology or Medicine.",
     achievements: [
       "Discovered genetic transposition",
       "Nobel Prize in Physiology or Medicine (1983)",
@@ -592,6 +605,7 @@ const pioneers = [
     quote: "Science makes people reach selflessly for truth and objectivity.",
     summary:
       "Co-discovered nuclear fission; element Meitnerium named in her honor.",
+    shortDescription: "Lise Meitner co-discovered nuclear fission and was the first woman full professor of physics in Germany. Her work on nuclear physics was fundamental to our understanding of atomic energy. Despite being forced to flee Nazi Germany, she continued her research and made crucial contributions to nuclear physics, though she was often overlooked in favor of her male colleagues.",
     achievements: [
       "Co-discovered nuclear fission",
       "First woman full professor of physics in Germany",
@@ -611,6 +625,7 @@ const pioneers = [
     roles: ["Mathematician", "Computer Programmer"],
     quote: "I changed what I could, and what I couldn't, I endured.",
     summary: "NASA mathematician and supervisor, featured in 'Hidden Figures'.",
+    shortDescription: "Dorothy Vaughan was a NASA mathematician and supervisor, featured in the book and movie 'Hidden Figures'. She paved the way for women in computing and was the first African American supervisor at NASA. Her expertise in FORTRAN programming helped transition NASA from human computers to electronic computers, and she mentored many women who followed in her footsteps.",
     achievements: [
       "First African American supervisor at NASA",
       "Expert in FORTRAN programming",
@@ -630,6 +645,7 @@ const pioneers = [
     quote: "Don't be afraid to reach for the stars.",
     summary:
       "First Hispanic woman in space and former director of Johnson Space Center.",
+    shortDescription: "Ellen Ochoa was the first Hispanic woman in space and former director of Johnson Space Center. She was an astronaut and engineer, serving as an inventor with multiple patents. Her leadership at NASA has inspired countless Hispanic students to pursue careers in STEM, and she continues to advocate for diversity in the space program.",
     achievements: [
       "First Hispanic woman in space",
       "Director of NASA Johnson Space Center",
@@ -649,6 +665,7 @@ const pioneers = [
     quote: "Curiosity is the driving force for discovery.",
     summary:
       "Nobel Prize-winning crystallographer who revealed the structure of ribosomes.",
+    shortDescription: "Ada Yonath was a Nobel Prize-winning crystallographer who revealed the structure of ribosomes. Her work on ribosomes is fundamental to our understanding of protein synthesis and antibiotic research. She was the first woman in 45 years to win the Nobel Prize in Chemistry, and her research has led to the development of new antibiotics that target bacterial ribosomes.",
     achievements: [
       "First woman in 45 years to win Nobel Prize in Chemistry",
       "Solved structure of ribosomes",
@@ -668,6 +685,7 @@ const pioneers = [
     quote:
       "Once you've been in space, you appreciate how small and fragile the Earth is.",
     summary: "First woman to fly in space, piloting Vostok 6 in 1963.",
+    shortDescription: "Valentina Tereshkova was the first woman to fly in space, piloting Vostok 6 in 1963. She orbited Earth 48 times and became a role model for women in STEM worldwide. Her historic flight proved that women could handle the physical and mental demands of space travel, opening the door for future female astronauts and cosmonauts.",
     achievements: [
       "First woman in space",
       "Orbited Earth 48 times",
@@ -688,6 +706,7 @@ const pioneers = [
       "I never thought of myself as a woman in science. I just thought of myself as a person who loves science.",
     summary:
       "Inventor of the spanning-tree protocol, known as the 'Mother of the Internet'.",
+    shortDescription: "Radia Perlman is the inventor of the spanning-tree protocol, known as the 'Mother of the Internet'. She pioneered network design and security, and was inducted into the Internet Hall of Fame. Her work on network protocols has been fundamental to the development of the modern internet, and she continues to be a leading voice in computer networking and security.",
     achievements: [
       "Invented the spanning-tree protocol",
       "Pioneered network design and security",
@@ -708,6 +727,7 @@ const pioneers = [
     quote: "Mathematics is a creative art.",
     summary:
       "First woman to earn a doctorate in any field in Germany; contributed to calculus and analysis.",
+    shortDescription: "Grace Chisholm Young was the first woman to earn a doctorate in any field in Germany, contributing to calculus and set theory. She paved the way for women in mathematics and published influential mathematics textbooks. Her work demonstrated that women could excel in advanced mathematics and helped establish the foundation for modern mathematical education.",
     achievements: [
       "First woman to earn a doctorate in Germany",
       "Published influential mathematics textbooks",
@@ -728,6 +748,7 @@ const pioneers = [
     quote: "My advice is: work hard, have fun, and make history.",
     summary:
       "Known as the 'Queen of Carbon Science' for her pioneering work in nanotechnology.",
+    shortDescription: "Mildred Dresselhaus was known as the 'Queen of Carbon Science' for her pioneering work in nanotechnology. She was the first female Institute Professor at MIT and a National Medal of Science recipient. Her research on carbon nanostructures laid the foundation for modern nanotechnology and inspired countless women to pursue careers in physics and engineering.",
     achievements: [
       "Pioneered research in carbon nanostructures",
       "First female Institute Professor at MIT",
@@ -749,6 +770,7 @@ const pioneers = [
       "Science is a way of thinking much more than it is a body of knowledge.",
     summary:
       "First to clone HIV and determine its gene functions, advancing AIDS research.",
+    shortDescription: "Flossie Wong-Staal was the first to clone HIV and determine its gene functions, advancing AIDS research. Her groundbreaking work on HIV genetics has been crucial to understanding the virus and developing treatments. She was a leader in AIDS research and her contributions have saved countless lives through improved understanding of HIV infection and treatment.",
     achievements: [
       "First to clone HIV",
       "Mapped HIV gene functions",
@@ -770,6 +792,7 @@ const pioneers = [
       "Algebra is but written geometry and geometry is but written algebra.",
     summary:
       "Pioneered elasticity theory and made contributions to number theory despite facing gender barriers.",
+    shortDescription: "Sophie Germain was a self-taught mathematician who made foundational contributions to number theory and elasticity theory. She was the first woman to win a prize from the Paris Academy of Sciences. Despite facing significant gender barriers in 18th-century France, she made important contributions to mathematics and physics, including work on Fermat's Last Theorem.",
     achievements: [
       "Pioneered elasticity theory",
       "Contributed to Fermat's Last Theorem",
@@ -789,6 +812,7 @@ const pioneers = [
     quote: "Innovation is the soul of progress.",
     summary:
       "Ancient Chinese inventor credited with the creation of the mechanical loom.",
+    shortDescription: "Chieng Shih was an ancient Chinese inventor credited with creating the first mechanical loom. Her invention laid the foundation for textile engineering in ancient China and revolutionized the production of silk and other fabrics. Her work demonstrates how early women inventors contributed to technological advancement and industrial development.",
     achievements: [
       "Invented the mechanical loom",
       "Advanced textile technology in ancient China",
@@ -810,6 +834,7 @@ const pioneers = [
       "To function efficiently, any group of people must have faith in their leader.",
     summary:
       "First Native American female engineer; worked on NASA's space program.",
+    shortDescription: "Mary Golda Ross was the first Native American female engineer, contributing to early spaceflight and missile design at Lockheed. She worked on NASA space programs and pioneered aerospace engineering research. Her work helped establish the foundation for modern space exploration and inspired Native American students to pursue careers in engineering.",
     achievements: [
       "First Native American female engineer",
       "Worked on NASA space programs",
@@ -828,6 +853,7 @@ const pioneers = [
       "Science is not a luxury but a necessity for the progress of humanity.",
     summary:
       "Indian chemist who pioneered research in medicinal plants and anti-malarial drugs.",
+    shortDescription: "Asima Chatterjee was an Indian chemist who pioneered research in medicinal plants and anti-malarial drugs. She was the first Indian woman to receive a Doctor of Science degree and made significant contributions to organic chemistry and phytomedicine. Her work on natural products and medicinal chemistry has had lasting impact on drug discovery and traditional medicine research.",
     achievements: [
       "Pioneered research in medicinal plants",
       "Developed anti-malarial drugs",
@@ -845,6 +871,7 @@ const pioneers = [
     quote: "I have always tried to do what I could to help others.",
     summary:
       "Developed the first successful treatment for leprosy and was the first African American woman to earn a master's from the University of Hawaii.",
+    shortDescription: "Alice Ball developed the first successful treatment for leprosy (the Ball Method). She was the first woman and first African American to earn a master's from University of Hawaii. Her innovative extraction method for chaulmoogra oil provided the first effective treatment for leprosy patients, saving countless lives and improving the quality of life for those with the disease.",
     achievements: [
       "Developed leprosy treatment",
       "First African American woman with master's from UH",
@@ -863,6 +890,7 @@ const pioneers = [
       "Nothing has afforded me so convincing a proof of the unity of the Deity as these purely mental conceptions of numerical and mathematical science.",
     summary:
       "Popularized science and mathematics, and her work led to the discovery of Neptune.",
+    shortDescription: "Mary Somerville was a self-taught mathematician and astronomer who wrote influential scientific books and was called 'the queen of science'. She popularized science and mathematics and was the first person to be called 'scientist'. Her work led to the discovery of Neptune and she became the first female member of the Royal Astronomical Society.",
     achievements: [
       "Popularized science and mathematics",
       "Work led to discovery of Neptune",
@@ -881,6 +909,7 @@ const pioneers = [
       "The love for and dedication to one's work is the foundation of all happiness.",
     summary:
       "First woman to win the Nobel Prize in Physiology or Medicine for her work on carbohydrate metabolism.",
+    shortDescription: "Gerty Cori was the first woman to win the Nobel Prize in Physiology or Medicine for her work on carbohydrate metabolism. She discovered the Cori cycle and pioneered research in biochemistry. Her work with her husband Carl Cori on how the body processes glucose has been fundamental to our understanding of metabolism and diabetes research.",
     achievements: [
       "Nobel Prize in Physiology or Medicine (1947)",
       "Discovered the Cori cycle",
@@ -899,6 +928,7 @@ const pioneers = [
       "You should know how many incompetent men I had to compete with—in vain.",
     summary:
       "Discovered the Earth's inner core, revolutionizing our understanding of the planet's structure.",
+    shortDescription: "Inge Lehmann discovered the Earth's inner core, revolutionizing our understanding of the planet's structure. She pioneered seismology and was the first woman to receive the William Bowie Medal. Her analysis of seismic waves revealed that the Earth has a solid inner core surrounded by a liquid outer core, fundamentally changing our understanding of Earth's interior.",
     achievements: [
       "Discovered Earth's inner core",
       "Pioneered seismology",
@@ -916,6 +946,7 @@ const pioneers = [
     quote: "I was captured for life by chemistry and by crystals.",
     summary:
       "Nobel Prize-winning chemist who determined the structure of penicillin and vitamin B12 using X-ray crystallography.",
+    shortDescription: "Dorothy Mary Crowfoot Hodgkin was a Nobel Prize-winning chemist who determined the structure of penicillin and vitamin B12 using X-ray crystallography. She was instrumental in the discovery of the structure of DNA and antibiotic research. Her work on protein structures has been crucial to understanding how drugs work and developing new medicines.",
     achievements: [
       "Nobel Prize in Chemistry (1964)",
       "Determined structure of penicillin",
@@ -933,6 +964,7 @@ const pioneers = [
       "What you do makes a difference, and you have to decide what kind of difference you want to make.",
     summary:
       "World-renowned primatologist who transformed our understanding of chimpanzees and animal behavior.",
+    shortDescription: "Jane Goodall was a world-renowned primatologist who transformed our understanding of chimpanzees and animal behavior. She founded the Jane Goodall Institute and was the UN Messenger of Peace. Her groundbreaking research showed that chimpanzees use tools and have complex social relationships, revolutionizing our understanding of animal intelligence and conservation.",
     achievements: [
       "Transformed primatology",
       "Founded the Jane Goodall Institute",
@@ -981,6 +1013,7 @@ const pioneers = [
     quote: "I never set out to be a pioneer. I just wanted to do my job well.",
     summary:
       "Mathematician whose work on satellite geodesy was crucial to the development of GPS.",
+    shortDescription: "Gladys West was a mathematician whose work on satellite geodesy was crucial to the development of GPS. She pioneered satellite geodesy and developed mathematical modeling for GPS. Her work was inducted into the Air Force Space and Missile Pioneers Hall of Fame, and she helped create the mathematical foundation for the global positioning system we use today.",
     achievements: [
       "Pioneered satellite geodesy",
       "Developed mathematical modeling for GPS",
@@ -1087,6 +1120,7 @@ const pioneers = [
     roles: ["Mathematician"],
     quote: "Mathematics is a creative art.",
     summary: "Pioneering mathematician in chaos theory and nonlinear differential equations.",
+    shortDescription: "Mary Cartwright was a pioneering mathematician in chaos theory and nonlinear differential equations. She made major contributions to chaos theory and was the first female president of the London Mathematical Society. Her work on differential equations helped establish the mathematical foundation for understanding complex systems and chaotic behavior.",
     achievements: [
       "Major contributions to chaos theory",
       "First female president of the London Mathematical Society"
@@ -1177,6 +1211,7 @@ const pioneers = [
     roles: ["Astronomer", "Scientist"],
     quote: "I found I was to be trained as an assistant to my brother.",
     summary: "First woman to discover a comet and receive a salary for scientific work.",
+    shortDescription: "Caroline Herschel was the first woman to discover a comet and receive a salary for scientific work. She discovered 8 comets total and was the first woman to receive salary for scientific work. Her astronomical observations and cataloging work with her brother William Herschel helped establish the foundation for modern astronomy and proved that women could excel in scientific research.",
     achievements: [
       "First woman to discover a comet",
       "Discovered 8 comets total",
@@ -1196,6 +1231,7 @@ const pioneers = [
     roles: ["Engineer", "Inventor"],
     quote: "The sun is the only source of energy that will last as long as the earth itself.",
     summary: "Pioneering solar energy researcher who developed the first solar-powered heating system for homes.",
+    shortDescription: "Maria Telkes pioneered solar energy research and developed the first solar-powered heating system for homes. Her work on solar thermal energy storage laid the foundation for renewable energy technologies. She invented the solar distillation process and was a pioneer in sustainable energy solutions, demonstrating how solar power could be harnessed for practical applications.",
     achievements: [
       "Developed first solar-powered heating system",
       "Invented solar distillation process",
@@ -1215,6 +1251,7 @@ const pioneers = [
     roles: ["Astronomer", "Instrument Maker"],
     quote: "The stars guide us to knowledge beyond our earthly bounds.",
     summary: "Medieval astronomer and instrument maker who created sophisticated astrolabes for celestial navigation.",
+    shortDescription: "Mariam Al-Astrulabi was a medieval astronomer and instrument maker who created sophisticated astrolabes for celestial navigation. Her contributions to Islamic Golden Age astronomy laid the foundation for astronomical instrument making. Her work demonstrates how women contributed to scientific advancement during the medieval period and helped develop the tools that enabled navigation and astronomical observation.",
     achievements: [
       "Created advanced astrolabes for navigation",
       "Pioneered astronomical instrument making",
@@ -1234,6 +1271,7 @@ const pioneers = [
     roles: ["Botanist", "Cytogeneticist"],
     quote: "Plants are the foundation of life on earth.",
     summary: "Pioneering botanist and cytogeneticist who made significant contributions to plant breeding and conservation.",
+    shortDescription: "Janaki Ammal was a pioneering botanist and cytogeneticist who made significant contributions to plant breeding and conservation. She pioneered plant cytogenetics in India and developed hybrid sugarcane varieties. Her work established botanical gardens and conservation programs, demonstrating how scientific research can contribute to agricultural improvement and environmental preservation.",
     achievements: [
       "Pioneered plant cytogenetics in India",
       "Developed hybrid sugarcane varieties",
@@ -1253,6 +1291,7 @@ const pioneers = [
     roles: ["Engineer", "Inventor"],
     quote: "Engineering is about solving problems and making things work better.",
     summary: "Aerospace engineer who invented the hydrazine resistojet propulsion system used in satellites.",
+    shortDescription: "Yvonne Brill was an aerospace engineer who invented the hydrazine resistojet propulsion system used in satellites. She developed propulsion systems for satellites and was the first woman to receive National Medal of Technology and Innovation. Her work on satellite propulsion systems has been crucial to modern space technology and telecommunications.",
     achievements: [
       "Invented hydrazine resistojet propulsion system",
       "Developed propulsion systems for satellites",
@@ -1271,6 +1310,7 @@ const pioneers = [
     roles: ["Atmospheric Chemist", "Professor"],
     quote: "Science is about asking the right questions and being persistent in finding answers.",
     summary: "Atmospheric chemist who identified the cause of the Antarctic ozone hole and led international ozone research.",
+    shortDescription: "Susan Solomon was an atmospheric chemist who identified the cause of the Antarctic ozone hole and led international ozone research. She received the National Medal of Science for her work on atmospheric science. Her research was crucial to understanding the environmental impact of chlorofluorocarbons and helped lead to the Montreal Protocol, which protected the ozone layer.",
     achievements: [
       "Identified cause of Antarctic ozone hole",
       "Led international ozone research teams",
@@ -1290,6 +1330,7 @@ const pioneers = [
     roles: ["Biochemist", "Professor"],
     quote: "Science is a way of life that requires passion and dedication.",
     summary: "Pioneering Spanish biochemist who discovered DNA polymerase and advanced molecular biology research.",
+    shortDescription: "Margarita Salas was a pioneering Spanish biochemist who discovered DNA polymerase and advanced molecular biology research. She founded the Spanish Society of Biochemistry and pioneered molecular biology in Spain. Her work on DNA polymerase from bacteriophage φ29 has been fundamental to DNA amplification techniques and has applications in forensic science and medical diagnostics.",
     achievements: [
       "Discovered DNA polymerase from bacteriophage φ29",
       "Pioneered molecular biology in Spain",
@@ -1384,6 +1425,7 @@ const pioneers = [
     roles: ["Physicist", "Mathematician"],
     quote: "The study of mathematics is the foundation of all exact knowledge of natural phenomena.",
     summary: "French mathematician and physicist who translated and commented on Newton's Principia, advancing physics in Europe.",
+    shortDescription: "Emilie du Châtelet was a French mathematician and physicist who translated and commented on Newton's Principia, advancing physics in Europe. She was instrumental in the understanding of kinetic energy and pioneered women's participation in science. Her work helped establish the foundation for modern physics and demonstrated that women could make significant contributions to scientific understanding.",
     achievements: [
       "Translated Newton's Principia into French",
       "Advanced understanding of kinetic energy",
@@ -1403,6 +1445,7 @@ const pioneers = [
     roles: ["Chemist", "Physicist"],
     quote: "Science is not limited by gender, only by curiosity and determination.",
     summary: "Self-taught chemist who pioneered surface chemistry and invented the surface film balance.",
+    shortDescription: "Agnes Pockels was a self-taught chemist who pioneered surface chemistry and invented the surface film balance. She contributed to the field of surface science and was the first woman to receive the Davy Medal. Her work on surface tension and thin films laid the foundation for modern surface chemistry and has applications in materials science and nanotechnology.",
     achievements: [
       "Invented surface film balance",
       "Pioneered surface chemistry",
@@ -1422,6 +1465,7 @@ const pioneers = [
     roles: ["Physicist", "Engineer"],
     quote: "An error that ascribes to a man what was actually the work of a woman has more lives than a cat.",
     summary: "British physicist and engineer who studied electric arcs and was the first woman to read a paper before the Royal Society.",
+    shortDescription: "Hertha Ayrton was a British physicist and engineer who studied electric arcs and was the first woman to read a paper before the Royal Society. She held 26 patents for inventions and was instrumental in the field of electrical engineering. Her research on electric arcs and sand ripples contributed to our understanding of fluid dynamics and electrical phenomena.",
     achievements: [
       "First woman to read paper before Royal Society",
       "Studied electric arcs and sand ripples",
