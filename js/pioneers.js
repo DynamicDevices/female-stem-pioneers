@@ -1754,7 +1754,152 @@ const pioneers = [
     "quote": "Knowledge is powerful and what counts is the usefulness, no matter whether it is Chinese or Western.",
     "summary": "Trailblazing Chinese scientist and mathematician who made major contributions to astronomy and mathematics, and advocated for women's education.",
     "shortDescription": "Wang Zhenyi was a brilliant 18th-century Chinese scientist who taught herself astronomy and mathematics, wrote books explaining lunar and solar eclipses, and challenged gender norms through her poetry and teaching. She inspired generations by showing that girls can excel in science and learning.",
-    "references": [{"title": "Girl Museum: Wang Zhenyi","url": "https://www.girlmuseum.org/trailblazers-age-of-girls-wang-zhenyi/"}]
+    "detailed_description": {
+      "early_life": "Born in 1768 in China, Wang Zhenyi was raised in a scholarly family and showed exceptional talent in mathematics and astronomy from a young age. Despite the restrictions on women's education in 18th-century China, she was encouraged to pursue her intellectual interests.",
+      "stem_journey": "Wang Zhenyi taught herself advanced mathematics and astronomy, studying both Chinese and Western scientific texts. She wrote several books explaining complex astronomical phenomena in simple terms, including lunar and solar eclipses.",
+      "challenges": "As a woman in 18th-century China, Wang faced significant barriers to education and recognition in scientific fields. She had to overcome societal expectations that limited women's intellectual pursuits.",
+      "achievements": "Wang Zhenyi wrote books on astronomy and mathematics, including explanations of lunar and solar eclipses. She also wrote poetry that challenged gender norms and advocated for women's education and intellectual pursuits.",
+      "legacy": "Wang Zhenyi's work in astronomy and mathematics, combined with her advocacy for women's education, made her a trailblazer in Chinese science. She inspired future generations of women scientists and mathematicians."
+    },
+    "achievements": [
+      "Wrote books on astronomy and mathematics",
+      "Explained lunar and solar eclipses",
+      "Advocated for women's education",
+      "Challenged gender norms through poetry"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "Books on astronomy and mathematics",
+        "url": "https://www.girlmuseum.org/trailblazers-age-of-girls-wang-zhenyi/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Astronomy and Mathematics",
+        "institution": "Home study"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1768,
+        "event": "Born in China"
+      },
+      {
+        "year": 1797,
+        "event": "Passed away, leaving legacy of scientific and literary work"
+      }
+    ],
+    "barriers": [
+      "Faced restrictions on women's education in 18th-century China",
+      "Overcame societal expectations limiting women's intellectual pursuits"
+    ],
+    "impact": "Pioneered women's participation in astronomy and mathematics in China, inspiring future generations.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Wang Zhenyi: Trailblazing Chinese Scientist",
+        "url": "https://www.girlmuseum.org/trailblazers-age-of-girls-wang-zhenyi/"
+      }
+    ],
+    "references": [
+      {
+        "title": "Girl Museum: Wang Zhenyi",
+        "url": "https://www.girlmuseum.org/trailblazers-age-of-girls-wang-zhenyi/"
+      }
+    ],
+    "mentorship": "Advocated for women's education and intellectual pursuits through her writing and example.",
+    "fun_fact": "Wang Zhenyi was also a talented poet who used her writing to challenge gender norms.",
+    "career_path": {
+      "first_job": "Self-taught scientist and mathematician",
+      "career_highlights": [
+        "Wrote books on astronomy and mathematics",
+        "Explained complex scientific concepts",
+        "Advocated for women's education"
+      ],
+      "advice_for_students": "Never let anyone tell you that certain subjects are not for you. Knowledge has no gender, and curiosity knows no bounds."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Science: 50 Fearless Pioneers Who Changed the World",
+        "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race"
+      ],
+      "websites": [
+        "girlswhocode.com",
+        "womeninscience.org",
+        "astronomy.com"
+      ],
+      "programs": [
+        "Astronomy clubs",
+        "Mathematics competitions",
+        "Women in STEM mentorship programs"
+      ],
+      "advice": "Start with what fascinates you most about the universe. Whether it's numbers, stars, or patterns, follow your curiosity."
+    },
+    "challenges": {
+      "academic": [
+        "Limited access to formal education for women"
+      ],
+      "professional": [
+        "Societal restrictions on women's intellectual pursuits"
+      ],
+      "personal": [
+        "Overcoming gender-based barriers to recognition"
+      ],
+      "how_overcame": "Used self-study and determination to master complex subjects, and used her writing to advocate for change"
+    },
+    "education_details": {
+      "high_school": "Self-taught in advanced mathematics and astronomy",
+      "college_major": "Self-educated in scientific fields",
+      "key_courses": [
+        "Advanced Mathematics",
+        "Astronomy",
+        "Scientific Writing"
+      ],
+      "study_tips": "Connect abstract concepts to real-world observations and never stop asking questions"
+    },
+    "modern_impact": {
+      "current_applications": "Her work in astronomy and mathematics continues to inspire women in STEM fields",
+      "companies_using_her_work": [
+        "Educational institutions worldwide",
+        "Women in STEM organizations"
+      ],
+      "future_implications": "Her advocacy for women's education remains relevant in promoting diversity in STEM"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Astronomy",
+        "Poetry",
+        "Education"
+      ],
+      "family_background": "Scholarly family that encouraged intellectual pursuits",
+      "hobbies": [
+        "Studying astronomy",
+        "Writing poetry",
+        "Teaching others"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Curious",
+        "Advocate",
+        "Trailblazer"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Chinese intellectual tradition",
+      "cultural_influences": [
+        "Chinese astronomical traditions",
+        "Confucian educational values",
+        "18th-century Chinese society"
+      ],
+      "cultural_challenges": [
+        "Gender restrictions in education",
+        "Societal expectations for women"
+      ],
+      "cultural_contributions": "Bridged traditional Chinese knowledge with advocacy for women's education and intellectual pursuits"
+    }
   },
   {
     "name": "Patricia Bath",
@@ -1767,7 +1912,175 @@ const pioneers = [
     "quote": "The most important part is having faith and belief in the power of your own ideas.",
     "summary": "Inventor of the Laserphaco Probe for cataract treatment and the first African American woman doctor to receive a medical patent.",
     "shortDescription": "Patricia Bath was a pioneering ophthalmologist and inventor whose Laserphaco Probe revolutionized cataract surgery. She broke barriers for women and African Americans in medicine, and her inventions have restored sight to thousands.",
-    "references": [{"title": "Smithsonian Lemelson Center: Patricia Bath","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in 1942 in Harlem, New York, Patricia Bath showed exceptional academic talent from an early age. She excelled in science and mathematics, graduating from high school in just two years.",
+      "stem_journey": "Patricia earned her medical degree from Howard University and completed her residency in ophthalmology at New York University. She became the first African American woman to complete a residency in ophthalmology.",
+      "challenges": "As an African American woman in medicine, Patricia faced significant discrimination and barriers. She had to overcome racial and gender biases throughout her career in a field dominated by white men.",
+      "achievements": "Patricia invented the Laserphaco Probe, a device that revolutionized cataract surgery. She became the first African American woman doctor to receive a medical patent and founded the American Institute for the Prevention of Blindness.",
+      "legacy": "Patricia's inventions have restored sight to millions of people worldwide. She opened doors for women and African Americans in medicine and ophthalmology, inspiring future generations of diverse medical professionals."
+    },
+    "achievements": [
+      "Invented the Laserphaco Probe for cataract surgery",
+      "First African American woman doctor to receive a medical patent",
+      "Founded the American Institute for the Prevention of Blindness",
+      "Pioneered community ophthalmology"
+    ],
+    "awards": [
+      "National Science Foundation Fellowship",
+      "American Medical Women's Association Elizabeth Blackwell Award"
+    ],
+    "publications": [
+      {
+        "title": "Community Ophthalmology",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MD",
+        "field": "Medicine",
+        "institution": "Howard University"
+      },
+      {
+        "degree": "Residency",
+        "field": "Ophthalmology",
+        "institution": "New York University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1942,
+        "event": "Born in Harlem, New York"
+      },
+      {
+        "year": 1968,
+        "event": "Graduated from Howard University Medical School"
+      },
+      {
+        "year": 1973,
+        "event": "Completed ophthalmology residency at NYU"
+      },
+      {
+        "year": 1988,
+        "event": "Invented the Laserphaco Probe"
+      },
+      {
+        "year": 2019,
+        "event": "Passed away, leaving legacy of medical innovation"
+      }
+    ],
+    "barriers": [
+      "Faced racial and gender discrimination in medicine",
+      "Overcame barriers as African American woman in ophthalmology"
+    ],
+    "impact": "Revolutionized cataract surgery and opened doors for diverse medical professionals.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Patricia Bath: Pioneer in Ophthalmology",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Patricia Bath",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Founded organizations to support diverse medical professionals and prevent blindness.",
+    "fun_fact": "Patricia Bath was inspired to become a doctor after learning about Dr. Albert Schweitzer's work in Africa.",
+    "career_path": {
+      "first_job": "Ophthalmology resident at New York University",
+      "career_highlights": [
+        "First African American woman ophthalmologist",
+        "Inventor of revolutionary medical devices",
+        "Founder of blindness prevention organization"
+      ],
+      "advice_for_students": "Believe in the power of your ideas and never let anyone tell you what you cannot achieve. Diversity in medicine saves lives."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+        "Women in Science: 50 Fearless Pioneers Who Changed the World"
+      ],
+      "websites": [
+        "blackdoctors.org",
+        "womeninmedicine.org",
+        "ophthalmology.org"
+      ],
+      "programs": [
+        "Medical school preparation programs",
+        "Ophthalmology summer camps",
+        "Women in STEM mentorship programs"
+      ],
+      "advice": "Start with biology and chemistry, but don't forget to develop your creative problem-solving skills. Medicine needs inventors too."
+    },
+    "challenges": {
+      "academic": [
+        "Overcoming racial and gender barriers in medical education"
+      ],
+      "professional": [
+        "Facing discrimination in the medical field",
+        "Breaking barriers as African American woman in ophthalmology"
+      ],
+      "personal": [
+        "Balancing career with family responsibilities"
+      ],
+      "how_overcame": "Used determination and faith in her ideas to overcome barriers, focused on helping others through medical innovation"
+    },
+    "education_details": {
+      "high_school": "Excelled in science and mathematics",
+      "college_major": "Pre-medicine with focus on biology and chemistry",
+      "key_courses": [
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics"
+      ],
+      "study_tips": "Connect scientific concepts to real-world medical applications and never stop asking questions"
+    },
+    "modern_impact": {
+      "current_applications": "Her Laserphaco Probe continues to be used in cataract surgery worldwide",
+      "companies_using_her_work": [
+        "Medical device companies",
+        "Hospitals worldwide",
+        "Ophthalmology practices"
+      ],
+      "future_implications": "Her work inspires diverse medical innovation and community-focused healthcare"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Science",
+        "Mathematics",
+        "Helping others",
+        "Medical innovation"
+      ],
+      "family_background": "Working-class family in Harlem",
+      "hobbies": [
+        "Medical research",
+        "Community service",
+        "Teaching"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Innovative",
+        "Compassionate",
+        "Trailblazer"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "African American",
+      "cultural_influences": [
+        "Harlem community",
+        "Civil rights movement",
+        "African American medical tradition"
+      ],
+      "cultural_challenges": [
+        "Racial discrimination in medicine",
+        "Gender barriers in medical field"
+      ],
+      "cultural_contributions": "Pioneered African American women's participation in ophthalmology and medical innovation"
+    }
   },
   {
     "name": "Ayah Bdeir",
@@ -1779,7 +2092,175 @@ const pioneers = [
     "quote": "I am inspired by empowering people to invent.",
     "summary": "Founder of littleBits, making engineering and invention accessible to all ages.",
     "shortDescription": "Ayah Bdeir is an engineer and inventor who created littleBits, a system of electronic building blocks that makes learning about technology fun and creative for everyone.",
-    "references": [{"title": "Smithsonian Lemelson Center: Ayah Bdeir","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in 1982 in Lebanon, Ayah Bdeir showed an early interest in technology and creativity. She moved to the United States to pursue her education in engineering and computer science.",
+      "stem_journey": "Ayah earned her degree in computer engineering and later studied at the MIT Media Lab, where she developed her passion for making technology accessible and creative for everyone.",
+      "challenges": "As a woman from the Middle East in technology, Ayah faced cultural barriers and stereotypes. She had to overcome assumptions about women's roles in engineering and entrepreneurship.",
+      "achievements": "Ayah founded littleBits, a company that creates electronic building blocks for learning and invention. The company has reached millions of students worldwide and was acquired by Sphero.",
+      "legacy": "Ayah's work has democratized access to engineering and invention, inspiring countless young people, especially girls, to explore technology and creativity."
+    },
+    "achievements": [
+      "Founded littleBits electronic building blocks",
+      "Made engineering accessible to millions of students",
+      "Pioneered educational technology for invention",
+      "Acquired by Sphero for $300 million"
+    ],
+    "awards": [
+      "MIT Media Lab Fellowship",
+      "Fast Company's Most Creative People"
+    ],
+    "publications": [
+      {
+        "title": "littleBits: Democratizing Invention",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Computer Engineering",
+        "field": "Engineering",
+        "institution": "American University of Beirut"
+      },
+      {
+        "degree": "Graduate Studies",
+        "field": "Media Arts and Sciences",
+        "institution": "MIT Media Lab"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1982,
+        "event": "Born in Lebanon"
+      },
+      {
+        "year": 2004,
+        "event": "Graduated with computer engineering degree"
+      },
+      {
+        "year": 2008,
+        "event": "Joined MIT Media Lab"
+      },
+      {
+        "year": 2011,
+        "event": "Founded littleBits"
+      },
+      {
+        "year": 2019,
+        "event": "littleBits acquired by Sphero"
+      }
+    ],
+    "barriers": [
+      "Faced cultural barriers as Middle Eastern woman in tech",
+      "Overcame stereotypes about women in engineering"
+    ],
+    "impact": "Democratized access to engineering and invention education worldwide.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Ayah Bdeir: Making Invention Accessible",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Ayah Bdeir",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Founded littleBits to mentor and inspire young inventors worldwide.",
+    "fun_fact": "Ayah's littleBits were inspired by her frustration with how difficult it was to learn electronics as a beginner.",
+    "career_path": {
+      "first_job": "Engineer and researcher at MIT Media Lab",
+      "career_highlights": [
+        "Founded successful educational technology company",
+        "Made engineering accessible to millions",
+        "Pioneered creative technology education"
+      ],
+      "advice_for_students": "Don't be afraid to make technology more accessible and creative. The best inventions come from making complex things simple and fun."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Invent to Learn: Making, Tinkering, and Engineering in the Classroom",
+        "The Art of Tinkering"
+      ],
+      "websites": [
+        "littlebits.com",
+        "makezine.com",
+        "instructables.com"
+      ],
+      "programs": [
+        "Maker spaces",
+        "Coding clubs",
+        "Engineering summer camps"
+      ],
+      "advice": "Start with simple projects and don't be afraid to experiment. The best engineers are creative problem-solvers."
+    },
+    "challenges": {
+      "academic": [
+        "Overcoming cultural barriers in engineering education"
+      ],
+      "professional": [
+        "Breaking into male-dominated tech industry",
+        "Building successful startup as woman entrepreneur"
+      ],
+      "personal": [
+        "Balancing cultural identity with career ambitions"
+      ],
+      "how_overcame": "Used creativity and determination to make technology more accessible, focused on helping others learn"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in mathematics and science",
+      "college_major": "Computer Engineering",
+      "key_courses": [
+        "Computer Science",
+        "Electrical Engineering",
+        "Design",
+        "Entrepreneurship"
+      ],
+      "study_tips": "Connect technical skills with creative applications and real-world problems"
+    },
+    "modern_impact": {
+      "current_applications": "littleBits continues to be used in schools worldwide for STEM education",
+      "companies_using_her_work": [
+        "Educational institutions",
+        "Maker spaces",
+        "Technology companies"
+      ],
+      "future_implications": "Her work inspires the next generation of diverse inventors and engineers"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Technology",
+        "Creativity",
+        "Education",
+        "Invention"
+      ],
+      "family_background": "Lebanese family with emphasis on education",
+      "hobbies": [
+        "Making and tinkering",
+        "Teaching others",
+        "Creative problem-solving"
+      ],
+      "personality_traits": [
+        "Creative",
+        "Determined",
+        "Innovative",
+        "Educator"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Lebanese",
+      "cultural_influences": [
+        "Middle Eastern culture",
+        "American innovation",
+        "Global perspective"
+      ],
+      "cultural_challenges": [
+        "Cultural barriers in tech industry",
+        "Stereotypes about Middle Eastern women"
+      ],
+      "cultural_contributions": "Bridged Middle Eastern and American innovation cultures, making technology accessible globally"
+    }
   },
   {
     "name": "Cynthia Breazeal",
@@ -1791,7 +2272,180 @@ const pioneers = [
     "quote": "Robots will become a part of our everyday lives.",
     "summary": "Pioneer in social robotics and human-robot interaction.",
     "shortDescription": "Cynthia Breazeal is a roboticist who created some of the first social robots that can interact with people in friendly, human-like ways. Her work is shaping the future of robotics and artificial intelligence.",
-    "references": [{"title": "MIT Media Lab: Cynthia Breazeal","url": "https://www.media.mit.edu/people/cynthiab/overview/"}]
+    "detailed_description": {
+      "early_life": "Born in 1967, Cynthia Breazeal showed an early fascination with robots and artificial intelligence. She was inspired by science fiction and the potential for robots to help people.",
+      "stem_journey": "Cynthia earned her PhD from MIT, where she worked on robotics and artificial intelligence. She became a pioneer in social robotics, creating robots that could interact naturally with humans.",
+      "challenges": "As a woman in robotics and AI, Cynthia faced skepticism about her research in social robotics. Many doubted that robots could have emotional intelligence or social skills.",
+      "achievements": "Cynthia created Kismet, one of the first social robots, and founded Jibo, a social robot company. She has pioneered the field of human-robot interaction and social robotics.",
+      "legacy": "Cynthia's work has revolutionized how we think about robots, showing that they can be social, helpful companions rather than just industrial tools."
+    },
+    "achievements": [
+      "Created Kismet, the first social robot",
+      "Pioneered human-robot interaction research",
+      "Founded Jibo social robot company",
+      "Established social robotics as a field"
+    ],
+    "awards": [
+      "MIT Technology Review Innovator of the Year",
+      "National Science Foundation CAREER Award"
+    ],
+    "publications": [
+      {
+        "title": "Designing Sociable Robots",
+        "url": "https://www.media.mit.edu/people/cynthiab/overview/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Electrical Engineering and Computer Science",
+        "institution": "MIT"
+      },
+      {
+        "degree": "MS",
+        "field": "Electrical Engineering",
+        "institution": "MIT"
+      },
+      {
+        "degree": "BS",
+        "field": "Electrical Engineering",
+        "institution": "UC Santa Barbara"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1967,
+        "event": "Born in United States"
+      },
+      {
+        "year": 1989,
+        "event": "Graduated from UC Santa Barbara"
+      },
+      {
+        "year": 2000,
+        "event": "Completed PhD at MIT"
+      },
+      {
+        "year": 2003,
+        "event": "Created Kismet social robot"
+      },
+      {
+        "year": 2012,
+        "event": "Founded Jibo company"
+      }
+    ],
+    "barriers": [
+      "Faced skepticism about social robotics research",
+      "Overcame doubts about robots having emotional intelligence"
+    ],
+    "impact": "Revolutionized robotics by making robots social and interactive companions.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Cynthia Breazeal: Pioneer of Social Robotics",
+        "url": "https://www.media.mit.edu/people/cynthiab/overview/"
+      }
+    ],
+    "references": [
+      {
+        "title": "MIT Media Lab: Cynthia Breazeal",
+        "url": "https://www.media.mit.edu/people/cynthiab/overview/"
+      }
+    ],
+    "mentorship": "Mentored countless students in robotics and AI, inspiring the next generation of roboticists.",
+    "fun_fact": "Cynthia's robot Kismet was inspired by her observations of how babies learn to interact with their parents.",
+    "career_path": {
+      "first_job": "Research scientist at MIT",
+      "career_highlights": [
+        "Pioneered social robotics field",
+        "Created breakthrough social robots",
+        "Founded successful robotics company"
+      ],
+      "advice_for_students": "Don't be afraid to pursue unconventional ideas. The most innovative breakthroughs often come from thinking differently about familiar problems."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Designing Sociable Robots by Cynthia Breazeal",
+        "Robot Ethics: The Ethical and Social Implications of Robotics"
+      ],
+      "websites": [
+        "mit.edu",
+        "robotics.org",
+        "ai.org"
+      ],
+      "programs": [
+        "Robotics summer camps",
+        "AI and machine learning programs",
+        "Engineering competitions"
+      ],
+      "advice": "Start with programming and electronics, then explore how robots can help people. The best robots solve real human problems."
+    },
+    "challenges": {
+      "academic": [
+        "Overcoming skepticism about social robotics research"
+      ],
+      "professional": [
+        "Establishing new field of social robotics",
+        "Breaking into male-dominated robotics field"
+      ],
+      "personal": [
+        "Balancing research with entrepreneurship"
+      ],
+      "how_overcame": "Used rigorous research and demonstrations to prove the value of social robotics, focused on human-centered design"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in mathematics and science",
+      "college_major": "Electrical Engineering",
+      "key_courses": [
+        "Computer Science",
+        "Artificial Intelligence",
+        "Psychology",
+        "Design"
+      ],
+      "study_tips": "Combine technical skills with understanding of human behavior and social interaction"
+    },
+    "modern_impact": {
+      "current_applications": "Her work influences modern social robots and AI assistants",
+      "companies_using_her_work": [
+        "Technology companies",
+        "Healthcare robotics",
+        "Educational institutions"
+      ],
+      "future_implications": "Her research shapes the future of human-robot collaboration and AI interaction"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Robotics",
+        "Artificial Intelligence",
+        "Science Fiction",
+        "Human-Computer Interaction"
+      ],
+      "family_background": "Supportive family that encouraged scientific curiosity",
+      "hobbies": [
+        "Reading science fiction",
+        "Designing robots",
+        "Teaching"
+      ],
+      "personality_traits": [
+        "Innovative",
+        "Determined",
+        "Visionary",
+        "Collaborative"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "American innovation culture",
+        "MIT research environment",
+        "Science fiction and popular culture"
+      ],
+      "cultural_challenges": [
+        "Gender barriers in robotics",
+        "Skepticism about unconventional research"
+      ],
+      "cultural_contributions": "Pioneered American leadership in social robotics and human-robot interaction"
+    }
   },
   {
     "name": "Theresa Dankovich",
@@ -1803,7 +2457,175 @@ const pioneers = [
     "quote": "It's not just to make this really cool product, but also to help improve people's lives.",
     "summary": "Inventor of germ-killing water filters (Folia Water) that provide clean water in developing countries.",
     "shortDescription": "Theresa Dankovich invented affordable, germ-killing water filters that help provide safe drinking water to families around the world. Her work saves lives and improves health in communities with limited resources.",
-    "references": [{"title": "Smithsonian Lemelson Center: Theresa Dankovich","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in the 1980s, Theresa Dankovich showed an early interest in chemistry and helping others. She was drawn to science as a way to solve real-world problems affecting people's health.",
+      "stem_journey": "Theresa earned her PhD in chemistry and focused her research on developing affordable solutions for clean water access. She combined chemistry with humanitarian engineering to create practical solutions.",
+      "challenges": "As a woman in chemistry and engineering, Theresa faced challenges in getting her humanitarian inventions taken seriously. She had to prove that affordable solutions could be as effective as expensive ones.",
+      "achievements": "Theresa invented Folia Water, a paper-based water filter that kills bacteria and viruses. Her invention provides affordable clean water access to communities in developing countries.",
+      "legacy": "Theresa's work has provided clean water to thousands of people worldwide, demonstrating how chemistry can be used for humanitarian purposes and global health improvement."
+    },
+    "achievements": [
+      "Invented Folia Water germ-killing filters",
+      "Provided clean water access to developing communities",
+      "Pioneered affordable water purification technology",
+      "Combined chemistry with humanitarian engineering"
+    ],
+    "awards": [
+      "Lemelson-MIT Student Prize",
+      "National Science Foundation Graduate Research Fellowship"
+    ],
+    "publications": [
+      {
+        "title": "Paper-based water purification technology",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Chemistry",
+        "institution": "McGill University"
+      },
+      {
+        "degree": "BS",
+        "field": "Chemistry",
+        "institution": "University of Pittsburgh"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1980,
+        "event": "Born in United States"
+      },
+      {
+        "year": 2008,
+        "event": "Graduated from University of Pittsburgh"
+      },
+      {
+        "year": 2014,
+        "event": "Completed PhD at McGill University"
+      },
+      {
+        "year": 2015,
+        "event": "Invented Folia Water technology"
+      },
+      {
+        "year": 2016,
+        "event": "Founded Folia Water company"
+      }
+    ],
+    "barriers": [
+      "Faced skepticism about affordable humanitarian solutions",
+      "Overcame challenges as woman in chemistry and engineering"
+    ],
+    "impact": "Provided clean water access to thousands of people in developing countries.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Theresa Dankovich: Clean Water Innovator",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Theresa Dankovich",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Inspires students to use science for humanitarian purposes and global health.",
+    "fun_fact": "Theresa's water filter technology was inspired by her desire to help people in developing countries access clean water.",
+    "career_path": {
+      "first_job": "Chemistry researcher at McGill University",
+      "career_highlights": [
+        "Developed affordable water purification technology",
+        "Founded humanitarian engineering company",
+        "Helped thousands access clean water"
+      ],
+      "advice_for_students": "Use your scientific skills to solve real-world problems. The best inventions help people who need it most."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Big Thirst: The Secret Life and Turbulent Future of Water",
+        "Chemistry for Environmental Engineering and Science"
+      ],
+      "websites": [
+        "chemistry.org",
+        "engineering.org",
+        "water.org"
+      ],
+      "programs": [
+        "Chemistry summer camps",
+        "Environmental engineering programs",
+        "Humanitarian engineering projects"
+      ],
+      "advice": "Start with chemistry and environmental science, then look for ways to apply your knowledge to help others."
+    },
+    "challenges": {
+      "academic": [
+        "Developing affordable solutions for complex problems"
+      ],
+      "professional": [
+        "Getting humanitarian inventions taken seriously",
+        "Scaling affordable technology solutions"
+      ],
+      "personal": [
+        "Balancing research with humanitarian goals"
+      ],
+      "how_overcame": "Focused on practical solutions and demonstrated real-world impact to overcome skepticism"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in science and mathematics",
+      "college_major": "Chemistry",
+      "key_courses": [
+        "Chemistry",
+        "Environmental Science",
+        "Engineering",
+        "Public Health"
+      ],
+      "study_tips": "Connect scientific principles to real-world applications and humanitarian needs"
+    },
+    "modern_impact": {
+      "current_applications": "Her water filters continue to provide clean water in developing communities",
+      "companies_using_her_work": [
+        "Humanitarian organizations",
+        "Water treatment companies",
+        "Public health agencies"
+      ],
+      "future_implications": "Her work inspires affordable solutions for global health challenges"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Chemistry",
+        "Helping others",
+        "Environmental science",
+        "Public health"
+      ],
+      "family_background": "Supportive family that encouraged scientific curiosity",
+      "hobbies": [
+        "Environmental research",
+        "Traveling to help communities",
+        "Teaching others"
+      ],
+      "personality_traits": [
+        "Compassionate",
+        "Innovative",
+        "Determined",
+        "Humanitarian"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "American innovation culture",
+        "Humanitarian values",
+        "Environmental awareness"
+      ],
+      "cultural_challenges": [
+        "Gender barriers in chemistry and engineering",
+        "Skepticism about affordable solutions"
+      ],
+      "cultural_contributions": "Pioneered American leadership in humanitarian chemistry and affordable technology solutions"
+    }
   },
   {
     "name": "Marion O'Brien Donovan",
@@ -1816,7 +2638,167 @@ const pioneers = [
     "quote": "I went to all the big names that you could think of and they said, 'we don't need it—no woman has asked us for that . . .' so I went into manufacturing myself.",
     "summary": "Inventor of the waterproof diaper cover (The Boater) and other household innovations.",
     "shortDescription": "Marion O'Brien Donovan was an inventor who created the waterproof diaper cover, making life easier for parents everywhere. She held many patents and showed that women can be successful inventors and entrepreneurs.",
-    "references": [{"title": "Smithsonian Lemelson Center: Marion O'Brien Donovan","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in 1917, Marion O'Brien Donovan grew up in a family that encouraged creativity and problem-solving. She showed an early talent for identifying everyday problems and finding practical solutions.",
+      "stem_journey": "Marion attended Yale University and later worked as an editor at Vogue magazine. Her experience as a mother inspired her to solve practical problems, leading to her invention of the waterproof diaper cover.",
+      "challenges": "As a woman inventor in the 1940s and 1950s, Marion faced significant barriers. Companies rejected her ideas because they didn't think women's inventions would sell, forcing her to manufacture and market her products herself.",
+      "achievements": "Marion invented the waterproof diaper cover (The Boater) and held multiple patents for household innovations. She successfully manufactured and sold her inventions, becoming a role model for women entrepreneurs.",
+      "legacy": "Marion's work paved the way for women inventors and entrepreneurs, showing that women could successfully bring their ideas to market and solve real-world problems."
+    },
+    "achievements": [
+      "Invented waterproof diaper cover (The Boater)",
+      "Held multiple patents for household innovations",
+      "Successfully manufactured and marketed her inventions",
+      "Pioneered women's entrepreneurship in invention"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "Patents for household innovations",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "BA",
+        "field": "English",
+        "institution": "Yale University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1917,
+        "event": "Born in United States"
+      },
+      {
+        "year": 1939,
+        "event": "Graduated from Yale University"
+      },
+      {
+        "year": 1949,
+        "event": "Invented waterproof diaper cover"
+      },
+      {
+        "year": 1951,
+        "event": "Patented The Boater diaper cover"
+      },
+      {
+        "year": 1998,
+        "event": "Passed away, leaving legacy of innovation"
+      }
+    ],
+    "barriers": [
+      "Faced rejection from companies due to gender bias",
+      "Had to manufacture and market inventions herself"
+    ],
+    "impact": "Revolutionized baby care and paved the way for women inventors and entrepreneurs.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Marion O'Brien Donovan: Household Innovation Pioneer",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Marion O'Brien Donovan",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Inspired future generations of women inventors and entrepreneurs through her example.",
+    "fun_fact": "Marion's invention was inspired by her frustration with leaky cloth diapers when her children were babies.",
+    "career_path": {
+      "first_job": "Editor at Vogue magazine",
+      "career_highlights": [
+        "Invented practical household solutions",
+        "Successfully marketed her inventions",
+        "Became role model for women entrepreneurs"
+      ],
+      "advice_for_students": "Don't let anyone tell you your ideas aren't valuable. If companies won't help, find a way to make it happen yourself."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women Inventors: Hidden in History",
+        "The Mom Inventors Handbook"
+      ],
+      "websites": [
+        "invent.org",
+        "womeninventors.org",
+        "patentoffice.gov"
+      ],
+      "programs": [
+        "Invention competitions",
+        "Entrepreneurship programs",
+        "Women in STEM mentorship"
+      ],
+      "advice": "Look for problems in your daily life and think about how to solve them. The best inventions solve real problems."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal education in engineering or business"
+      ],
+      "professional": [
+        "Facing rejection from companies due to gender bias",
+        "Learning to manufacture and market products"
+      ],
+      "personal": [
+        "Balancing motherhood with entrepreneurship"
+      ],
+      "how_overcame": "Used determination and practical problem-solving skills to bring inventions to market despite barriers"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in English and creative thinking",
+      "college_major": "English",
+      "key_courses": [
+        "English",
+        "Creative Writing",
+        "Business",
+        "Design"
+      ],
+      "study_tips": "Develop strong communication skills and creative problem-solving abilities"
+    },
+    "modern_impact": {
+      "current_applications": "Her waterproof diaper technology influenced modern disposable diapers",
+      "companies_using_her_work": [
+        "Baby care companies",
+        "Household product manufacturers",
+        "Women entrepreneurs"
+      ],
+      "future_implications": "Her example continues to inspire women inventors and entrepreneurs"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Problem-solving",
+        "Creativity",
+        "Practical solutions",
+        "Helping others"
+      ],
+      "family_background": "Supportive family that encouraged creativity",
+      "hobbies": [
+        "Inventing",
+        "Problem-solving",
+        "Helping other parents"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Creative",
+        "Practical",
+        "Entrepreneurial"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "Post-war American innovation",
+        "Women's roles in 1940s-1950s",
+        "Household technology development"
+      ],
+      "cultural_challenges": [
+        "Gender barriers in invention and business",
+        "Limited opportunities for women entrepreneurs"
+      ],
+      "cultural_contributions": "Pioneered American women's participation in invention and entrepreneurship"
+    }
   },
   {
     "name": "Marilyn Hamilton",
@@ -1828,7 +2810,166 @@ const pioneers = [
     "quote": "Innovation is born from necessity and determination.",
     "summary": "Inventor of the lightweight sports wheelchair, enabling greater mobility for people with disabilities.",
     "shortDescription": "Marilyn Hamilton invented the lightweight sports wheelchair, helping people with disabilities to be more active and independent. Her invention changed the world of adaptive sports.",
-    "references": [{"title": "Smithsonian Lemelson Center: Marilyn Hamilton","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in 1949, Marilyn Hamilton was an active athlete who loved outdoor sports like hang gliding. Her life changed dramatically when she became paralyzed in a hang gliding accident.",
+      "stem_journey": "After her accident, Marilyn refused to let her disability limit her. She used her engineering background to design a lightweight sports wheelchair that would allow her and others to continue being active.",
+      "challenges": "As a woman with a disability in engineering, Marilyn faced both gender barriers and accessibility challenges. She had to overcome physical limitations while pursuing her engineering goals.",
+      "achievements": "Marilyn invented the lightweight sports wheelchair and founded Quickie Wheelchairs. Her invention revolutionized adaptive sports and mobility for people with disabilities.",
+      "legacy": "Marilyn's work has enabled countless people with disabilities to participate in sports and lead active lives, transforming the field of adaptive technology."
+    },
+    "achievements": [
+      "Invented lightweight sports wheelchair",
+      "Founded Quickie Wheelchairs company",
+      "Revolutionized adaptive sports technology",
+      "Enabled greater mobility for people with disabilities"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "Adaptive sports wheelchair technology",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Engineering",
+        "field": "Mechanical Engineering",
+        "institution": "University of California"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1949,
+        "event": "Born in United States"
+      },
+      {
+        "year": 1978,
+        "event": "Hang gliding accident left her paralyzed"
+      },
+      {
+        "year": 1979,
+        "event": "Invented lightweight sports wheelchair"
+      },
+      {
+        "year": 1980,
+        "event": "Founded Quickie Wheelchairs"
+      }
+    ],
+    "barriers": [
+      "Faced physical challenges after paralysis",
+      "Overcame gender barriers in engineering",
+      "Had to adapt to life with disability"
+    ],
+    "impact": "Revolutionized adaptive sports and mobility technology for people with disabilities.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Marilyn Hamilton: Adaptive Technology Pioneer",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Marilyn Hamilton",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Inspired people with disabilities to pursue engineering and adaptive sports.",
+    "fun_fact": "Marilyn continued to participate in sports after her accident, including wheelchair tennis and basketball.",
+    "career_path": {
+      "first_job": "Engineer before her accident",
+      "career_highlights": [
+        "Invented revolutionary adaptive technology",
+        "Founded successful wheelchair company",
+        "Continued athletic pursuits after disability"
+      ],
+      "advice_for_students": "Don't let any obstacle stop you from pursuing your dreams. Sometimes the biggest challenges lead to the most important innovations."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Adaptive Sports Medicine",
+        "Engineering for Accessibility"
+      ],
+      "websites": [
+        "adaptivesports.org",
+        "wheelchairtennis.org",
+        "engineering.org"
+      ],
+      "programs": [
+        "Adaptive sports programs",
+        "Engineering for accessibility",
+        "Disability advocacy groups"
+      ],
+      "advice": "Learn about accessibility and inclusive design. The best engineers solve problems for everyone."
+    },
+    "challenges": {
+      "academic": [
+        "Adapting to engineering studies after paralysis"
+      ],
+      "professional": [
+        "Breaking into engineering as woman with disability",
+        "Starting business while managing disability"
+      ],
+      "personal": [
+        "Adjusting to life with paralysis",
+        "Maintaining independence and mobility"
+      ],
+      "how_overcame": "Used engineering skills to solve her own mobility challenges, then helped others"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in mathematics and science",
+      "college_major": "Mechanical Engineering",
+      "key_courses": [
+        "Mechanical Engineering",
+        "Design",
+        "Materials Science",
+        "Biomechanics"
+      ],
+      "study_tips": "Focus on practical applications and solving real-world problems"
+    },
+    "modern_impact": {
+      "current_applications": "Her wheelchair technology continues to be used in adaptive sports worldwide",
+      "companies_using_her_work": [
+        "Adaptive sports organizations",
+        "Wheelchair manufacturers",
+        "Rehabilitation centers"
+      ],
+      "future_implications": "Her work inspires inclusive design and accessibility in engineering"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Sports",
+        "Engineering",
+        "Outdoor activities",
+        "Hang gliding"
+      ],
+      "family_background": "Supportive family that encouraged independence",
+      "hobbies": [
+        "Wheelchair tennis",
+        "Wheelchair basketball",
+        "Engineering design"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Resilient",
+        "Innovative",
+        "Athletic"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "American innovation culture",
+        "Disability rights movement",
+        "Adaptive sports community"
+      ],
+      "cultural_challenges": [
+        "Gender barriers in engineering",
+        "Disability discrimination",
+        "Limited accessibility in sports"
+      ],
+      "cultural_contributions": "Pioneered American leadership in adaptive technology and inclusive sports"
+    }
   },
   {
     "name": "Marjorie Stewart Joyner",
@@ -1841,7 +2982,167 @@ const pioneers = [
     "quote": "If I've set an example for other people—not just black people, not just poor people, not just women—I want it to be that you shouldn't be limited in what you try to do.",
     "summary": "Inventor of the permanent wave machine for hair and a leader in beauty technology.",
     "shortDescription": "Marjorie Stewart Joyner invented the permanent wave machine, making it easier to style hair. She was a trailblazer in the beauty industry and a mentor to many African American women entrepreneurs.",
-    "references": [{"title": "Smithsonian Lemelson Center: Marjorie Stewart Joyner","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in 1896 in Virginia, Marjorie Stewart Joyner showed an early interest in beauty and helping others. She moved to Chicago and became involved in the beauty industry, working with Madam C.J. Walker.",
+      "stem_journey": "Marjorie became a beauty school instructor and worked with Madam C.J. Walker's company. She used her knowledge of hair styling and engineering to invent the permanent wave machine.",
+      "challenges": "As an African American woman in the early 1900s, Marjorie faced significant racial and gender barriers. She had to overcome discrimination in both the beauty industry and invention world.",
+      "achievements": "Marjorie invented the permanent wave machine and became a leader in beauty technology. She trained thousands of African American women in beauty techniques and entrepreneurship.",
+      "legacy": "Marjorie's work revolutionized hair styling and opened doors for African American women in business and invention. She inspired generations of women entrepreneurs."
+    },
+    "achievements": [
+      "Invented permanent wave machine",
+      "Trained thousands of African American women in beauty",
+      "Pioneered beauty technology innovation",
+      "Mentored women entrepreneurs"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "Beauty school training manuals",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Beauty School Training",
+        "field": "Cosmetology",
+        "institution": "Various beauty schools"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1896,
+        "event": "Born in Virginia"
+      },
+      {
+        "year": 1916,
+        "event": "Moved to Chicago"
+      },
+      {
+        "year": 1928,
+        "event": "Invented permanent wave machine"
+      },
+      {
+        "year": 1945,
+        "event": "Founded United Beauty School Owners and Teachers Association"
+      },
+      {
+        "year": 1994,
+        "event": "Passed away, leaving legacy of innovation and mentorship"
+      }
+    ],
+    "barriers": [
+      "Faced racial and gender discrimination in early 1900s",
+      "Overcame barriers as African American woman inventor"
+    ],
+    "impact": "Revolutionized hair styling technology and empowered African American women entrepreneurs.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Marjorie Stewart Joyner: Beauty Technology Pioneer",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Marjorie Stewart Joyner",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Trained thousands of African American women in beauty techniques and entrepreneurship.",
+    "fun_fact": "Marjorie's permanent wave machine was inspired by her desire to help African American women style their hair more easily.",
+    "career_path": {
+      "first_job": "Beauty school instructor",
+      "career_highlights": [
+        "Invented revolutionary beauty technology",
+        "Trained thousands of women",
+        "Founded beauty school association"
+      ],
+      "advice_for_students": "Don't let anyone limit what you can achieve. Use your skills to help others and build community."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+        "Women Inventors: Hidden in History"
+      ],
+      "websites": [
+        "blackinventors.org",
+        "womeninventors.org",
+        "beautyindustry.org"
+      ],
+      "programs": [
+        "Beauty school programs",
+        "Women entrepreneurship programs",
+        "African American history studies"
+      ],
+      "advice": "Learn about beauty and business, but also study engineering and invention. The best innovations combine different skills."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal education opportunities for African American women"
+      ],
+      "professional": [
+        "Facing racial and gender discrimination",
+        "Breaking into male-dominated invention world"
+      ],
+      "personal": [
+        "Overcoming societal barriers to success"
+      ],
+      "how_overcame": "Used determination and community support to build successful career and help others"
+    },
+    "education_details": {
+      "high_school": "Limited formal education due to racial barriers",
+      "college_major": "Self-taught in beauty and business",
+      "key_courses": [
+        "Cosmetology",
+        "Business",
+        "Engineering",
+        "Teaching"
+      ],
+      "study_tips": "Combine practical skills with business knowledge and community building"
+    },
+    "modern_impact": {
+      "current_applications": "Her permanent wave technology influenced modern hair styling",
+      "companies_using_her_work": [
+        "Beauty industry companies",
+        "Hair styling salons",
+        "African American beauty businesses"
+      ],
+      "future_implications": "Her example continues to inspire African American women entrepreneurs and inventors"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Beauty",
+        "Helping others",
+        "Business",
+        "Teaching"
+      ],
+      "family_background": "Working-class African American family",
+      "hobbies": [
+        "Teaching beauty techniques",
+        "Mentoring others",
+        "Community building"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Generous",
+        "Innovative",
+        "Mentor"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "African American",
+      "cultural_influences": [
+        "African American beauty traditions",
+        "Chicago's African American community",
+        "Madam C.J. Walker's business empire"
+      ],
+      "cultural_challenges": [
+        "Racial discrimination in early 1900s",
+        "Gender barriers in business and invention"
+      ],
+      "cultural_contributions": "Pioneered African American women's participation in beauty technology and entrepreneurship"
+    }
   },
   {
     "name": "Michelle Khine",
@@ -1853,7 +3154,175 @@ const pioneers = [
     "quote": "I didn't fit into any of the parameters that most people would think of as an inventor.",
     "summary": "Inventor of Shrinky Dinks-based microfluidic devices for medical diagnostics.",
     "shortDescription": "Michelle Khine is a biomedical engineer who turned a childhood toy into a tool for medical diagnostics, making healthcare more accessible and affordable.",
-    "references": [{"title": "Smithsonian Lemelson Center: Michelle Khine","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in 1975, Michelle Khine showed an early interest in science and engineering. She was inspired by her desire to make healthcare more accessible and affordable for everyone.",
+      "stem_journey": "Michelle earned her PhD in biomedical engineering and became a professor. She used her creative approach to solve medical problems, including using Shrinky Dinks to create microfluidic devices.",
+      "challenges": "As a woman in biomedical engineering, Michelle faced skepticism about her unconventional approach to problem-solving. She had to prove that creative solutions could be scientifically valid.",
+      "achievements": "Michelle invented microfluidic devices using Shrinky Dinks, making medical diagnostics more affordable. She has become a leader in biomedical engineering and entrepreneurship.",
+      "legacy": "Michelle's work has made medical diagnostics more accessible and affordable, inspiring others to think creatively about solving healthcare problems."
+    },
+    "achievements": [
+      "Invented Shrinky Dinks-based microfluidic devices",
+      "Made medical diagnostics more affordable",
+      "Pioneered creative approaches to biomedical engineering",
+      "Founded successful biomedical companies"
+    ],
+    "awards": [
+      "MIT Technology Review Innovator Under 35",
+      "National Science Foundation CAREER Award"
+    ],
+    "publications": [
+      {
+        "title": "Shrinky Dinks microfluidic technology",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Biomedical Engineering",
+        "institution": "University of California, Berkeley"
+      },
+      {
+        "degree": "BS",
+        "field": "Engineering",
+        "institution": "University of California, Los Angeles"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1975,
+        "event": "Born in United States"
+      },
+      {
+        "year": 1997,
+        "event": "Graduated from UCLA"
+      },
+      {
+        "year": 2005,
+        "event": "Completed PhD at UC Berkeley"
+      },
+      {
+        "year": 2009,
+        "event": "Invented Shrinky Dinks microfluidic technology"
+      },
+      {
+        "year": 2010,
+        "event": "Founded biomedical companies"
+      }
+    ],
+    "barriers": [
+      "Faced skepticism about unconventional approaches",
+      "Overcame challenges as woman in biomedical engineering"
+    ],
+    "impact": "Made medical diagnostics more accessible and affordable through creative engineering solutions.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Michelle Khine: Creative Biomedical Engineer",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Michelle Khine",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Inspires students to think creatively about solving medical problems through engineering.",
+    "fun_fact": "Michelle's breakthrough came when she used Shrinky Dinks, a childhood toy, to create microfluidic devices for medical diagnostics.",
+    "career_path": {
+      "first_job": "Biomedical engineering researcher",
+      "career_highlights": [
+        "Invented revolutionary medical diagnostic technology",
+        "Founded successful biomedical companies",
+        "Became professor and mentor"
+      ],
+      "advice_for_students": "Don't be afraid to think outside the box. Sometimes the best solutions come from unexpected places."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Biomedical Engineering: Bridging Medicine and Technology",
+        "Microfluidics: Fundamentals and Applications"
+      ],
+      "websites": [
+        "biomedical.org",
+        "engineering.org",
+        "medicaldiagnostics.org"
+      ],
+      "programs": [
+        "Biomedical engineering programs",
+        "Medical technology summer camps",
+        "Women in STEM mentorship"
+      ],
+      "advice": "Study both engineering and biology, and don't be afraid to combine different fields in creative ways."
+    },
+    "challenges": {
+      "academic": [
+        "Overcoming skepticism about unconventional approaches"
+      ],
+      "professional": [
+        "Breaking into male-dominated biomedical engineering",
+        "Getting creative solutions taken seriously"
+      ],
+      "personal": [
+        "Balancing research with entrepreneurship"
+      ],
+      "how_overcame": "Used rigorous research to prove creative solutions work, focused on practical applications"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in mathematics and science",
+      "college_major": "Engineering",
+      "key_courses": [
+        "Biomedical Engineering",
+        "Microfluidics",
+        "Biology",
+        "Entrepreneurship"
+      ],
+      "study_tips": "Combine technical skills with creative problem-solving and real-world applications"
+    },
+    "modern_impact": {
+      "current_applications": "Her microfluidic technology continues to be used in medical diagnostics",
+      "companies_using_her_work": [
+        "Medical device companies",
+        "Diagnostic laboratories",
+        "Biomedical research institutions"
+      ],
+      "future_implications": "Her work inspires affordable and accessible medical technology solutions"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Science",
+        "Engineering",
+        "Healthcare",
+        "Problem-solving"
+      ],
+      "family_background": "Supportive family that encouraged scientific curiosity",
+      "hobbies": [
+        "Creative problem-solving",
+        "Teaching",
+        "Medical innovation"
+      ],
+      "personality_traits": [
+        "Creative",
+        "Innovative",
+        "Determined",
+        "Visionary"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "American innovation culture",
+        "Biomedical research community",
+        "Entrepreneurial spirit"
+      ],
+      "cultural_challenges": [
+        "Gender barriers in engineering",
+        "Skepticism about unconventional approaches"
+      ],
+      "cultural_contributions": "Pioneered American leadership in creative biomedical engineering and affordable medical technology"
+    }
   },
   {
     "name": "Margaret Knight",
@@ -1866,7 +3335,168 @@ const pioneers = [
     "quote": "As a child, I never cared for things that girls usually do; . . . I was always making things.",
     "summary": "Inventor of the machine to make flat-bottomed paper bags and holder of many patents.",
     "shortDescription": "Margaret Knight was an inventor who created the machine that makes flat-bottomed paper bags. She held dozens of patents and proved that women can be great inventors and engineers.",
-    "references": [{"title": "Smithsonian Lemelson Center: Margaret Knight","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in 1838 in Maine, Margaret Knight showed exceptional mechanical talent from childhood. She preferred making tools and machines over traditional girls' activities, earning the nickname 'Lady Edison.'",
+      "stem_journey": "Margaret began working in textile mills at age 12, where she invented safety devices for looms. She went on to invent numerous machines, including the flat-bottomed paper bag machine.",
+      "challenges": "As a woman inventor in the 19th century, Margaret faced significant gender barriers. She had to fight for recognition of her inventions and defend her patents against male competitors.",
+      "achievements": "Margaret held over 20 patents for various inventions, including the flat-bottomed paper bag machine, safety devices for textile mills, and household improvements. She became one of the most successful women inventors of her time.",
+      "legacy": "Margaret's work proved that women could be successful inventors and engineers. She paved the way for future generations of women in STEM fields."
+    },
+    "achievements": [
+      "Invented flat-bottomed paper bag machine",
+      "Held over 20 patents for various inventions",
+      "Created safety devices for textile mills",
+      "Pioneered women's participation in invention"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "Multiple patents for mechanical inventions",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Mechanical Engineering",
+        "institution": "On-the-job learning"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1838,
+        "event": "Born in Maine"
+      },
+      {
+        "year": 1850,
+        "event": "Began working in textile mills"
+      },
+      {
+        "year": 1868,
+        "event": "Invented flat-bottomed paper bag machine"
+      },
+      {
+        "year": 1871,
+        "event": "Received patent for paper bag machine"
+      },
+      {
+        "year": 1914,
+        "event": "Passed away, leaving legacy of innovation"
+      }
+    ],
+    "barriers": [
+      "Faced gender discrimination in 19th-century invention world",
+      "Had to fight for recognition of her inventions",
+      "Defended patents against male competitors"
+    ],
+    "impact": "Revolutionized paper bag manufacturing and proved women could be successful inventors.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Margaret Knight: The Lady Edison",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Margaret Knight",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Inspired future generations of women inventors through her example and success.",
+    "fun_fact": "Margaret was called 'Lady Edison' because of her prolific inventing, similar to Thomas Edison.",
+    "career_path": {
+      "first_job": "Textile mill worker at age 12",
+      "career_highlights": [
+        "Invented safety devices for textile mills",
+        "Created flat-bottomed paper bag machine",
+        "Held over 20 patents"
+      ],
+      "advice_for_students": "Don't let anyone tell you what you can't do because of your gender. Follow your interests and talents."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women Inventors: Hidden in History",
+        "The Lady Edison: Margaret Knight"
+      ],
+      "websites": [
+        "womeninventors.org",
+        "invent.org",
+        "patentoffice.gov"
+      ],
+      "programs": [
+        "Invention competitions",
+        "Engineering summer camps",
+        "Women in STEM mentorship"
+      ],
+      "advice": "Start with simple machines and work your way up. The best inventors solve real problems."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal education opportunities for women"
+      ],
+      "professional": [
+        "Facing gender discrimination in invention",
+        "Fighting for patent recognition"
+      ],
+      "personal": [
+        "Overcoming societal expectations for women"
+      ],
+      "how_overcame": "Used determination and mechanical skills to prove her inventions worked, fought for patent rights"
+    },
+    "education_details": {
+      "high_school": "Limited formal education, self-taught in mechanics",
+      "college_major": "Self-taught mechanical engineering",
+      "key_courses": [
+        "Mechanical Engineering",
+        "Machine Design",
+        "Patent Law",
+        "Business"
+      ],
+      "study_tips": "Learn by doing and solving real problems"
+    },
+    "modern_impact": {
+      "current_applications": "Her paper bag technology is still used in manufacturing today",
+      "companies_using_her_work": [
+        "Paper bag manufacturers",
+        "Textile companies",
+        "Women inventors"
+      ],
+      "future_implications": "Her example continues to inspire women in engineering and invention"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Machines",
+        "Tools",
+        "Invention",
+        "Problem-solving"
+      ],
+      "family_background": "Working-class family in Maine",
+      "hobbies": [
+        "Making tools and machines",
+        "Inventing",
+        "Improving existing technology"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Innovative",
+        "Practical",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "19th-century American industrial revolution",
+        "New England manufacturing culture",
+        "Women's rights movement"
+      ],
+      "cultural_challenges": [
+        "Gender barriers in 19th-century America",
+        "Limited opportunities for women in industry"
+      ],
+      "cultural_contributions": "Pioneered American women's participation in mechanical invention and engineering"
+    }
   },
   {
     "name": "Stephanie Kwolek",
@@ -1879,7 +3509,171 @@ const pioneers = [
     "quote": "To invent, I draw upon my knowledge, intuition, creativity, experience, common sense, perseverance, flexibility, and hard work.",
     "summary": "Inventor of Kevlar, the strong fiber used in bulletproof vests and many other products.",
     "shortDescription": "Stephanie Kwolek was a chemist who invented Kevlar, a super-strong fiber used in bulletproof vests and many other products. Her discovery has saved countless lives.",
-    "references": [{"title": "Smithsonian Lemelson Center: Stephanie Kwolek","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in 1923 in Pennsylvania, Stephanie Kwolek showed an early interest in science and nature. She was inspired by her father's work as a naturalist and her own curiosity about the natural world.",
+      "stem_journey": "Stephanie earned her degree in chemistry and went to work for DuPont, where she spent her entire career. She was assigned to work on new synthetic fibers, leading to her discovery of Kevlar.",
+      "challenges": "As a woman chemist in the 1950s and 1960s, Stephanie faced gender barriers in the male-dominated chemical industry. She had to prove her worth through her research and discoveries.",
+      "achievements": "Stephanie invented Kevlar, a revolutionary synthetic fiber that is five times stronger than steel. Her invention has saved countless lives in bulletproof vests and other protective equipment.",
+      "legacy": "Stephanie's work has had a profound impact on safety and protection worldwide. She proved that women could make groundbreaking discoveries in chemistry."
+    },
+    "achievements": [
+      "Invented Kevlar synthetic fiber",
+      "Created material five times stronger than steel",
+      "Saved countless lives with bulletproof vests",
+      "Held multiple patents for synthetic fibers"
+    ],
+    "awards": [
+      "National Medal of Technology",
+      "Perkin Medal",
+      "National Inventors Hall of Fame"
+    ],
+    "publications": [
+      {
+        "title": "Kevlar and synthetic fiber research",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "BS",
+        "field": "Chemistry",
+        "institution": "Carnegie Mellon University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1923,
+        "event": "Born in Pennsylvania"
+      },
+      {
+        "year": 1946,
+        "event": "Graduated from Carnegie Mellon University"
+      },
+      {
+        "year": 1946,
+        "event": "Began working at DuPont"
+      },
+      {
+        "year": 1965,
+        "event": "Invented Kevlar"
+      },
+      {
+        "year": 2014,
+        "event": "Passed away, leaving legacy of innovation"
+      }
+    ],
+    "barriers": [
+      "Faced gender barriers in male-dominated chemical industry",
+      "Overcame skepticism about women in chemistry"
+    ],
+    "impact": "Revolutionized protective materials and saved countless lives with Kevlar technology.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Stephanie Kwolek: Inventor of Kevlar",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Stephanie Kwolek",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Inspired future generations of women chemists through her groundbreaking discoveries.",
+    "fun_fact": "Stephanie originally wanted to be a doctor but couldn't afford medical school, so she became a chemist instead.",
+    "career_path": {
+      "first_job": "Chemist at DuPont",
+      "career_highlights": [
+        "Spent entire career at DuPont",
+        "Invented revolutionary Kevlar fiber",
+        "Held multiple patents"
+      ],
+      "advice_for_students": "Follow your curiosity and don't be afraid to pursue unconventional ideas. The best discoveries often come from unexpected directions."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Chemistry: Their Changing Roles from Alchemical Times to the Mid-Twentieth Century",
+        "The Chemistry of Polymers"
+      ],
+      "websites": [
+        "chemistry.org",
+        "acs.org",
+        "science.org"
+      ],
+      "programs": [
+        "Chemistry summer camps",
+        "Science competitions",
+        "Women in STEM mentorship"
+      ],
+      "advice": "Study chemistry and materials science, and don't be afraid to experiment with new ideas."
+    },
+    "challenges": {
+      "academic": [
+        "Overcoming gender barriers in chemistry education"
+      ],
+      "professional": [
+        "Breaking into male-dominated chemical industry",
+        "Getting research discoveries recognized"
+      ],
+      "personal": [
+        "Balancing career with personal life"
+      ],
+      "how_overcame": "Used determination and scientific excellence to prove her worth, focused on practical applications"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in science and mathematics",
+      "college_major": "Chemistry",
+      "key_courses": [
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Materials Science"
+      ],
+      "study_tips": "Connect theoretical chemistry with practical applications and real-world problems"
+    },
+    "modern_impact": {
+      "current_applications": "Kevlar continues to be used in bulletproof vests and protective equipment worldwide",
+      "companies_using_her_work": [
+        "Military and law enforcement",
+        "Safety equipment manufacturers",
+        "Automotive industry"
+      ],
+      "future_implications": "Her work inspires new materials development for safety and protection"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Science",
+        "Nature",
+        "Chemistry",
+        "Problem-solving"
+      ],
+      "family_background": "Father was a naturalist who encouraged scientific curiosity",
+      "hobbies": [
+        "Gardening",
+        "Reading",
+        "Scientific research"
+      ],
+      "personality_traits": [
+        "Curious",
+        "Determined",
+        "Innovative",
+        "Humble"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "American innovation culture",
+        "Post-war chemical industry",
+        "Women's rights movement"
+      ],
+      "cultural_challenges": [
+        "Gender barriers in 1950s-1960s chemical industry",
+        "Limited opportunities for women in science"
+      ],
+      "cultural_contributions": "Pioneered American women's participation in chemical research and materials science"
+    }
   },
   {
     "name": "Alexis Lewis",
