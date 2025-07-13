@@ -554,7 +554,13 @@ const pioneers = [
         "Became first female president of American Physical Society"
       ],
       "advice_for_students": "Don't let anyone tell you what you can't do. Physics is for everyone who is curious about how the universe works."
-    }
+    },
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu"
+      }
+    ]
   },
   {
     "name": "Sally Ride",
@@ -602,7 +608,13 @@ const pioneers = [
         "Founded Sally Ride Science in 2001"
       ],
       "advice_for_students": "Follow your curiosity and don't let stereotypes limit your dreams. Space is for everyone."
-    }
+    },
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sally_Ride"
+      }
+    ]
   },
   {
     "name": "Katherine Johnson",
@@ -649,7 +661,13 @@ const pioneers = [
         "Verified calculations for John Glenn's orbital flight"
       ],
       "advice_for_students": "Learn everything you can, then do what you want to do. Math is everywhere in the world around us."
-    }
+    },
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Katherine_Johnson"
+      }
+    ]
   },
   {
     "name": "Caroline Keep",
@@ -814,6 +832,12 @@ const pioneers = [
       "First Native American female engineer",
       "Worked on NASA space programs",
       "Pioneered aerospace engineering research"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mary_Golda_Ross"
+      }
     ]
   },
   {
@@ -837,6 +861,12 @@ const pioneers = [
       "Pioneered research in medicinal plants",
       "Developed anti-malarial drugs",
       "First Indian woman to receive Doctor of Science"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Asima_Chatterjee"
+      }
     ]
   },
   {
@@ -860,6 +890,12 @@ const pioneers = [
       "Developed leprosy treatment",
       "First African American woman with master's from UH",
       "Pioneered chaulmoogra oil extraction"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alice_Ball"
+      }
     ]
   },
   {
@@ -883,6 +919,12 @@ const pioneers = [
       "Popularized science and mathematics",
       "Work led to discovery of Neptune",
       "First female member of the Royal Astronomical Society"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mary_Somerville"
+      }
     ]
   },
   {
@@ -906,6 +948,12 @@ const pioneers = [
       "Nobel Prize in Physiology or Medicine (1947)",
       "Discovered the Cori cycle",
       "Pioneered research in biochemistry"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gerty_Cori"
+      }
     ]
   },
   {
@@ -929,6 +977,12 @@ const pioneers = [
       "Discovered Earth's inner core",
       "Pioneered seismology",
       "First woman to receive the William Bowie Medal"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Inge_Lehmann"
+      }
     ]
   },
   {
@@ -952,6 +1006,12 @@ const pioneers = [
       "Nobel Prize in Chemistry (1964)",
       "Determined structure of penicillin",
       "Solved structure of vitamin B12"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dorothy_Hodgkin"
+      }
     ]
   },
   {
@@ -974,6 +1034,12 @@ const pioneers = [
       "Transformed primatology",
       "Founded the Jane Goodall Institute",
       "UN Messenger of Peace"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jane_Goodall"
+      }
     ]
   },
   {
@@ -996,6 +1062,12 @@ const pioneers = [
       "Pioneered satellite geodesy",
       "Developed mathematical modeling for GPS",
       "Inducted into the Air Force Space and Missile Pioneers Hall of Fame"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gladys_West"
+      }
     ]
   },
   {
@@ -1384,7 +1456,13 @@ const pioneers = [
         "Won Nobel Peace Prize in 2004"
       ],
       "advice_for_students": "Start with small actions in your community. Every tree planted makes a difference."
-    }
+    },
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wangari_Maathai"
+      }
+    ]
   },
   {
     "name": "Maya Angelou",
@@ -1432,7 +1510,13 @@ const pioneers = [
         "Became Reynolds Professor at Wake Forest University"
       ],
       "advice_for_students": "Find your voice and use it to tell your story. Education is the key to freedom."
-    }
+    },
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maya_Angelou"
+      }
+    ]
   },
   {
     "name": "Hypatia",
@@ -1477,7 +1561,13 @@ const pioneers = [
         "Wrote commentaries on mathematical texts"
       ],
       "advice_for_students": "Never stop learning and questioning. Knowledge is the most powerful tool you have."
-    }
+    },
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hypatia"
+      }
+    ]
   },
   {
     "name": "Mary Anning",
@@ -1520,7 +1610,13 @@ const pioneers = [
         "Discovered pterosaur in 1828"
       ],
       "advice_for_students": "Follow your curiosity wherever it leads. You don't need formal education to make important discoveries."
-    }
+    },
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mary_Anning"
+      }
+    ]
   },
   {
     "name": "Kalpana Chawla",
@@ -1566,7 +1662,13 @@ const pioneers = [
         "Second space flight in 2003"
       ],
       "advice_for_students": "Dream big and work hard. Education is your ticket to the stars."
-    }
+    },
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kalpana_Chawla"
+      }
+    ]
   },
   {
     "name": "Fabiola Gianotti",
@@ -1612,7 +1714,13 @@ const pioneers = [
         "Became CERN Director-General in 2016"
       ],
       "advice_for_students": "Follow your passion for understanding how the universe works. Physics is for everyone who is curious."
-    }
+    },
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fabiola_Gianotti"
+      }
+    ]
   }
 ];
 
