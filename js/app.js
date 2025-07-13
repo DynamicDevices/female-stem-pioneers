@@ -321,11 +321,6 @@ class PioneersApp {
           <h4>Fun Fact</h4>
           <p>${pioneer.fun_fact || ''}</p>
         </div>
-
-        <div class="pioneer-study-path">
-          <h4>Follow in Her Footsteps</h4>
-          <p>${this.getStudyPath(pioneer)}</p>
-        </div>
       </div>
 
       <div class="pioneer-actions">
@@ -355,6 +350,11 @@ class PioneersApp {
           <p><strong>Career Advice:</strong> ${pioneer.career_path?.advice_for_students || "Follow your passion and curiosity"}</p>
         </div>
         ` : ''}
+        
+        <div class="expandable-section">
+          <h4>Follow in Her Footsteps</h4>
+          <p>${this.getStudyPath(pioneer)}</p>
+        </div>
         
         <div class="expandable-section">
           <h4>Legacy</h4>
