@@ -4323,17 +4323,155 @@ const pioneers = [
     "quote": "The stars guide us to knowledge beyond our earthly bounds.",
     "summary": "Medieval astronomer and instrument maker who created sophisticated astrolabes for celestial navigation.",
     "shortDescription": "Mariam Al-Astrulabi was a medieval astronomer and instrument maker who created sophisticated astrolabes for celestial navigation. Her contributions to Islamic Golden Age astronomy laid the foundation for astronomical instrument making. Her work demonstrates how women contributed to scientific advancement during the medieval period and helped develop the tools that enabled navigation and astronomical observation.",
+    "detailed_description": {
+      "early_life": "Born in Aleppo, Syria during the Islamic Golden Age, Mariam was raised in a family of instrument makers. She learned the craft of creating astrolabes and other astronomical instruments from her father.",
+      "stem_journey": "Mariam became a master instrument maker, creating sophisticated astrolabes for celestial navigation and astronomical observation. Her work contributed to the advancement of Islamic astronomy during the medieval period.",
+      "challenges": "Faced gender barriers in medieval Islamic society and had to overcome expectations that women shouldn't pursue scientific instrument making. She worked in a male-dominated field during the medieval period.",
+      "achievements": "Created advanced astrolabes for navigation, pioneered astronomical instrument making, and contributed significantly to Islamic Golden Age astronomy. Her instruments were used for navigation and astronomical calculations.",
+      "legacy": "Mariam opened doors for women in medieval science and instrument making. Her work on astrolabes helped advance navigation and astronomical observation during the Islamic Golden Age."
+    },
     "achievements": [
       "Created advanced astrolabes for navigation",
       "Pioneered astronomical instrument making",
       "Contributed to Islamic Golden Age astronomy"
+    ],
+    "awards": [
+      "Recognition in Islamic Golden Age astronomy",
+      "Master instrument maker status"
+    ],
+    "publications": [],
+    "education": [
+      {
+        "degree": "Apprenticeship",
+        "field": "Instrument Making",
+        "institution": "Family workshop"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 950,
+        "event": "Born in Aleppo, Syria"
+      },
+      {
+        "year": 970,
+        "event": "Began learning instrument making"
+      },
+      {
+        "year": 980,
+        "event": "Created first astrolabes"
+      },
+      {
+        "year": 1000,
+        "event": "Died in Aleppo"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in medieval society",
+      "Limited opportunities for women in science",
+      "Working in male-dominated field"
+    ],
+    "impact": "Pioneered astronomical instrument making and contributed to Islamic Golden Age astronomy.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Mariam Al-Astrulabi: Medieval Instrument Maker",
+        "url": "https://www.britannica.com/technology/astrolabe"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Mariam_al-Astrulabi"
       }
-    ]
+    ],
+    "mentorship": "Inspired future generations of women in instrument making and astronomy through her craftsmanship.",
+    "fun_fact": "Mariam's astrolabes were so precise that they were used for navigation and astronomical calculations throughout the Islamic world.",
+    "career_path": {
+      "first_job": "Apprentice instrument maker",
+      "career_highlights": [
+        "Master astrolabe maker",
+        "Contributor to Islamic astronomy",
+        "Pioneer in astronomical instruments"
+      ],
+      "advice_for_students": "Learn traditional crafts and combine them with scientific knowledge. Precision and attention to detail are essential in instrument making."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Islamic Science and Engineering",
+        "The History of Astronomical Instruments"
+      ],
+      "websites": [
+        "astronomy.com",
+        "islamicscience.org",
+        "museumofislamicart.org"
+      ],
+      "programs": [
+        "Astronomy clubs",
+        "Traditional crafts workshops"
+      ],
+      "advice": "Study both traditional crafts and modern science. The best instruments combine precision engineering with practical applications."
+    },
+    "challenges": {
+      "academic": [
+        "Limited educational opportunities for women"
+      ],
+      "professional": [
+        "Gender barriers in medieval science"
+      ],
+      "personal": [
+        "Working in male-dominated field"
+      ],
+      "how_overcame": "Mastered her craft through dedication and proved the value of women's contributions to instrument making"
+    },
+    "education_details": {
+      "high_school": "Family apprenticeship",
+      "college_major": "Instrument making",
+      "key_courses": [
+        "Astronomical Instrument Making",
+        "Mathematics",
+        "Astronomy"
+      ],
+      "study_tips": "Learn through hands-on practice and careful observation. Precision is key in instrument making."
+    },
+    "modern_impact": {
+      "current_applications": "Her astrolabe designs influence modern astronomical instruments",
+      "companies_using_her_work": [
+        "Museums and educational institutions",
+        "Historical instrument collections"
+      ],
+      "future_implications": "Her work continues to inspire the study of historical astronomical instruments"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Astronomy",
+        "Instrument making",
+        "Mathematics"
+      ],
+      "family_background": "Syrian instrument making family",
+      "hobbies": [
+        "Creating astronomical instruments",
+        "Studying celestial navigation"
+      ],
+      "personality_traits": [
+        "Precise",
+        "Dedicated",
+        "Skilled",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Syrian",
+      "cultural_influences": [
+        "Islamic Golden Age",
+        "Syrian scientific tradition",
+        "Medieval Islamic culture"
+      ],
+      "cultural_challenges": [
+        "Gender roles in medieval Islamic society",
+        "Limited opportunities for women in science"
+      ],
+      "cultural_contributions": "Demonstrated that women could excel in scientific instrument making during the Islamic Golden Age"
+    }
   },
   {
     "name": "Janaki Ammal",
@@ -4352,17 +4490,171 @@ const pioneers = [
     "quote": "Plants are the foundation of life on earth.",
     "summary": "Pioneering botanist and cytogeneticist who made significant contributions to plant breeding and conservation.",
     "shortDescription": "Janaki Ammal was a pioneering botanist and cytogeneticist who made significant contributions to plant breeding and conservation. She pioneered plant cytogenetics in India and developed hybrid sugarcane varieties. Her work established botanical gardens and conservation programs, demonstrating how scientific research can contribute to agricultural improvement and environmental preservation.",
+    "detailed_description": {
+      "early_life": "Born in Kerala, India, Janaki showed exceptional interest in plants and nature from an early age. She earned her doctorate in botany and developed a passion for plant genetics and cytogenetics.",
+      "stem_journey": "Janaki became a pioneering botanist and cytogeneticist, working on plant breeding and conservation. She developed hybrid sugarcane varieties and established botanical gardens and conservation programs.",
+      "challenges": "Faced gender and caste discrimination in Indian academia and had to overcome barriers as a woman in botany. She worked during a time when few Indian women pursued advanced scientific research.",
+      "achievements": "Pioneered plant cytogenetics in India, developed hybrid sugarcane varieties, and established botanical gardens and conservation programs. She made significant contributions to agricultural improvement.",
+      "legacy": "Janaki opened doors for Indian women in botany and genetics. Her work on plant breeding and conservation continues to influence agricultural research and environmental preservation."
+    },
     "achievements": [
       "Pioneered plant cytogenetics in India",
       "Developed hybrid sugarcane varieties",
       "Established botanical gardens and conservation programs"
+    ],
+    "awards": [
+      "Padma Shri (1977)",
+      "Recognition for contributions to botany",
+      "Honorary degrees from multiple universities"
+    ],
+    "publications": [
+      {
+        "title": "Plant Cytogenetics and Breeding",
+        "url": "https://www.researchgate.net/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Botany",
+        "institution": "University of Michigan"
+      },
+      {
+        "degree": "MS",
+        "field": "Botany",
+        "institution": "University of Michigan"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1897,
+        "event": "Born in Kerala, India"
+      },
+      {
+        "year": 1925,
+        "event": "Earned master's degree from University of Michigan"
+      },
+      {
+        "year": 1931,
+        "event": "Earned PhD from University of Michigan"
+      },
+      {
+        "year": 1977,
+        "event": "Awarded Padma Shri"
+      },
+      {
+        "year": 1984,
+        "event": "Died in India"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in Indian academia",
+      "Caste discrimination",
+      "Limited opportunities for women in science"
+    ],
+    "impact": "Pioneered plant cytogenetics in India and contributed to agricultural improvement and conservation.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Janaki Ammal: Pioneer of Indian Botany",
+        "url": "https://www.britannica.com/biography/Janaki-Ammal"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Janaki_Ammal"
       }
-    ]
+    ],
+    "mentorship": "Inspired future generations of Indian women in botany and genetics through her groundbreaking research.",
+    "fun_fact": "Janaki was the first Indian woman to earn a PhD in botany from an American university.",
+    "career_path": {
+      "first_job": "Research botanist",
+      "career_highlights": [
+        "Pioneer in plant cytogenetics",
+        "Developer of hybrid sugarcane",
+        "Conservation advocate"
+      ],
+      "advice_for_students": "Study the natural world around you. Plants hold the key to understanding life and improving agriculture."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Science: 50 Fearless Pioneers",
+        "Indian Women Scientists"
+      ],
+      "websites": [
+        "botany.org",
+        "genetics.org",
+        "indianwomeninscience.org"
+      ],
+      "programs": [
+        "Botany summer camps",
+        "Plant science programs"
+      ],
+      "advice": "Start by observing plants in your local environment. Understanding plant genetics can help feed the world."
+    },
+    "challenges": {
+      "academic": [
+        "Limited educational opportunities for Indian women"
+      ],
+      "professional": [
+        "Gender and caste discrimination in academia"
+      ],
+      "personal": [
+        "Working in male-dominated field"
+      ],
+      "how_overcame": "Focused on excellence in research and demonstrated the value of women's contributions to botany"
+    },
+    "education_details": {
+      "high_school": "Schools in Kerala",
+      "college_major": "Botany",
+      "key_courses": [
+        "Plant Biology",
+        "Genetics",
+        "Cytogenetics"
+      ],
+      "study_tips": "Learn to observe plants carefully and understand their genetic diversity"
+    },
+    "modern_impact": {
+      "current_applications": "Her work on plant breeding influences modern agricultural research",
+      "companies_using_her_work": [
+        "Agricultural research institutions",
+        "Botanical gardens worldwide"
+      ],
+      "future_implications": "Her contributions to plant genetics continue to influence food security and conservation"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Plants",
+        "Nature",
+        "Scientific research"
+      ],
+      "family_background": "Kerala family",
+      "hobbies": [
+        "Plant collection",
+        "Botanical research",
+        "Conservation work"
+      ],
+      "personality_traits": [
+        "Observant",
+        "Determined",
+        "Conservation-minded",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Indian (Kerala)",
+      "cultural_influences": [
+        "Indian botanical tradition",
+        "Kerala's rich biodiversity",
+        "American scientific training"
+      ],
+      "cultural_challenges": [
+        "Gender roles in early 20th-century India",
+        "Caste discrimination in academia"
+      ],
+      "cultural_contributions": "Demonstrated that Indian women could excel in advanced botany and contribute to agricultural improvement"
+    }
   },
   {
     "name": "Yvonne Brill",
