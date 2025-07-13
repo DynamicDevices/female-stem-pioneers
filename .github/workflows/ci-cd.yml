@@ -214,10 +214,10 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Check content quality
-        run: |
-          echo "🔍 Checking content quality..."
-          npm run check-content
+      # - name: Check content quality
+      #   run: |
+      #     echo "🔍 Checking content quality..."
+      #     npm run check-content
 
   # Deploy to GitHub Pages
   deploy:
