@@ -5787,7 +5787,7 @@ const pioneers = [
     "birthDate": "1924",
     "country": "United States",
     "fields": [
-      "Mathematics",
+        "Mathematics",
       "Computer Programming"
     ],
     "roles": [
@@ -6897,6 +6897,166 @@ const pioneers = [
       ],
       "cultural_contributions": "Broke barriers for women in mathematics throughout Europe and inspired future generations"
     }
+  },
+  {
+    "name": "Emmy Noether",
+    "photo": "./images/emmy-noether.jpg",
+    "birthDate": "1882",
+    "deathDate": "1935",
+    "country": "Germany",
+    "fields": [
+      "Mathematics",
+      "Physics"
+    ],
+    "roles": [
+      "Mathematician",
+      "Professor"
+    ],
+    "quote": "My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.",
+    "summary": "Revolutionary mathematician who developed Noether's theorem, connecting symmetry and conservation laws in physics.",
+    "shortDescription": "Emmy Noether was a brilliant mathematician who changed how we understand the universe. She discovered that symmetry in nature leads to conservation laws - like how the symmetry of time leads to conservation of energy. Albert Einstein called her the most important woman in mathematics. Her work helps physicists understand everything from particle physics to black holes.",
+    "achievements": [
+      "Developed Noether's theorem linking symmetry and conservation laws",
+      "Made fundamental contributions to abstract algebra",
+      "Pioneered ring theory and group theory",
+      "Influenced modern theoretical physics"
+    ],
+    "awards": [],
+    "publications": [],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Mathematics",
+        "institution": "University of Erlangen"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1907,
+        "event": "Earned PhD in mathematics"
+      },
+      {
+        "year": 1915,
+        "event": "Invited to Göttingen by David Hilbert"
+      },
+      {
+        "year": 1918,
+        "event": "Published Noether's theorem"
+      },
+      {
+        "year": 1933,
+        "event": "Fled Nazi Germany to the United States"
+      }
+    ],
+    "barriers": [
+      "Faced discrimination as a woman in mathematics",
+      "Denied professorship for years despite qualifications",
+      "Forced to flee Nazi Germany"
+    ],
+    "impact": "Her mathematical insights form the foundation of modern theoretical physics and abstract algebra.",
+    "media": [],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Emmy_Noether"
+      },
+      {
+        "title": "MacTutor History",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Noether/"
+      }
+    ],
+    "mentorship": "Mentored many students who became leading mathematicians.",
+    "fun_fact": "Albert Einstein called her the most important woman in the history of mathematics.",
+    "career_path": {
+      "first_job": "Private mathematics tutor",
+      "career_highlights": [
+        "Worked at University of Göttingen",
+        "Became professor at Bryn Mawr College",
+        "Visiting professor at Princeton"
+      ],
+      "advice_for_students": "Follow your mathematical curiosity wherever it leads. The most abstract ideas often have the most practical applications."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Emmy Noether: A Tribute to Her Life and Work",
+        "Symmetry and the Beautiful Universe"
+      ],
+      "websites": [
+        "mathworld.wolfram.com",
+        "khanacademy.org/math"
+      ],
+      "programs": [
+        "Mathematics summer programs",
+        "Women in mathematics organizations"
+      ],
+      "advice": "Study abstract mathematics - it's the language of the universe and opens doors to understanding everything from physics to computer science."
+    },
+    "challenges": {
+      "academic": [
+        "Denied formal university positions for years",
+        "Had to lecture under male colleagues' names"
+      ],
+      "professional": [
+        "Discrimination against women in mathematics",
+        "Forced to flee Nazi Germany"
+      ],
+      "personal": [
+        "Health issues throughout her life"
+      ],
+      "how_overcame": "Persisted through discrimination, focused on her mathematical work, and found supportive colleagues like David Hilbert"
+    },
+    "education_details": {
+      "high_school": "Städtische Höhere Töchterschule",
+      "college_major": "Mathematics",
+      "key_courses": [
+        "Abstract Algebra",
+        "Group Theory",
+        "Ring Theory",
+        "Theoretical Physics"
+      ],
+      "study_tips": "Look for patterns and connections between different mathematical concepts"
+    },
+    "modern_impact": {
+      "current_applications": "Her theorem is fundamental to particle physics, quantum mechanics, and general relativity",
+      "companies_using_her_work": [
+        "CERN (particle physics)",
+        "NASA (space exploration)",
+        "All major physics research institutions"
+      ],
+      "future_implications": "Essential for understanding quantum computing and advanced physics"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Languages",
+        "Dancing"
+      ],
+      "family_background": "Daughter of mathematician Max Noether",
+      "hobbies": [
+        "Mathematics",
+        "Teaching",
+        "Walking"
+      ],
+      "personality_traits": [
+        "Brilliant",
+        "Generous",
+        "Dedicated",
+        "Humble"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "German Jewish",
+      "cultural_influences": [
+        "German mathematical tradition",
+        "Jewish intellectual culture"
+      ],
+      "cultural_challenges": [
+        "Anti-Semitism in Nazi Germany",
+        "Gender discrimination in academia"
+      ],
+      "cultural_contributions": "Bridged German and American mathematical traditions, influenced generations of mathematicians"
+    },
+    "legacy": "Emmy Noether's mathematical insights revolutionized both abstract algebra and theoretical physics. Her work on symmetry and conservation laws is fundamental to our understanding of the universe, from particle physics to cosmology. She opened doors for women in mathematics and inspired generations of mathematicians and physicists."
   }
 ];
 
