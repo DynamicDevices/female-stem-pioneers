@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 ### 🎉 MVP Release Complete!
 
 #### Added
+
 - **12 Pioneer Profiles**: Comprehensive profiles with rich metadata
 - **Interactive Search & Filter**: Find pioneers by name, field, country, or keywords
 - **Study Path Suggestions**: "Follow in Her Footsteps" sections with study recommendations
@@ -16,6 +17,7 @@ All notable changes to this project will be documented in this file.
 - **Accessibility Features**: WCAG compliant with screen reader support
 
 #### Changed
+
 - **Quote Styling**: Removed quotation marks for cleaner appearance
 - **Quote Consistency**: Made quote styling consistent with other content sections
 - **Button Centering**: Perfectly centered "Learn More" button text
@@ -23,12 +25,14 @@ All notable changes to this project will be documented in this file.
 - **Card Layout**: Enhanced pioneer card structure with flexbox
 
 #### Fixed
+
 - **Button Alignment**: Learn More buttons now consistently aligned and centered
 - **Text Contrast**: Improved visibility of pioneer metadata
 - **Quote Display**: Cleaner quote presentation without decorative elements
 - **Performance**: Optimized image loading and reduced initial page load time
 
 #### Technical Improvements
+
 - **Service Worker**: Enhanced caching for better offline experience
 - **CSS Architecture**: Better structured styles with improved maintainability
 - **JavaScript Modules**: Cleaner code organization and error handling
@@ -38,12 +42,14 @@ All notable changes to this project will be documented in this file.
 ## [v1.0.0-beta] - 2025-01-11
 
 ### Added
+
 - **Enhanced Typography**: Google Fonts integration (Inter and Playfair Display)
 - **Field Color-Coding**: Color-coded badges for different STEM fields
 - **Hover Effects**: Smooth animations and micro-interactions on pioneer cards
 - **SVG Pattern Background**: Subtle STEM-themed pattern in header
 
 ### Changed
+
 - **Header Design**: Improved gradient backgrounds and text contrast
 - **Card Interactions**: Enhanced hover states and visual feedback
 - **Color Scheme**: More consistent and accessible color palette
@@ -51,6 +57,7 @@ All notable changes to this project will be documented in this file.
 ## [v1.0.0-alpha] - 2025-01-10
 
 ### Added
+
 - **Basic Site Structure**: HTML, CSS, and JavaScript foundation
 - **Pioneer Profiles**: Comprehensive data structure with rich metadata
 - **Search and Filter**: Interactive search by name, field, country, and keywords
@@ -63,6 +70,7 @@ All notable changes to this project will be documented in this file.
 ### 🚀 Content Expansion & Improvements
 
 #### Added
+
 - 81 unique female STEM pioneer profiles with diverse backgrounds, fields, and eras
 - Deduplication logic: only the first occurrence of each pioneer (by name) is shown in the UI
 - SVG icon/image fallback for missing photos
@@ -70,16 +78,19 @@ All notable changes to this project will be documented in this file.
 - Fun Fact section now hides if empty
 
 #### Changed
+
 - Updated documentation: README, PROJECT-REFERENCE.md, CONTRIBUTING.md, TODO.md
 - Improved instructions for adding new pioneers and images
 - Clarified image requirements and deduplication process
 
 #### Fixed
+
 - Removed duplicate entries from dataset for clarity
 - Fixed 404 errors for missing images (SVG fallback)
 - Improved error handling for missing or undefined dataset
 
 #### Technical Improvements
+
 - Enhanced data structure for pioneer profiles
 - Improved UI accessibility and responsiveness
 - Updated statistics display for total pioneers, fields, and countries
@@ -97,6 +108,7 @@ All notable changes to this project will be documented in this file.
 ## Next Steps
 
 The MVP foundation is complete. Next phase focuses on:
+
 - **Content Expansion**: Add more pioneer profiles (target: 50+)
 - **Enhanced Features**: Timeline visualizations, advanced filtering
 - **Educational Resources**: Interactive activities and downloadable content

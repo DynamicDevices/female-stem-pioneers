@@ -5,12 +5,16 @@ class PioneersApp {
   constructor() {
     this.pioneers = window.pioneers || [];
     this.filteredPioneers = [...this.pioneers];
-    this.searchTerm = '';
-    this.sortBy = 'name';
-    this.fieldFilter = '';
-    
-    console.log('PioneersApp initialized with', this.pioneers.length, 'pioneers');
-    
+    this.searchTerm = "";
+    this.sortBy = "name";
+    this.fieldFilter = "";
+
+    console.log(
+      "PioneersApp initialized with",
+      this.pioneers.length,
+      "pioneers",
+    );
+
     this.init();
   }
 
@@ -23,36 +27,36 @@ class PioneersApp {
 
   setupEventListeners() {
     // Search input
-    const searchInput = document.getElementById('searchInput');
+    const searchInput = document.getElementById("searchInput");
     if (searchInput) {
-      searchInput.addEventListener('input', (e) => {
+      searchInput.addEventListener("input", (e) => {
         this.searchTerm = e.target.value.toLowerCase();
         this.filterAndRender();
       });
     }
 
     // Sort select
-    const sortSelect = document.getElementById('sortSelect');
+    const sortSelect = document.getElementById("sortSelect");
     if (sortSelect) {
-      sortSelect.addEventListener('change', (e) => {
+      sortSelect.addEventListener("change", (e) => {
         this.sortBy = e.target.value;
         this.filterAndRender();
       });
     }
 
     // Field filter
-    const fieldFilter = document.getElementById('fieldFilter');
+    const fieldFilter = document.getElementById("fieldFilter");
     if (fieldFilter) {
-      fieldFilter.addEventListener('change', (e) => {
+      fieldFilter.addEventListener("change", (e) => {
         this.fieldFilter = e.target.value;
         this.filterAndRender();
       });
     }
 
     // Clear filters button
-    const clearFiltersBtn = document.getElementById('clearFiltersBtn');
+    const clearFiltersBtn = document.getElementById("clearFiltersBtn");
     if (clearFiltersBtn) {
-      clearFiltersBtn.addEventListener('click', () => {
+      clearFiltersBtn.addEventListener("click", () => {
         this.clearFilters();
       });
     }
@@ -66,31 +70,33 @@ class PioneersApp {
   }
 
   filterPioneers() {
-    this.filteredPioneers = this.pioneers.filter(pioneer => {
+    this.filteredPioneers = this.pioneers.filter((pioneer) => {
       // Search filter - prioritize name matching for short searches
       let searchMatch = !this.searchTerm;
-      
+
       if (this.searchTerm) {
         const searchLower = this.searchTerm.toLowerCase();
         const nameLower = pioneer.name.toLowerCase();
-        
+
         // For short searches (1-2 characters), only search names
         if (this.searchTerm.length <= 2) {
           // Check if any word in the name starts with the search term
-          const nameWords = nameLower.split(' ');
-          searchMatch = nameWords.some(word => word.startsWith(searchLower));
+          const nameWords = nameLower.split(" ");
+          searchMatch = nameWords.some((word) => word.startsWith(searchLower));
         } else {
           // For longer searches, search more broadly
-          searchMatch = 
+          searchMatch =
             nameLower.includes(searchLower) ||
-            pioneer.fields.some(field => field.toLowerCase().includes(searchLower)) ||
+            pioneer.fields.some((field) =>
+              field.toLowerCase().includes(searchLower),
+            ) ||
             pioneer.country.toLowerCase().includes(searchLower);
         }
       }
 
       // Field filter
-      const fieldMatch = !this.fieldFilter || 
-        pioneer.fields.includes(this.fieldFilter);
+      const fieldMatch =
+        !this.fieldFilter || pioneer.fields.includes(this.fieldFilter);
 
       return searchMatch && fieldMatch;
     });
@@ -99,17 +105,17 @@ class PioneersApp {
   sortPioneers() {
     this.filteredPioneers.sort((a, b) => {
       switch (this.sortBy) {
-        case 'name':
+        case "name":
           return a.name.localeCompare(b.name);
-        case 'name-desc':
+        case "name-desc":
           return b.name.localeCompare(a.name);
-        case 'birthday':
+        case "birthday":
           return this.extractYear(a.birthDate) - this.extractYear(b.birthDate);
-        case 'birthday-desc':
+        case "birthday-desc":
           return this.extractYear(b.birthDate) - this.extractYear(a.birthDate);
-        case 'country':
+        case "country":
           return a.country.localeCompare(b.country);
-        case 'field':
+        case "field":
           return a.fields[0].localeCompare(b.fields[0]);
         default:
           return 0;
@@ -123,50 +129,107 @@ class PioneersApp {
   }
 
   createPioneerCard(pioneer, index) {
-    const card = document.createElement('div');
-    card.className = 'pioneer-card';
+    const card = document.createElement("div");
+    card.className = "pioneer-card";
     card.style.animationDelay = `${index * 0.1}s`;
 
     // Add field explanations
     const FIELD_EXPLANATIONS = {
-      'Mathematics': 'The study of numbers, quantities, shapes, and patterns.',
-      'Physics': 'The science of matter, energy, and the fundamental forces of nature.',
-      'Chemistry': 'The study of substances, their properties, and how they interact.',
-      'Biology': 'The science of living organisms and life processes.',
-      'Computer Science': 'The study of computers, algorithms, and information processing.',
-      'Engineering': 'The application of science and math to solve real-world problems.',
-      'Astronomy': 'The study of celestial objects, space, and the universe.',
-      'Medicine': 'The science and practice of diagnosing, treating, and preventing disease.',
-      'Cytogenetics': 'The branch of genetics that studies the structure and function of cells, especially chromosomes.',
-      'Crystallography': 'The study of the arrangement of atoms in solids.',
-      'Phytomedicine': 'The study of medicines derived from plants.',
-      'Virology': 'The study of viruses and viral diseases.',
-      'Immunology': 'The study of the immune system and immune responses.',
-      'Geodesy': 'The science of measuring and understanding the Earth’s shape, orientation, and gravity.',
-      'Rocket Science': 'The science of designing and launching rockets and spacecraft.',
-      'Pharmacology': 'The study of drugs and their effects on living organisms.'
+      Mathematics: "The study of numbers, quantities, shapes, and patterns.",
+      Physics:
+        "The science of matter, energy, and the fundamental forces of nature.",
+      Chemistry:
+        "The study of substances, their properties, and how they interact.",
+      Biology: "The science of living organisms and life processes.",
+      "Computer Science":
+        "The study of computers, algorithms, and information processing.",
+      Engineering:
+        "The application of science and math to solve real-world problems.",
+      Astronomy: "The study of celestial objects, space, and the universe.",
+      Medicine:
+        "The science and practice of diagnosing, treating, and preventing disease.",
+      Computing:
+        "The study of computers, programming, and information technology.",
+      Aerospace: "The science and engineering of aircraft and spacecraft.",
+      Technology:
+        "The application of scientific knowledge for practical purposes.",
+      Neuroscience: "The study of the nervous system and brain.",
+      "Molecular Biology":
+        "The study of biological molecules and their interactions.",
+      Virology: "The study of viruses and viral diseases.",
+      Immunology: "The study of the immune system and immune responses.",
+      Geodesy:
+        "The science of measuring and understanding the Earth’s shape, orientation, and gravity.",
+      "Rocket Science":
+        "The science of designing and launching rockets and spacecraft.",
+      Pharmacology: "The study of drugs and their effects on living organisms.",
+      Crystallography: "The study of the arrangement of atoms in solids.",
+      Phytomedicine: "The study of medicines derived from plants.",
+      "Particle Physics": "The study of fundamental particles and forces.",
+      "Environmental Science":
+        "The study of the environment and human impact on it.",
+      Paleontology: "The study of ancient life through fossils.",
+      Geology: "The study of the Earth’s structure and history.",
+      Genetics: "The study of genes and heredity.",
+      Cytogenetics:
+        "The branch of genetics that studies the structure and function of cells, especially chromosomes.",
+      Microbiology: "The study of microscopic organisms.",
+      "Military Science": "The study of military technology and strategy.",
+      Philosophy:
+        "The study of fundamental questions about existence, knowledge, and values.",
+      Primatology:
+        "The study of primates including their behavior, biology, and evolution.",
+      Anthropology:
+        "The study of human societies, cultures, and their development.",
+      Robotics:
+        "The design, construction, and operation of robots and automated systems.",
+      Invention:
+        "The creation of new devices, processes, or methods to solve problems.",
+      Education:
+        "The process of teaching and learning, especially in academic settings.",
+      Botany: "The scientific study of plants and their life processes.",
+      Exploration:
+        "The act of discovering and investigating new territories or knowledge.",
+      "Atmospheric Science":
+        "The study of Earth's atmosphere and weather patterns.",
+      Biochemistry:
+        "The chemistry of living organisms and biological processes.",
+      Geophysics:
+        "The physics of Earth and its environment, including earthquakes and magnetic fields.",
+      Seismology: "The study of earthquakes and seismic waves.",
+      Astronautics:
+        "The science and technology of space travel and exploration.",
+      Administration:
+        "The management and organization of systems, institutions, or processes.",
     };
 
     // Render field badges with hover info
-    const fieldsBadges = pioneer.fields.slice(0, 2).map(field => {
-      const fieldClass = this.getFieldClass(field);
-      const explanation = FIELD_EXPLANATIONS[field] || 'No explanation available.';
-      return `<span class="field-badge ${fieldClass}" data-field="${field}" tabindex="0">
+    const fieldsBadges = pioneer.fields
+      .slice(0, 2)
+      .map((field) => {
+        const fieldClass = this.getFieldClass(field);
+        const explanation =
+          FIELD_EXPLANATIONS[field] || "No explanation available.";
+        return `<span class="field-badge ${fieldClass}" data-field="${field}" tabindex="0">
         ${field}
         <span class="field-info-box">${explanation}</span>
       </span>`;
-    }).join('');
+      })
+      .join("");
 
-    const achievementsList = pioneer.achievements.slice(0, 3).map(achievement => 
-      `<li>${achievement}</li>`
-    ).join('');
+    const achievementsList = pioneer.achievements
+      .slice(0, 3)
+      .map((achievement) => `<li>${achievement}</li>`)
+      .join("");
 
-    const shortDescription = pioneer.shortDescription ? `
+    const shortDescription = pioneer.shortDescription
+      ? `
       <div class="pioneer-short-description">
         <h4>About ${pioneer.name}</h4>
         <p>${pioneer.shortDescription}</p>
       </div>
-    ` : '';
+    `
+      : "";
 
     card.innerHTML = `
       <div class="pioneer-card-header">
@@ -205,12 +268,16 @@ class PioneersApp {
           <ul>${achievementsList}</ul>
         </div>
 
-        ${pioneer.fun_fact && pioneer.fun_fact.trim() ? `
+        ${
+          pioneer.fun_fact && pioneer.fun_fact.trim()
+            ? `
         <div class="pioneer-fun-fact">
           <h4>Fun Fact</h4>
           <p>${pioneer.fun_fact}</p>
         </div>
-        ` : ''}
+        `
+            : ""
+        }
 
         <div class="pioneer-study-path">
           <h4>Follow in Her Footsteps</h4>
@@ -226,7 +293,7 @@ class PioneersApp {
 
   createActionButtons(pioneer) {
     const buttons = [];
-    
+
     if (pioneer.references && pioneer.references.length > 0) {
       buttons.push(`
         <a href="${pioneer.references[0].url}" target="_blank" rel="noopener" 
@@ -236,13 +303,13 @@ class PioneersApp {
       `);
     }
 
-    return buttons.join('');
+    return buttons.join("");
   }
 
   updateStats() {
-    const totalPioneers = document.getElementById('totalPioneers');
-    const totalFields = document.getElementById('totalFields');
-    const totalCountries = document.getElementById('totalCountries');
+    const totalPioneers = document.getElementById("totalPioneers");
+    const totalFields = document.getElementById("totalFields");
+    const totalCountries = document.getElementById("totalCountries");
 
     if (totalPioneers) {
       totalPioneers.textContent = this.filteredPioneers.length;
@@ -250,15 +317,15 @@ class PioneersApp {
 
     if (totalFields) {
       const uniqueFields = new Set();
-      this.filteredPioneers.forEach(pioneer => {
-        pioneer.fields.forEach(field => uniqueFields.add(field));
+      this.filteredPioneers.forEach((pioneer) => {
+        pioneer.fields.forEach((field) => uniqueFields.add(field));
       });
       totalFields.textContent = uniqueFields.size;
     }
 
     if (totalCountries) {
       const uniqueCountries = new Set();
-      this.filteredPioneers.forEach(pioneer => {
+      this.filteredPioneers.forEach((pioneer) => {
         uniqueCountries.add(pioneer.country);
       });
       totalCountries.textContent = uniqueCountries.size;
@@ -266,169 +333,182 @@ class PioneersApp {
   }
 
   clearFilters() {
-    this.searchTerm = '';
-    this.sortBy = 'name';
-    this.fieldFilter = '';
+    this.searchTerm = "";
+    this.sortBy = "name";
+    this.fieldFilter = "";
 
     // Reset form elements
-    const searchInput = document.getElementById('searchInput');
-    const sortSelect = document.getElementById('sortSelect');
-    const fieldFilter = document.getElementById('fieldFilter');
+    const searchInput = document.getElementById("searchInput");
+    const sortSelect = document.getElementById("sortSelect");
+    const fieldFilter = document.getElementById("fieldFilter");
 
-    if (searchInput) searchInput.value = '';
-    if (sortSelect) sortSelect.value = 'name';
-    if (fieldFilter) fieldFilter.value = '';
+    if (searchInput) searchInput.value = "";
+    if (sortSelect) sortSelect.value = "name";
+    if (fieldFilter) fieldFilter.value = "";
 
     this.filterAndRender();
   }
 
   setupModal() {
-    const modal = document.getElementById('imageModal');
-    const closeBtn = modal.querySelector('.modal-close');
-    
+    const modal = document.getElementById("imageModal");
+    const closeBtn = modal.querySelector(".modal-close");
+
     // Close modal when clicking the close button
-    closeBtn.addEventListener('click', () => {
+    closeBtn.addEventListener("click", () => {
       this.closeImageModal();
     });
-    
+
     // Close modal when clicking outside the content
-    modal.addEventListener('click', (e) => {
+    modal.addEventListener("click", (e) => {
       if (e.target === modal) {
         this.closeImageModal();
       }
     });
-    
+
     // Close modal with Escape key
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && modal.style.display === 'block') {
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && modal.style.display === "block") {
         this.closeImageModal();
       }
     });
   }
 
   openImageModal(imageSrc, pioneerName, birthday, country) {
-    const modal = document.getElementById('imageModal');
-    const modalImage = document.getElementById('modalImage');
-    const modalTitle = document.getElementById('modalTitle');
-    const modalDescription = document.getElementById('modalDescription');
-    
+    const modal = document.getElementById("imageModal");
+    const modalImage = document.getElementById("modalImage");
+    const modalTitle = document.getElementById("modalTitle");
+    const modalDescription = document.getElementById("modalDescription");
+
     // Set modal content
     modalImage.src = imageSrc;
     modalImage.alt = `Portrait of ${pioneerName}`;
     modalTitle.textContent = pioneerName;
     modalDescription.textContent = `${birthday} • ${country}`;
-    
+
     // Show modal
-    modal.style.display = 'block';
-    document.body.style.overflow = 'hidden'; // Prevent background scrolling
-    
+    modal.style.display = "block";
+    document.body.style.overflow = "hidden"; // Prevent background scrolling
+
     // Focus for accessibility
     modal.focus();
   }
 
   closeImageModal() {
-    const modal = document.getElementById('imageModal');
-    modal.style.display = 'none';
-    document.body.style.overflow = ''; // Restore scrolling
+    const modal = document.getElementById("imageModal");
+    modal.style.display = "none";
+    document.body.style.overflow = ""; // Restore scrolling
   }
 
   getFieldClass(field) {
     const fieldMap = {
-      'Mathematics': 'mathematics',
-      'Physics': 'physics',
-      'Chemistry': 'chemistry',
-      'Biology': 'biology',
-      'Computer Science': 'computer-science',
-      'Engineering': 'engineering',
-      'Astronomy': 'astronomy',
-      'Medicine': 'medicine'
+      Mathematics: "mathematics",
+      Physics: "physics",
+      Chemistry: "chemistry",
+      Biology: "biology",
+      "Computer Science": "computer-science",
+      Engineering: "engineering",
+      Astronomy: "astronomy",
+      Medicine: "medicine",
     };
-    return fieldMap[field] || 'mathematics'; // Default to mathematics if field not found
+    return fieldMap[field] || "mathematics"; // Default to mathematics if field not found
   }
 
   setupLazyLoading() {
-    if ('IntersectionObserver' in window) {
-      const imageObserver = new IntersectionObserver((entries, observer) => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting) {
-            const img = entry.target;
-            img.src = img.dataset.src;
-            img.classList.remove('lazy-image');
-            observer.unobserve(img);
-          }
-        });
-      }, {
-        rootMargin: '50px 0px',
-        threshold: 0.01
-      });
+    if ("IntersectionObserver" in window) {
+      const imageObserver = new IntersectionObserver(
+        (entries, observer) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              const img = entry.target;
+              img.src = img.dataset.src;
+              img.classList.remove("lazy-image");
+              observer.unobserve(img);
+            }
+          });
+        },
+        {
+          rootMargin: "50px 0px",
+          threshold: 0.01,
+        },
+      );
 
       // Observe all lazy images
-      document.querySelectorAll('.lazy-image').forEach(img => {
+      document.querySelectorAll(".lazy-image").forEach((img) => {
         imageObserver.observe(img);
       });
     }
   }
 
   renderPioneers() {
-    const container = document.getElementById('pioneersContainer');
-    const noResults = document.getElementById('noResults');
-    
-    console.log('Rendering pioneers:', this.filteredPioneers.length);
-    
+    const container = document.getElementById("pioneersContainer");
+    const noResults = document.getElementById("noResults");
+
+    console.log("Rendering pioneers:", this.filteredPioneers.length);
+
     if (!container) {
-      console.error('Pioneers container not found');
+      console.error("Pioneers container not found");
       return;
     }
 
-    container.innerHTML = '';
+    container.innerHTML = "";
 
     if (this.filteredPioneers.length === 0) {
-      console.log('No pioneers to display');
-      if (noResults) noResults.style.display = 'block';
+      console.log("No pioneers to display");
+      if (noResults) noResults.style.display = "block";
       return;
     }
 
-    if (noResults) noResults.style.display = 'none';
+    if (noResults) noResults.style.display = "none";
 
     this.filteredPioneers.forEach((pioneer, index) => {
       const card = this.createPioneerCard(pioneer, index);
       container.appendChild(card);
     });
-    
+
     // Setup lazy loading after rendering
     this.setupLazyLoading();
-    
-    console.log('Rendered', this.filteredPioneers.length, 'pioneer cards');
+
+    console.log("Rendered", this.filteredPioneers.length, "pioneer cards");
   }
 
   getStudyPath(pioneer) {
     // Use existing education details if available, otherwise generate based on fields
     if (pioneer.education_details && pioneer.education_details.key_courses) {
-      const courses = pioneer.education_details.key_courses.join(', ');
-      const advice = pioneer.career_path?.advice_for_students || '';
+      const courses = pioneer.education_details.key_courses.join(", ");
+      const advice = pioneer.career_path?.advice_for_students || "";
       return `Study: ${courses}. ${advice}`;
     }
-    
+
     // Fallback: generate study path based on pioneer's fields
     const fieldStudyPaths = {
-      'Mathematics': 'Study calculus, linear algebra, and statistics. Focus on problem-solving and logical thinking.',
-      'Physics': 'Study physics, calculus, and laboratory methods. Develop strong mathematical foundations.',
-      'Chemistry': 'Study chemistry, physics, and laboratory techniques. Learn to work safely with chemicals.',
-      'Biology': 'Study biology, chemistry, and laboratory methods. Develop strong research and observation skills.',
-      'Computer Science': 'Study programming, algorithms, and computer systems. Practice coding regularly.',
-      'Engineering': 'Study mathematics, physics, and engineering principles. Develop problem-solving and design skills.',
-      'Astronomy': 'Study physics, mathematics, and astronomy. Learn to use telescopes and analyze data.',
-      'Medicine': 'Study biology, chemistry, and human anatomy. Develop strong research and patient care skills.'
+      Mathematics:
+        "Study calculus, linear algebra, and statistics. Focus on problem-solving and logical thinking.",
+      Physics:
+        "Study physics, calculus, and laboratory methods. Develop strong mathematical foundations.",
+      Chemistry:
+        "Study chemistry, physics, and laboratory techniques. Learn to work safely with chemicals.",
+      Biology:
+        "Study biology, chemistry, and laboratory methods. Develop strong research and observation skills.",
+      "Computer Science":
+        "Study programming, algorithms, and computer systems. Practice coding regularly.",
+      Engineering:
+        "Study mathematics, physics, and engineering principles. Develop problem-solving and design skills.",
+      Astronomy:
+        "Study physics, mathematics, and astronomy. Learn to use telescopes and analyze data.",
+      Medicine:
+        "Study biology, chemistry, and human anatomy. Develop strong research and patient care skills.",
     };
-    
+
     const primaryField = pioneer.fields[0];
-    const studyPath = fieldStudyPaths[primaryField] || 'Study mathematics and science. Follow your curiosity and passion.';
-    
+    const studyPath =
+      fieldStudyPaths[primaryField] ||
+      "Study mathematics and science. Follow your curiosity and passion.";
+
     return studyPath;
   }
 }
 
 // Initialize the app when DOM is loaded
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener("DOMContentLoaded", () => {
   window.pioneersApp = new PioneersApp();
-}); 
+});

@@ -41,6 +41,7 @@ By contributing to this project, you agree that your contributions will be licen
 ## Attribution Guidelines
 
 When contributing:
+
 - You will be credited in commit history
 - Significant contributions may be acknowledged in documentation
 - All contributions become part of the CC BY 4.0 licensed work
@@ -68,6 +69,7 @@ When contributing:
 ## For Educators
 
 We especially welcome contributions from educators who can:
+
 - Suggest pioneer profiles that work well in classroom settings
 - Share lesson ideas that use these profiles effectively
 - Provide feedback on how to make content more engaging for students
@@ -79,4 +81,4 @@ Open an issue for questions or suggestions! We're here to help make STEM educati
 
 ---
 
-*By contributing, you're helping inspire the next generation of women in STEM under Creative Commons licensing.*
+_By contributing, you're helping inspire the next generation of women in STEM under Creative Commons licensing._

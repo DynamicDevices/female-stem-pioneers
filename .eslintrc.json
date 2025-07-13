@@ -4,9 +4,7 @@
     "es2021": true,
     "node": true
   },
-  "extends": [
-    "eslint:recommended"
-  ],
+  "extends": ["eslint:recommended"],
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module"
@@ -39,10 +37,5 @@
     "languages": "readonly",
     "baseUrls": "readonly"
   },
-  "ignorePatterns": [
-    "node_modules/",
-    "*.min.js",
-    "sw.js",
-    "archive/"
-  ]
-} 
+  "ignorePatterns": ["node_modules/", "*.min.js", "sw.js", "archive/"]
+}
