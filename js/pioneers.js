@@ -7287,6 +7287,36 @@ const pioneers = [
         "url": "https://en.wikipedia.org/wiki/Rosalyn_Yalow"
       }
     ]
+  },
+  {
+    "name": "Ida Noddack",
+    "photo": "./images/ida-noddack.jpg",
+    "birthDate": "1896",
+    "deathDate": "1978",
+    "country": "Germany",
+    "fields": [
+      "Chemistry",
+      "Physics"
+    ],
+    "roles": [
+      "Chemist",
+      "Physicist"
+    ],
+    "quote": "Science is not about being right, it's about being curious.",
+    "summary": "German chemist who co-discovered rhenium and predicted nuclear fission.",
+    "shortDescription": "Ida Noddack was a German chemist who co-discovered the element rhenium and was the first to predict nuclear fission. Her work on element 75 (rhenium) with her husband Walter Noddack was groundbreaking, and her prediction of nuclear fission was ahead of its time.",
+    "achievements": [
+      "Co-discovered element rhenium (Re)",
+      "First to predict nuclear fission",
+      "Pioneered analytical chemistry techniques",
+      "Discovered new chemical elements"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ida_Noddack"
+      }
+    ]
   }
 ];
 
