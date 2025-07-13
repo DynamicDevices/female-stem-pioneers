@@ -259,7 +259,7 @@ class PioneersApp {
     };
 
     // Render field badges with hover info
-    const fieldsBadges = pioneer.fields
+    const fieldsBadges = (pioneer.fields || [])
       .slice(0, 2)
       .map((field) => {
         const fieldClass = this.getFieldClass(field);
