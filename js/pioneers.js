@@ -16178,6 +16178,182 @@ const pioneers = [
       "cultural_contributions": "Pioneered women's role in medicine and established pediatric cardiology"
     },
     "verified": true
+  },
+  {
+    "name": "Elizabeth Garrett Anderson",
+    "photo": "./images/elizabeth-garrett-anderson.jpg",
+    "birthDate": "1836",
+    "deathDate": "1917",
+    "country": "United Kingdom",
+    "fields": [
+      "Medicine",
+      "Surgery"
+    ],
+    "roles": [
+      "Physician",
+      "Surgeon"
+    ],
+    "quote": "I am resolved to become a physician, and I will not be turned from my purpose.",
+    "summary": "First woman to qualify as a physician and surgeon in Britain, founder of the first hospital staffed by women, and pioneer in women's medical education.",
+    "shortDescription": "Elizabeth Garrett Anderson was the first woman to qualify as a physician and surgeon in Britain, breaking through the male-dominated medical establishment of the 19th century. She founded the New Hospital for Women in London, staffed entirely by women, and became the first female dean of a British medical school, opening doors for generations of women in medicine.",
+    "detailed_description": {
+      "early_life": "Born in London in 1836, Elizabeth showed early determination to pursue medicine despite societal barriers. She was largely self-educated and faced numerous rejections from medical schools that refused to admit women.",
+      "stem_journey": "Elizabeth fought to enter the medical profession, eventually qualifying as a physician through the Society of Apothecaries. She founded the New Hospital for Women and became the first female dean of the London School of Medicine for Women.",
+      "challenges": "Faced intense opposition from the male medical establishment, was repeatedly rejected from medical schools, and had to fight legal battles to practice medicine. She also faced social ostracism for challenging gender norms.",
+      "achievements": "First woman to qualify as a physician in Britain, founded the New Hospital for Women, became first female dean of a British medical school, and opened the London School of Medicine for Women.",
+      "legacy": "Elizabeth's work revolutionized women's access to medical education and practice in Britain, establishing the foundation for women's medical schools and hospitals."
+    },
+    "achievements": [
+      "First woman to qualify as a physician in Britain",
+      "Founded the New Hospital for Women",
+      "First female dean of a British medical school",
+      "Established the London School of Medicine for Women"
+    ],
+    "awards": [
+      "Honorary MD from the University of Paris",
+      "First female mayor in Britain (Aldeburgh)"
+    ],
+    "publications": [
+      {
+        "title": "The Medical Education of Women",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Garrett_Anderson"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MD",
+        "field": "Medicine",
+        "institution": "University of Paris"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1865,
+        "event": "Qualified as a physician through Society of Apothecaries"
+      },
+      {
+        "year": 1872,
+        "event": "Founded the New Hospital for Women"
+      },
+      {
+        "year": 1883,
+        "event": "Became dean of London School of Medicine for Women"
+      },
+      {
+        "year": 1908,
+        "event": "Became first female mayor in Britain"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in medical education",
+      "Legal barriers to medical practice",
+      "Social opposition to women in medicine"
+    ],
+    "impact": "Her work opened medical education and practice to women in Britain and influenced medical education worldwide.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Elizabeth Garrett Anderson: Pioneer of Women's Medical Education",
+        "url": "https://www.biography.com/scientist/elizabeth-garrett-anderson"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Garrett_Anderson"
+      }
+    ],
+    "mentorship": "Elizabeth mentored many women physicians and established institutions that trained generations of female doctors.",
+    "fun_fact": "Elizabeth Garrett Anderson was the first female mayor in Britain, serving as mayor of Aldeburgh from 1908-1909.",
+    "career_path": {
+      "first_job": "Medical assistant and self-taught physician",
+      "career_highlights": [
+        "First woman physician in Britain",
+        "Founded women's hospital",
+        "Became medical school dean"
+      ],
+      "advice_for_students": "Perseverance and determination can overcome even the most entrenched barriers."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Elizabeth Garrett Anderson: A Biography",
+        "Women in Medicine: Breaking Barriers"
+      ],
+      "websites": [
+        "britannica.com",
+        "rcp.ac.uk"
+      ],
+      "programs": [
+        "Women in Medicine programs",
+        "Medical history programs"
+      ],
+      "advice": "Don't let societal barriers stop you from pursuing your passion for helping others."
+    },
+    "challenges": {
+      "academic": [
+        "Rejection from medical schools",
+        "Lack of formal medical education"
+      ],
+      "professional": [
+        "Legal barriers to medical practice",
+        "Opposition from male doctors"
+      ],
+      "personal": [
+        "Social ostracism",
+        "Family opposition"
+      ],
+      "how_overcame": "Used determination and legal knowledge to find alternative paths to medical qualification"
+    },
+    "education_details": {
+      "high_school": "Self-educated",
+      "college_major": "Medicine",
+      "key_courses": [
+        "Anatomy",
+        "Physiology",
+        "Medical practice"
+      ],
+      "study_tips": "Learn to be resourceful and find alternative paths to your goals"
+    },
+    "modern_impact": {
+      "current_applications": "Her work influenced medical education and women's rights worldwide",
+      "companies_using_her_work": [
+        "Medical schools worldwide",
+        "Women's health organizations"
+      ],
+      "future_implications": "Her legacy continues to inspire women in medicine and healthcare"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Medicine",
+        "Helping others",
+        "Women's rights"
+      ],
+      "family_background": "Daughter of a successful businessman",
+      "hobbies": [
+        "Reading",
+        "Writing",
+        "Advocacy"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Courageous",
+        "Persistent",
+        "Compassionate"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "British",
+      "cultural_influences": [
+        "Victorian era social reform movement",
+        "British medical tradition"
+      ],
+      "cultural_challenges": [
+        "Victorian gender roles",
+        "Class barriers in medicine"
+      ],
+      "cultural_contributions": "Pioneered women's role in medicine and influenced social reform movements"
+    },
+    "verified": true
   }
 ];
 
