@@ -639,7 +639,7 @@ const pioneers2 = [
         "Began medical practice in 1886",
         "Advocated for women's rights"
       ],
-      "advice_for_students": "Education is the foundation of empowerment. Use your knowledge to help others and break barriers."
+      "advice_for_students": "Education is the foundation of empowerment. Use it to help others and inspire future generations."
     },
     "student_resources": {
       "books_for_students": [
@@ -1155,6 +1155,267 @@ const pioneers2 = [
       "cultural_influences": ["STEM education", "Global health"],
       "cultural_challenges": ["Access to clean water"],
       "cultural_contributions": "Raised awareness of water issues worldwide."
+    },
+    "verified": true
+  },
+  {
+    "name": "Gladys West",
+    "photo": "",
+    "birthDate": "1930",
+    "country": "United States",
+    "fields": ["Mathematics", "Geodesy", "Computer Science"],
+    "roles": ["Mathematician", "Programmer", "Pioneer"],
+    "quote": "I never thought about the GPS, I just did my work.",
+    "summary": "Mathematician whose work was critical to the development of GPS technology.",
+    "shortDescription": "Gladys West is an American mathematician whose calculations and programming were foundational to the creation of GPS. She broke barriers for women and African Americans in STEM.",
+    "detailed_description": {
+      "early_life": "Born in rural Virginia, Gladys excelled in school and earned a scholarship to Virginia State College.",
+      "stem_journey": "She joined the U.S. Naval Weapons Laboratory, where she worked on satellite geodesy and developed mathematical models of the Earth, which became the basis for GPS.",
+      "challenges": "Faced racial and gender discrimination in a male-dominated field.",
+      "achievements": "Her work on satellite data processing and mathematical modeling was essential for GPS technology.",
+      "legacy": "Her contributions are now recognized as foundational to modern navigation systems."
+    },
+    "achievements": [
+      "Developed mathematical models for GPS",
+      "Pioneered satellite geodesy",
+      "Broke barriers for women and African Americans in STEM"
+    ],
+    "awards": ["Air Force Space and Missile Pioneers Hall of Fame"],
+    "publications": [
+      {"title": "Gladys West: GPS Pioneer", "url": "https://en.wikipedia.org/wiki/Gladys_West"}
+    ],
+    "education": [
+      {"degree": "Bachelor's", "field": "Mathematics", "institution": "Virginia State College"},
+      {"degree": "Master's", "field": "Mathematics", "institution": "Virginia State College"}
+    ],
+    "timeline": [
+      {"year": 1956, "event": "Joined U.S. Naval Weapons Laboratory"},
+      {"year": 2018, "event": "Inducted into Air Force Space and Missile Pioneers Hall of Fame"}
+    ],
+    "barriers": ["Racial and gender discrimination in STEM"],
+    "impact": "Her work underpins all modern GPS systems.",
+    "media": [
+      {"type": "article", "title": "Gladys West: The Hidden Figure Who Helped Invent GPS", "url": "https://www.bbc.com/news/world-us-canada-46431818"}
+    ],
+    "references": [
+      {"title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Gladys_West"},
+      {"title": "BBC", "url": "https://www.bbc.com/news/world-us-canada-46431818"}
+    ],
+    "mentorship": "Mentored young mathematicians and engineers.",
+    "fun_fact": "She was unaware of the global impact of her work until later in life.",
+    "career_path": {
+      "first_job": "Math teacher",
+      "career_highlights": ["Naval Weapons Laboratory mathematician", "GPS pioneer"],
+      "advice_for_students": "Stay focused and persistent, even when facing obstacles."
+    },
+    "student_resources": {
+      "books_for_students": ["Hidden Figures by Margot Lee Shetterly"],
+      "websites": ["wikipedia.org", "bbc.com"],
+      "programs": ["Math and science outreach programs"],
+      "advice": "Your work can have a global impact."
+    },
+    "challenges": {
+      "academic": ["Few women in advanced math courses"],
+      "professional": ["Discrimination in the workplace"],
+      "personal": ["Balancing family and career"],
+      "how_overcame": "Focused on her work and built supportive networks."
+    },
+    "education_details": {
+      "high_school": "Segregated school in Virginia",
+      "college_major": "Mathematics",
+      "key_courses": ["Advanced Mathematics", "Geodesy"],
+      "study_tips": "Ask questions and seek help when needed."
+    },
+    "modern_impact": {
+      "current_applications": "Her work is used in all GPS-enabled devices.",
+      "companies_using_her_work": ["Google", "Apple", "Garmin"],
+      "future_implications": "Diversity in STEM leads to better solutions."
+    },
+    "personal_info": {
+      "early_interests": ["Math", "Science", "Teaching"],
+      "family_background": "African American family in Virginia",
+      "hobbies": ["Gardening", "Reading"],
+      "personality_traits": ["Determined", "Innovative", "Supportive"]
+    },
+    "cultural_background": {
+      "heritage": "African American",
+      "cultural_influences": ["Segregated South", "STEM education"],
+      "cultural_challenges": ["Underrepresentation in STEM"],
+      "cultural_contributions": "Role model for women and minorities in STEM."
+    },
+    "verified": true
+  },
+  {
+    "name": "Sophia Hayden",
+    "photo": "",
+    "birthDate": "1868",
+    "deathDate": "1953",
+    "country": "United States",
+    "fields": ["Architecture", "Engineering"],
+    "roles": ["Architect", "Designer"],
+    "quote": "I wanted to design buildings that would inspire.",
+    "summary": "First female graduate of MIT's architecture program and designer of the Woman's Building at the 1893 World's Fair.",
+    "shortDescription": "Sophia Hayden was the first woman to earn an architecture degree from MIT. She designed the Woman's Building at the 1893 World's Fair, a landmark in women's architectural history.",
+    "detailed_description": {
+      "early_life": "Born in Chile to a Peruvian mother and American father, Sophia moved to the U.S. as a child and showed early talent in drawing and design.",
+      "stem_journey": "She became the first woman to graduate from MIT's architecture program and won the competition to design the Woman's Building at the 1893 World's Fair in Chicago.",
+      "challenges": "Faced gender discrimination in the male-dominated field of architecture and struggled to find work after her major project.",
+      "achievements": "First woman to earn an architecture degree from MIT, designed a major World's Fair building, and inspired future generations of women architects.",
+      "legacy": "Her work is now recognized as a milestone in women's architectural history."
+    },
+    "achievements": [
+      "First woman to earn an architecture degree from MIT",
+      "Designed the Woman's Building at the 1893 World's Fair",
+      "Inspired future generations of women architects"
+    ],
+    "awards": [],
+    "publications": [
+      {"title": "Sophia Hayden: Architect of the Woman's Building", "url": "https://en.wikipedia.org/wiki/Sophia_Hayden"}
+    ],
+    "education": [
+      {"degree": "Bachelor's", "field": "Architecture", "institution": "MIT"}
+    ],
+    "timeline": [
+      {"year": 1890, "event": "Graduated from MIT"},
+      {"year": 1893, "event": "Designed Woman's Building at World's Fair"}
+    ],
+    "barriers": ["Gender discrimination in architecture"],
+    "impact": "Paved the way for women in architecture.",
+    "media": [
+      {"type": "article", "title": "Sophia Hayden: Trailblazer in Architecture", "url": "https://www.britannica.com/biography/Sophia-Hayden"}
+    ],
+    "references": [
+      {"title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Sophia_Hayden"},
+      {"title": "Britannica", "url": "https://www.britannica.com/biography/Sophia-Hayden"}
+    ],
+    "mentorship": "Inspired women to pursue architecture.",
+    "fun_fact": "She was only 21 when she designed the Woman's Building.",
+    "career_path": {
+      "first_job": "Architectural designer",
+      "career_highlights": ["MIT graduate", "World's Fair designer"],
+      "advice_for_students": "Pursue your vision, even if the world isn't ready for it."
+    },
+    "student_resources": {
+      "books_for_students": ["Sophia Hayden: Architect of the Woman's Building"],
+      "websites": ["wikipedia.org", "britannica.com"],
+      "programs": ["Architecture summer camps"],
+      "advice": "Your creativity can change the world."
+    },
+    "challenges": {
+      "academic": ["Few women in architecture programs"],
+      "professional": ["Discrimination in the workplace"],
+      "personal": ["Balancing career and personal life"],
+      "how_overcame": "Let her work speak for itself and persisted despite obstacles."
+    },
+    "education_details": {
+      "high_school": "Public school in Boston",
+      "college_major": "Architecture",
+      "key_courses": ["Design", "Engineering"],
+      "study_tips": "Practice your craft and seek feedback."
+    },
+    "modern_impact": {
+      "current_applications": "Her legacy inspires women in architecture.",
+      "companies_using_her_work": ["Architecture firms", "Universities"],
+      "future_implications": "Diversity in design leads to better buildings."
+    },
+    "personal_info": {
+      "early_interests": ["Drawing", "Design", "Architecture"],
+      "family_background": "Chilean-Peruvian-American family",
+      "hobbies": ["Painting", "Travel"],
+      "personality_traits": ["Creative", "Resilient", "Visionary"]
+    },
+    "cultural_background": {
+      "heritage": "Chilean-Peruvian-American",
+      "cultural_influences": ["Latin American heritage", "American education"],
+      "cultural_challenges": ["Barriers for women in architecture"],
+      "cultural_contributions": "Pioneered women's participation in architecture."
+    },
+    "verified": true
+  },
+  {
+    "name": "Ayah Bdeir",
+    "photo": "",
+    "birthDate": "1982",
+    "country": "Lebanon/Canada",
+    "fields": ["Engineering", "Entrepreneurship", "Education"],
+    "roles": ["Engineer", "Inventor", "CEO"],
+    "quote": "I want to empower everyone to be an inventor.",
+    "summary": "Founder of littleBits, democratizing electronics and STEM education for all ages.",
+    "shortDescription": "Ayah Bdeir is a Lebanese-Canadian engineer and entrepreneur who founded littleBits, a platform of electronic building blocks that makes STEM accessible and fun for everyone.",
+    "detailed_description": {
+      "early_life": "Born in Canada and raised in Lebanon, Ayah was always curious about how things work and loved to tinker with electronics.",
+      "stem_journey": "She studied engineering at the American University of Beirut and MIT, then founded littleBits to make electronics accessible to all.",
+      "challenges": "Faced skepticism as a woman in tech and challenges in scaling a hardware startup.",
+      "achievements": "Founded littleBits, recognized as a leader in STEM education, and advocate for diversity in tech.",
+      "legacy": "Her work has inspired millions of children and adults to explore STEM."
+    },
+    "achievements": [
+      "Founded littleBits electronics platform",
+      "Advocate for diversity in tech",
+      "Inspired millions to explore STEM"
+    ],
+    "awards": ["TED Fellow", "BBC 100 Women"],
+    "publications": [
+      {"title": "Ayah Bdeir: Founder of littleBits", "url": "https://en.wikipedia.org/wiki/Ayah_Bdeir"}
+    ],
+    "education": [
+      {"degree": "Bachelor's", "field": "Engineering", "institution": "American University of Beirut"},
+      {"degree": "Master's", "field": "Media Arts and Sciences", "institution": "MIT"}
+    ],
+    "timeline": [
+      {"year": 2008, "event": "Founded littleBits"},
+      {"year": 2013, "event": "Named TED Fellow"}
+    ],
+    "barriers": ["Skepticism as a woman in tech", "Scaling a hardware startup"],
+    "impact": "Democratized electronics and STEM education.",
+    "media": [
+      {"type": "article", "title": "Ayah Bdeir: Making Electronics Accessible", "url": "https://www.britannica.com/biography/Ayah-Bdeir"}
+    ],
+    "references": [
+      {"title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ayah_Bdeir"},
+      {"title": "Britannica", "url": "https://www.britannica.com/biography/Ayah-Bdeir"}
+    ],
+    "mentorship": "Mentors young women in engineering and entrepreneurship.",
+    "fun_fact": "Her inventions have been exhibited at MoMA and the White House.",
+    "career_path": {
+      "first_job": "Engineer",
+      "career_highlights": ["Founded littleBits", "TED Fellow"],
+      "advice_for_students": "Don't be afraid to take things apart and experiment."
+    },
+    "student_resources": {
+      "books_for_students": ["Invent to Learn by Sylvia Libow Martinez"],
+      "websites": ["littlebits.com", "wikipedia.org"],
+      "programs": ["STEM maker camps"],
+      "advice": "Curiosity is your greatest tool."
+    },
+    "challenges": {
+      "academic": ["Few women in engineering programs"],
+      "professional": ["Skepticism in tech industry"],
+      "personal": ["Balancing entrepreneurship and personal life"],
+      "how_overcame": "Built a strong support network and focused on her mission."
+    },
+    "education_details": {
+      "high_school": "International College, Beirut",
+      "college_major": "Engineering",
+      "key_courses": ["Electronics", "Media Arts"],
+      "study_tips": "Learn by doing and experimenting."
+    },
+    "modern_impact": {
+      "current_applications": "littleBits is used in schools and homes worldwide.",
+      "companies_using_her_work": ["Sphero", "STEM education companies"],
+      "future_implications": "Accessible STEM education for all."
+    },
+    "personal_info": {
+      "early_interests": ["Electronics", "Art", "Engineering"],
+      "family_background": "Lebanese-Canadian family",
+      "hobbies": ["Inventing", "Travel"],
+      "personality_traits": ["Curious", "Inventive", "Persistent"]
+    },
+    "cultural_background": {
+      "heritage": "Lebanese-Canadian",
+      "cultural_influences": ["Middle Eastern and Western education"],
+      "cultural_challenges": ["Barriers for women in tech"],
+      "cultural_contributions": "Pioneered accessible electronics for all."
     },
     "verified": true
   }
