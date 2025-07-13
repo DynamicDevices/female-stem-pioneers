@@ -298,12 +298,14 @@ class PioneersApp {
       </div>
 
       <div class="pioneer-content">
+        ${pioneer.quote && pioneer.quote.trim() !== "" ? `
         <div class="pioneer-quote">
           <h4>Quote</h4>
           <blockquote>
             ${pioneer.quote}
           </blockquote>
         </div>
+        ` : ''}
         
         <div class="pioneer-short-description" style="${pioneer.shortDescription ? 'display: block;' : 'display: none;'}">
           <h4>About ${pioneer.name}</h4>
