@@ -7215,18 +7215,166 @@ const pioneers = [
     "quote": "Science is not about being the first, it's about being the best.",
     "summary": "Nobel Prize-winning virologist who co-discovered HIV, the virus that causes AIDS.",
     "shortDescription": "Françoise Barré-Sinoussi is a French virologist who co-discovered HIV, the virus that causes AIDS. She won the Nobel Prize in Physiology or Medicine for her groundbreaking work. Her research has been crucial to understanding and treating HIV/AIDS, saving millions of lives worldwide.",
+    "detailed_description": {
+      "early_life": "Born in 1947 in Paris, France, Françoise showed early interest in science and medicine. She studied biochemistry and virology at the University of Paris, earning her PhD in 1975.",
+      "stem_journey": "Françoise joined the Pasteur Institute in Paris where she specialized in retroviruses. In 1983, she and her colleague Luc Montagnier discovered the virus that causes AIDS, which they named HIV (Human Immunodeficiency Virus).",
+      "challenges": "Françoise faced challenges as a woman in science and worked in a field that was initially met with skepticism. She also had to balance her research with the urgent need to understand and treat a devastating new disease.",
+      "achievements": "Françoise co-discovered HIV in 1983 and won the Nobel Prize in Physiology or Medicine in 2008 for her groundbreaking work. She has led international HIV research programs and continues to work on HIV/AIDS prevention and treatment.",
+      "legacy": "Françoise's discovery of HIV revolutionized our understanding of AIDS and led to life-saving treatments. She has inspired countless women in virology and continues to work on global health issues."
+    },
     "achievements": [
       "Co-discovered HIV virus",
       "Won Nobel Prize in Physiology or Medicine",
       "Pioneered HIV/AIDS research",
-      "Led international HIV research programs"
+      "Led international HIV research programs",
+      "Established HIV research protocols",
+      "Advanced retrovirus understanding"
+    ],
+    "awards": [
+      "Nobel Prize in Physiology or Medicine (2008)",
+      "Légion d'Honneur",
+      "Multiple international science awards"
+    ],
+    "publications": [
+      {
+        "title": "Isolation of a T-lymphotropic retrovirus from a patient at risk for acquired immune deficiency syndrome (AIDS)",
+        "year": "1983"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Biochemistry",
+        "institution": "University of Paris"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1975,
+        "event": "Earned PhD in biochemistry"
+      },
+      {
+        "year": 1983,
+        "event": "Co-discovered HIV virus"
+      },
+      {
+        "year": 2008,
+        "event": "Won Nobel Prize in Physiology or Medicine"
+      }
+    ],
+    "barriers": [
+      "Discrimination as a woman in science",
+      "Initial skepticism about HIV research",
+      "Working in emerging field"
+    ],
+    "impact": "Her discovery of HIV revolutionized AIDS research and led to life-saving treatments for millions of people worldwide.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Françoise Barré-Sinoussi: Nobel Prize-winning virologist",
+        "url": "https://www.nobelprize.org/prizes/medicine/2008/barre-sinoussi/facts/"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi"
       }
-    ]
+    ],
+    "mentorship": "Mentored many students in virology and supported women in science throughout her career.",
+    "fun_fact": "Françoise was the first French woman to win the Nobel Prize in Physiology or Medicine.",
+    "career_path": {
+      "first_job": "Researcher at Pasteur Institute",
+      "career_highlights": [
+        "Co-discovered HIV",
+        "Won Nobel Prize",
+        "Led international HIV research"
+      ],
+      "advice_for_students": "Follow your curiosity in science and don't be afraid to work on challenging problems that can make a real difference in people's lives."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The AIDS Pandemic: The Collision of Epidemiology and Political Correctness",
+        "Virus Hunt: The Search for the Origin of HIV"
+      ],
+      "websites": [
+        "pasteur.fr",
+        "nobelprize.org",
+        "who.int"
+      ],
+      "programs": [
+        "Virology summer programs",
+        "Women in science organizations"
+      ],
+      "advice": "Study science with passion and look for ways to apply your knowledge to solve real-world health problems."
+    },
+    "challenges": {
+      "academic": [
+        "Being a woman in virology",
+        "Working in emerging field"
+      ],
+      "professional": [
+        "Discrimination in science",
+        "Initial skepticism about research"
+      ],
+      "personal": [
+        "Balancing research with global health crisis",
+        "Working under pressure"
+      ],
+      "how_overcame": "Focused on scientific rigor, collaborated with colleagues, and persisted despite skepticism"
+    },
+    "education_details": {
+      "high_school": "Excelled in science",
+      "college_major": "Biochemistry",
+      "key_courses": [
+        "Virology",
+        "Biochemistry",
+        "Immunology",
+        "Molecular Biology"
+      ],
+      "study_tips": "Connect laboratory work to real-world health problems and never stop asking questions"
+    },
+    "modern_impact": {
+      "current_applications": "HIV/AIDS treatment and prevention worldwide",
+      "companies_using_her_work": [
+        "Pharmaceutical companies",
+        "Global health organizations",
+        "Research institutions"
+      ],
+      "future_implications": "Continues to influence HIV/AIDS research and global health policy"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Science",
+        "Medicine",
+        "Virology",
+        "Public health"
+      ],
+      "family_background": "Supportive family that encouraged her scientific interests",
+      "hobbies": [
+        "Scientific research",
+        "Teaching",
+        "Global health advocacy"
+      ],
+      "personality_traits": [
+        "Dedicated",
+        "Curious",
+        "Compassionate",
+        "Determined"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "French",
+      "cultural_influences": [
+        "French scientific tradition",
+        "European research culture"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in French science",
+        "Working in male-dominated field"
+      ],
+      "cultural_contributions": "Advanced French virology research and influenced global health policy"
+    }
   },
   {
     "name": "Gertrude Elion",
@@ -7245,18 +7393,167 @@ const pioneers = [
     "quote": "Don't let anyone tell you that you can't do something because you're a woman.",
     "summary": "Nobel Prize-winning pharmacologist who developed drugs for leukemia, herpes, and organ transplants.",
     "shortDescription": "Gertrude Elion was a Nobel Prize-winning pharmacologist who developed life-saving drugs for leukemia, herpes, and organ transplants. She pioneered rational drug design and created treatments that have saved millions of lives. Her work revolutionized how we develop medicines.",
+    "detailed_description": {
+      "early_life": "Born in 1918 in New York City, Gertrude showed exceptional talent in science from an early age. She graduated from Hunter College at age 19 and earned her master's degree in chemistry from New York University.",
+      "stem_journey": "Gertrude began her career in research laboratories, often working without pay due to discrimination against women. She joined Burroughs Wellcome (now GlaxoSmithKline) where she pioneered rational drug design, creating medicines based on understanding how diseases work.",
+      "challenges": "Gertrude faced discrimination as a woman in science and was often denied opportunities because of her gender. She also had to work without pay for many years and was excluded from certain research positions.",
+      "achievements": "Gertrude developed life-saving drugs for leukemia, herpes, and organ transplants. She won the Nobel Prize in Physiology or Medicine in 1988 and pioneered the field of rational drug design, revolutionizing how medicines are developed.",
+      "legacy": "Gertrude's work has saved millions of lives and revolutionized drug development. She opened doors for women in pharmacology and inspired countless scientists to pursue careers in drug discovery."
+    },
     "achievements": [
       "Won Nobel Prize in Physiology or Medicine",
       "Developed drugs for leukemia and herpes",
       "Pioneered rational drug design",
-      "Created immunosuppressive drugs for transplants"
+      "Created immunosuppressive drugs for transplants",
+      "Developed first antiviral drug",
+      "Held 45 patents"
+    ],
+    "awards": [
+      "Nobel Prize in Physiology or Medicine (1988)",
+      "National Medal of Science",
+      "Garvan Medal",
+      "Elected to National Academy of Sciences"
+    ],
+    "publications": [
+      {
+        "title": "Purine metabolism in man",
+        "year": "1972"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MS",
+        "field": "Chemistry",
+        "institution": "New York University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1937,
+        "event": "Graduated from Hunter College"
+      },
+      {
+        "year": 1941,
+        "event": "Earned master's degree in chemistry"
+      },
+      {
+        "year": 1988,
+        "event": "Won Nobel Prize in Physiology or Medicine"
+      }
+    ],
+    "barriers": [
+      "Discrimination as a woman in science",
+      "Denied opportunities due to gender",
+      "Worked without pay for many years"
+    ],
+    "impact": "Her work has saved millions of lives and revolutionized how medicines are developed, influencing modern drug discovery.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Gertrude Elion: Nobel Prize-winning pharmacologist",
+        "url": "https://www.nobelprize.org/prizes/medicine/1988/elion/facts/"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Gertrude_Elion"
       }
-    ]
+    ],
+    "mentorship": "Mentored many students in pharmacology and supported women in science throughout her career.",
+    "fun_fact": "Gertrude was the first woman inducted into the National Inventors Hall of Fame.",
+    "career_path": {
+      "first_job": "Research assistant at various laboratories",
+      "career_highlights": [
+        "Pioneered rational drug design",
+        "Developed life-saving drugs",
+        "Won Nobel Prize"
+      ],
+      "advice_for_students": "Don't let anyone tell you that you can't do something because you're a woman. Follow your passion for science and never give up."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Nobel Prize: A History of Genius, Controversy, and Prestige",
+        "Women in Science: 50 Fearless Pioneers Who Changed the World"
+      ],
+      "websites": [
+        "nobelprize.org",
+        "pharmacology.org",
+        "womeninscience.org"
+      ],
+      "programs": [
+        "Pharmacology summer programs",
+        "Women in science organizations"
+      ],
+      "advice": "Study chemistry and biology with passion and look for ways to apply your knowledge to help people."
+    },
+    "challenges": {
+      "academic": [
+        "Discrimination as a woman in science",
+        "Limited educational opportunities"
+      ],
+      "professional": [
+        "Working without pay for many years",
+        "Exclusion from certain research positions"
+      ],
+      "personal": [
+        "Facing societal expectations",
+        "Working in isolation"
+      ],
+      "how_overcame": "Focused on her scientific work, found supportive colleagues, and persisted despite discrimination"
+    },
+    "education_details": {
+      "high_school": "Excelled in science",
+      "college_major": "Chemistry",
+      "key_courses": [
+        "Chemistry",
+        "Pharmacology",
+        "Biochemistry",
+        "Drug Design"
+      ],
+      "study_tips": "Connect chemical principles to biological systems and real-world health problems"
+    },
+    "modern_impact": {
+      "current_applications": "Rational drug design influences modern pharmaceutical development",
+      "companies_using_her_work": [
+        "All major pharmaceutical companies",
+        "Research institutions",
+        "Medical schools"
+      ],
+      "future_implications": "Continues to influence drug discovery and personalized medicine"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Chemistry",
+        "Medicine",
+        "Helping others",
+        "Research"
+      ],
+      "family_background": "Supportive family that encouraged her scientific interests",
+      "hobbies": [
+        "Scientific research",
+        "Teaching",
+        "Reading"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Brilliant",
+        "Compassionate",
+        "Innovative"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American Jewish",
+      "cultural_influences": [
+        "American scientific tradition",
+        "Jewish intellectual culture"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in science",
+        "Religious discrimination"
+      ],
+      "cultural_contributions": "Advanced American pharmacology research and influenced drug development worldwide"
+    }
   },
   {
     "name": "Rosalyn Yalow",
@@ -7423,18 +7720,165 @@ const pioneers = [
     "quote": "The quality of our environment is the quality of our lives.",
     "summary": "First woman admitted to MIT and pioneer of environmental science and home economics.",
     "shortDescription": "Ellen Swallow Richards was the first woman admitted to MIT and a pioneer of environmental science. She founded the field of home economics and was the first woman to earn a degree in chemistry in America. Her work on water quality and environmental health laid the foundation for modern environmental science.",
+    "detailed_description": {
+      "early_life": "Born in 1842 in Massachusetts, Ellen showed early interest in science and education. She was raised in a family that valued learning, and she attended Westford Academy where she excelled in mathematics and science.",
+      "stem_journey": "Ellen became the first woman admitted to MIT in 1870, where she earned a degree in chemistry. She went on to become the first woman to earn a degree in chemistry in America and pioneered the field of environmental science.",
+      "challenges": "Ellen faced discrimination as the only woman at MIT and was often excluded from certain laboratory work. She also faced resistance when trying to establish environmental science as a legitimate field of study.",
+      "achievements": "Ellen founded the field of home economics and was the first woman admitted to MIT. She pioneered environmental science, studying water quality and air pollution, and established the first water quality laboratory in America.",
+      "legacy": "Ellen's work laid the foundation for modern environmental science and public health. She opened doors for women in science and established home economics as an important field of study."
+    },
     "achievements": [
       "First woman admitted to MIT",
       "Founded environmental science",
       "Pioneered home economics",
-      "First woman to earn chemistry degree in America"
+      "First woman to earn chemistry degree in America",
+      "Established first water quality laboratory",
+      "Pioneered air and water pollution studies"
+    ],
+    "awards": [
+      "Honorary degrees from multiple universities",
+      "Recognition as environmental science pioneer"
+    ],
+    "publications": [
+      {
+        "title": "Air, Water, and Food from a Sanitary Standpoint",
+        "year": "1900"
+      }
+    ],
+    "education": [
+      {
+        "degree": "BS",
+        "field": "Chemistry",
+        "institution": "MIT"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1870,
+        "event": "First woman admitted to MIT"
+      },
+      {
+        "year": 1873,
+        "event": "Earned chemistry degree from MIT"
+      },
+      {
+        "year": 1884,
+        "event": "Founded first water quality laboratory"
+      }
+    ],
+    "barriers": [
+      "Faced discrimination as the only woman at MIT",
+      "Excluded from certain laboratory work",
+      "Resistance to environmental science as a field"
+    ],
+    "impact": "Her work established environmental science and public health as legitimate fields of study, improving public health worldwide.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Ellen Swallow Richards: Pioneer of Environmental Science",
+        "url": "https://www.biography.com/scientist/ellen-swallow-richards"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ellen_Swallow_Richards"
       }
-    ]
+    ],
+    "mentorship": "Mentored many women in science and established educational opportunities for female scientists.",
+    "fun_fact": "Ellen was the first woman admitted to MIT and paved the way for future female students.",
+    "career_path": {
+      "first_job": "Chemistry instructor at MIT",
+      "career_highlights": [
+        "First woman at MIT",
+        "Founded environmental science",
+        "Established water quality laboratory"
+      ],
+      "advice_for_students": "Don't let being the only woman in a field stop you from pursuing your passion for science and making a difference."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Ellen Swallow Richards: Pioneer of Environmental Science",
+        "The Sanitary Engineer"
+      ],
+      "websites": [
+        "mit.edu",
+        "environmentalscience.org",
+        "womeninscience.org"
+      ],
+      "programs": [
+        "Environmental science programs",
+        "Women in STEM organizations"
+      ],
+      "advice": "Follow your curiosity about the natural world and don't be afraid to create new fields of study."
+    },
+    "challenges": {
+      "academic": [
+        "Being the only woman at MIT",
+        "Limited laboratory access"
+      ],
+      "professional": [
+        "Discrimination in science",
+        "Establishing new field of study"
+      ],
+      "personal": [
+        "Working in isolation",
+        "Facing societal expectations"
+      ],
+      "how_overcame": "Focused on her scientific work, established her own laboratory, and mentored other women in science"
+    },
+    "education_details": {
+      "high_school": "Westford Academy",
+      "college_major": "Chemistry",
+      "key_courses": [
+        "Chemistry",
+        "Environmental Science",
+        "Public Health",
+        "Sanitation"
+      ],
+      "study_tips": "Connect scientific principles to real-world problems and public health"
+    },
+    "modern_impact": {
+      "current_applications": "Environmental science and public health standards worldwide",
+      "companies_using_her_work": [
+        "Environmental protection agencies",
+        "Public health organizations",
+        "Water treatment facilities"
+      ],
+      "future_implications": "Continues to influence environmental policy and public health standards"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Chemistry",
+        "Environmental health",
+        "Education",
+        "Public service"
+      ],
+      "family_background": "Family that valued education and learning",
+      "hobbies": [
+        "Scientific research",
+        "Teaching",
+        "Writing"
+      ],
+      "personality_traits": [
+        "Pioneering",
+        "Determined",
+        "Practical",
+        "Innovative"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "New England intellectual tradition",
+        "Progressive education movement"
+      ],
+      "cultural_challenges": [
+        "Victorian gender roles",
+        "Limited opportunities for women in science"
+      ],
+      "cultural_contributions": "Established women's role in environmental science and public health"
+    }
   },
   {
     "name": "Mina Rees",
@@ -7453,18 +7897,166 @@ const pioneers = [
     "quote": "Mathematics is the language of science.",
     "summary": "Mathematician who led the development of early computers and was the first female president of the American Mathematical Society.",
     "shortDescription": "Mina Rees was a mathematician who led the development of early computers during World War II and became the first female president of the American Mathematical Society. Her work on computing machines helped pave the way for modern computer science.",
+    "detailed_description": {
+      "early_life": "Born in 1902 in New York, Mina showed exceptional talent in mathematics from an early age. She attended Hunter College and earned her PhD in mathematics from the University of Chicago in 1931.",
+      "stem_journey": "Mina began her career teaching mathematics at Hunter College. During World War II, she joined the Applied Mathematics Panel where she led the development of early computing machines and mathematical research for military applications.",
+      "challenges": "Mina faced discrimination as a woman in mathematics and was often the only woman in her department. She also had to balance her academic career with her wartime work.",
+      "achievements": "Mina became the first female president of the American Mathematical Society in 1971. She led the development of early computers during World War II and established the Office of Naval Research's mathematics program.",
+      "legacy": "Mina's work on early computers helped pave the way for modern computer science. She opened doors for women in mathematics and established important research programs."
+    },
     "achievements": [
       "First female president of American Mathematical Society",
       "Led early computer development",
       "Pioneered computing research",
-      "Advanced mathematical education"
+      "Advanced mathematical education",
+      "Established Office of Naval Research mathematics program",
+      "Led Applied Mathematics Panel during WWII"
+    ],
+    "awards": [
+      "First female president of American Mathematical Society",
+      "National Medal of Science",
+      "Honorary degrees from multiple universities"
+    ],
+    "publications": [
+      {
+        "title": "Mathematical Research in the United States",
+        "year": "1950"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Mathematics",
+        "institution": "University of Chicago"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1931,
+        "event": "Earned PhD in mathematics"
+      },
+      {
+        "year": 1943,
+        "event": "Joined Applied Mathematics Panel"
+      },
+      {
+        "year": 1971,
+        "event": "Became first female president of American Mathematical Society"
+      }
+    ],
+    "barriers": [
+      "Discrimination as a woman in mathematics",
+      "Being the only woman in her department",
+      "Balancing academic and wartime work"
+    ],
+    "impact": "Her work on early computers and mathematical research programs influenced the development of modern computing and mathematics education.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Mina Rees: Pioneer in Computing and Mathematics",
+        "url": "https://www.biography.com/scientist/mina-rees"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Mina_Rees"
       }
-    ]
+    ],
+    "mentorship": "Mentored many students in mathematics and supported women in STEM throughout her career.",
+    "fun_fact": "Mina was the first female president of the American Mathematical Society in 1971.",
+    "career_path": {
+      "first_job": "Mathematics instructor at Hunter College",
+      "career_highlights": [
+        "Led early computer development",
+        "First female president of American Mathematical Society",
+        "Established mathematics research programs"
+      ],
+      "advice_for_students": "Follow your passion for mathematics and don't let gender stereotypes stop you from pursuing your dreams."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Mathematics: The Addition of Difference",
+        "Mina Rees and the Office of Naval Research"
+      ],
+      "websites": [
+        "ams.org",
+        "womeninmath.org",
+        "computerhistory.org"
+      ],
+      "programs": [
+        "Mathematics summer programs",
+        "Women in mathematics organizations"
+      ],
+      "advice": "Study mathematics with passion and look for ways to apply it to real-world problems."
+    },
+    "challenges": {
+      "academic": [
+        "Discrimination as a woman in mathematics",
+        "Limited opportunities for women"
+      ],
+      "professional": [
+        "Being the only woman in her department",
+        "Balancing multiple roles"
+      ],
+      "personal": [
+        "Working during wartime",
+        "Facing societal expectations"
+      ],
+      "how_overcame": "Focused on her mathematical work, found supportive colleagues, and persisted despite discrimination"
+    },
+    "education_details": {
+      "high_school": "Excelled in mathematics",
+      "college_major": "Mathematics",
+      "key_courses": [
+        "Advanced Mathematics",
+        "Computer Science",
+        "Applied Mathematics",
+        "Mathematical Research"
+      ],
+      "study_tips": "Connect abstract mathematics to practical applications and real-world problems"
+    },
+    "modern_impact": {
+      "current_applications": "Early computer development influences modern computing",
+      "companies_using_her_work": [
+        "Computer science departments",
+        "Mathematics research institutions",
+        "Government research agencies"
+      ],
+      "future_implications": "Continues to influence mathematics education and computer science development"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Education",
+        "Research",
+        "Public service"
+      ],
+      "family_background": "Supportive family that valued education",
+      "hobbies": [
+        "Mathematics research",
+        "Teaching",
+        "Reading"
+      ],
+      "personality_traits": [
+        "Brilliant",
+        "Determined",
+        "Leadership",
+        "Innovative"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "American mathematical tradition",
+        "Women's education movement"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in mathematics",
+        "Limited opportunities for women in STEM"
+      ],
+      "cultural_contributions": "Pioneered women's role in mathematics and computing, influenced generations of female mathematicians"
+    }
   },
   {
     "name": "Maryam Mirzakhani",
@@ -7483,18 +8075,169 @@ const pioneers = [
     "quote": "The beauty of mathematics only shows itself to more patient followers.",
     "summary": "First woman to win the Fields Medal, the highest honor in mathematics.",
     "shortDescription": "Maryam Mirzakhani was the first woman to win the Fields Medal, the highest honor in mathematics. She made groundbreaking contributions to geometry and dynamical systems, solving complex problems that had puzzled mathematicians for decades.",
+    "detailed_description": {
+      "early_life": "Born in 1977 in Tehran, Iran, Maryam showed exceptional talent in mathematics from an early age. She won gold medals at the International Mathematical Olympiad in 1994 and 1995, becoming the first Iranian woman to do so.",
+      "stem_journey": "Maryam earned her PhD in mathematics from Harvard University in 2004, working under Curtis McMullen. She went on to become a professor at Stanford University, where she made groundbreaking contributions to geometry and dynamical systems.",
+      "challenges": "Maryam faced challenges as a woman in mathematics and as an Iranian immigrant in the United States. She also battled cancer during her career but continued her mathematical research.",
+      "achievements": "Maryam became the first woman to win the Fields Medal in 2014, the highest honor in mathematics. She made revolutionary contributions to geometry, particularly in understanding the dynamics of Riemann surfaces and moduli spaces.",
+      "legacy": "Maryam's work has influenced many areas of mathematics and physics. She opened doors for women in mathematics and inspired countless students with her brilliant mind and determination."
+    },
     "achievements": [
       "First woman to win Fields Medal",
       "Revolutionary work in geometry",
       "Solved complex mathematical problems",
-      "Professor at Stanford University"
+      "Professor at Stanford University",
+      "Gold medals at International Mathematical Olympiad",
+      "Pioneered work in moduli spaces"
+    ],
+    "awards": [
+      "Fields Medal (2014)",
+      "Gold medals at International Mathematical Olympiad (1994, 1995)",
+      "Clay Research Award",
+      "Satter Prize"
+    ],
+    "publications": [
+      {
+        "title": "Simple geodesics on hyperbolic surfaces and the volume of the moduli space",
+        "year": "2007"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Mathematics",
+        "institution": "Harvard University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1995,
+        "event": "Won gold medal at International Mathematical Olympiad"
+      },
+      {
+        "year": 2004,
+        "event": "Earned PhD from Harvard University"
+      },
+      {
+        "year": 2014,
+        "event": "Won Fields Medal"
+      }
+    ],
+    "barriers": [
+      "Discrimination as a woman in mathematics",
+      "Challenges as Iranian immigrant",
+      "Battling cancer during her career"
+    ],
+    "impact": "Her revolutionary work in geometry has influenced many areas of mathematics and physics, and she opened doors for women in mathematics worldwide.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Maryam Mirzakhani: First Woman to Win Fields Medal",
+        "url": "https://www.biography.com/scientist/maryam-mirzakhani"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Maryam_Mirzakhani"
       }
-    ]
+    ],
+    "mentorship": "Mentored many students in mathematics and inspired women worldwide to pursue mathematics.",
+    "fun_fact": "Maryam was the first Iranian woman to win gold medals at the International Mathematical Olympiad.",
+    "career_path": {
+      "first_job": "Postdoctoral researcher at Princeton University",
+      "career_highlights": [
+        "Professor at Stanford University",
+        "Won Fields Medal",
+        "Revolutionary work in geometry"
+      ],
+      "advice_for_students": "Follow your passion for mathematics and don't let anyone tell you that women can't excel in the most abstract areas of mathematics."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Mathematical Universe",
+        "Women in Mathematics: The Addition of Difference"
+      ],
+      "websites": [
+        "math.org",
+        "womeninmath.org",
+        "claymath.org"
+      ],
+      "programs": [
+        "Mathematics summer programs",
+        "International Mathematical Olympiad",
+        "Women in mathematics organizations"
+      ],
+      "advice": "Study mathematics with passion and don't be afraid to tackle the most challenging problems."
+    },
+    "challenges": {
+      "academic": [
+        "Being a woman in mathematics",
+        "Working in highly abstract fields"
+      ],
+      "professional": [
+        "Discrimination in mathematics",
+        "Battling cancer during career"
+      ],
+      "personal": [
+        "Immigration challenges",
+        "Health struggles"
+      ],
+      "how_overcame": "Focused on her mathematical work, found supportive colleagues, and persisted despite all obstacles"
+    },
+    "education_details": {
+      "high_school": "Excelled in mathematics competitions",
+      "college_major": "Mathematics",
+      "key_courses": [
+        "Advanced Geometry",
+        "Dynamical Systems",
+        "Moduli Spaces",
+        "Riemann Surfaces"
+      ],
+      "study_tips": "Visualize mathematical concepts and don't be afraid to explore the most abstract areas"
+    },
+    "modern_impact": {
+      "current_applications": "Her work influences modern geometry and theoretical physics",
+      "companies_using_her_work": [
+        "Mathematics research institutions",
+        "Physics research laboratories",
+        "Universities worldwide"
+      ],
+      "future_implications": "Continues to influence the development of geometry and mathematical physics"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Geometry",
+        "Problem solving",
+        "Competitions"
+      ],
+      "family_background": "Supportive family that encouraged her mathematical talents",
+      "hobbies": [
+        "Mathematics research",
+        "Teaching",
+        "Reading"
+      ],
+      "personality_traits": [
+        "Brilliant",
+        "Determined",
+        "Creative",
+        "Inspiring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Iranian",
+      "cultural_influences": [
+        "Iranian mathematical tradition",
+        "International mathematical community"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in mathematics",
+        "Immigration challenges",
+        "Cultural barriers"
+      ],
+      "cultural_contributions": "Bridged Iranian and international mathematical traditions, inspired women worldwide in mathematics"
+    }
   },
   {
     "name": "Maria Goeppert Mayer",
