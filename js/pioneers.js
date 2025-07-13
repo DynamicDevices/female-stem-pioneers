@@ -770,6 +770,9 @@ const pioneers = [
       "Worked on the Manhattan Project",
       "Called the 'First Lady of Physics'",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Chien-Shiung_Wu" }
+    ]
   },
   {
     name: "Rachel Carson",
@@ -984,6 +987,9 @@ const pioneers = [
       "Founded makerspaces in UK schools",
       "Promotes STEM and digital skills for girls",
     ],
+    references: [
+      { title: "TES Awards", url: "https://www.tes.com/awards" }
+    ]
   },
   {
     name: "Princy Johnson",
@@ -1001,6 +1007,9 @@ const pioneers = [
       "Published research on AI and automation",
       "Mentors young women in engineering",
     ],
+    references: [
+      { title: "LinkedIn", url: "https://www.linkedin.com/in/princy-johnson" }
+    ]
   },
   {
     name: "Maryam Mirzakhani",
@@ -1019,6 +1028,9 @@ const pioneers = [
       "Pioneered research in geometry and dynamical systems",
       "Professor at Stanford University",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Maryam_Mirzakhani" }
+    ]
   },
   {
     name: "Tu Youyou",
@@ -1035,6 +1047,9 @@ const pioneers = [
       "First Chinese woman to win a Nobel Prize in Physiology or Medicine",
       "Transformed global malaria treatment",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Tu_Youyou" }
+    ]
   },
   {
     name: "Mae Jemison",
@@ -1050,6 +1065,9 @@ const pioneers = [
       "Mission specialist on Space Shuttle Endeavour",
       "Advocate for science education",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mae_Jemison" }
+    ]
   },
   {
     name: "Barbara McClintock",
@@ -1068,6 +1086,9 @@ const pioneers = [
       "First woman to win an unshared Nobel Prize in Physiology or Medicine",
       "Pioneered maize cytogenetics",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Barbara_McClintock" }
+    ]
   },
   {
     name: "Lise Meitner",
@@ -1085,6 +1106,9 @@ const pioneers = [
       "First woman full professor of physics in Germany",
       "Element 109 (Meitnerium) named after her",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Lise_Meitner" }
+    ]
   },
   {
     name: "Dorothy Vaughan",
@@ -1101,6 +1125,9 @@ const pioneers = [
       "Expert in FORTRAN programming",
       "Paved the way for women in computing",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Dorothy_Vaughan" }
+    ]
   },
   {
     name: "Ellen Ochoa",
@@ -1117,6 +1144,9 @@ const pioneers = [
       "Director of NASA Johnson Space Center",
       "Inventor with multiple patents",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ellen_Ochoa" }
+    ]
   },
   {
     name: "Ada Yonath",
@@ -1133,6 +1163,9 @@ const pioneers = [
       "Solved structure of ribosomes",
       "Advanced antibiotic research",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ada_Yonath" }
+    ]
   },
   {
     name: "Valentina Tereshkova",
@@ -1149,6 +1182,9 @@ const pioneers = [
       "Orbited Earth 48 times",
       "Role model for women in STEM worldwide",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Valentina_Tereshkova" }
+    ]
   },
   {
     name: "Radia Perlman",
@@ -1166,6 +1202,9 @@ const pioneers = [
       "Pioneered network design and security",
       "Inducted into the Internet Hall of Fame",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Radia_Perlman" }
+    ]
   },
   {
     name: "Grace Chisholm Young",
@@ -1183,6 +1222,9 @@ const pioneers = [
       "Published influential mathematics textbooks",
       "Advanced the field of calculus",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Grace_Chisholm_Young" }
+    ]
   },
   {
     name: "Mildred Dresselhaus",
@@ -1200,6 +1242,9 @@ const pioneers = [
       "First female Institute Professor at MIT",
       "National Medal of Science recipient",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mildred_Dresselhaus" }
+    ]
   },
   {
     name: "Flossie Wong-Staal",
@@ -1218,6 +1263,9 @@ const pioneers = [
       "Mapped HIV gene functions",
       "Leader in AIDS research",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Flossie_Wong-Staal" }
+    ]
   },
   {
     name: "Sophie Germain",
@@ -1236,6 +1284,9 @@ const pioneers = [
       "Contributed to Fermat's Last Theorem",
       "First woman to win a prize from the Paris Academy of Sciences",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Sophie_Germain" }
+    ]
   },
   {
     name: "Chieng Shih",
@@ -1252,6 +1303,9 @@ const pioneers = [
       "Advanced textile technology in ancient China",
       "Role model for women inventors",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Han_Dynasty_inventions#Textile_technology" }
+    ]
   },
   {
     name: "Mary Golda Ross",
@@ -1270,6 +1324,9 @@ const pioneers = [
       "Helped develop interplanetary space probes",
       "Pioneer in aerospace engineering",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mary_Golda_Ross" }
+    ]
   },
   {
     name: "Esther Lederberg",
@@ -1286,6 +1343,9 @@ const pioneers = [
       "Developed replica plating technique",
       "Advanced bacterial genetics",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Esther_Lederberg" }
+    ]
   },
   {
     name: "Gladys West",
@@ -1302,6 +1362,9 @@ const pioneers = [
       "Pioneered satellite geodesy",
       "Inducted into the Air Force Space and Missile Pioneers Hall of Fame",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Gladys_West" }
+    ]
   },
   {
     name: "Emmy Noether",
@@ -1320,6 +1383,9 @@ const pioneers = [
       "Founded abstract algebra",
       "First woman to receive habilitation in Germany",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Emmy_Noether" }
+    ]
   },
   {
     name: "Wang Zhenyi",
@@ -1338,6 +1404,9 @@ const pioneers = [
       "Wrote mathematical treatises",
       "Pioneered women's education in science",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Wang_Zhenyi" }
+    ]
   },
   {
     name: "Mary Anning",
@@ -1355,6 +1424,9 @@ const pioneers = [
       "Found first complete plesiosaur",
       "Pioneered fossil hunting techniques",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mary_Anning" }
+    ]
   },
   {
     name: "Asima Chatterjee",
@@ -1373,6 +1445,9 @@ const pioneers = [
       "Discovered anti-malarial compounds",
       "Pioneered research in medicinal plants",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Asima_Chatterjee" }
+    ]
   },
       {
       name: "Dorothy Hodgkin",
@@ -1390,6 +1465,9 @@ const pioneers = [
       "Determined structure of penicillin",
       "Solved structure of vitamin B12",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Dorothy_Hodgkin" }
+    ]
   },
   {
     name: "Sofia Kovalevskaya",
@@ -1408,6 +1486,9 @@ const pioneers = [
       "First female professor in Northern Europe",
       "Pioneered research in partial differential equations",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Sofia_Kovalevskaya" }
+    ]
   },
   {
     name: "Annie Easley",
@@ -1426,6 +1507,9 @@ const pioneers = [
       "Pioneered energy storage systems",
       "Helped develop hybrid vehicle technology",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Annie_Easley" }
+    ]
   },
   {
     name: "Evelyn Boyd Granville",
@@ -1443,6 +1527,9 @@ const pioneers = [
       "Worked on NASA space programs",
       "Pioneered computer programming education",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Evelyn_Boyd_Granville" }
+    ]
   },
   {
     name: "Kalpana Chawla",
@@ -1461,6 +1548,9 @@ const pioneers = [
       "Mission specialist on Space Shuttle Columbia",
       "Pioneered aerospace engineering research",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Kalpana_Chawla" }
+    ]
   },
   {
     name: "Mary Jackson",
@@ -1478,6 +1568,9 @@ const pioneers = [
       "Worked on supersonic flight research",
       "Advocated for women and minorities in STEM",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)" }
+    ]
   },
   {
     name: "Rita Levi-Montalcini",
@@ -1495,6 +1588,9 @@ const pioneers = [
       "Discovered nerve growth factor",
       "Pioneered research in neurobiology",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini" }
+    ]
   },
   {
     name: "Gertrude Elion",
@@ -1512,6 +1608,9 @@ const pioneers = [
       "Developed drugs for leukemia and herpes",
       "Pioneered rational drug design",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Gertrude_Elion" }
+    ]
   },
   {
     name: "Maria Goeppert-Mayer",
@@ -1529,6 +1628,9 @@ const pioneers = [
       "Developed nuclear shell model",
       "Second woman to win Nobel Prize in Physics",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Maria_Goeppert-Mayer" }
+    ]
   },
   {
     name: "Rosalyn Yalow",
@@ -1547,6 +1649,9 @@ const pioneers = [
       "Developed radioimmunoassay technique",
       "Pioneered nuclear medicine",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Rosalyn_Yalow" }
+    ]
   },
   {
     name: "Elizabeth Blackburn",
@@ -1563,6 +1668,9 @@ const pioneers = [
       "Discovered telomerase enzyme",
       "Pioneered telomere research",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Elizabeth_Blackburn" }
+    ]
   },
   {
     name: "Françoise Barré-Sinoussi",
@@ -1579,6 +1687,9 @@ const pioneers = [
       "Co-discovered HIV virus",
       "Pioneered AIDS research",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi" }
+    ]
   },
   {
     name: "Kimberly Bryant",
@@ -1596,6 +1707,9 @@ const pioneers = [
       "Advocated for diversity in tech",
       "Inspired thousands of young women",
     ],
+    references: [
+      { title: "Black Girls Code", url: "https://www.blackgirlscode.com/" }
+    ]
   },
   {
     name: "Fabiola Gianotti",
@@ -1611,6 +1725,9 @@ const pioneers = [
       "Led Higgs boson discovery team",
       "Pioneered particle physics research",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Fabiola_Gianotti" }
+    ]
   },
   {
     name: "Sally Ride",
@@ -1629,6 +1746,9 @@ const pioneers = [
       "Youngest American astronaut",
       "Founded Sally Ride Science",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Sally_Ride" }
+    ]
   },
   {
     name: "Hypatia",
@@ -1647,6 +1767,9 @@ const pioneers = [
       "Edited and commented on mathematical texts",
       "Pioneered astronomical observations",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Hypatia" }
+    ]
   },
   {
     name: "Caroline Herschel",
@@ -1664,6 +1787,9 @@ const pioneers = [
       "Discovered 8 comets total",
       "First woman to receive salary for scientific work",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Caroline_Herschel" }
+    ]
   },
   {
     name: "Maria Mitchell",
@@ -1682,6 +1808,9 @@ const pioneers = [
       "Discovered 'Miss Mitchell's Comet'",
       "First woman elected to American Academy of Arts and Sciences",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Maria_Mitchell" }
+    ]
   },
   {
     name: "Beatrice Tinsley",
@@ -1700,6 +1829,9 @@ const pioneers = [
       "Revolutionized cosmology",
       "First woman to receive American Astronomical Society's highest award",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Beatrice_Tinsley" }
+    ]
   },
   {
     name: "Vera Rubin",
@@ -1717,6 +1849,9 @@ const pioneers = [
       "Studied galaxy rotation curves",
       "First woman to receive Royal Astronomical Society's Gold Medal",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Vera_Rubin" }
+    ]
   },
   {
     name: "Jocelyn Bell Burnell",
@@ -1734,6 +1869,9 @@ const pioneers = [
       "Pioneered radio astronomy",
       "Advocate for women in physics",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell" }
+    ]
   },
   {
     name: "Henrietta Swan Leavitt",
@@ -1752,6 +1890,9 @@ const pioneers = [
       "Enabled measurement of cosmic distances",
       "Work led to discovery of universe expansion",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt" }
+    ]
   },
   {
     name: "Annie Jump Cannon",
@@ -1770,6 +1911,9 @@ const pioneers = [
       "Developed stellar classification system",
       "First woman to receive honorary doctorate from Oxford",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Annie_Jump_Cannon" }
+    ]
   },
   {
     name: "Cecilia Payne-Gaposchkin",
@@ -1788,6 +1932,9 @@ const pioneers = [
       "First woman to head Harvard astronomy department",
       "Pioneered stellar spectroscopy",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin" }
+    ]
   },
   {
     name: "Margaret Burbidge",
@@ -1806,6 +1953,9 @@ const pioneers = [
       "Fought for women's telescope access",
       "First woman to serve as American Astronomical Society president",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Margaret_Burbidge" }
+    ]
   },
   {
     name: "Katherine Freese",
@@ -1823,6 +1973,9 @@ const pioneers = [
       "Studied early universe physics",
       "Advocate for women in physics",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Katherine_Freese" }
+    ]
   },
       {
       name: "Alice Ball",
@@ -1840,6 +1993,9 @@ const pioneers = [
       "First African American woman with master's from UH",
       "Pioneered chaulmoogra oil extraction",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Alice_Ball" }
+    ]
   },
   {
     name: "Stephanie Kwolek",
@@ -1858,6 +2014,9 @@ const pioneers = [
       "Developed bullet-resistant materials",
       "Inducted into National Inventors Hall of Fame",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Stephanie_Kwolek" }
+    ]
   },
   {
     name: "Mina Rees",
@@ -1876,6 +2035,9 @@ const pioneers = [
       "Promoted women in mathematics",
       "Led mathematical research for the U.S. Navy",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mina_Rees" }
+    ]
   },
   {
     name: "Mary Cartwright",
@@ -1893,6 +2055,9 @@ const pioneers = [
       "First female president of the London Mathematical Society",
       "Advanced nonlinear dynamics",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mary_Cartwright" }
+    ]
   },
   {
     name: "Ida Noddack",
@@ -1909,6 +2074,9 @@ const pioneers = [
       "First to suggest nuclear fission",
       "Pioneered analytical chemistry",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ida_Noddack" }
+    ]
   },
   {
     name: "Ynes Mexia",
@@ -1926,6 +2094,9 @@ const pioneers = [
       "Explored remote regions of the Americas",
       "Promoted women in field science",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ynes_Mexia" }
+    ]
   },
   {
     name: "Ellen Swallow Richards",
@@ -1944,6 +2115,9 @@ const pioneers = [
       "Founded home economics",
       "Pioneered water quality research",
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Ellen_Swallow_Richards" }
+    ]
   },
   {
     name: "Susan Solomon",
