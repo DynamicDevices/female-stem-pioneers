@@ -897,6 +897,266 @@ const pioneers2 = [
       "cultural_contributions": "Challenged Victorian gender norms and created opportunities for women in medical education"
     },
     "verified": true
+  },
+  {
+    "name": "Mary Golda Ross",
+    "photo": "",
+    "birthDate": "1908",
+    "deathDate": "2008",
+    "country": "United States",
+    "fields": ["Mathematics", "Engineering", "Aerospace"],
+    "roles": ["Engineer", "Mathematician", "Trailblazer"],
+    "quote": "To function efficiently, any group of people must have faith in their leader.",
+    "summary": "First known Native American female engineer and a key contributor to early U.S. space and missile programs.",
+    "shortDescription": "Mary Golda Ross was the first known Native American female engineer. She worked on top-secret aerospace projects, including the Apollo program, and was a champion for women and Native Americans in STEM.",
+    "detailed_description": {
+      "early_life": "Born in Oklahoma and a member of the Cherokee Nation, Mary excelled in math and science from a young age, encouraged by her family and teachers.",
+      "stem_journey": "She became a math teacher before joining Lockheed as an engineer during WWII. She contributed to the development of interplanetary space travel concepts and the Apollo program.",
+      "challenges": "Faced both gender and racial barriers in engineering, especially as a Native American woman in the mid-20th century.",
+      "achievements": "First Native American female engineer, key contributor to the U.S. space program, and advocate for diversity in STEM.",
+      "legacy": "Inspired generations of women and Native Americans to pursue STEM careers."
+    },
+    "achievements": [
+      "First known Native American female engineer",
+      "Worked on Apollo and interplanetary missions",
+      "Advocated for women and Native Americans in STEM"
+    ],
+    "awards": ["Society of Women Engineers Achievement Award"],
+    "publications": [
+      {"title": "Mary Golda Ross: Aerospace Pioneer", "url": "https://en.wikipedia.org/wiki/Mary_Golda_Ross"}
+    ],
+    "education": [
+      {"degree": "Bachelor's", "field": "Mathematics", "institution": "Northeastern State Teachers College"},
+      {"degree": "Master's", "field": "Mathematics", "institution": "Colorado State Teachers College"}
+    ],
+    "timeline": [
+      {"year": 1942, "event": "Joined Lockheed as an engineer"},
+      {"year": "1960s", "event": "Worked on Apollo program"}
+    ],
+    "barriers": ["Gender and racial discrimination in engineering"],
+    "impact": "Paved the way for Native Americans and women in aerospace engineering.",
+    "media": [
+      {"type": "article", "title": "Mary Golda Ross: Hidden Figure of Space", "url": "https://www.nasa.gov/image-feature/mary-golda-ross"}
+    ],
+    "references": [
+      {"title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Mary_Golda_Ross"},
+      {"title": "NASA", "url": "https://www.nasa.gov/image-feature/mary-golda-ross"}
+    ],
+    "mentorship": "Mentored Native American students in STEM.",
+    "fun_fact": "She helped write NASA's Planetary Flight Handbook Vol. III.",
+    "career_path": {
+      "first_job": "Math teacher",
+      "career_highlights": ["Lockheed engineer", "Apollo program contributor"],
+      "advice_for_students": "Embrace challenges and seek out mentors who support your dreams."
+    },
+    "student_resources": {
+      "books_for_students": ["Mary Golda Ross: Trailblazer in Engineering"],
+      "websites": ["nasa.gov", "wikipedia.org"],
+      "programs": ["Native American STEM initiatives"],
+      "advice": "Your heritage and perspective are strengths in STEM."
+    },
+    "challenges": {
+      "academic": ["Few women in advanced math courses"],
+      "professional": ["Discrimination in the workplace"],
+      "personal": ["Balancing cultural identity and career"],
+      "how_overcame": "Focused on excellence and built supportive networks."
+    },
+    "education_details": {
+      "high_school": "Tahlequah High School",
+      "college_major": "Mathematics",
+      "key_courses": ["Advanced Mathematics", "Physics"],
+      "study_tips": "Ask questions and seek help when needed."
+    },
+    "modern_impact": {
+      "current_applications": "Her work underpins modern space travel.",
+      "companies_using_her_work": ["NASA", "Lockheed Martin"],
+      "future_implications": "Diversity in STEM leads to better solutions."
+    },
+    "personal_info": {
+      "early_interests": ["Math", "Science", "Teaching"],
+      "family_background": "Cherokee Nation, Oklahoma",
+      "hobbies": ["Reading", "Mentoring"],
+      "personality_traits": ["Determined", "Innovative", "Supportive"]
+    },
+    "cultural_background": {
+      "heritage": "Cherokee Nation",
+      "cultural_influences": ["Native American traditions", "STEM education"],
+      "cultural_challenges": ["Underrepresentation in STEM"],
+      "cultural_contributions": "Role model for Native Americans in STEM."
+    },
+    "verified": true
+  },
+  {
+    "name": "Maria Sibylla Merian",
+    "photo": "",
+    "birthDate": "1647",
+    "deathDate": "1717",
+    "country": "Germany/Netherlands",
+    "fields": ["Entomology", "Botany", "Art"],
+    "roles": ["Naturalist", "Scientific Illustrator", "Explorer"],
+    "quote": "In my youth, I spent my time investigating insects.",
+    "summary": "Pioneering entomologist and scientific illustrator who revolutionized the study of insects and metamorphosis.",
+    "shortDescription": "Maria Sibylla Merian was a groundbreaking entomologist and artist. Her detailed observations and illustrations of insect life cycles changed scientific understanding of metamorphosis.",
+    "detailed_description": {
+      "early_life": "Born in Frankfurt, Germany, Maria was fascinated by insects and plants from a young age, encouraged by her stepfather, a painter.",
+      "stem_journey": "She combined art and science, publishing influential books on insect metamorphosis. She traveled to Suriname to study tropical insects firsthand.",
+      "challenges": "Worked in a male-dominated field and faced skepticism as a woman scientist and artist in the 17th century.",
+      "achievements": "Published 'Metamorphosis Insectorum Surinamensium', revolutionized entomology, and advanced scientific illustration.",
+      "legacy": "Her work laid the foundation for modern entomology and inspired generations of scientists and artists."
+    },
+    "achievements": [
+      "Revolutionized the study of insect metamorphosis",
+      "Published influential scientific illustrations",
+      "Conducted field research in South America"
+    ],
+    "awards": [],
+    "publications": [
+      {"title": "Metamorphosis Insectorum Surinamensium", "url": "https://en.wikipedia.org/wiki/Maria_Sibylla_Merian"}
+    ],
+    "education": [
+      {"degree": "Apprenticeship", "field": "Art and Natural History", "institution": "Family and private study"}
+    ],
+    "timeline": [
+      {"year": 1679, "event": "Published first book on insects"},
+      {"year": 1699, "event": "Traveled to Suriname for field research"}
+    ],
+    "barriers": ["Gender bias in science and art"],
+    "impact": "Transformed scientific understanding of insect life cycles.",
+    "media": [
+      {"type": "article", "title": "Maria Sibylla Merian: Mother of Entomology", "url": "https://www.britannica.com/biography/Maria-Sibylla-Merian"}
+    ],
+    "references": [
+      {"title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Maria_Sibylla_Merian"},
+      {"title": "Britannica", "url": "https://www.britannica.com/biography/Maria-Sibylla-Merian"}
+    ],
+    "mentorship": "Inspired women in science and art.",
+    "fun_fact": "She traveled to South America at age 52 to study insects firsthand.",
+    "career_path": {
+      "first_job": "Artist and naturalist",
+      "career_highlights": ["Published scientific books", "Field research in Suriname"],
+      "advice_for_students": "Combine your passions—science and art can work together."
+    },
+    "student_resources": {
+      "books_for_students": ["Maria Sibylla Merian: Artist, Scientist, Adventurer"],
+      "websites": ["britannica.com", "wikipedia.org"],
+      "programs": ["Science illustration workshops"],
+      "advice": "Careful observation is the key to discovery."
+    },
+    "challenges": {
+      "academic": ["No formal university education"],
+      "professional": ["Skepticism from male scientists"],
+      "personal": ["Balancing family and research"],
+      "how_overcame": "Let her work speak for itself and persisted despite obstacles."
+    },
+    "education_details": {
+      "high_school": "Private study",
+      "college_major": "Art and Natural History",
+      "key_courses": ["Painting", "Botany", "Entomology"],
+      "study_tips": "Draw what you see and take detailed notes."
+    },
+    "modern_impact": {
+      "current_applications": "Her illustrations are still used in science education.",
+      "companies_using_her_work": ["Museums", "Universities"],
+      "future_implications": "Interdisciplinary work is vital for new discoveries."
+    },
+    "personal_info": {
+      "early_interests": ["Insects", "Plants", "Art"],
+      "family_background": "German-Dutch family of artists",
+      "hobbies": ["Painting", "Collecting insects"],
+      "personality_traits": ["Curious", "Observant", "Creative"]
+    },
+    "cultural_background": {
+      "heritage": "German-Dutch",
+      "cultural_influences": ["17th-century science", "Artistic traditions"],
+      "cultural_challenges": ["Barriers for women in science"],
+      "cultural_contributions": "Pioneered scientific illustration and field research."
+    },
+    "verified": true
+  },
+  {
+    "name": "Theresa Dankovich",
+    "photo": "",
+    "birthDate": "1981",
+    "country": "United States",
+    "fields": ["Chemistry", "Environmental Engineering"],
+    "roles": ["Scientist", "Inventor", "Entrepreneur"],
+    "quote": "I wanted to make a difference in the world with science.",
+    "summary": "Inventor of the Drinkable Book, a water purification technology saving lives worldwide.",
+    "shortDescription": "Theresa Dankovich is a chemist and inventor who created the Drinkable Book, a revolutionary water purification tool that helps provide clean water in developing regions.",
+    "detailed_description": {
+      "early_life": "Born in the U.S., Theresa was passionate about science and helping others from a young age.",
+      "stem_journey": "She earned a PhD in chemistry and developed a paper-based water filter that kills deadly bacteria, leading to the Drinkable Book project.",
+      "challenges": "Faced skepticism about the practicality of her invention and challenges in scaling production for global impact.",
+      "achievements": "Invented the Drinkable Book, co-founded Folia Water, and received international recognition for her work.",
+      "legacy": "Her invention has saved lives and raised awareness about global water issues."
+    },
+    "achievements": [
+      "Invented the Drinkable Book water filter",
+      "Co-founded Folia Water",
+      "Recognized globally for innovation"
+    ],
+    "awards": ["UNESCO Emerging Explorer"],
+    "publications": [
+      {"title": "Drinkable Book Project", "url": "https://en.wikipedia.org/wiki/Theresa_Dankovich"}
+    ],
+    "education": [
+      {"degree": "PhD", "field": "Chemistry", "institution": "McGill University"}
+    ],
+    "timeline": [
+      {"year": 2014, "event": "Launched Drinkable Book"}
+    ],
+    "barriers": ["Skepticism about new technology", "Funding challenges"],
+    "impact": "Provides clean water solutions to communities in need.",
+    "media": [
+      {"type": "article", "title": "Theresa Dankovich: Clean Water Innovator", "url": "https://www.britannica.com/biography/Theresa-Dankovich"}
+    ],
+    "references": [
+      {"title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Theresa_Dankovich"},
+      {"title": "Britannica", "url": "https://www.britannica.com/biography/Theresa-Dankovich"}
+    ],
+    "mentorship": "Mentors young women in STEM and entrepreneurship.",
+    "fun_fact": "Each page of the Drinkable Book can filter up to 100 liters of water.",
+    "career_path": {
+      "first_job": "Graduate researcher",
+      "career_highlights": ["Invented Drinkable Book", "Founded Folia Water"],
+      "advice_for_students": "Use science to solve real-world problems."
+    },
+    "student_resources": {
+      "books_for_students": ["The Drinkable Book Project"],
+      "websites": ["foliawater.com", "wikipedia.org"],
+      "programs": ["Science innovation competitions"],
+      "advice": "Think creatively and don't be afraid to try new ideas."
+    },
+    "challenges": {
+      "academic": ["Developing new materials for water purification"],
+      "professional": ["Scaling up production"],
+      "personal": ["Balancing research and entrepreneurship"],
+      "how_overcame": "Partnered with organizations and persevered through setbacks."
+    },
+    "education_details": {
+      "high_school": "Local high school in the U.S.",
+      "college_major": "Chemistry",
+      "key_courses": ["Organic Chemistry", "Materials Science"],
+      "study_tips": "Apply your knowledge to real-world challenges."
+    },
+    "modern_impact": {
+      "current_applications": "Drinkable Book is used in water-scarce regions.",
+      "companies_using_her_work": ["Folia Water", "NGOs"],
+      "future_implications": "Affordable water purification for all."
+    },
+    "personal_info": {
+      "early_interests": ["Science", "Helping others"],
+      "family_background": "American family, supportive of education",
+      "hobbies": ["Travel", "Volunteering"],
+      "personality_traits": ["Innovative", "Empathetic", "Persistent"]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": ["STEM education", "Global health"],
+      "cultural_challenges": ["Access to clean water"],
+      "cultural_contributions": "Raised awareness of water issues worldwide."
+    },
+    "verified": true
   }
 ];
 
