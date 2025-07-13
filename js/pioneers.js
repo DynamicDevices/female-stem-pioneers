@@ -7375,6 +7375,36 @@ const pioneers = [
         "url": "https://en.wikipedia.org/wiki/Ada_Yonath"
       }
     ]
+  },
+  {
+    "name": "Cecilia Payne-Gaposchkin",
+    "photo": "./images/cecilia-payne-gaposchkin.jpg",
+    "birthDate": "1900",
+    "deathDate": "1979",
+    "country": "United Kingdom/United States",
+    "fields": [
+      "Astronomy",
+      "Astrophysics"
+    ],
+    "roles": [
+      "Astronomer",
+      "Astrophysicist"
+    ],
+    "quote": "The reward of the young scientist is the emotional thrill of being the first person in the history of the world to see something or to understand something.",
+    "summary": "Astronomer who discovered that stars are made mostly of hydrogen and helium.",
+    "shortDescription": "Cecilia Payne-Gaposchkin was an astronomer who discovered that stars are made mostly of hydrogen and helium, not iron as previously thought. Her PhD thesis was called 'the most brilliant PhD thesis ever written in astronomy' and revolutionized our understanding of the universe.",
+    "achievements": [
+      "Discovered stars are made of hydrogen and helium",
+      "First woman to become professor at Harvard Astronomy",
+      "Revolutionized understanding of stellar composition",
+      "Pioneered stellar spectroscopy"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin"
+      }
+    ]
   }
 ];
 
