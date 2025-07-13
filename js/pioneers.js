@@ -16529,6 +16529,178 @@ const pioneers = [
       "cultural_contributions": "Pioneered African American women's role in medicine and community health"
     },
     "verified": true
+  },
+  {
+    "name": "Anandibai Joshi",
+    "photo": "./images/anandibai-joshi.jpg",
+    "birthDate": "1865",
+    "deathDate": "1887",
+    "country": "India",
+    "fields": [
+      "Medicine",
+      "Obstetrics"
+    ],
+    "roles": [
+      "Physician",
+      "Obstetrician"
+    ],
+    "quote": "I will go as a Hindu lady, properly dressed, with my little son, and come back to live here as a Hindu lady.",
+    "summary": "First Indian woman to earn a medical degree in the United States, graduating from the Woman's Medical College of Pennsylvania in 1886.",
+    "shortDescription": "Anandibai Joshi was the first Indian woman to earn a medical degree in the United States, graduating from the Woman's Medical College of Pennsylvania in 1886. Despite facing cultural barriers and health challenges, she completed her medical education and planned to practice medicine in India, becoming a pioneer for Indian women in medicine.",
+    "detailed_description": {
+      "early_life": "Born in Kalyan, India in 1865, Anandibai was married at age 9 and showed early interest in medicine. She was largely self-educated and faced significant cultural barriers to pursuing medical education.",
+      "stem_journey": "Anandibai traveled to the United States in 1883 to study medicine at the Woman's Medical College of Pennsylvania, graduating in 1886 as the first Indian woman to earn a medical degree in the US.",
+      "challenges": "Faced cultural barriers, language difficulties, health problems including tuberculosis, and social opposition to women pursuing medical education in India.",
+      "achievements": "First Indian woman to earn a medical degree in the United States, graduated from Woman's Medical College of Pennsylvania, planned to practice medicine in India.",
+      "legacy": "Anandibai's achievement opened doors for Indian women in medicine and inspired future generations of Indian women to pursue medical careers."
+    },
+    "achievements": [
+      "First Indian woman to earn a medical degree in the United States",
+      "Graduated from Woman's Medical College of Pennsylvania (1886)",
+      "Pioneered Indian women's medical education",
+      "Planned to practice medicine in India"
+    ],
+    "awards": [
+      "Medical degree from Woman's Medical College of Pennsylvania (1886)"
+    ],
+    "publications": [
+      {
+        "title": "Medical Thesis on Obstetrics",
+        "url": "https://en.wikipedia.org/wiki/Anandibai_Joshi"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MD",
+        "field": "Medicine",
+        "institution": "Woman's Medical College of Pennsylvania"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1883,
+        "event": "Traveled to United States to study medicine"
+      },
+      {
+        "year": 1886,
+        "event": "Graduated from Woman's Medical College of Pennsylvania"
+      },
+      {
+        "year": 1887,
+        "event": "Died from tuberculosis at age 21"
+      }
+    ],
+    "barriers": [
+      "Cultural barriers to women's education",
+      "Language difficulties in the US",
+      "Health challenges including tuberculosis",
+      "Social opposition in India"
+    ],
+    "impact": "Her achievement inspired Indian women to pursue medical education and careers in medicine.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Anandibai Joshi: First Indian Woman Physician",
+        "url": "https://www.biography.com/scientist/anandibai-joshi"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anandibai_Joshi"
+      }
+    ],
+    "mentorship": "Anandibai's achievement inspired future generations of Indian women to pursue medical careers.",
+    "fun_fact": "Anandibai Joshi was only 21 years old when she died from tuberculosis, but her achievement paved the way for Indian women in medicine.",
+    "career_path": {
+      "first_job": "Planned to practice medicine in India",
+      "career_highlights": [
+        "First Indian woman physician",
+        "Graduated from US medical school",
+        "Pioneered Indian women's medical education"
+      ],
+      "advice_for_students": "Pursue your dreams despite cultural and social barriers."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Anandibai Joshi: First Indian Woman Physician",
+        "Indian Women in Medicine"
+      ],
+      "websites": [
+        "wikipedia.org",
+        "britannica.com"
+      ],
+      "programs": [
+        "Indian medical programs",
+        "Women in Medicine programs"
+      ],
+      "advice": "Follow your passion for helping others regardless of cultural barriers."
+    },
+    "challenges": {
+      "academic": [
+        "Language barriers in US education",
+        "Cultural differences in learning"
+      ],
+      "professional": [
+        "Cultural barriers to women in medicine",
+        "Limited opportunities in India"
+      ],
+      "personal": [
+        "Health problems including tuberculosis",
+        "Cultural isolation in the US"
+      ],
+      "how_overcame": "Used determination and adaptability to succeed in medical education despite barriers"
+    },
+    "education_details": {
+      "high_school": "Self-educated",
+      "college_major": "Medicine",
+      "key_courses": [
+        "Medicine",
+        "Obstetrics",
+        "English language"
+      ],
+      "study_tips": "Learn to adapt to new environments and cultures while pursuing your goals"
+    },
+    "modern_impact": {
+      "current_applications": "Her achievement influenced Indian women's access to medical education",
+      "companies_using_her_work": [
+        "Indian medical schools",
+        "Women's medical programs"
+      ],
+      "future_implications": "Her legacy continues to inspire Indian women in medicine"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Medicine",
+        "Helping others",
+        "Education"
+      ],
+      "family_background": "Married at age 9, from traditional Indian family",
+      "hobbies": [
+        "Reading",
+        "Writing",
+        "Learning"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Courageous",
+        "Adaptable",
+        "Persistent"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Indian",
+      "cultural_influences": [
+        "Traditional Indian culture",
+        "19th-century Indian society"
+      ],
+      "cultural_challenges": [
+        "Cultural barriers to women's education",
+        "Traditional gender roles"
+      ],
+      "cultural_contributions": "Pioneered Indian women's role in medicine and medical education"
+    },
+    "verified": true
   }
 ];
 
