@@ -7435,6 +7435,36 @@ const pioneers = [
         "url": "https://en.wikipedia.org/wiki/Ellen_Swallow_Richards"
       }
     ]
+  },
+  {
+    "name": "Mina Rees",
+    "photo": "./images/mina-rees.jpg",
+    "birthDate": "1902",
+    "deathDate": "1997",
+    "country": "United States",
+    "fields": [
+      "Mathematics",
+      "Computer Science"
+    ],
+    "roles": [
+      "Mathematician",
+      "Computer Scientist"
+    ],
+    "quote": "Mathematics is the language of science.",
+    "summary": "Mathematician who led the development of early computers and was the first female president of the American Mathematical Society.",
+    "shortDescription": "Mina Rees was a mathematician who led the development of early computers during World War II and became the first female president of the American Mathematical Society. Her work on computing machines helped pave the way for modern computer science.",
+    "achievements": [
+      "First female president of American Mathematical Society",
+      "Led early computer development",
+      "Pioneered computing research",
+      "Advanced mathematical education"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mina_Rees"
+      }
+    ]
   }
 ];
 
