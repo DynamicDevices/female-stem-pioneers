@@ -1912,7 +1912,6 @@ body.light-theme .mobile-menu-toggle span {
   margin-top: 16px;
   padding-top: 16px;
   border-top: 1px solid #334155;
-  grid-row: 3;
 }
 
 .pioneer-image {
@@ -2183,10 +2182,9 @@ body.light-theme .mobile-menu-toggle span {
 
 .pioneer-content {
   flex: 1;
-  display: grid;
-  grid-template-rows: auto auto auto auto auto;
+  display: flex;
+  flex-direction: column;
   gap: 16px;
-  align-items: start;
 }
 
 .pioneer-quote {
@@ -2194,7 +2192,6 @@ body.light-theme .mobile-menu-toggle span {
   padding: 16px;
   border-radius: 8px;
   border-left: 4px solid #60a5fa;
-  grid-row: 1;
 }
 
 .pioneer-short-description {
@@ -2202,7 +2199,6 @@ body.light-theme .mobile-menu-toggle span {
   padding: 16px;
   border-radius: 8px;
   border-left: 4px solid #ec4899;
-  grid-row: 2;
 }
 
 .pioneer-short-description h4 {
@@ -2230,7 +2226,6 @@ body.light-theme .mobile-menu-toggle span {
   padding: 16px;
   border-radius: 8px;
   border-left: 4px solid #10b981;
-  grid-row: 3;
 }
 
 .pioneer-fun-fact {
@@ -2238,7 +2233,6 @@ body.light-theme .mobile-menu-toggle span {
   padding: 16px;
   border-radius: 8px;
   border-left: 4px solid #f59e0b;
-  grid-row: 4;
 }
 
 .pioneer-study-path {
@@ -2246,7 +2240,6 @@ body.light-theme .mobile-menu-toggle span {
   padding: 16px;
   border-radius: 8px;
   border-left: 4px solid #8b5cf6;
-  grid-row: 5;
 }
 
 .pioneer-quote h4 {
