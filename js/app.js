@@ -129,6 +129,26 @@ class PioneersApp {
     return match ? parseInt(match[1]) : 0;
   }
 
+  /**
+   * Get appropriate fallback icon for a pioneer using the IconMapping system
+   * @param {Object} pioneer - Pioneer object
+   * @returns {string} - Fallback icon HTML
+   */
+  getFallbackIcon(pioneer) {
+    // Check if IconMapping is available
+    if (typeof IconMapping !== 'undefined') {
+      try {
+        const icon = IconMapping.getIconForPioneer(pioneer);
+        return `<div class="fallback-icon" style="font-size: 3em; text-align: center; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">${icon}</div>`;
+      } catch (error) {
+        console.warn('IconMapping failed, using default fallback:', error);
+      }
+    }
+    
+    // Default fallback if IconMapping is not available
+    return `<div class="fallback-icon" style="font-size: 3em; text-align: center; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">👩‍🔬</div>`;
+  }
+
   createPioneerCard(pioneer, index) {
     const card = document.createElement("div");
     card.className = "pioneer-card";
@@ -160,7 +180,7 @@ class PioneersApp {
       Virology: "The study of viruses and viral diseases.",
       Immunology: "The study of the immune system and immune responses.",
       Geodesy:
-        "The science of measuring and understanding the Earth’s shape, orientation, and gravity.",
+        "The science of measuring and understanding the Earth's shape, orientation, and gravity.",
       "Rocket Science":
         "The science of designing and launching rockets and spacecraft.",
       Pharmacology: "The study of drugs and their effects on living organisms.",
@@ -170,7 +190,7 @@ class PioneersApp {
       "Environmental Science":
         "The study of the environment and human impact on it.",
       Paleontology: "The study of ancient life through fossils.",
-      Geology: "The study of the Earth’s structure and history.",
+      Geology: "The study of the Earth's structure and history.",
       Genetics: "The study of genes and heredity.",
       Cytogenetics:
         "The branch of genetics that studies the structure and function of cells, especially chromosomes.",
@@ -232,13 +252,16 @@ class PioneersApp {
     `
       : "";
 
+    // Generate fallback icon for this pioneer
+    const fallbackIcon = this.getFallbackIcon(pioneer);
+
     card.innerHTML = `
       <div class="pioneer-card-header">
         <div class="pioneer-image">
           <img data-src="${pioneer.photo}" alt="Portrait of ${pioneer.name}" 
                class="lazy-image"
                src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iNDAiIGN5PSI0MCIgcj0iMzUiIGZpbGw9IiNmMWY1ZjkiIHN0cm9rZT0iI2M2ZDdkZCIgc3Ryb2tlLXdpZHRoPSIyIi8+PHRleHQgeD0iNDAiIHk9IjQ1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjNjQ3NDhiIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9IjUwMCI+8J+RjTwvdGV4dD48L3N2Zz4="
-               onerror="this.onerror=null;this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjkwIiBmaWxsPSIjZjFmNWY5IiBzdHJva2U9IiNjNmQ3ZGQiIHN0cm9rZS13aWR0aD0iNCIvPjx0ZXh0IHg9IjEwMCIgeT0iMTEwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjNjQ3NDhiIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIzMCIgZm9udC13ZWlnaHQ9IjUwMCI+8J+RjTwvdGV4dD48L3N2Zz4='" 
+               onerror="this.onerror=null;this.parentElement.innerHTML='${fallbackIcon.replace(/'/g, "\\'")}';" 
                onload="this.classList.add('loaded')"
                onclick="window.pioneersApp.openImageModal('${pioneer.photo}', '${pioneer.name}', '${pioneer.birthDate}', '${pioneer.deathDate}', '${pioneer.country}')"
                style="cursor: pointer;">

@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Icon Mapping System Demo</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+        }
+        
+        .demo-section {
+            margin-bottom: 40px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+        
+        .demo-section h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .pioneer-example {
+            display: flex;
+            align-items: center;
+            margin: 15px 0;
+            padding: 15px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .pioneer-icon {
+            font-size: 3em;
+            margin-right: 20px;
+            min-width: 80px;
+            text-align: center;
+        }
+        
+        .pioneer-info {
+            flex: 1;
+        }
+        
+        .pioneer-name {
+            font-weight: bold;
+            font-size: 1.2em;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+        
+        .pioneer-details {
+            color: #6c757d;
+            font-size: 0.9em;
+            line-height: 1.4;
+        }
+        
+        .field-tag {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            margin: 2px;
+        }
+        
+        .skin-tone-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .skin-tone-example {
+            text-align: center;
+            padding: 15px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .skin-tone-icon {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .skin-tone-name {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+        
+        .skin-tone-description {
+            color: #6c757d;
+            font-size: 0.8em;
+        }
+        
+        .code-example {
+            background: #2c3e50;
+            color: #ecf0f1;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+            margin: 15px 0;
+            overflow-x: auto;
+        }
+        
+        .info-box {
+            background: #e8f4fd;
+            border-left: 4px solid #667eea;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎯 Icon Mapping System Demo</h1>
+        
+        <div class="info-box">
+            <strong>✅ Fixed Implementation:</strong> Icons now use proper Unicode combining sequences to create single emoji characters with skin tones, rather than separate characters.
+        </div>
+        
+        <div class="demo-section">
+            <h2>Pioneer Examples with Appropriate Icons</h2>
+            
+            <div class="pioneer-example">
+                <div class="pioneer-icon">👩🏽‍🔬</div>
+                <div class="pioneer-info">
+                    <div class="pioneer-name">Marie Curie</div>
+                    <div class="pioneer-details">
+                        <strong>Fields:</strong> <span class="field-tag">Physics</span> <span class="field-tag">Chemistry</span><br>
+                        <strong>Region:</strong> Poland/France<br>
+                        <strong>Birth Year:</strong> 1867<br>
+                        <strong>Icon Logic:</strong> Physics → Scientist + Polish region → Medium skin tone
+                    </div>
+                </div>
+            </div>
+            
+            <div class="pioneer-example">
+                <div class="pioneer-icon">👩🏼‍💻</div>
+                <div class="pioneer-info">
+                    <div class="pioneer-name">Grace Hopper</div>
+                    <div class="pioneer-details">
+                        <strong>Fields:</strong> <span class="field-tag">Computer Science</span> <span class="field-tag">Programming</span><br>
+                        <strong>Region:</strong> USA<br>
+                        <strong>Birth Year:</strong> 1906<br>
+                        <strong>Icon Logic:</strong> Computer Science → Technologist + USA region → Medium Light skin tone
+                    </div>
+                </div>
+            </div>
+            
+            <div class="pioneer-example">
+                <div class="pioneer-icon">👩🏿‍🚀</div>
+                <div class="pioneer-info">
+                    <div class="pioneer-name">Mae Jemison</div>
+                    <div class="pioneer-details">
+                        <strong>Fields:</strong> <span class="field-tag">Astronaut</span> <span class="field-tag">Engineering</span><br>
+                        <strong>Region:</strong> USA (African American)<br>
+                        <strong>Birth Year:</strong> 1956<br>
+                        <strong>Icon Logic:</strong> Astronaut → Astronaut + African American heritage → Dark skin tone
+                    </div>
+                </div>
+            </div>
+            
+            <div class="pioneer-example">
+                <div class="pioneer-icon">👩🏾‍⚕️</div>
+                <div class="pioneer-info">
+                    <div class="pioneer-name">Tu Youyou</div>
+                    <div class="pioneer-details">
+                        <strong>Fields:</strong> <span class="field-tag">Medicine</span> <span class="field-tag">Pharmacology</span><br>
+                        <strong>Region:</strong> China<br>
+                        <strong>Birth Year:</strong> 1930<br>
+                        <strong>Icon Logic:</strong> Medicine → Doctor + Chinese region → Medium Dark skin tone
+                    </div>
+                </div>
+            </div>
+            
+            <div class="pioneer-example">
+                <div class="pioneer-icon">👩🏻‍🎓</div>
+                <div class="pioneer-info">
+                    <div class="pioneer-name">Sofia Kovalevskaya</div>
+                    <div class="pioneer-details">
+                        <strong>Fields:</strong> <span class="field-tag">Mathematics</span> <span class="field-tag">Physics</span><br>
+                        <strong>Region:</strong> Russia<br>
+                        <strong>Birth Year:</strong> 1850<br>
+                        <strong>Icon Logic:</strong> Mathematics → Mathematician + Russian region → Light skin tone
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="demo-section">
+            <h2>All Icon Types with Skin Tone Diversity (Single Characters)</h2>
+            
+            <div class="skin-tone-grid">
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏻‍🔬</div>
+                    <div class="skin-tone-name">Scientist (Light)</div>
+                    <div class="skin-tone-description">Biology, Chemistry, Physics</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏼‍🔬</div>
+                    <div class="skin-tone-name">Scientist (Medium Light)</div>
+                    <div class="skin-tone-description">Biology, Chemistry, Physics</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏽‍🔬</div>
+                    <div class="skin-tone-name">Scientist (Medium)</div>
+                    <div class="skin-tone-description">Biology, Chemistry, Physics</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏾‍🔬</div>
+                    <div class="skin-tone-name">Scientist (Medium Dark)</div>
+                    <div class="skin-tone-description">Biology, Chemistry, Physics</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏿‍🔬</div>
+                    <div class="skin-tone-name">Scientist (Dark)</div>
+                    <div class="skin-tone-description">Biology, Chemistry, Physics</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏻‍💻</div>
+                    <div class="skin-tone-name">Technologist (Light)</div>
+                    <div class="skin-tone-description">Computer Science, Programming</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏼‍💻</div>
+                    <div class="skin-tone-name">Technologist (Medium Light)</div>
+                    <div class="skin-tone-description">Computer Science, Programming</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏽‍💻</div>
+                    <div class="skin-tone-name">Technologist (Medium)</div>
+                    <div class="skin-tone-description">Computer Science, Programming</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏾‍💻</div>
+                    <div class="skin-tone-name">Technologist (Medium Dark)</div>
+                    <div class="skin-tone-description">Computer Science, Programming</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏿‍💻</div>
+                    <div class="skin-tone-name">Technologist (Dark)</div>
+                    <div class="skin-tone-description">Computer Science, Programming</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏻‍🚀</div>
+                    <div class="skin-tone-name">Astronaut (Light)</div>
+                    <div class="skin-tone-description">Space Exploration, Astronomy</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏼‍🚀</div>
+                    <div class="skin-tone-name">Astronaut (Medium Light)</div>
+                    <div class="skin-tone-description">Space Exploration, Astronomy</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏽‍🚀</div>
+                    <div class="skin-tone-name">Astronaut (Medium)</div>
+                    <div class="skin-tone-description">Space Exploration, Astronomy</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏾‍🚀</div>
+                    <div class="skin-tone-name">Astronaut (Medium Dark)</div>
+                    <div class="skin-tone-description">Space Exploration, Astronomy</div>
+                </div>
+                
+                <div class="skin-tone-example">
+                    <div class="skin-tone-icon">👩🏿‍🚀</div>
+                    <div class="skin-tone-name">Astronaut (Dark)</div>
+                    <div class="skin-tone-description">Space Exploration, Astronomy</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="demo-section">
+            <h2>Usage Example</h2>
+            
+            <div class="code-example">
+// Load the icon mapping system
+const icon = IconMapping.getIconForPioneer({
+    name: "Marie Curie",
+    fields: ["Physics", "Chemistry"],
+    region: "Poland",
+    birthYear: 1867
+});
+
+// Result: "👩🏽‍🔬" (Single emoji character with medium skin tone)
+console.log(icon);
+            </div>
+            
+            <div class="code-example">
+// Get random diverse icon for variety
+const randomIcon = IconMapping.getRandomDiverseIcon();
+// Result: Random single emoji character with appropriate skin tone
+console.log(randomIcon);
+            </div>
+        </div>
+        
+        <div class="demo-section">
+            <h2>Field Mapping Logic</h2>
+            <p>The system maps pioneer fields to appropriate icons:</p>
+            <ul>
+                <li><strong>Biology/Chemistry/Physics</strong> → 👩‍🔬 Scientist</li>
+                <li><strong>Computer Science/Programming</strong> → 👩‍💻 Technologist</li>
+                <li><strong>Engineering</strong> → 👩‍🏭 Engineer</li>
+                <li><strong>Astronomy/Space</strong> → 👩‍🚀 Astronaut</li>
+                <li><strong>Medicine/Healthcare</strong> → 👩‍⚕️ Doctor</li>
+                <li><strong>Education/Academia</strong> → 👩‍🏫 Professor</li>
+                <li><strong>Mathematics</strong> → 👩‍🎓 Mathematician</li>
+                <li><strong>Invention/Innovation</strong> → 👩‍🔧 Inventor</li>
+            </ul>
+        </div>
+    </div>
+    
+    <script src="js/icon-mapping.js"></script>
+</body>
+</html> 

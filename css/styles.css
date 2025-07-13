@@ -3066,3 +3066,59 @@ body.light-theme .mobile-menu-toggle span {
   left: 50%;
   transform: translateX(-50%);
 }
+
+/* Diverse Fallback Icon Styles */
+.fallback-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  margin: 0 auto;
+  font-size: 2.5em;
+  position: relative;
+  overflow: hidden;
+}
+
+.fallback-icon::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(45deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.05) 100%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.fallback-icon:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.pioneer-card:hover .fallback-icon {
+  transform: scale(1.1);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+}
+
+/* Responsive fallback icon sizing */
+@media (max-width: 768px) {
+  .fallback-icon {
+    width: 70px;
+    height: 70px;
+    font-size: 2.2em;
+  }
+}
+
+@media (max-width: 480px) {
+  .fallback-icon {
+    width: 60px;
+    height: 60px;
+    font-size: 2em;
+  }
+}
