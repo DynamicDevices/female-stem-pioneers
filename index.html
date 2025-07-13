@@ -335,5 +335,68 @@
       // Log commit info immediately
       logCommitInfo();
     </script>
+    
+    <!-- Debug cache control script -->
+    <script>
+      function checkDebugMode() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const debugMode = urlParams.get('debug');
+        
+        if (debugMode === '1') {
+          console.log('🔧 Debug mode enabled - Caching disabled');
+          
+          // Disable caching for all resources
+          const meta = document.createElement('meta');
+          meta.httpEquiv = 'Cache-Control';
+          meta.content = 'no-cache, no-store, must-revalidate';
+          document.head.appendChild(meta);
+          
+          const pragma = document.createElement('meta');
+          pragma.httpEquiv = 'Pragma';
+          pragma.content = 'no-cache';
+          document.head.appendChild(pragma);
+          
+          const expires = document.createElement('meta');
+          expires.httpEquiv = 'Expires';
+          expires.content = '0';
+          document.head.appendChild(expires);
+          
+          // Add timestamp to CSS and JS URLs to force reload
+          const timestamp = Date.now();
+          const cssLink = document.querySelector('link[href="css/styles.css"]');
+          if (cssLink) {
+            cssLink.href = `css/styles.css?v=${timestamp}`;
+          }
+          
+          const jsLinks = document.querySelectorAll('script[src^="js/"]');
+          jsLinks.forEach(link => {
+            if (link.src.includes('js/')) {
+              link.src = `${link.src}?v=${timestamp}`;
+            }
+          });
+          
+          // Add visual indicator
+          const debugIndicator = document.createElement('div');
+          debugIndicator.style.cssText = `
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: #ef4444;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-family: monospace;
+            z-index: 10000;
+            font-weight: bold;
+          `;
+          debugIndicator.textContent = 'DEBUG MODE';
+          document.body.appendChild(debugIndicator);
+        }
+      }
+      
+      // Check debug mode immediately
+      checkDebugMode();
+    </script>
   </body>
 </html>
