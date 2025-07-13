@@ -316,11 +316,6 @@ class PioneersApp {
           <h4>About ${pioneer.name}</h4>
           <p>${pioneer.shortDescription || ''}</p>
         </div>
-
-        <div class="pioneer-fun-fact" style="${pioneer.fun_fact && pioneer.fun_fact.trim() ? 'display: block;' : 'display: none;'}">
-          <h4>Fun Fact</h4>
-          <p>${pioneer.fun_fact || ''}</p>
-        </div>
       </div>
 
       <div class="pioneer-actions">
@@ -342,6 +337,13 @@ class PioneersApp {
             ${(pioneer.achievements || []).map(achievement => `<li>${achievement}</li>`).join("")}
           </ul>
         </div>
+        
+        ${pioneer.fun_fact && pioneer.fun_fact.trim() ? `
+        <div class="expandable-section">
+          <h4>Fun Fact</h4>
+          <p>${pioneer.fun_fact}</p>
+        </div>
+        ` : ''}
         
         ${pioneer.education_details ? `
         <div class="expandable-section">
