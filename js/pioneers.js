@@ -4943,7 +4943,8 @@ const pioneers = [
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Maya_Angelou"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Hypatia",
@@ -4994,7 +4995,8 @@ const pioneers = [
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Hypatia"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Mary Anning",
@@ -6254,7 +6256,8 @@ const pioneers = [
         "Stereotypes about Middle Eastern women"
       ],
       "cultural_contributions": "Bridged Middle Eastern and American innovation cultures, making technology accessible globally"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Cynthia Breazeal",
@@ -6444,7 +6447,8 @@ const pioneers = [
         "Skepticism about unconventional research"
       ],
       "cultural_contributions": "Pioneered American leadership in social robotics and human-robot interaction"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Theresa Dankovich",
@@ -6630,7 +6634,8 @@ const pioneers = [
         "Skepticism about affordable solutions"
       ],
       "cultural_contributions": "Pioneered American leadership in humanitarian chemistry and affordable technology solutions"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Marion O'Brien Donovan",
@@ -7533,7 +7538,8 @@ const pioneers = [
         "Limited opportunities for women in industry"
       ],
       "cultural_contributions": "Pioneered American women's participation in mechanical invention and engineering"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Stephanie Kwolek",
@@ -7715,7 +7721,8 @@ const pioneers = [
         "Limited opportunities for women in science"
       ],
       "cultural_contributions": "Pioneered American women's participation in chemical research and materials science"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Alexis Lewis",
@@ -9651,7 +9658,8 @@ const pioneers = [
         "Limited opportunities for African American women"
       ],
       "cultural_contributions": "Pioneered African American women's entrepreneurship and business leadership"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Rita Levi-Montalcini",
@@ -9841,7 +9849,8 @@ const pioneers = [
         "Gender barriers in Italian science"
       ],
       "cultural_contributions": "Broke barriers for women and Jewish scientists in Italy and internationally"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Tu Youyou",
@@ -10027,7 +10036,8 @@ const pioneers = [
         "Proving traditional medicine to international community"
       ],
       "cultural_contributions": "Bridged traditional Chinese medicine with modern pharmaceutical research"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Valentina Tereshkova",
@@ -10213,7 +10223,8 @@ const pioneers = [
         "Working-class background vs. elite space program"
       ],
       "cultural_contributions": "Broke barriers for women in space exploration and inspired women worldwide"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Ellen Ochoa",
@@ -10399,7 +10410,8 @@ const pioneers = [
         "Stereotypes about Hispanic women in science"
       ],
       "cultural_contributions": "Broke barriers for Hispanic women in space exploration and became a role model for diversity in STEM"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Mae Jemison",
@@ -10585,7 +10597,8 @@ const pioneers = [
         "Racial and gender discrimination"
       ],
       "cultural_contributions": "Broke barriers for African American women in space exploration and became a role model for diversity in STEM"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Barbara McClintock",
@@ -10772,7 +10785,8 @@ const pioneers = [
         "Working in male-dominated field"
       ],
       "cultural_contributions": "Broke barriers for women in genetics and showed the importance of persistence in science"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Dorothy Vaughan",
@@ -10958,7 +10972,8 @@ const pioneers = [
         "Limited opportunities for African American women"
       ],
       "cultural_contributions": "Broke barriers for African American women in STEM and became a leader in computer programming"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Evelyn Boyd Granville",
@@ -11143,7 +11158,8 @@ const pioneers = [
         "Limited representation of African American women in mathematics"
       ],
       "cultural_contributions": "Broke barriers for African American women in mathematics and computer science"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Annie Easley",
@@ -11329,7 +11345,8 @@ const pioneers = [
         "Limited representation of African American women in STEM"
       ],
       "cultural_contributions": "Broke barriers for African American women in computer programming and aerospace"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Asima Chatterjee",
@@ -11516,7 +11533,8 @@ const pioneers = [
         "Limited opportunities for women in academia"
       ],
       "cultural_contributions": "Broke barriers for women in chemistry in India and bridged traditional and modern science"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Janaki Ammal",
@@ -11703,7 +11721,8 @@ const pioneers = [
         "Limited opportunities for women in academia"
       ],
       "cultural_contributions": "Broke barriers for women in botany in India and bridged traditional and modern plant science"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Ynes Mexia",
@@ -11889,7 +11908,8 @@ const pioneers = [
         "Gender barriers in both cultures"
       ],
       "cultural_contributions": "Bridged Mexican and American scientific communities and inspired women in both countries"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Sofia Kovalevskaya",
@@ -12075,7 +12095,8 @@ const pioneers = [
         "Limited opportunities for women in academia"
       ],
       "cultural_contributions": "Broke barriers for women in mathematics throughout Europe and inspired future generations"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Emmy Noether",
@@ -12235,7 +12256,8 @@ const pioneers = [
       ],
       "cultural_contributions": "Bridged German and American mathematical traditions, influenced generations of mathematicians"
     },
-    "legacy": "Emmy Noether's mathematical insights revolutionized both abstract algebra and theoretical physics. Her work on symmetry and conservation laws is fundamental to our understanding of the universe, from particle physics to cosmology. She opened doors for women in mathematics and inspired generations of mathematicians and physicists."
+    "legacy": "Emmy Noether's mathematical insights revolutionized both abstract algebra and theoretical physics. Her work on symmetry and conservation laws is fundamental to our understanding of the universe, from particle physics to cosmology. She opened doors for women in mathematics and inspired generations of mathematicians and physicists.",
+    "verified": true
   },
   {
     "name": "Lise Meitner",
@@ -12403,7 +12425,8 @@ const pioneers = [
       ],
       "cultural_contributions": "Bridged Austrian and Swedish scientific traditions, influenced nuclear physics worldwide"
     },
-    "legacy": "Lise Meitner's discovery of nuclear fission revolutionized physics and our understanding of atomic processes. Despite being denied the Nobel Prize, her work laid the foundation for nuclear power and medical applications. She opened doors for women in physics and demonstrated that women could make groundbreaking discoveries in nuclear science."
+    "legacy": "Lise Meitner's discovery of nuclear fission revolutionized physics and our understanding of atomic processes. Despite being denied the Nobel Prize, her work laid the foundation for nuclear power and medical applications. She opened doors for women in physics and demonstrated that women could make groundbreaking discoveries in nuclear science.",
+    "verified": true
   },
   {
     "name": "Françoise Barré-Sinoussi",
@@ -12580,7 +12603,8 @@ const pioneers = [
         "Working in male-dominated field"
       ],
       "cultural_contributions": "Advanced French virology research and influenced global health policy"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Gertrude Elion",
@@ -12759,7 +12783,8 @@ const pioneers = [
         "Religious discrimination"
       ],
       "cultural_contributions": "Advanced American pharmacology research and influenced drug development worldwide"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Rosalyn Yalow",
@@ -12939,7 +12964,8 @@ const pioneers = [
         "Religious discrimination"
       ],
       "cultural_contributions": "Advanced American medical physics research and influenced nuclear medicine worldwide"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Ida Noddack",
@@ -13117,7 +13143,8 @@ const pioneers = [
         "Working in male-dominated field"
       ],
       "cultural_contributions": "Advanced German analytical chemistry and influenced element discovery worldwide"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Radia Perlman",
@@ -13295,7 +13322,8 @@ const pioneers = [
         "Working in male-dominated field"
       ],
       "cultural_contributions": "Advanced American computer science and influenced Internet development worldwide"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Ada Yonath",
@@ -13473,7 +13501,8 @@ const pioneers = [
         "Gender discrimination in science"
       ],
       "cultural_contributions": "Advanced Israeli crystallography research and influenced molecular biology worldwide"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Cecilia Payne-Gaposchkin",
@@ -13651,7 +13680,8 @@ const pioneers = [
         "Working in male-dominated field"
       ],
       "cultural_contributions": "Bridged British and American astronomical traditions, influenced stellar astronomy worldwide"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Ellen Swallow Richards",
@@ -13828,7 +13858,8 @@ const pioneers = [
         "Limited opportunities for women in science"
       ],
       "cultural_contributions": "Established women's role in environmental science and public health"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Mina Rees",
@@ -14006,7 +14037,8 @@ const pioneers = [
         "Limited opportunities for women in STEM"
       ],
       "cultural_contributions": "Pioneered women's role in mathematics and computing, influenced generations of female mathematicians"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Maryam Mirzakhani",
@@ -14187,7 +14219,8 @@ const pioneers = [
         "Cultural barriers"
       ],
       "cultural_contributions": "Bridged Iranian and international mathematical traditions, inspired women worldwide in mathematics"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Maria Goeppert Mayer",
@@ -14714,7 +14747,8 @@ const pioneers = [
         "Underrepresentation of women in science"
       ],
       "cultural_contributions": "Role model for women and minorities in STEM."
-    }
+    },
+    "verified": true
   }
 ];
 
