@@ -7198,6 +7198,35 @@ const pioneers = [
       "cultural_contributions": "Bridged Austrian and Swedish scientific traditions, influenced nuclear physics worldwide"
     },
     "legacy": "Lise Meitner's discovery of nuclear fission revolutionized physics and our understanding of atomic processes. Despite being denied the Nobel Prize, her work laid the foundation for nuclear power and medical applications. She opened doors for women in physics and demonstrated that women could make groundbreaking discoveries in nuclear science."
+  },
+  {
+    "name": "Françoise Barré-Sinoussi",
+    "photo": "./images/francoise-barre-sinoussi.jpg",
+    "birthDate": "1947",
+    "country": "France",
+    "fields": [
+      "Virology",
+      "Immunology"
+    ],
+    "roles": [
+      "Virologist",
+      "Researcher"
+    ],
+    "quote": "Science is not about being the first, it's about being the best.",
+    "summary": "Nobel Prize-winning virologist who co-discovered HIV, the virus that causes AIDS.",
+    "shortDescription": "Françoise Barré-Sinoussi is a French virologist who co-discovered HIV, the virus that causes AIDS. She won the Nobel Prize in Physiology or Medicine for her groundbreaking work. Her research has been crucial to understanding and treating HIV/AIDS, saving millions of lives worldwide.",
+    "achievements": [
+      "Co-discovered HIV virus",
+      "Won Nobel Prize in Physiology or Medicine",
+      "Pioneered HIV/AIDS research",
+      "Led international HIV research programs"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi"
+      }
+    ]
   }
 ];
 
