@@ -2203,6 +2203,7 @@ body.light-theme .mobile-menu-toggle span {
   border-radius: 8px;
   border-left: 4px solid #ec4899;
   grid-row: 2;
+  margin-bottom: 12px;
 }
 
 .pioneer-short-description h4 {
@@ -3212,8 +3213,8 @@ body.light-theme .mobile-menu-toggle span {
   font-weight: 600;
   cursor: pointer;
   transition: all 0.2s ease;
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
