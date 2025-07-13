@@ -165,10 +165,15 @@ class PioneersApp {
    * @returns {string} - Fallback icon emoji character
    */
   getFallbackIcon(pioneer) {
-    // Check if IconMapping is available and working
+    // Prepare metadata for IconMapping
+    const meta = {
+      fields: pioneer.fields,
+      region: pioneer.region || pioneer.country,
+      birthYear: pioneer.birthYear || pioneer.birthDate
+    };
     if (typeof window !== 'undefined' && window.IconMapping && typeof window.IconMapping.getIconForPioneer === 'function') {
       try {
-        return window.IconMapping.getIconForPioneer(pioneer);
+        return window.IconMapping.getIconForPioneer(meta);
       } catch (error) {
         console.warn('IconMapping failed, using default fallback:', error);
       }
