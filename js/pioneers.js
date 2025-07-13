@@ -4376,6 +4376,9 @@ const pioneers = [
     "quote": "Whatever you needed to do, you had to make up for yourself, because there weren't products out there.",
     "summary": "Inventor of medical devices for premature infants, improving neonatal care.",
     "shortDescription": "Sharon Rogone is a nurse and inventor who created special medical devices for premature babies, making hospital care safer and more comfortable for the tiniest patients.",
+    "achievements": [],
+    "awards": [],
+    "publications": [],
     "references": [{"title": "Smithsonian Lemelson Center: Sharon Rogone","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
   },
   {
@@ -4389,6 +4392,9 @@ const pioneers = [
     "quote": "It's like opening another window in your life when you become involved in something creative and new.",
     "summary": "Inventor of instant cake and muffin mixes, making baking easier for everyone.",
     "shortDescription": "Charlotte Cramer Sachs was an inventor and entrepreneur who created instant cake and muffin mixes, helping busy families save time and enjoy delicious food.",
+    "achievements": [],
+    "awards": [],
+    "publications": [],
     "references": [{"title": "Smithsonian Lemelson Center: Charlotte Cramer Sachs","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
   },
   {
@@ -4401,6 +4407,9 @@ const pioneers = [
     "quote": "I told my dad I'd like to try it.",
     "summary": "Soapbox derby innovator and inventor, inspiring young engineers.",
     "shortDescription": "Laura Shepherd is an inventor and engineer who built and raced her own soapbox derby cars, showing that girls can be creative problem-solvers and engineers from a young age.",
+    "achievements": [],
+    "awards": [],
+    "publications": [],
     "references": [{"title": "Smithsonian Lemelson Center: Laura Shepherd","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
   },
   {
@@ -4413,6 +4422,9 @@ const pioneers = [
     "quote": "I really love pursuing things and doing things that make me feel creative.",
     "summary": "Inventor of FreshPaper, a product that keeps produce fresh and helps fight food waste.",
     "shortDescription": "Kavita Shukla is an inventor who created FreshPaper, a simple sheet that keeps fruits and vegetables fresh longer. Her invention helps reduce food waste and makes healthy food more accessible.",
+    "achievements": [],
+    "awards": [],
+    "publications": [],
     "references": [{"title": "Smithsonian Lemelson Center: Kavita Shukla","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
   },
   {
@@ -4425,6 +4437,9 @@ const pioneers = [
     "quote": "When I started in the '70s, female skateboarding was still taboo and I was the only girl at the skatepark. I had to block out negative comments and stand my ground.",
     "summary": "Pro skateboarder and inventor, advocate for girls in action sports.",
     "shortDescription": "Cindy Whitehead is a pro skateboarder and inventor who created products and a brand to support girls in action sports. She inspires girls to break barriers and follow their passions.",
+    "achievements": [],
+    "awards": [],
+    "publications": [],
     "references": [{"title": "Smithsonian Lemelson Center: Cindy Whitehead","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
   },
   {
@@ -4438,6 +4453,9 @@ const pioneers = [
     "quote": "[The Woman's Building] is the result of careful training in classical design and is the expression of what I liked and felt.",
     "summary": "First woman to receive an architecture degree from MIT, designer of the Woman's Building at the 1893 World's Columbian Exposition.",
     "shortDescription": "Sophia Hayden was the first woman to earn an architecture degree from MIT and designed the Woman's Building at the 1893 World's Fair, showing that women can lead in engineering and design.",
+    "achievements": [],
+    "awards": [],
+    "publications": [],
     "references": [{"title": "Smithsonian Lemelson Center: Sophia Hayden","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
   },
   {
@@ -4451,6 +4469,9 @@ const pioneers = [
     "quote": "Don't sit down and wait for the opportunities to come . . . get up and make them!",
     "summary": "Pioneer of modern African American hair care and cosmetics, inventor and entrepreneur.",
     "shortDescription": "Madam C. J. Walker was an inventor and entrepreneur who created a successful line of hair care products for African American women, becoming one of the first self-made female millionaires in the U.S.",
+    "achievements": [],
+    "awards": [],
+    "publications": [],
     "references": [{"title": "Smithsonian Lemelson Center: Madam C. J. Walker","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
   }
 ];
