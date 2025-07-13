@@ -469,94 +469,11 @@ const pioneers = [
     roles: ["Physicist", "Professor"],
     quote: "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
     summary: "Experimental physicist known as the 'First Lady of Physics' for her work on the Manhattan Project and parity violation.",
-    shortDescription: "Chien-Shiung Wu was called the 'First Lady of Physics' for her brilliant experimental work. She helped develop the atomic bomb during World War II, but her most important discovery was proving that the universe is not symmetrical - a finding that changed physics forever. Despite facing discrimination as a Chinese woman in American science, she became one of the most respected physicists of her time.",
-    detailed_description: {
-      early_life: "Born in 1912 in China, Chien-Shiung showed exceptional talent in mathematics and science. She attended university in China before coming to the United States for graduate studies.",
-      stem_journey: "Chien-Shiung earned her Ph.D. from the University of California, Berkeley in 1940. She worked on the Manhattan Project during World War II and later conducted groundbreaking experiments on parity violation.",
-      challenges: "Faced discrimination as a Chinese woman in American physics. She was often overlooked for awards and recognition that went to her male colleagues, even when she did the experimental work.",
-      achievements: "Conducted the famous Wu experiment that proved parity violation, helping two male colleagues win the Nobel Prize. She also worked on the Manhattan Project and made important contributions to nuclear physics.",
-      legacy: "Chien-Shiung's experimental work was crucial to understanding the fundamental nature of the universe. She remains an inspiration for women in physics."
-    },
     achievements: [
       "Conducted the Wu experiment proving parity violation",
       "Worked on the Manhattan Project",
-      "Called the 'First Lady of Physics'",
-      "Pioneering research in nuclear physics"
-    ],
-    awards: [
-      "National Medal of Science",
-      "Wolf Prize in Physics",
-      "Elected to National Academy of Sciences"
-    ],
-    publications: [
-      { title: "Beta Decay", year: 1965 }
-    ],
-    education: [
-      { degree: "Ph.D.", field: "Physics", institution: "University of California, Berkeley" }
-    ],
-    timeline: [
-      { year: 1940, event: "Earned Ph.D. from UC Berkeley" },
-      { year: 1944, event: "Joined Manhattan Project" },
-      { year: 1956, event: "Conducted Wu experiment" },
-      { year: 1975, event: "Became first female president of American Physical Society" }
-    ],
-    barriers: [
-      "Gender discrimination in physics",
-      "Racial discrimination as a Chinese woman",
-      "Overlooked for Nobel Prize despite crucial experimental work"
-    ],
-    impact: "Her experimental work fundamentally changed our understanding of the universe and opened doors for women in physics.",
-    media: [
-      { type: "article", title: "The First Lady of Physics", url: "https://www.aps.org/publications/apsnews/201612/wu.cfm" }
-    ],
-    references: [
-      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Chien-Shiung_Wu" },
-      { title: "APS News", url: "https://www.aps.org/publications/apsnews/201612/wu.cfm" }
-    ],
-    mentorship: "Mentored many students and advocated for women in physics.",
-    fun_fact: "Chien-Shiung was called the 'Chinese Madame Curie' by her colleagues.",
-    
-    career_path: {
-      first_job: "Research physicist at Princeton University",
-      career_highlights: ["Led groundbreaking experiments", "Became first female president of American Physical Society"],
-      advice_for_students: "Focus on doing excellent work and don't let discrimination discourage you. Your contributions to science will speak for themselves."
-    },
-    student_resources: {
-      books_for_students: ["Madame Wu Chien-Shiung: The First Lady of Physics", "Physics textbooks"],
-      websites: ["aps.org", "physics.org", "womeninphysics.org"],
-      programs: ["Physics summer programs", "Women in STEM initiatives"],
-      advice: "Develop strong experimental skills and don't be afraid to challenge established theories."
-    },
-    challenges: {
-      academic: ["Gender discrimination in physics", "Racial discrimination as a Chinese woman"],
-      professional: ["Overlooked for awards and recognition", "Limited opportunities for women in physics"],
-      personal: ["Balancing family with demanding research career"],
-      how_overcame: "Focused on excellence in her experimental work and built a reputation for reliable, groundbreaking research"
-    },
-    education_details: {
-      high_school: "Excelled in mathematics and science",
-      college_major: "Physics",
-      graduate_school: "Ph.D. in Physics from UC Berkeley",
-      key_courses: ["Physics", "Mathematics", "Experimental Methods", "Nuclear Physics"],
-      study_tips: "Develop strong experimental skills and attention to detail"
-    },
-    modern_impact: {
-      current_applications: "Her work on parity violation influences modern particle physics research",
-      companies_using_her_work: ["Research institutions", "Particle accelerators", "Physics laboratories"],
-      future_implications: "Understanding of fundamental physics continues to build on her experimental work"
-    },
-    personal_info: {
-      early_interests: ["Physics", "Mathematics", "Experimental science", "Nuclear physics"],
-      family_background: "Chinese family emphasizing education and science",
-      hobbies: ["Experimental physics", "Teaching", "Reading scientific literature"],
-      personality_traits: ["Precise", "Determined", "Intelligent", "Meticulous"]
-    },
-    cultural_background: {
-      heritage: "Chinese and American scientific traditions",
-      cultural_influences: ["Chinese educational tradition", "American physics community", "World War II scientific advancement"],
-      cultural_challenges: ["Anti-Chinese discrimination in America", "Gender barriers in physics", "Cultural adaptation to American science"],
-      cultural_contributions: "Bridged Chinese and American scientific traditions, showing how diverse perspectives strengthen physics research"
-    }
+      "Called the 'First Lady of Physics'"
+    ]
   },
   {
     name: "Rachel Carson",
@@ -1481,7 +1398,150 @@ const pioneers = [
       "Studied early universe physics",
       "Advocate for women in physics"
     ]
-  }
+  },
+  {
+    name: "Alice Ball",
+    photo: "./images/alice-ball.svg",
+    birthDate: "1892",
+    deathDate: "1916",
+    country: "United States",
+    fields: ["Chemistry", "Medicine"],
+    roles: ["Chemist", "Researcher"],
+    quote: "I have always tried to do what I could to help others.",
+    summary: "First African American woman to receive a master's degree from University of Hawaii and developed treatment for leprosy.",
+    achievements: [
+      "Developed leprosy treatment",
+      "First African American woman with master's from UH",
+      "Pioneered chaulmoogra oil extraction"
+    ]
+  },
+  {
+    name: "Stephanie Kwolek",
+    photo: "./images/stephanie-kwolek.svg",
+    birthDate: "1923",
+    deathDate: "2014",
+    country: "United States",
+    fields: ["Chemistry", "Engineering"],
+    roles: ["Chemist", "Inventor"],
+    quote: "I was fortunate that I was working under a man who was very much interested in making new discoveries.",
+    summary: "Invented Kevlar, the lightweight, bullet-resistant fiber used in protective gear and many other applications.",
+    achievements: [
+      "Invented Kevlar fiber",
+      "Developed bullet-resistant materials",
+      "Inducted into National Inventors Hall of Fame"
+    ]
+  },
+  {
+    name: "Maria Goeppert-Mayer",
+    photo: "./images/maria-goeppert-mayer.svg",
+    birthDate: "1906",
+    deathDate: "1972",
+    country: "Germany/United States",
+    fields: ["Physics"],
+    roles: ["Physicist", "Professor"],
+    quote: "Mathematics began to seem too much like puzzle solving.",
+    summary: "Nobel Prize-winning physicist who developed the nuclear shell model.",
+    achievements: [
+      "Nobel Prize in Physics (1963)",
+      "Developed nuclear shell model",
+      "Second woman to win Nobel Prize in Physics"
+    ]
+  },
+  {
+    name: "Rita Levi-Montalcini",
+    photo: "./images/rita-levi-montalcini.svg",
+    birthDate: "1909",
+    deathDate: "2012",
+    country: "Italy",
+    fields: ["Biology", "Neuroscience"],
+    roles: ["Neurobiologist", "Professor"],
+    quote: "Above all, don't fear difficult moments. The best comes from them.",
+    summary: "Nobel Prize-winning neurobiologist who discovered nerve growth factor.",
+    achievements: [
+      "Nobel Prize in Physiology or Medicine (1986)",
+      "Discovered nerve growth factor",
+      "Pioneered research in neurobiology"
+    ]
+  },
+  {
+    name: "Jocelyn Bell Burnell",
+    photo: "./images/jocelyn-bell-burnell.svg",
+    birthDate: "1943",
+    country: "United Kingdom",
+    fields: ["Astronomy", "Physics"],
+    roles: ["Astrophysicist", "Professor"],
+    quote: "I am not myself a believer, but I feel that if God is anywhere, he is in the stars.",
+    summary: "Discovered pulsars as a graduate student, though Nobel Prize went to her supervisor.",
+    achievements: [
+      "Discovered first pulsar",
+      "Pioneered radio astronomy",
+      "Advocate for women in physics"
+    ]
+  },
+  {
+    name: "Henrietta Swan Leavitt",
+    photo: "./images/henrietta-leavitt.svg",
+    birthDate: "1868",
+    deathDate: "1921",
+    country: "United States",
+    fields: ["Astronomy"],
+    roles: ["Astronomer", "Scientist"],
+    quote: "The more I study the heavens, the more I am convinced that they are the work of a supreme intelligence.",
+    summary: "Discovered the period-luminosity relationship for Cepheid variables, enabling measurement of cosmic distances.",
+    achievements: [
+      "Discovered Cepheid variable period-luminosity relationship",
+      "Enabled measurement of cosmic distances",
+      "Work led to discovery of universe expansion"
+    ]
+  },
+  {
+    name: "Annie Jump Cannon",
+    photo: "./images/annie-jump-cannon.svg",
+    birthDate: "1863",
+    deathDate: "1941",
+    country: "United States",
+    fields: ["Astronomy"],
+    roles: ["Astronomer", "Scientist"],
+    quote: "I am the only person, man or woman, who has ever done this kind of work.",
+    summary: "Pioneering astronomer who classified hundreds of thousands of stars and developed the stellar classification system.",
+    achievements: [
+      "Classified over 350,000 stars",
+      "Developed stellar classification system",
+      "First woman to receive honorary doctorate from Oxford"
+    ]
+  },
+  {
+    name: "Cecilia Payne-Gaposchkin",
+    photo: "./images/cecilia-payne-gaposchkin.svg",
+    birthDate: "1900",
+    deathDate: "1979",
+    country: "United Kingdom/United States",
+    fields: ["Astronomy", "Physics"],
+    roles: ["Astronomer", "Professor"],
+    quote: "The reward of the young scientist is the emotional thrill of being the first person in the history of the world to see something or to understand something.",
+    summary: "First person to discover that stars are made primarily of hydrogen and helium.",
+    achievements: [
+      "Discovered stars are made of hydrogen and helium",
+      "First woman to head Harvard astronomy department",
+      "Pioneered stellar spectroscopy"
+    ]
+  },
+  {
+    name: "Margaret Burbidge",
+    photo: "./images/margaret-burbidge.svg",
+    birthDate: "1919",
+    deathDate: "2020",
+    country: "United Kingdom/United States",
+    fields: ["Astronomy", "Physics"],
+    roles: ["Astronomer", "Professor"],
+    quote: "I was told that women could not be astronomers. I found that hard to believe.",
+    summary: "Pioneering astronomer who discovered how elements are formed in stars and fought for women's access to telescopes.",
+    achievements: [
+      "Discovered stellar nucleosynthesis",
+      "Fought for women's telescope access",
+      "First woman to serve as American Astronomical Society president"
+    ]
+  },
 ];
 
 // Remove duplicates by name
