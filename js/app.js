@@ -326,56 +326,19 @@ class PioneersApp {
       </div>
 
       <div class="expandable-content">
-        <div class="expandable-section">
-          <h4>Timeline</h4>
-          ${this.createTimelineContent(pioneer)}
-        </div>
-        
-        <div class="expandable-section">
-          <h4>Major Achievements</h4>
-          <ul>
-            ${(pioneer.achievements || []).map(achievement => `<li>${achievement}</li>`).join("")}
-          </ul>
-        </div>
-        
-        ${pioneer.fun_fact && pioneer.fun_fact.trim() ? `
-        <div class="expandable-section">
-          <h4>Fun Fact</h4>
-          <p>${pioneer.fun_fact}</p>
-        </div>
-        ` : ''}
-        
-        ${pioneer.education_details ? `
-        <div class="expandable-section">
-          <h4>Education & Career Path</h4>
-          <p><strong>Key Courses:</strong> ${pioneer.education_details.key_courses?.join(", ") || "Not specified"}</p>
-          <p><strong>Career Advice:</strong> ${pioneer.career_path?.advice_for_students || "Follow your passion and curiosity"}</p>
-        </div>
-        ` : ''}
-        
-        <div class="expandable-section">
-          <h4>Follow in Her Footsteps</h4>
-          <p>${this.getStudyPath(pioneer)}</p>
-        </div>
-        
-        <div class="expandable-section">
-          <h4>Legacy</h4>
-          <p>${pioneer.legacy || "Her work continues to inspire future generations of scientists and researchers."}</p>
-        </div>
-        
-        ${pioneer.references && pioneer.references.length > 0 ? `
-        <div class="expandable-section">
-          <h4>More Resources</h4>
-          <div class="reference-links">
-            ${pioneer.references.map(ref => `
-              <a href="${ref.url}" target="_blank" rel="noopener" class="reference-link">
-                <span>${ref.title || 'Learn More'}</span>
-                <span class="link-icon">↗</span>
-              </a>
-            `).join("")}
-          </div>
-        </div>
-        ` : ''}
+        ${this.createCollapsibleSection("🏠 Early Life & Journey", this.createEarlyLifeContent(pioneer))}
+        ${this.createCollapsibleSection("🚀 STEM Journey", this.createStemJourneyContent(pioneer))}
+        ${this.createCollapsibleSection("⚡ Challenges Overcome", this.createChallengesContent(pioneer))}
+        ${this.createCollapsibleSection("🎓 Education Path", this.createEducationContent(pioneer))}
+        ${this.createCollapsibleSection("💼 Career Highlights", this.createCareerContent(pioneer))}
+        ${this.createCollapsibleSection("📚 Student Resources", this.createStudentResourcesContent(pioneer))}
+        ${this.createCollapsibleSection("🌍 Cultural Background", this.createCulturalContent(pioneer))}
+        ${this.createCollapsibleSection("🔬 Modern Impact", this.createModernImpactContent(pioneer))}
+        ${this.createCollapsibleSection("📖 Publications", this.createPublicationsContent(pioneer))}
+        ${this.createCollapsibleSection("🏆 Awards & Recognition", this.createAwardsContent(pioneer))}
+        ${this.createCollapsibleSection("⏰ Timeline", this.createTimelineContent(pioneer))}
+        ${this.createCollapsibleSection("💡 Fun Facts", this.createFunFactsContent(pioneer))}
+        ${this.createCollapsibleSection("🔗 More Resources", this.createResourcesContent(pioneer))}
       </div>
     `;
 
@@ -670,6 +633,414 @@ class PioneersApp {
         <span class="timeline-event">${item.event}</span>
       </div>
     `).join("");
+  }
+
+  // Helper method to create collapsible sections
+  createCollapsibleSection(title, content) {
+    if (!content || content.trim() === '') {
+      return '';
+    }
+    
+    return `
+      <div class="collapsible-section">
+        <button class="section-toggle" onclick="window.pioneersApp.toggleSection(this)">
+          <span class="section-title">${title}</span>
+          <span class="toggle-icon">▼</span>
+        </button>
+        <div class="section-content" style="display: none;">
+          ${content}
+        </div>
+      </div>
+    `;
+  }
+
+  // Toggle section visibility
+  toggleSection(button) {
+    const section = button.closest('.collapsible-section');
+    const content = section.querySelector('.section-content');
+    const icon = button.querySelector('.toggle-icon');
+    
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      icon.textContent = '▲';
+      button.classList.add('expanded');
+    } else {
+      content.style.display = 'none';
+      icon.textContent = '▼';
+      button.classList.remove('expanded');
+    }
+  }
+
+  // Content creation methods
+  createEarlyLifeContent(pioneer) {
+    const earlyLife = pioneer.detailed_description?.early_life;
+    const personalInfo = pioneer.personal_info;
+    
+    if (!earlyLife && !personalInfo) return '';
+    
+    let content = '';
+    if (earlyLife) {
+      content += `<p><strong>Early Life:</strong> ${earlyLife}</p>`;
+    }
+    
+    if (personalInfo) {
+      if (personalInfo.early_interests) {
+        content += `<p><strong>Early Interests:</strong> ${personalInfo.early_interests.join(', ')}</p>`;
+      }
+      if (personalInfo.family_background) {
+        content += `<p><strong>Family Background:</strong> ${personalInfo.family_background}</p>`;
+      }
+    }
+    
+    return content;
+  }
+
+  createStemJourneyContent(pioneer) {
+    const stemJourney = pioneer.detailed_description?.stem_journey;
+    const achievements = pioneer.achievements;
+    
+    if (!stemJourney && !achievements) return '';
+    
+    let content = '';
+    if (stemJourney) {
+      content += `<p><strong>STEM Journey:</strong> ${stemJourney}</p>`;
+    }
+    
+    if (achievements && achievements.length > 0) {
+      content += `<p><strong>Major Achievements:</strong></p><ul>`;
+      achievements.forEach(achievement => {
+        content += `<li>${achievement}</li>`;
+      });
+      content += `</ul>`;
+    }
+    
+    return content;
+  }
+
+  createChallengesContent(pioneer) {
+    const challenges = pioneer.detailed_description?.challenges;
+    const barriers = pioneer.barriers;
+    const challengesDetails = pioneer.challenges;
+    
+    if (!challenges && !barriers && !challengesDetails) return '';
+    
+    let content = '';
+    if (challenges) {
+      content += `<p><strong>Challenges:</strong> ${challenges}</p>`;
+    }
+    
+    if (barriers && barriers.length > 0) {
+      content += `<p><strong>Barriers Faced:</strong></p><ul>`;
+      barriers.forEach(barrier => {
+        content += `<li>${barrier}</li>`;
+      });
+      content += `</ul>`;
+    }
+    
+    if (challengesDetails) {
+      if (challengesDetails.academic && challengesDetails.academic.length > 0) {
+        content += `<p><strong>Academic Challenges:</strong></p><ul>`;
+        challengesDetails.academic.forEach(challenge => {
+          content += `<li>${challenge}</li>`;
+        });
+        content += `</ul>`;
+      }
+      
+      if (challengesDetails.professional && challengesDetails.professional.length > 0) {
+        content += `<p><strong>Professional Challenges:</strong></p><ul>`;
+        challengesDetails.professional.forEach(challenge => {
+          content += `<li>${challenge}</li>`;
+        });
+        content += `</ul>`;
+      }
+      
+      if (challengesDetails.how_overcame) {
+        content += `<p><strong>How She Overcame:</strong> ${challengesDetails.how_overcame}</p>`;
+      }
+    }
+    
+    return content;
+  }
+
+  createEducationContent(pioneer) {
+    const education = pioneer.education;
+    const educationDetails = pioneer.education_details;
+    
+    if (!education && !educationDetails) return '';
+    
+    let content = '';
+    
+    if (education && education.length > 0) {
+      content += `<p><strong>Education:</strong></p><ul>`;
+      education.forEach(edu => {
+        content += `<li>${edu.degree} in ${edu.field} from ${edu.institution}</li>`;
+      });
+      content += `</ul>`;
+    }
+    
+    if (educationDetails) {
+      if (educationDetails.high_school) {
+        content += `<p><strong>High School:</strong> ${educationDetails.high_school}</p>`;
+      }
+      if (educationDetails.college_major) {
+        content += `<p><strong>College Major:</strong> ${educationDetails.college_major}</p>`;
+      }
+      if (educationDetails.key_courses && educationDetails.key_courses.length > 0) {
+        content += `<p><strong>Key Courses:</strong> ${educationDetails.key_courses.join(', ')}</p>`;
+      }
+      if (educationDetails.study_tips) {
+        content += `<p><strong>Study Tips:</strong> ${educationDetails.study_tips}</p>`;
+      }
+    }
+    
+    return content;
+  }
+
+  createCareerContent(pioneer) {
+    const careerPath = pioneer.career_path;
+    const timeline = pioneer.timeline;
+    
+    if (!careerPath && !timeline) return '';
+    
+    let content = '';
+    
+    if (careerPath) {
+      if (careerPath.first_job) {
+        content += `<p><strong>First Job:</strong> ${careerPath.first_job}</p>`;
+      }
+      if (careerPath.career_highlights && careerPath.career_highlights.length > 0) {
+        content += `<p><strong>Career Highlights:</strong></p><ul>`;
+        careerPath.career_highlights.forEach(highlight => {
+          content += `<li>${highlight}</li>`;
+        });
+        content += `</ul>`;
+      }
+      if (careerPath.advice_for_students) {
+        content += `<p><strong>Career Advice:</strong> ${careerPath.advice_for_students}</p>`;
+      }
+    }
+    
+    if (timeline && timeline.length > 0) {
+      content += `<p><strong>Key Timeline:</strong></p>`;
+      content += timeline.map(item => `
+        <div class="timeline-item">
+          <span class="timeline-year">${item.year}</span>
+          <span class="timeline-event">${item.event}</span>
+        </div>
+      `).join("");
+    }
+    
+    return content;
+  }
+
+  createStudentResourcesContent(pioneer) {
+    const studentResources = pioneer.student_resources;
+    const mentorship = pioneer.mentorship;
+    
+    if (!studentResources && !mentorship) return '';
+    
+    let content = '';
+    
+    if (studentResources) {
+      if (studentResources.books_for_students && studentResources.books_for_students.length > 0) {
+        content += `<p><strong>📚 Books for Students:</strong></p><ul>`;
+        studentResources.books_for_students.forEach(book => {
+          content += `<li>${book}</li>`;
+        });
+        content += `</ul>`;
+      }
+      
+      if (studentResources.websites && studentResources.websites.length > 0) {
+        content += `<p><strong>🌐 Websites:</strong></p><ul>`;
+        studentResources.websites.forEach(site => {
+          content += `<li><a href="https://${site}" target="_blank" rel="noopener">${site}</a></li>`;
+        });
+        content += `</ul>`;
+      }
+      
+      if (studentResources.programs && studentResources.programs.length > 0) {
+        content += `<p><strong>🎓 Programs:</strong></p><ul>`;
+        studentResources.programs.forEach(program => {
+          content += `<li>${program}</li>`;
+        });
+        content += `</ul>`;
+      }
+      
+      if (studentResources.advice) {
+        content += `<p><strong>💡 Advice:</strong> ${studentResources.advice}</p>`;
+      }
+    }
+    
+    if (mentorship) {
+      content += `<p><strong>🤝 Mentorship:</strong> ${mentorship}</p>`;
+    }
+    
+    return content;
+  }
+
+  createCulturalContent(pioneer) {
+    const culturalBackground = pioneer.cultural_background;
+    const personalInfo = pioneer.personal_info;
+    
+    if (!culturalBackground && !personalInfo) return '';
+    
+    let content = '';
+    
+    if (culturalBackground) {
+      if (culturalBackground.heritage) {
+        content += `<p><strong>Heritage:</strong> ${culturalBackground.heritage}</p>`;
+      }
+      if (culturalBackground.cultural_influences && culturalBackground.cultural_influences.length > 0) {
+        content += `<p><strong>Cultural Influences:</strong> ${culturalBackground.cultural_influences.join(', ')}</p>`;
+      }
+      if (culturalBackground.cultural_challenges && culturalBackground.cultural_challenges.length > 0) {
+        content += `<p><strong>Cultural Challenges:</strong></p><ul>`;
+        culturalBackground.cultural_challenges.forEach(challenge => {
+          content += `<li>${challenge}</li>`;
+        });
+        content += `</ul>`;
+      }
+      if (culturalBackground.cultural_contributions) {
+        content += `<p><strong>Cultural Contributions:</strong> ${culturalBackground.cultural_contributions}</p>`;
+      }
+    }
+    
+    if (personalInfo) {
+      if (personalInfo.personality_traits && personalInfo.personality_traits.length > 0) {
+        content += `<p><strong>Personality Traits:</strong> ${personalInfo.personality_traits.join(', ')}</p>`;
+      }
+      if (personalInfo.hobbies && personalInfo.hobbies.length > 0) {
+        content += `<p><strong>Hobbies:</strong> ${personalInfo.hobbies.join(', ')}</p>`;
+      }
+    }
+    
+    return content;
+  }
+
+  createModernImpactContent(pioneer) {
+    const modernImpact = pioneer.modern_impact;
+    const impact = pioneer.impact;
+    const legacy = pioneer.detailed_description?.legacy;
+    
+    if (!modernImpact && !impact && !legacy) return '';
+    
+    let content = '';
+    
+    if (modernImpact) {
+      if (modernImpact.current_applications) {
+        content += `<p><strong>Current Applications:</strong> ${modernImpact.current_applications}</p>`;
+      }
+      if (modernImpact.companies_using_her_work && modernImpact.companies_using_her_work.length > 0) {
+        content += `<p><strong>Companies Using Her Work:</strong></p><ul>`;
+        modernImpact.companies_using_her_work.forEach(company => {
+          content += `<li>${company}</li>`;
+        });
+        content += `</ul>`;
+      }
+      if (modernImpact.future_implications) {
+        content += `<p><strong>Future Implications:</strong> ${modernImpact.future_implications}</p>`;
+      }
+    }
+    
+    if (impact) {
+      content += `<p><strong>Impact:</strong> ${impact}</p>`;
+    }
+    
+    if (legacy) {
+      content += `<p><strong>Legacy:</strong> ${legacy}</p>`;
+    }
+    
+    return content;
+  }
+
+  createPublicationsContent(pioneer) {
+    const publications = pioneer.publications;
+    
+    if (!publications || publications.length === 0) return '';
+    
+    let content = '<ul>';
+    publications.forEach(pub => {
+      content += `<li>`;
+      if (pub.title) {
+        content += `<strong>${pub.title}</strong>`;
+      }
+      if (pub.year) {
+        content += ` (${pub.year})`;
+      }
+      if (pub.url) {
+        content += ` <a href="${pub.url}" target="_blank" rel="noopener">[Link]</a>`;
+      }
+      content += `</li>`;
+    });
+    content += '</ul>';
+    
+    return content;
+  }
+
+  createAwardsContent(pioneer) {
+    const awards = pioneer.awards;
+    
+    if (!awards || awards.length === 0) return '';
+    
+    let content = '<ul>';
+    awards.forEach(award => {
+      content += `<li>${award}</li>`;
+    });
+    content += '</ul>';
+    
+    return content;
+  }
+
+  createFunFactsContent(pioneer) {
+    const funFact = pioneer.fun_fact;
+    const personalInfo = pioneer.personal_info;
+    
+    if (!funFact && !personalInfo) return '';
+    
+    let content = '';
+    
+    if (funFact) {
+      content += `<p><strong>Fun Fact:</strong> ${funFact}</p>`;
+    }
+    
+    if (personalInfo && personalInfo.early_interests && personalInfo.early_interests.length > 0) {
+      content += `<p><strong>Early Interests:</strong> ${personalInfo.early_interests.join(', ')}</p>`;
+    }
+    
+    return content;
+  }
+
+  createResourcesContent(pioneer) {
+    const references = pioneer.references;
+    const media = pioneer.media;
+    
+    if (!references && !media) return '';
+    
+    let content = '';
+    
+    if (references && references.length > 0) {
+      content += `<p><strong>References:</strong></p><div class="reference-links">`;
+      references.forEach(ref => {
+        content += `<a href="${ref.url}" target="_blank" rel="noopener" class="reference-link">
+          <span>${ref.title || 'Learn More'}</span>
+          <span class="link-icon">↗</span>
+        </a>`;
+      });
+      content += `</div>`;
+    }
+    
+    if (media && media.length > 0) {
+      content += `<p><strong>Media:</strong></p><div class="reference-links">`;
+      media.forEach(item => {
+        content += `<a href="${item.url}" target="_blank" rel="noopener" class="reference-link">
+          <span>${item.title || 'Learn More'}</span>
+          <span class="link-icon">↗</span>
+        </a>`;
+      });
+      content += `</div>`;
+    }
+    
+    return content;
   }
 }
 
