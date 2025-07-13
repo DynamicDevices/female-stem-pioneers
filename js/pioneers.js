@@ -357,17 +357,16 @@ const pioneers = [
       "early_life": "Born in New York City, Grace showed exceptional mathematical ability from an early age. She was curious about how things worked and often took apart household items to understand their mechanisms.",
       "stem_journey": "Grace earned her PhD in mathematics from Yale University in 1934, one of only a few women with doctorates in mathematics at the time. She joined the Navy during World War II and worked on the Harvard Mark I computer.",
       "challenges": "Faced gender discrimination in both academia and the military. She was often the only woman in her technical teams and had to prove herself repeatedly in male-dominated environments.",
-      "achievements": "Developed the first compiler, invented COBOL programming language, and became the first woman to reach the rank of Rear Admiral in the U.S. Navy.",
+      "achievements": "Developed the first compiler, led development of COBOL programming language, and became the first woman to reach the rank of Rear Admiral in the U.S. Navy.",
       "legacy": "Revolutionized computer programming and paved the way for women in computer science and the military. Her work made computers accessible to non-technical users."
     },
     "achievements": [
       "Developed first computer compiler",
-      "Invented COBOL programming language",
-      "First woman to receive National Medal of Technology"
+      "Led development of COBOL programming language",
+      "Received National Medal of Technology"
     ],
     "awards": [
       "National Medal of Technology (1991)",
-      "Presidential Medal of Freedom (2016, posthumous)",
       "IEEE Computer Society Pioneer Award (1980)"
     ],
     "education": [
@@ -529,7 +528,8 @@ const pioneers = [
         "Being a pioneer in computer science"
       ],
       "cultural_contributions": "Bridged military service with technological innovation, showing how women can excel in both technical and leadership roles"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Rosalind Franklin",
