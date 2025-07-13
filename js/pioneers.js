@@ -411,17 +411,159 @@ const pioneers = [
     "quote": "The brains of people are more interesting than the looks I think.",
     "summary": "Hollywood actress and inventor who co-developed frequency-hopping spread spectrum technology used in modern wireless communications.",
     "shortDescription": "Hedy Lamarr was a Hollywood actress and inventor who co-developed frequency-hopping spread spectrum technology used in modern wireless communications. Her invention, which predates modern WiFi and Bluetooth, laid the groundwork for secure communication systems. Despite being known primarily for her acting career, her technological contributions have had a lasting impact on modern communication technology.",
+    "detailed_description": {
+      "early_life": "Born in Vienna, Austria, Hedy showed early interest in science and technology. She was fascinated by how things worked and often took apart household items to understand their mechanisms.",
+      "stem_journey": "While working in Hollywood, Hedy continued her scientific interests. During World War II, she collaborated with composer George Antheil to develop frequency-hopping technology to prevent enemy interception of radio-controlled torpedoes.",
+      "challenges": "Faced skepticism as a woman inventor and actress. Her scientific contributions were often overlooked because of her Hollywood career. She struggled to get recognition for her technical innovations.",
+      "achievements": "Co-invented frequency-hopping spread spectrum technology that became the foundation for modern wireless communications including WiFi, Bluetooth, and GPS.",
+      "legacy": "Her invention revolutionized wireless communication and continues to impact modern technology. She proved that creativity spans across different fields."
+    },
     "achievements": [
       "Co-invented frequency-hopping spread spectrum",
       "Technology used in Bluetooth and WiFi",
       "Inducted into National Inventors Hall of Fame"
     ],
+    "awards": [
+      "National Inventors Hall of Fame (2014)",
+      "Electronic Frontier Foundation Pioneer Award (1997)"
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Engineering and Technology",
+        "institution": "Independent Study"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1942,
+        "event": "Co-invented frequency-hopping spread spectrum technology"
+      },
+      {
+        "year": 1997,
+        "event": "Received Electronic Frontier Foundation Pioneer Award"
+      },
+      {
+        "year": 2014,
+        "event": "Posthumously inducted into National Inventors Hall of Fame"
+      }
+    ],
+    "barriers": [
+      "Faced skepticism as a woman inventor",
+      "Scientific contributions overlooked due to acting career",
+      "Gender bias in engineering and technology fields"
+    ],
+    "impact": "Her frequency-hopping invention became the foundation for modern wireless communications including WiFi, Bluetooth, and GPS systems.",
+    "media": [
+      {
+        "type": "documentary",
+        "title": "Bombshell: The Hedy Lamarr Story",
+        "url": "https://www.imdb.com/title/tt7282468/"
+      }
+    ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+      },
+      {
+        "title": "National Inventors Hall of Fame",
+        "url": "https://www.invent.org/inductees/hedy-lamarr"
       }
-    ]
+    ],
+    "mentorship": "Inspired women to pursue both creative and technical careers, showing that interests can span multiple fields.",
+    "fun_fact": "Hedy Lamarr was also a Hollywood actress who appeared in over 30 films, including the controversial 'Ecstasy' which made her famous.",
+    "career_path": {
+      "first_job": "Actress in European films",
+      "career_highlights": [
+        "Successful Hollywood acting career",
+        "Co-invented frequency-hopping technology",
+        "Pioneered wireless communication technology"
+      ],
+      "advice_for_students": "Don't let others define you by one aspect of your life. You can be interested in both arts and sciences. Follow your curiosity wherever it leads."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Hedy's Folly: The Life and Breakthrough Inventions of Hedy Lamarr",
+        "The Only Woman in the Room by Marie Benedict"
+      ],
+      "websites": [
+        "invent.org",
+        "womeninventors.org",
+        "ieee.org"
+      ],
+      "programs": [
+        "Women in Engineering programs",
+        "Invention and innovation camps",
+        "STEM and arts integration programs"
+      ],
+      "advice": "Explore both technical and creative interests. Innovation often happens at the intersection of different fields."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal engineering education"
+      ],
+      "professional": [
+        "Gender bias in engineering and invention",
+        "Skepticism about women inventors"
+      ],
+      "personal": [
+        "Balancing acting career with scientific interests",
+        "Getting recognition for technical contributions"
+      ],
+      "how_overcame": "Used her fame to access resources and continued pursuing her scientific interests despite skepticism"
+    },
+    "education_details": {
+      "high_school": "Attended school in Vienna",
+      "college_major": "Self-taught in engineering and technology",
+      "key_courses": [
+        "Independent study of radio technology",
+        "Self-directed learning in engineering"
+      ],
+      "study_tips": "Combine different interests and don't be afraid to learn outside traditional educational paths"
+    },
+    "modern_impact": {
+      "current_applications": "Her frequency-hopping technology is used in WiFi, Bluetooth, GPS, and military communications",
+      "companies_using_her_work": [
+        "All major technology companies",
+        "Telecommunications companies",
+        "Military and defense contractors"
+      ],
+      "future_implications": "Her work continues to influence secure wireless communication and 5G technology"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Science and technology",
+        "Acting and performing",
+        "Understanding how things work"
+      ],
+      "family_background": "Born to Jewish parents in Vienna",
+      "hobbies": [
+        "Inventing and tinkering",
+        "Acting and performing",
+        "Studying technology"
+      ],
+      "personality_traits": [
+        "Creative",
+        "Innovative",
+        "Determined",
+        "Multi-talented"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Austrian Jewish heritage",
+      "cultural_influences": [
+        "Viennese intellectual culture",
+        "Hollywood film industry",
+        "American innovation culture"
+      ],
+      "cultural_challenges": [
+        "Anti-Semitism in Europe",
+        "Gender stereotypes in both acting and science",
+        "Cultural barriers as an immigrant"
+      ],
+      "cultural_contributions": "Bridged European intellectual tradition with American innovation, showing how creativity spans cultures and fields"
+    }
   },
   {
     "name": "Shirley Ann Jackson",
@@ -439,17 +581,173 @@ const pioneers = [
     "quote": "The best way to predict the future is to invent it.",
     "summary": "First African American woman to earn a doctorate from MIT and first woman to lead a top-ranked research university.",
     "shortDescription": "Shirley Ann Jackson was the first African American woman to earn a doctorate from MIT and the first woman to lead a top-ranked research university. She was a physicist and advocate for science education, serving as president of Rensselaer Polytechnic Institute and chair of the Nuclear Regulatory Commission. Her leadership has opened doors for women and minorities in STEM fields.",
+    "detailed_description": {
+      "early_life": "Born in Washington, D.C., Shirley showed exceptional academic ability from an early age. She was encouraged by her parents to pursue education and was inspired by the space race and scientific discoveries of the 1950s and 1960s.",
+      "stem_journey": "Shirley attended MIT in the 1960s, where she was often the only African American woman in her classes. She earned her PhD in theoretical elementary particle physics, becoming the first African American woman to receive a doctorate from MIT.",
+      "challenges": "Faced both racial and gender discrimination in academia and physics. She was often the only African American woman in her classes and research environments, requiring her to prove herself repeatedly.",
+      "achievements": "Became the first African American woman to earn a PhD from MIT, served as president of Rensselaer Polytechnic Institute, and chaired the Nuclear Regulatory Commission.",
+      "legacy": "Opened doors for women and minorities in physics and engineering. Her leadership in academia and government has inspired generations of underrepresented students in STEM."
+    },
     "achievements": [
       "First African American woman with MIT physics PhD",
       "President of Rensselaer Polytechnic Institute",
       "Chair of Nuclear Regulatory Commission"
     ],
+    "awards": [
+      "National Medal of Science (2014)",
+      "Vannevar Bush Award (2007)",
+      "Thomas Alva Edison Science Award (2001)"
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Theoretical Elementary Particle Physics",
+        "institution": "Massachusetts Institute of Technology"
+      },
+      {
+        "degree": "BS",
+        "field": "Physics",
+        "institution": "Massachusetts Institute of Technology"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1964,
+        "event": "Entered MIT as one of few African American students"
+      },
+      {
+        "year": 1973,
+        "event": "Earned PhD in physics from MIT, first African American woman to do so"
+      },
+      {
+        "year": 1995,
+        "event": "Appointed chair of the Nuclear Regulatory Commission"
+      },
+      {
+        "year": 1999,
+        "event": "Became president of Rensselaer Polytechnic Institute"
+      }
+    ],
+    "barriers": [
+      "Racial discrimination in academia and physics",
+      "Gender bias in STEM fields",
+      "Being the only African American woman in many academic settings"
+    ],
+    "impact": "Transformed leadership in higher education and government, opening doors for women and minorities in STEM fields.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Shirley Ann Jackson: A Trailblazer in Physics and Leadership",
+        "url": "https://www.aps.org/publications/apsnews/201904/jackson.cfm"
+      }
+    ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Shirley_Ann_Jackson"
+      },
+      {
+        "title": "MIT Black History",
+        "url": "https://blackhistory.mit.edu/spotlight/shirley-ann-jackson"
       }
-    ]
+    ],
+    "mentorship": "Mentored countless students and advocated for diversity in STEM education and research.",
+    "fun_fact": "Shirley Ann Jackson was the first African American woman to serve as president of a major research university.",
+    "career_path": {
+      "first_job": "Research physicist at Bell Laboratories",
+      "career_highlights": [
+        "Research at Bell Laboratories",
+        "Chair of Nuclear Regulatory Commission",
+        "President of Rensselaer Polytechnic Institute"
+      ],
+      "advice_for_students": "Don't let anyone tell you what you can't do. Your background and experiences bring unique perspectives to science and engineering."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Physics of Success by Shirley Ann Jackson",
+        "Women in Physics by Barbara Whitten"
+      ],
+      "websites": [
+        "mit.edu",
+        "rpi.edu",
+        "womeninphysics.org"
+      ],
+      "programs": [
+        "MIT Women in Physics",
+        "National Society of Black Physicists",
+        "Society of Women Engineers"
+      ],
+      "advice": "Seek out mentors and build supportive networks. Your unique perspective is valuable in STEM fields."
+    },
+    "challenges": {
+      "academic": [
+        "Being the only African American woman in physics classes",
+        "Proving herself repeatedly in academic settings"
+      ],
+      "professional": [
+        "Racial and gender discrimination in physics",
+        "Breaking barriers in leadership positions"
+      ],
+      "personal": [
+        "Balancing family and career demands",
+        "Navigating predominantly white male environments"
+      ],
+      "how_overcame": "Relied on strong family support, developed resilience, and focused on excellence in her work"
+    },
+    "education_details": {
+      "high_school": "Roosevelt High School, Washington, D.C.",
+      "college_major": "Physics at MIT",
+      "graduate_school": "PhD in Theoretical Elementary Particle Physics from MIT",
+      "key_courses": [
+        "Advanced Physics",
+        "Mathematics",
+        "Theoretical Physics",
+        "Research Methods"
+      ],
+      "study_tips": "Build strong foundations in mathematics and don't be afraid to ask questions. Find study groups and mentors."
+    },
+    "modern_impact": {
+      "current_applications": "Her leadership has influenced policies in nuclear safety, higher education, and STEM diversity",
+      "companies_using_her_work": [
+        "Nuclear power industry",
+        "Research universities",
+        "Government agencies"
+      ],
+      "future_implications": "Her legacy continues to inspire diversity and inclusion in STEM education and leadership"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Physics and mathematics",
+        "Scientific research",
+        "Leadership and education"
+      ],
+      "family_background": "Encouraged by parents to pursue education and excellence",
+      "hobbies": [
+        "Reading scientific literature",
+        "Mentoring students",
+        "Advocating for STEM education"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Intelligent",
+        "Leadership-oriented",
+        "Mentoring-focused"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "African American heritage",
+      "cultural_influences": [
+        "Civil Rights Movement",
+        "Space Race era",
+        "MIT academic culture"
+      ],
+      "cultural_challenges": [
+        "Racial discrimination in academia",
+        "Gender bias in physics",
+        "Being a trailblazer in multiple arenas"
+      ],
+      "cultural_contributions": "Pioneered leadership roles for African American women in physics and higher education, inspiring future generations"
+    }
   },
   {
     "name": "Rachel Carson",
@@ -468,17 +766,174 @@ const pioneers = [
     "quote": "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction.",
     "summary": "Marine biologist and conservationist whose book 'Silent Spring' launched the global environmental movement.",
     "shortDescription": "Rachel Carson was a marine biologist and conservationist whose book 'Silent Spring' launched the global environmental movement. Her work raised awareness about the dangers of pesticides and the importance of preserving natural habitats. Her scientific writing helped bridge the gap between scientific research and public understanding, demonstrating how scientists can communicate complex issues to the general public.",
+    "detailed_description": {
+      "early_life": "Born in rural Pennsylvania, Rachel developed a deep love for nature from an early age. She was an avid reader and writer, combining her passion for literature with her scientific curiosity about the natural world.",
+      "stem_journey": "Rachel studied biology at college and later worked for the U.S. Fish and Wildlife Service. She combined scientific research with beautiful writing, making complex environmental issues accessible to the public.",
+      "challenges": "Faced criticism from chemical companies and some scientists who disagreed with her findings about pesticide dangers. She battled cancer while writing 'Silent Spring' and faced personal attacks on her credibility.",
+      "achievements": "Wrote 'Silent Spring' which launched the environmental movement, pioneered science communication, and influenced environmental policy worldwide.",
+      "legacy": "Her work fundamentally changed how we think about the environment and the relationship between humans and nature. She inspired the modern environmental movement."
+    },
     "achievements": [
       "Wrote 'Silent Spring' launching environmental movement",
       "Pioneered marine biology research",
       "Received Presidential Medal of Freedom"
     ],
+    "awards": [
+      "Presidential Medal of Freedom (1980, posthumous)",
+      "National Book Award for Nonfiction (1952)",
+      "John Burroughs Medal (1952)"
+    ],
+    "education": [
+      {
+        "degree": "MS",
+        "field": "Zoology",
+        "institution": "Johns Hopkins University"
+      },
+      {
+        "degree": "BS",
+        "field": "Biology",
+        "institution": "Pennsylvania College for Women (now Chatham University)"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1929,
+        "event": "Graduated from Pennsylvania College for Women"
+      },
+      {
+        "year": 1932,
+        "event": "Earned master's degree from Johns Hopkins University"
+      },
+      {
+        "year": 1951,
+        "event": "Published 'The Sea Around Us'"
+      },
+      {
+        "year": 1962,
+        "event": "Published 'Silent Spring'"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in science and publishing",
+      "Criticism from chemical industry",
+      "Personal attacks on her scientific credibility"
+    ],
+    "impact": "Launched the global environmental movement and changed how we think about the relationship between humans and nature.",
+    "media": [
+      {
+        "type": "documentary",
+        "title": "Rachel Carson's Silent Spring",
+        "url": "https://www.pbs.org/wgbh/americanexperience/films/poisoned-waters/"
+      }
+    ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Rachel_Carson"
+      },
+      {
+        "title": "Rachel Carson Council",
+        "url": "https://rachelcarsoncouncil.org/"
       }
-    ]
+    ],
+    "mentorship": "Inspired generations of environmental scientists and science communicators to bridge the gap between research and public understanding.",
+    "fun_fact": "Rachel Carson was also a talented writer who originally wanted to be a novelist before turning to science writing.",
+    "career_path": {
+      "first_job": "Research assistant at Johns Hopkins University",
+      "career_highlights": [
+        "Worked for U.S. Fish and Wildlife Service",
+        "Published bestselling books about the sea",
+        "Wrote 'Silent Spring' which changed environmental policy"
+      ],
+      "advice_for_students": "Combine your passions. Science and writing can work together to create powerful change. Don't be afraid to challenge powerful interests when you have evidence."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Silent Spring by Rachel Carson",
+        "The Sea Around Us by Rachel Carson",
+        "Rachel Carson: Witness for Nature by Linda Lear"
+      ],
+      "websites": [
+        "rachelcarsoncouncil.org",
+        "epa.gov",
+        "audubon.org"
+      ],
+      "programs": [
+        "Environmental science programs",
+        "Science communication workshops",
+        "Marine biology field studies"
+      ],
+      "advice": "Learn to communicate complex scientific ideas clearly. Your voice matters in environmental protection."
+    },
+    "challenges": {
+      "academic": [
+        "Limited opportunities for women in science in the 1930s",
+        "Balancing scientific research with writing"
+      ],
+      "professional": [
+        "Criticism from chemical industry",
+        "Gender bias in scientific publishing"
+      ],
+      "personal": [
+        "Battling cancer while writing 'Silent Spring'",
+        "Personal attacks on her credibility"
+      ],
+      "how_overcame": "Relied on rigorous scientific research and clear writing to make her case. She persevered despite criticism and health challenges"
+    },
+    "education_details": {
+      "high_school": "Parnassus High School, Pennsylvania",
+      "college_major": "Biology at Pennsylvania College for Women",
+      "graduate_school": "MS in Zoology from Johns Hopkins University",
+      "key_courses": [
+        "Biology",
+        "Chemistry",
+        "English Literature",
+        "Scientific Writing"
+      ],
+      "study_tips": "Combine scientific rigor with clear communication. Learn to write well - it's a powerful tool for science."
+    },
+    "modern_impact": {
+      "current_applications": "Her work influenced the creation of the EPA and modern environmental regulations",
+      "companies_using_her_work": [
+        "Environmental protection agencies",
+        "Conservation organizations",
+        "Science communication programs"
+      ],
+      "future_implications": "Her legacy continues to inspire environmental protection and science communication"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Nature and wildlife",
+        "Writing and literature",
+        "Scientific observation"
+      ],
+      "family_background": "Grew up on a farm in rural Pennsylvania",
+      "hobbies": [
+        "Bird watching",
+        "Writing poetry",
+        "Exploring natural habitats"
+      ],
+      "personality_traits": [
+        "Observant",
+        "Determined",
+        "Eloquent",
+        "Courageous"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Scottish-Irish American heritage",
+      "cultural_influences": [
+        "Rural Pennsylvania upbringing",
+        "Progressive education movement",
+        "Early environmental awareness"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 1930s-1960s America",
+        "Challenging powerful industrial interests",
+        "Being a woman in science and publishing"
+      ],
+      "cultural_contributions": "Pioneered environmental awareness and science communication, showing how scientific writing can create social change"
+    }
   },
   {
     "name": "Chien-Shiung Wu",
