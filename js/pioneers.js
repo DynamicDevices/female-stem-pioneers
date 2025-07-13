@@ -16000,7 +16000,7 @@ const pioneers = [
   },
   {
     "name": "Helen Taussig",
-    "photo": "./images/helen-taussig.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1898",
     "deathDate": "1986",
     "country": "United States",
@@ -16532,7 +16532,7 @@ const pioneers = [
   },
   {
     "name": "Anandibai Joshi",
-    "photo": "./images/anandibai-joshi.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1865",
     "deathDate": "1887",
     "country": "India",
