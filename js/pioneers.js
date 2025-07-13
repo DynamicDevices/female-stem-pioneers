@@ -7525,6 +7525,36 @@ const pioneers = [
         "url": "https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer"
       }
     ]
+  },
+  {
+    "name": "Elizabeth Blackwell",
+    "photo": "./images/elizabeth-blackwell.jpg",
+    "birthDate": "1821",
+    "deathDate": "1910",
+    "country": "United Kingdom/United States",
+    "fields": [
+      "Medicine",
+      "Public Health"
+    ],
+    "roles": [
+      "Physician",
+      "Medical Pioneer"
+    ],
+    "quote": "The idea of winning a doctor's degree gradually assumed the aspect of a great moral struggle.",
+    "summary": "First woman to receive a medical degree in the United States and a pioneer in medical education for women.",
+    "shortDescription": "Elizabeth Blackwell was the first woman to receive a medical degree in the United States, breaking barriers for women in medicine. She founded the New York Infirmary for Women and Children and established medical education opportunities for women, paving the way for future female physicians.",
+    "achievements": [
+      "First woman to receive medical degree in US",
+      "Founded New York Infirmary for Women and Children",
+      "Established medical education for women",
+      "Pioneered women's role in medicine"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Blackwell"
+      }
+    ]
   }
 ];
 
