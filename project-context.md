@@ -63,6 +63,39 @@ A static web app that showcases women pioneers in STEM. Each profile includes ri
 - **If a user reports an error or inaccuracy,** research and correct it immediately.
 - **If a section is missing content,** fill it with the best available data or a relevant, informative fallback.
 
+## Critical Learnings: Safe File Editing (v1.6.0+)
+
+### JavaScript File Safety (Especially `js/pioneers.js`)
+- **ALWAYS run `npm run check-syntax` after any edits** to verify JavaScript validity
+- **ALWAYS run `npm run check-duplicates`** after adding or modifying pioneer entries
+- **Use precise text replacement** rather than automated scripts when editing complex JSON structures
+- **The file now contains helpful comments** at the top and bottom with editing guidelines
+- **Each pioneer object must be complete** with all required fields and proper JSON structure
+- **The last object in the array ends with `}` (no trailing comma)**
+- **If corruption occurs, restore from git history:** `git show <commit-hash>:js/pioneers.js > js/pioneers.js`
+
+### Duplicate Prevention
+- **Check for duplicates before adding new pioneers** using `npm run check-duplicates`
+- **Search for exact names** in `js/pioneers.js` before adding entries
+- **When removing duplicates, use precise text replacement** with exact boundaries
+- **Verify syntax and structure after any duplicate removal**
+
+### File Structure Guidelines
+- **The pioneers array starts with `const pioneers = [` and ends with `];`**
+- **Each pioneer object starts with `{` and ends with `},` (except the last one)**
+- **Maintain proper indentation and JSON structure**
+- **The file includes comprehensive comments** explaining the structure and editing guidelines
+
+### Recovery Procedures
+- **If syntax errors occur:** Restore from a clean git commit using `git show <commit-hash>:js/pioneers.js > js/pioneers.js`
+- **If duplicates are found:** Use precise text replacement to remove specific duplicate entries
+- **Always test after recovery:** Run both syntax and duplicate checks
+
+### Version Management
+- **Update version in `package.json`** before committing major changes
+- **Use descriptive commit messages** that explain what was changed and why
+- **Test thoroughly before pushing** to avoid breaking the live site
+
 ---
 
 *This reference is for AI use only. It is not a contributor guide, but a context file to ensure the assistant can continue, maintain, and enhance the project seamlessly in any new chat session.*
