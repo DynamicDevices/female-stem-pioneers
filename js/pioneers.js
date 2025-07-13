@@ -2304,7 +2304,8 @@ const pioneers = [
         "Limited opportunities for Native Americans"
       ],
       "cultural_contributions": "Demonstrated that Native American women could excel in advanced engineering and inspire future generations"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Asima Chatterjee",
@@ -2486,7 +2487,8 @@ const pioneers = [
         "Limited opportunities for women in science"
       ],
       "cultural_contributions": "Bridged traditional Indian medicine knowledge with modern scientific research methods"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Alice Augusta Ball",
@@ -2670,7 +2672,8 @@ const pioneers = [
         "Limited opportunities for African American women"
       ],
       "cultural_contributions": "Pioneered African American women's roles in chemistry and medicine, showing how science can serve humanity"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Mary Somerville",
@@ -2852,7 +2855,8 @@ const pioneers = [
         "Limited educational opportunities for women"
       ],
       "cultural_contributions": "Demonstrated that women could excel in scientific writing and popularization, making science accessible to broader audiences"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Gerty Cori",
@@ -3029,7 +3033,8 @@ const pioneers = [
         "Working in husband's shadow"
       ],
       "cultural_contributions": "Demonstrated that women could excel in biochemistry and win the highest scientific honors"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Inge Lehmann",
@@ -3210,7 +3215,8 @@ const pioneers = [
         "Male dominance in geophysics"
       ],
       "cultural_contributions": "Demonstrated that women could excel in geophysics and make fundamental discoveries about Earth's structure"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Dorothy Mary Crowfoot Hodgkin",
@@ -3396,7 +3402,8 @@ const pioneers = [
         "Physical disability in scientific work"
       ],
       "cultural_contributions": "Demonstrated that women could excel in advanced chemistry and overcome physical challenges to make groundbreaking discoveries"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Jane Goodall",
@@ -3577,7 +3584,8 @@ const pioneers = [
         "Colonial attitudes toward Africa"
       ],
       "cultural_contributions": "Demonstrated that women could excel in field research and bridge cultural gaps in conservation"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Gladys West",
@@ -3759,7 +3767,8 @@ const pioneers = [
         "Gender barriers in mathematics"
       ],
       "cultural_contributions": "Demonstrated that African American women could excel in advanced mathematics and contribute to technological innovation"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Mary Cartwright",
@@ -3938,7 +3947,8 @@ const pioneers = [
         "Male dominance in mathematics"
       ],
       "cultural_contributions": "Demonstrated that women could excel in advanced mathematics and contribute to foundational mathematical research"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Caroline Herschel",
@@ -4115,7 +4125,8 @@ const pioneers = [
         "Limited educational opportunities for women"
       ],
       "cultural_contributions": "Demonstrated that women could be independent scientific researchers and make significant discoveries"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Maria Telkes",
@@ -4292,7 +4303,8 @@ const pioneers = [
         "Immigration and adaptation to new culture"
       ],
       "cultural_contributions": "Demonstrated that women could excel in engineering and contribute to sustainable energy innovation"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Mariam Al-Astrulabi",
@@ -4459,7 +4471,8 @@ const pioneers = [
         "Limited opportunities for women in science"
       ],
       "cultural_contributions": "Demonstrated that women could excel in scientific instrument making during the Islamic Golden Age"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Janaki Ammal",
@@ -4642,7 +4655,8 @@ const pioneers = [
         "Caste discrimination in academia"
       ],
       "cultural_contributions": "Demonstrated that Indian women could excel in advanced botany and contribute to agricultural improvement"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Yvonne Brill",
