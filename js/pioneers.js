@@ -1611,8 +1611,7 @@ const pioneers = [
     },
     "achievements": [
       "Pioneered research in carbon nanostructures",
-      "First female Institute Professor at MIT",
-      "National Medal of Science recipient"
+      "First female Institute Professor at MIT"
     ],
     "awards": [
       "National Medal of Science (1990)",
@@ -1777,7 +1776,8 @@ const pioneers = [
         "Being a pioneer for women in science"
       ],
       "cultural_contributions": "Pioneered women's roles in physics and engineering, becoming a role model for generations of women scientists"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Flossie Wong-Staal",
@@ -1806,7 +1806,8 @@ const pioneers = [
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Flossie_Wong-Staal"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Sophie Germain",
@@ -1834,7 +1835,7 @@ const pioneers = [
     },
     "achievements": [
       "Pioneered elasticity theory",
-      "Contributed to Fermat's Last Theorem",
+      "Made contributions to number theory",
       "First woman to win a prize from the Paris Academy of Sciences"
     ],
     "awards": [
@@ -1947,7 +1948,7 @@ const pioneers = [
         "Engineering firms worldwide",
         "Materials science research"
       ],
-      "future_implications": "Her number theory work continues to influence modern cryptography"
+      "future_implications": "Her elasticity theory continues to influence engineering applications"
     },
     "personal_info": {
       "early_interests": [
@@ -1980,7 +1981,8 @@ const pioneers = [
         "Class barriers to education"
       ],
       "cultural_contributions": "Demonstrated that women could excel in abstract mathematics and contribute to scientific discourse"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Chieng Shih",
