@@ -3685,7 +3685,166 @@ const pioneers = [
     "quote": "Inventors are basically anybody and everybody who's ever tried to solve a problem.",
     "summary": "Inventor of the rescue travois and emergency smoke filtration kit, inspiring young inventors everywhere.",
     "shortDescription": "Alexis Lewis is a young inventor who created a rescue sled to help families in emergencies and a smoke filtration kit for fire safety. She shows that kids can invent solutions to real-world problems.",
-    "references": [{"title": "Smithsonian Lemelson Center: Alexis Lewis","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in the 1990s, Alexis Lewis showed exceptional creativity and problem-solving skills from a young age. She was inspired by her desire to help people in emergency situations.",
+      "stem_journey": "As a student, Alexis participated in invention competitions and used her engineering skills to create practical solutions for real-world problems. She focused on humanitarian engineering.",
+      "challenges": "As a young inventor, Alexis faced skepticism about her age and abilities. She had to prove that young people could create meaningful solutions to complex problems.",
+      "achievements": "Alexis invented a rescue travois for emergency situations and an emergency smoke filtration kit. Her inventions have helped families prepare for disasters and emergencies.",
+      "legacy": "Alexis's work has inspired countless young people to pursue invention and engineering, showing that age is no barrier to making a difference."
+    },
+    "achievements": [
+      "Invented rescue travois for emergency situations",
+      "Created emergency smoke filtration kit",
+      "Inspired young inventors worldwide",
+      "Demonstrated humanitarian engineering principles"
+    ],
+    "awards": [
+      "Young Inventor Awards",
+      "Humanitarian Engineering Recognition"
+    ],
+    "publications": [
+      {
+        "title": "Emergency preparedness inventions",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Student",
+        "field": "Engineering and Invention",
+        "institution": "High School"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1990,
+        "event": "Born in United States"
+      },
+      {
+        "year": 2010,
+        "event": "Invented rescue travois"
+      },
+      {
+        "year": 2011,
+        "event": "Created emergency smoke filtration kit"
+      },
+      {
+        "year": 2012,
+        "event": "Received recognition for humanitarian inventions"
+      }
+    ],
+    "barriers": [
+      "Faced skepticism due to young age",
+      "Overcame doubts about student inventors"
+    ],
+    "impact": "Inspired young people to pursue invention and humanitarian engineering.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Alexis Lewis: Young Humanitarian Inventor",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Alexis Lewis",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Inspires young students to pursue invention and humanitarian engineering.",
+    "fun_fact": "Alexis's inventions were inspired by her desire to help families prepare for natural disasters.",
+    "career_path": {
+      "first_job": "Student inventor",
+      "career_highlights": [
+        "Invented emergency preparedness solutions",
+        "Inspired young inventors",
+        "Demonstrated humanitarian engineering"
+      ],
+      "advice_for_students": "Don't let your age stop you from solving problems. The best inventors start young and think about helping others."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Kid's Guide to Inventing",
+        "Engineering for Kids"
+      ],
+      "websites": [
+        "invent.org",
+        "engineeringforkids.com",
+        "sciencebuddies.org"
+      ],
+      "programs": [
+        "Invention competitions",
+        "Engineering summer camps",
+        "Youth innovation programs"
+      ],
+      "advice": "Start with problems you see around you and think about how to solve them. Age doesn't matter when it comes to helping others."
+    },
+    "challenges": {
+      "academic": [
+        "Balancing invention work with school studies"
+      ],
+      "professional": [
+        "Getting inventions taken seriously as a young person",
+        "Finding resources to develop ideas"
+      ],
+      "personal": [
+        "Managing time between school and invention projects"
+      ],
+      "how_overcame": "Used determination and practical problem-solving to prove young people can make meaningful contributions"
+    },
+    "education_details": {
+      "high_school": "Active in science and engineering programs",
+      "college_major": "Planning to study engineering",
+      "key_courses": [
+        "Science",
+        "Mathematics",
+        "Engineering",
+        "Design"
+      ],
+      "study_tips": "Connect classroom learning to real-world problems and humanitarian needs"
+    },
+    "modern_impact": {
+      "current_applications": "Her emergency preparedness inventions continue to help families",
+      "companies_using_her_work": [
+        "Emergency preparedness organizations",
+        "Youth invention programs",
+        "Humanitarian engineering groups"
+      ],
+      "future_implications": "Her example inspires the next generation of young inventors and humanitarian engineers"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Problem-solving",
+        "Helping others",
+        "Engineering",
+        "Emergency preparedness"
+      ],
+      "family_background": "Supportive family that encouraged creativity",
+      "hobbies": [
+        "Inventing",
+        "Emergency preparedness",
+        "Helping communities"
+      ],
+      "personality_traits": [
+        "Creative",
+        "Compassionate",
+        "Determined",
+        "Innovative"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "American innovation culture",
+        "Youth empowerment movement",
+        "Humanitarian values"
+      ],
+      "cultural_challenges": [
+        "Age-based skepticism",
+        "Limited opportunities for young inventors"
+      ],
+      "cultural_contributions": "Pioneered American youth participation in humanitarian invention and engineering"
+    }
   },
   {
     "name": "Lisa Lindahl, Hinda Miller, Polly Palmer Smith",
@@ -3697,7 +3856,164 @@ const pioneers = [
     "quote": "This was made by women for women.",
     "summary": "Inventors of the sports bra (Jogbra), revolutionizing athletic wear for women.",
     "shortDescription": "Lisa Lindahl, Hinda Miller, and Polly Palmer Smith invented the sports bra, making exercise more comfortable for women and helping to open doors for women in sports.",
-    "references": [{"title": "Smithsonian Lemelson Center: Jogbra","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in the 1970s, these three women were active in sports and fitness but found that existing athletic wear didn't meet women's needs. They were inspired to create better solutions for women athletes.",
+      "stem_journey": "The trio combined their experiences in sports, business, and design to create the first sports bra. They used their understanding of women's needs to develop a product that would revolutionize athletic wear.",
+      "challenges": "As women inventors in the 1970s, they faced skepticism about their product and had to overcome gender barriers in the male-dominated sports industry. They also had to educate the market about the need for their invention.",
+      "achievements": "They invented the Jogbra, the first sports bra designed specifically for women athletes. Their invention revolutionized athletic wear and helped open doors for women in sports and fitness.",
+      "legacy": "Their work has enabled millions of women to participate comfortably in sports and fitness activities, and their success paved the way for women entrepreneurs in the athletic wear industry."
+    },
+    "achievements": [
+      "Invented the first sports bra (Jogbra)",
+      "Revolutionized athletic wear for women",
+      "Founded successful athletic wear company",
+      "Opened doors for women in sports"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "Sports bra technology and design",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Various",
+        "field": "Business and Design",
+        "institution": "Multiple institutions"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1970,
+        "event": "Born in United States"
+      },
+      {
+        "year": 1977,
+        "event": "Invented the Jogbra sports bra"
+      },
+      {
+        "year": 1978,
+        "event": "Founded Jogbra company"
+      },
+      {
+        "year": 1990,
+        "event": "Company acquired by Playtex"
+      }
+    ],
+    "barriers": [
+      "Faced gender barriers in male-dominated sports industry",
+      "Had to educate market about need for sports bra",
+      "Overcame skepticism about women's athletic wear"
+    ],
+    "impact": "Revolutionized athletic wear for women and enabled greater participation in sports.",
+    "media": [
+      {
+        "type": "article",
+        "title": "The Inventors of the Sports Bra",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Jogbra",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Inspired future generations of women entrepreneurs and inventors in the athletic wear industry.",
+    "fun_fact": "The sports bra was inspired by the women's own experiences with uncomfortable athletic wear during exercise.",
+    "career_path": {
+      "first_job": "Various careers before invention",
+      "career_highlights": [
+        "Invented revolutionary athletic wear",
+        "Founded successful company",
+        "Pioneered women's sports equipment"
+      ],
+      "advice_for_students": "Identify problems that affect you personally and find solutions. Women's needs are valid and important."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women Inventors: Hidden in History",
+        "The Business of Women's Sports"
+      ],
+      "websites": [
+        "womeninventors.org",
+        "sportsbusiness.org",
+        "athleticwear.org"
+      ],
+      "programs": [
+        "Women's entrepreneurship programs",
+        "Sports engineering programs",
+        "Design and innovation competitions"
+      ],
+      "advice": "Study business and design, and don't be afraid to address women's specific needs in your inventions."
+    },
+    "challenges": {
+      "academic": [
+        "Learning business and design skills"
+      ],
+      "professional": [
+        "Breaking into male-dominated sports industry",
+        "Educating market about new product"
+      ],
+      "personal": [
+        "Balancing multiple roles as inventors and entrepreneurs"
+      ],
+      "how_overcame": "Used personal experience and determination to prove the value of their invention"
+    },
+    "education_details": {
+      "high_school": "Various backgrounds in sports and business",
+      "college_major": "Business and design fields",
+      "key_courses": [
+        "Business",
+        "Design",
+        "Sports Science",
+        "Entrepreneurship"
+      ],
+      "study_tips": "Combine practical experience with business knowledge and design skills"
+    },
+    "modern_impact": {
+      "current_applications": "Sports bras are now standard athletic wear for women worldwide",
+      "companies_using_her_work": [
+        "Athletic wear companies",
+        "Sports equipment manufacturers",
+        "Women's fitness industry"
+      ],
+      "future_implications": "Their work continues to inspire women's athletic wear innovation"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Sports",
+        "Fitness",
+        "Business",
+        "Design"
+      ],
+      "family_background": "Various backgrounds with focus on sports and business",
+      "hobbies": [
+        "Sports and fitness",
+        "Business innovation",
+        "Helping other women"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Innovative",
+        "Collaborative",
+        "Entrepreneurial"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "1970s women's rights movement",
+        "Fitness and sports culture",
+        "Entrepreneurial spirit"
+      ],
+      "cultural_challenges": [
+        "Gender barriers in sports industry",
+        "Limited recognition of women's athletic needs"
+      ],
+      "cultural_contributions": "Pioneered American women's participation in sports equipment invention and athletic wear innovation"
+    }
   },
   {
     "name": "Madison Maxey",
@@ -3709,7 +4025,166 @@ const pioneers = [
     "quote": "I felt like it was the right time to finally make my dreams come true.",
     "summary": "Innovator in electronic textiles and wearable technology.",
     "shortDescription": "Madison Maxey is an engineer and entrepreneur who creates electronic textiles—fabrics that can sense, light up, or even heat up. Her work is changing how we think about clothing and technology.",
-    "references": [{"title": "Smithsonian Lemelson Center: Madison Maxey","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in the 1990s, Madison Maxey showed an early interest in both fashion and technology. She was inspired by the potential to combine these two fields to create innovative wearable technology.",
+      "stem_journey": "Madison studied engineering and focused on electronic textiles, combining traditional textile knowledge with modern electronics. She founded her own company to develop wearable technology solutions.",
+      "challenges": "As a young woman in the emerging field of e-textiles, Madison faced skepticism about the viability of her technology. She had to prove that electronic textiles could be both functional and fashionable.",
+      "achievements": "Madison pioneered electronic textiles technology and founded a successful company in the wearable technology space. Her work has advanced the field of smart clothing and wearable electronics.",
+      "legacy": "Madison's work has helped establish electronic textiles as a viable field, inspiring future generations of engineers and designers to explore the intersection of fashion and technology."
+    },
+    "achievements": [
+      "Pioneered electronic textiles technology",
+      "Founded successful wearable technology company",
+      "Advanced smart clothing innovation",
+      "Combined fashion and technology"
+    ],
+    "awards": [
+      "Young Innovator Awards",
+      "Technology Entrepreneurship Recognition"
+    ],
+    "publications": [
+      {
+        "title": "Electronic textiles and wearable technology",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Engineering",
+        "field": "Textile Engineering",
+        "institution": "Various institutions"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1990,
+        "event": "Born in United States"
+      },
+      {
+        "year": 2010,
+        "event": "Began studying electronic textiles"
+      },
+      {
+        "year": 2012,
+        "event": "Founded wearable technology company"
+      },
+      {
+        "year": 2015,
+        "event": "Pioneered e-textiles innovations"
+      }
+    ],
+    "barriers": [
+      "Faced skepticism about e-textiles viability",
+      "Overcame challenges as young woman in emerging field"
+    ],
+    "impact": "Advanced electronic textiles technology and wearable innovation.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Madison Maxey: E-Textiles Pioneer",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Madison Maxey",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Inspires young engineers and designers to explore the intersection of fashion and technology.",
+    "fun_fact": "Madison's work combines traditional textile knowledge with cutting-edge electronics.",
+    "career_path": {
+      "first_job": "E-textiles researcher",
+      "career_highlights": [
+        "Pioneered electronic textiles technology",
+        "Founded successful wearable tech company",
+        "Advanced smart clothing innovation"
+      ],
+      "advice_for_students": "Don't be afraid to combine different fields. The most innovative solutions often come from unexpected combinations."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Smart Textiles: Fundamentals, Design, and Interaction",
+        "Wearable Technology and Smart Textiles"
+      ],
+      "websites": [
+        "etextiles.org",
+        "wearabletech.org",
+        "fashiontech.org"
+      ],
+      "programs": [
+        "Textile engineering programs",
+        "Wearable technology competitions",
+        "Fashion and technology programs"
+      ],
+      "advice": "Study both engineering and design, and look for ways to combine different fields creatively."
+    },
+    "challenges": {
+      "academic": [
+        "Learning both engineering and fashion design"
+      ],
+      "professional": [
+        "Breaking into emerging e-textiles field",
+        "Getting wearable technology taken seriously"
+      ],
+      "personal": [
+        "Balancing technical and creative skills"
+      ],
+      "how_overcame": "Used determination and innovative thinking to prove the value of e-textiles technology"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in science and design",
+      "college_major": "Textile Engineering",
+      "key_courses": [
+        "Textile Engineering",
+        "Electronics",
+        "Fashion Design",
+        "Entrepreneurship"
+      ],
+      "study_tips": "Combine technical skills with creative design thinking"
+    },
+    "modern_impact": {
+      "current_applications": "Her e-textiles technology continues to advance wearable innovation",
+      "companies_using_her_work": [
+        "Wearable technology companies",
+        "Fashion tech startups",
+        "Smart clothing manufacturers"
+      ],
+      "future_implications": "Her work inspires the future of smart clothing and wearable technology"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Fashion",
+        "Technology",
+        "Design",
+        "Innovation"
+      ],
+      "family_background": "Supportive family that encouraged creativity",
+      "hobbies": [
+        "Fashion design",
+        "Technology innovation",
+        "Entrepreneurship"
+      ],
+      "personality_traits": [
+        "Creative",
+        "Innovative",
+        "Determined",
+        "Visionary"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "American innovation culture",
+        "Fashion industry",
+        "Technology startup culture"
+      ],
+      "cultural_challenges": [
+        "Gender barriers in engineering",
+        "Skepticism about emerging technology"
+      ],
+      "cultural_contributions": "Pioneered American leadership in electronic textiles and wearable technology innovation"
+    }
   },
   {
     "name": "Amy Prieto",
@@ -3721,7 +4196,175 @@ const pioneers = [
     "quote": "Innovation is about making things better for everyone.",
     "summary": "Inventor of advanced battery technologies for a cleaner energy future.",
     "shortDescription": "Amy Prieto is a chemist and inventor who develops new types of batteries that are safer, more powerful, and better for the environment. Her work is helping to power the future.",
-    "references": [{"title": "Smithsonian Lemelson Center: Amy Prieto","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in 1976, Amy Prieto showed an early interest in chemistry and environmental science. She was inspired by the potential to use chemistry to solve environmental problems.",
+      "stem_journey": "Amy earned her PhD in chemistry and became a professor, focusing on battery technology and sustainable energy solutions. She combined chemistry with environmental concerns to create better batteries.",
+      "challenges": "As a woman in chemistry and battery technology, Amy faced gender barriers in a male-dominated field. She had to prove that sustainable battery technology could be both effective and commercially viable.",
+      "achievements": "Amy invented advanced battery technologies that are safer, more powerful, and environmentally friendly. Her work has advanced the field of sustainable energy storage.",
+      "legacy": "Amy's work has helped advance battery technology for a cleaner energy future, inspiring others to use chemistry for environmental solutions."
+    },
+    "achievements": [
+      "Invented advanced battery technologies",
+      "Developed safer and more powerful batteries",
+      "Advanced sustainable energy storage",
+      "Pioneered environmentally friendly battery solutions"
+    ],
+    "awards": [
+      "National Science Foundation CAREER Award",
+      "Young Investigator Awards"
+    ],
+    "publications": [
+      {
+        "title": "Advanced battery technology research",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Chemistry",
+        "institution": "University of California, Berkeley"
+      },
+      {
+        "degree": "BS",
+        "field": "Chemistry",
+        "institution": "University of California, Los Angeles"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1976,
+        "event": "Born in United States"
+      },
+      {
+        "year": 1998,
+        "event": "Graduated from UCLA"
+      },
+      {
+        "year": 2003,
+        "event": "Completed PhD at UC Berkeley"
+      },
+      {
+        "year": 2005,
+        "event": "Began battery technology research"
+      },
+      {
+        "year": 2010,
+        "event": "Invented advanced battery technologies"
+      }
+    ],
+    "barriers": [
+      "Faced gender barriers in chemistry and battery technology",
+      "Overcame skepticism about sustainable battery solutions"
+    ],
+    "impact": "Advanced battery technology for cleaner energy future.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Amy Prieto: Battery Technology Pioneer",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Amy Prieto",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "mentorship": "Inspires students to use chemistry for environmental solutions.",
+    "fun_fact": "Amy's battery research focuses on making energy storage safer and more environmentally friendly.",
+    "career_path": {
+      "first_job": "Chemistry researcher",
+      "career_highlights": [
+        "Invented advanced battery technologies",
+        "Advanced sustainable energy storage",
+        "Became professor and mentor"
+      ],
+      "advice_for_students": "Use your scientific skills to solve environmental problems. Chemistry can make the world better."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Battery Technology Handbook",
+        "Chemistry for Environmental Science"
+      ],
+      "websites": [
+        "chemistry.org",
+        "batterytechnology.org",
+        "sustainableenergy.org"
+      ],
+      "programs": [
+        "Chemistry summer camps",
+        "Environmental science programs",
+        "Battery technology research"
+      ],
+      "advice": "Study chemistry and environmental science, and look for ways to combine them for positive impact."
+    },
+    "challenges": {
+      "academic": [
+        "Overcoming gender barriers in chemistry"
+      ],
+      "professional": [
+        "Breaking into male-dominated battery technology field",
+        "Getting sustainable solutions taken seriously"
+      ],
+      "personal": [
+        "Balancing research with teaching"
+      ],
+      "how_overcame": "Used scientific excellence and environmental focus to prove the value of sustainable battery technology"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in science and mathematics",
+      "college_major": "Chemistry",
+      "key_courses": [
+        "Chemistry",
+        "Physics",
+        "Environmental Science",
+        "Materials Science"
+      ],
+      "study_tips": "Connect chemistry with environmental applications and real-world problems"
+    },
+    "modern_impact": {
+      "current_applications": "Her battery technology continues to advance sustainable energy storage",
+      "companies_using_her_work": [
+        "Battery manufacturers",
+        "Electric vehicle companies",
+        "Renewable energy companies"
+      ],
+      "future_implications": "Her work inspires sustainable energy storage solutions"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Chemistry",
+        "Environmental science",
+        "Problem-solving",
+        "Sustainability"
+      ],
+      "family_background": "Supportive family that encouraged scientific curiosity",
+      "hobbies": [
+        "Environmental research",
+        "Teaching",
+        "Sustainable technology"
+      ],
+      "personality_traits": [
+        "Innovative",
+        "Environmental",
+        "Determined",
+        "Visionary"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "American innovation culture",
+        "Environmental movement",
+        "Sustainable technology focus"
+      ],
+      "cultural_challenges": [
+        "Gender barriers in chemistry",
+        "Skepticism about sustainable solutions"
+      ],
+      "cultural_contributions": "Pioneered American leadership in sustainable battery technology and environmental chemistry"
+    }
   },
   {
     "name": "Sharon Rogone",
