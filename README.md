@@ -7,6 +7,8 @@ A static web app celebrating women pioneers in STEM fields. Features:
 - Responsive, accessible design with modern UI
 - Deduplication: only unique pioneers by name are shown
 - Easy to add new pioneers via `add-pioneer.js`
+- **Comprehensive field explanations and filter options for all STEM fields represented in the data**
+- **Codebase is auto-formatted and linted for consistency and quality**
 
 ## Getting Started
 
@@ -18,8 +20,10 @@ A static web app celebrating women pioneers in STEM fields. Features:
 
 - Add new pioneers in `js/pioneers.js` or use `add-pioneer.js`
 - Images go in the `images/` folder (photo, artistic, or symbolic SVG)
+- **Only valid, non-empty images are accepted. Broken or empty images will be removed.**
 - See `CONTRIBUTING.md` for details
 - Remove any duplicate entries by name for clarity
+- **Run linting and formatting tools before submitting changes.**
 
 ## License
 

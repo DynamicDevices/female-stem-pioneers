@@ -9,6 +9,8 @@ This project is a static web app that celebrates and highlights WOMEN pioneers i
 - Data-driven: all pioneer info is managed in `js/pioneers.js` (currently 81 unique pioneers)
 - Easy to add new FEMALE pioneers via `add-pioneer.js`
 - Automatic deduplication: only the first occurrence of each pioneer (by name) is used in the UI
+- **All STEM fields in the data have explanations and filter options in the UI.**
+- **Codebase is auto-formatted and linted for consistency and quality.**
 
 The project is specifically designed to showcase and celebrate WOMEN'S contributions to STEM fields, suitable for educational, outreach, and inspirational purposes focused on female representation in science and technology.
 
@@ -21,6 +23,7 @@ The project is specifically designed to showcase and celebrate WOMEN'S contribut
 - Image filenames should match the pioneer's name (e.g., `ada-lovelace.jpg`)
 - For pioneers without available photos, use field-specific SVG icons (e.g., chemistry flask for chemists, π symbol for mathematicians)
 - If neither a photo nor a field icon is available, a default SVG placeholder is shown
+- **Do not add empty or broken image files. These will be removed.**
 
 ### Commit Requirements
 
@@ -40,3 +43,9 @@ The project is specifically designed to showcase and celebrate WOMEN'S contribut
 
 - The dataset automatically removes duplicate pioneers by name at runtime. Only the first occurrence is shown in the UI.
 - For clarity and maintainability, remove duplicates from `js/pioneers.js` when possible.
+
+## Code Formatting & Linting
+
+- The codebase uses ESLint and Prettier for consistent formatting and code quality.
+- Run `npx eslint . --fix` and `npx prettier --write .` before submitting changes.
+- Keep documentation and field explanations up to date with data changes.

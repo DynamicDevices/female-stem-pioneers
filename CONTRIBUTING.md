@@ -16,6 +16,8 @@ By contributing to this project, you agree that your contributions will be licen
    - Only **female** pioneers are accepted. No male pioneers will be included.
    - Each pioneer must be unique by name. The system deduplicates by name, but please avoid adding duplicates.
    - Images should be placed in `images/` and use `.jpg`, `.png`, or `.svg` (see PROJECT-REFERENCE.md for details)
+   - **Only valid, non-empty images are accepted. Do not add empty or broken image files.**
+   - **All fields used in the data must have an explanation in the UI.**
 
 3. **Required fields:** `name`, `fields`, `summary`
 4. **Optional fields:** See the template in `add-pioneer.js` or existing entries
@@ -37,6 +39,7 @@ By contributing to this project, you agree that your contributions will be licen
    - Reason for the addition/modification
    - Any relevant links or references
    - Confirmation that you agree to CC BY 4.0 licensing
+   - **Run linting and formatting tools before submitting your pull request.**
 
 ## Attribution Guidelines
 
