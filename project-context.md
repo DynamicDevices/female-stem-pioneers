@@ -1,3 +1,15 @@
+# IMPORTANT: Do Not Corrupt JavaScript Syntax
+
+When making changes to any JavaScript files in this project (especially `js/pioneers.js`), ensure that you do not introduce syntax errors or corrupt the file structure. Always:
+- Double-check for valid brackets, braces, and array/object structure
+- Avoid duplicate variable declarations (e.g., `const pioneers = [`)
+- Run `npm run check-syntax` after any edits to verify the file is still valid JavaScript
+- If using scripts to modify files, review the output and test the result
+
+Corrupting the JavaScript will break the site and data tools. Please be careful and validate your changes!
+
+---
+
 # project-context.md (for AI Assistant Use)
 
 ## Project Purpose
