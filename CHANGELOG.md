@@ -131,11 +131,12 @@ All notable changes to this project will be documented in this file.
 - Documentation (README, CONTRIBUTING, PROJECT-REFERENCE) updated to emphasize the critical importance of the diverse fallback icon system and clarify image requirements
 - All pioneer images now use `object-fit: cover` for proper scaling and cropping in circular frames
 - Initial loading placeholder is now a plain grey circle (not an emoji or face) for clean, neutral appearance
+- **Updated:** Replaced Mildred Dresselhaus’s image with a higher-quality, properly attributed photo ([NSF/Georgia Litwack](https://www.girlmuseum.org/wp-content/uploads/2015/05/dresselhaus1_h-NSF-Georgia-Litwack-218x300.jpg))
 
 #### Fixed
 - Removed duplicate pioneer entry for "Katherine Johnson" and fixed JSON structure in pioneers.js
 - Improved data validation and error handling for pioneer profiles
-- Fixed image scaling issues (especially Mildred Dresselhaus) - all images now display with correct aspect ratio and no stretching
+- Fixed image scaling issues (especially Mildred Dresselhaus)
 
 #### Technical Improvements
 - Ensured IconMapping is globally exposed for fallback logic
