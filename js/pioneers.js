@@ -296,7 +296,7 @@ const pioneers = [
   },
   {
     name: "Katherine Johnson",
-    photo: "./images/placeholder.jpg",
+    photo: "./images/katherine-johnson.jpg",
     birthDate: "1918",
     deathDate: "2020",
     country: "United States",
@@ -316,7 +316,7 @@ const pioneers = [
   },
   {
     name: "Grace Hopper",
-    photo: "./images/placeholder.jpg",
+    photo: "./images/grace-hopper.jpg",
     birthDate: "1906",
     deathDate: "1992",
     country: "United States",
@@ -336,7 +336,7 @@ const pioneers = [
   },
   {
     name: "Rosalind Franklin",
-    photo: "./images/placeholder.jpg",
+    photo: "./images/rosalind-franklin.png",
     birthDate: "1920",
     deathDate: "1958",
     country: "United Kingdom",
@@ -356,7 +356,7 @@ const pioneers = [
   },
   {
     name: "Hedy Lamarr",
-    photo: "./images/placeholder.jpg",
+    photo: "./images/hedy-lamarr.jpg",
     birthDate: "1914",
     deathDate: "2000",
     country: "Austria/United States",
@@ -376,7 +376,7 @@ const pioneers = [
   },
   {
     name: "Shirley Ann Jackson",
-    photo: "./images/placeholder.jpg",
+    photo: "./images/shirley-ann-jackson.jpg",
     birthDate: "1946",
     country: "United States",
     fields: ["Physics", "Engineering"],
@@ -395,7 +395,7 @@ const pioneers = [
   },
   {
     name: "Rachel Carson",
-    photo: "./images/placeholder.jpg",
+    photo: "./images/rachel-carson.jpg",
     birthDate: "1907",
     deathDate: "1964",
     country: "United States",
@@ -415,7 +415,7 @@ const pioneers = [
   },
   {
     name: "Ada Lovelace",
-    photo: "./images/placeholder.jpg",
+    photo: "./images/ada-lovelace.jpg",
     birthDate: "1815",
     deathDate: "1852",
     country: "United Kingdom",
@@ -434,7 +434,7 @@ const pioneers = [
   },
   {
     name: "Marie Curie",
-    photo: "./images/placeholder.jpg",
+    photo: "./images/marie-curie.jpg",
     birthDate: "1867",
     deathDate: "1934",
     country: "Poland/France",
@@ -453,7 +453,7 @@ const pioneers = [
   },
   {
     name: "Chien-Shiung Wu",
-    photo: "./images/placeholder.jpg",
+    photo: "./images/chien-shiung-wu.jpg",
     birthDate: "1912",
     deathDate: "1997",
     country: "China/United States",
@@ -473,7 +473,7 @@ const pioneers = [
   },
   {
     name: "Caroline Keep",
-    photo: "./images/placeholder.jpg",
+    photo: "./images/caroline-keep.jpg",
     birthDate: "1980",
     country: "United Kingdom",
     fields: ["Education", "Technology"],
@@ -535,7 +535,7 @@ const pioneers = [
   },
   {
     name: "Tu Youyou",
-    photo: "./images/tu-youyou.svg",
+    photo: "./images/tu-youyou.jpg",
     birthDate: "1930",
     country: "China",
     fields: ["Medicine", "Pharmacology"],
@@ -824,7 +824,7 @@ const pioneers = [
   },
   {
     name: "Mary Golda Ross",
-    photo: "./images/mary-golda-ross.svg",
+    photo: "./images/mary-golda-ross.jpg",
     birthDate: "1908",
     deathDate: "2008",
     country: "United States (Cherokee Nation)",
@@ -862,7 +862,7 @@ const pioneers = [
   },
   {
     name: "Alice Augusta Ball",
-    photo: "./images/alice-ball.svg",
+    photo: "./images/alice-ball.jpg",
     birthDate: "1892",
     deathDate: "1916",
     country: "United States",
@@ -937,7 +937,7 @@ const pioneers = [
   },
   {
     name: "Dorothy Mary Crowfoot Hodgkin",
-    photo: "./images/dorothy-hodgkin.svg",
+    photo: "./images/dorothy-hodgkin.jpg",
     birthDate: "1910",
     deathDate: "1994",
     country: "United Kingdom",
@@ -988,7 +988,7 @@ const pioneers = [
   },
   {
     name: "Tu Youyou",
-    photo: "./images/tu-youyou.svg",
+    photo: "./images/tu-youyou.jpg",
     birthDate: "1930",
     country: "China",
     fields: ["Chemistry", "Phytomedicine"],
@@ -1263,7 +1263,7 @@ const pioneers = [
   },
   {
     name: "Janaki Ammal",
-    photo: "./images/placeholder.jpg",
+    photo: "./images/janaki-ammal.jpg",
     birthDate: "1897",
     deathDate: "1984",
     country: "India",
