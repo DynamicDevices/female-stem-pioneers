@@ -630,8 +630,20 @@ class PioneersApp {
 
   // Helper method to create collapsible sections
   createCollapsibleSection(title, content) {
+    // For debugging, let's always show at least one section
     if (!content || content.trim() === '') {
-      return '';
+      // Return a placeholder section for testing
+      return `
+        <div class="collapsible-section">
+          <button class="section-toggle" onclick="window.pioneersApp.toggleSection(this)">
+            <span class="section-title">${title}</span>
+            <span class="toggle-icon">▼</span>
+          </button>
+          <div class="section-content" style="display: none;">
+            <p>Content for this section is being generated...</p>
+          </div>
+        </div>
+      `;
     }
     
     return `
