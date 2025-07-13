@@ -482,7 +482,7 @@ const pioneers = [
   },
   {
     "name": "Rachel Carson",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1907",
     "deathDate": "1964",
     "country": "United States",
@@ -539,7 +539,7 @@ const pioneers = [
   },
   {
     "name": "Caroline Keep",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1980",
     "country": "United Kingdom",
     "fields": [
@@ -876,7 +876,7 @@ const pioneers = [
   },
   {
     "name": "Grace Chisholm Young",
-    "photo": "./images/grace-chisholm-young.svg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1868",
     "deathDate": "1944",
     "country": "United Kingdom",
@@ -961,7 +961,7 @@ const pioneers = [
   },
   {
     "name": "Sophie Germain",
-    "photo": "./images/sophie-germain.svg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1776",
     "deathDate": "1831",
     "country": "France",
@@ -1276,7 +1276,7 @@ const pioneers = [
   },
   {
     "name": "Caroline Herschel",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1750",
     "deathDate": "1848",
     "country": "Germany/United Kingdom",
@@ -1333,7 +1333,7 @@ const pioneers = [
   },
   {
     "name": "Mariam Al-Astrulabi",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "950",
     "deathDate": "1000",
     "country": "Syria",
@@ -1391,7 +1391,7 @@ const pioneers = [
   },
   {
     "name": "Yvonne Brill",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1924",
     "deathDate": "2013",
     "country": "Canada/United States",
@@ -1506,7 +1506,7 @@ const pioneers = [
   },
   {
     "name": "Agnes Pockels",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1862",
     "deathDate": "1935",
     "country": "Germany",
@@ -1535,7 +1535,7 @@ const pioneers = [
   },
   {
     "name": "Hertha Ayrton",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1854",
     "deathDate": "1923",
     "country": "United Kingdom",

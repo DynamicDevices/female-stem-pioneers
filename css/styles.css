@@ -2984,3 +2984,85 @@ body.light-theme .mobile-menu-toggle span {
     bottom: 130%;
   }
 }
+
+/* CSS Placeholder Icon - Woman Waving */
+.placeholder-woman {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: linear-gradient(135deg, #e2e8f0 0%, #f1f5f9 100%);
+  border-radius: 50%;
+  border: 2px solid #cbd5e1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.placeholder-woman::before {
+  content: '';
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  background: #64748b;
+  border-radius: 50%;
+  top: 20px;
+}
+
+.placeholder-woman::after {
+  content: '';
+  position: absolute;
+  width: 80px;
+  height: 100px;
+  background: #64748b;
+  border-radius: 40px 40px 20px 20px;
+  top: 80px;
+}
+
+/* Waving arm */
+.placeholder-woman .wave-arm {
+  position: absolute;
+  width: 40px;
+  height: 60px;
+  background: #64748b;
+  border-radius: 20px;
+  top: 60px;
+  left: 30px;
+  transform: rotate(-30deg);
+  transform-origin: bottom center;
+  animation: wave 2s ease-in-out infinite;
+}
+
+@keyframes wave {
+  0%, 100% { transform: rotate(-30deg); }
+  50% { transform: rotate(-10deg); }
+}
+
+/* Face features */
+.placeholder-woman .eyes {
+  position: absolute;
+  top: 45px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 20px;
+}
+
+.placeholder-woman .eye {
+  width: 8px;
+  height: 8px;
+  background: #f1f5f9;
+  border-radius: 50%;
+}
+
+.placeholder-woman .smile {
+  position: absolute;
+  width: 30px;
+  height: 15px;
+  border: 2px solid #f1f5f9;
+  border-top: none;
+  border-radius: 0 0 30px 30px;
+  top: 65px;
+  left: 50%;
+  transform: translateX(-50%);
+}
