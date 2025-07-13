@@ -1,6 +1,27 @@
 // Female STEM Pioneers - Interactive App
 // Handles search, filtering, sorting, and display of pioneer cards
 
+// Add this function at the top-level (global scope), before the PioneersApp class
+defineSetFallbackIcon();
+
+function defineSetFallbackIcon() {
+  if (typeof window.setFallbackIcon !== 'function') {
+    window.setFallbackIcon = function(imgElement, fallbackEmoji) {
+      imgElement.onerror = null;
+      const parent = imgElement.parentElement;
+      if (!parent) return;
+      // Remove the failed image
+      parent.removeChild(imgElement);
+      // Create the fallback icon element
+      const fallbackDiv = document.createElement('div');
+      fallbackDiv.className = 'fallback-icon';
+      fallbackDiv.textContent = fallbackEmoji;
+      parent.appendChild(fallbackDiv);
+      console.log('Fallback icon injected:', fallbackDiv.outerHTML);
+    };
+  }
+}
+
 class PioneersApp {
   constructor() {
     this.pioneers = window.pioneers || [];
@@ -132,21 +153,19 @@ class PioneersApp {
   /**
    * Get appropriate fallback icon for a pioneer using the IconMapping system
    * @param {Object} pioneer - Pioneer object
-   * @returns {string} - Fallback icon HTML
+   * @returns {string} - Fallback icon emoji character
    */
   getFallbackIcon(pioneer) {
     // Check if IconMapping is available
     if (typeof IconMapping !== 'undefined') {
       try {
-        const icon = IconMapping.getIconForPioneer(pioneer);
-        return `<div class="fallback-icon" style="font-size: 3em; text-align: center; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">${icon}</div>`;
+        return IconMapping.getIconForPioneer(pioneer);
       } catch (error) {
         console.warn('IconMapping failed, using default fallback:', error);
       }
     }
-    
     // Default fallback if IconMapping is not available
-    return `<div class="fallback-icon" style="font-size: 3em; text-align: center; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">👩‍🔬</div>`;
+    return '👩‍🔬';
   }
 
   createPioneerCard(pioneer, index) {
@@ -261,7 +280,7 @@ class PioneersApp {
           <img data-src="${pioneer.photo}" alt="Portrait of ${pioneer.name}" 
                class="lazy-image"
                src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iNDAiIGN5PSI0MCIgcj0iMzUiIGZpbGw9IiNmMWY1ZjkiIHN0cm9rZT0iI2M2ZDdkZCIgc3Ryb2tlLXdpZHRoPSIyIi8+PHRleHQgeD0iNDAiIHk9IjQ1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjNjQ3NDhiIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9IjUwMCI+8J+RjTwvdGV4dD48L3N2Zz4="
-               onerror="this.onerror=null;this.parentElement.innerHTML='${fallbackIcon.replace(/'/g, "\\'")}';" 
+               onerror="setFallbackIcon(this, '${fallbackIcon}')" 
                onload="this.classList.add('loaded')"
                onclick="window.pioneersApp.openImageModal('${pioneer.photo}', '${pioneer.name}', '${pioneer.birthDate}', '${pioneer.deathDate}', '${pioneer.country}')"
                style="cursor: pointer;">
@@ -285,23 +304,20 @@ class PioneersApp {
           </blockquote>
         </div>
         
-        ${shortDescription}
+        <div class="pioneer-short-description" style="${pioneer.shortDescription ? 'display: block;' : 'display: none;'}">
+          <h4>About ${pioneer.name}</h4>
+          <p>${pioneer.shortDescription || ''}</p>
+        </div>
         
         <div class="pioneer-achievements">
           <h4>Key Achievements</h4>
           <ul>${achievementsList}</ul>
         </div>
 
-        ${
-          pioneer.fun_fact && pioneer.fun_fact.trim()
-            ? `
-        <div class="pioneer-fun-fact">
+        <div class="pioneer-fun-fact" style="${pioneer.fun_fact && pioneer.fun_fact.trim() ? 'display: block;' : 'display: none;'}">
           <h4>Fun Fact</h4>
-          <p>${pioneer.fun_fact}</p>
+          <p>${pioneer.fun_fact || ''}</p>
         </div>
-        `
-            : ""
-        }
 
         <div class="pioneer-study-path">
           <h4>Follow in Her Footsteps</h4>
@@ -309,7 +325,9 @@ class PioneersApp {
         </div>
       </div>
 
-      ${this.createActionButtons(pioneer)}
+      <div class="pioneer-actions">
+        ${this.createActionButtons(pioneer)}
+      </div>
     `;
 
     return card;

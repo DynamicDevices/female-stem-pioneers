@@ -9,6 +9,7 @@ A static web app celebrating women pioneers in STEM fields. Features:
 - Easy to add new pioneers via `add-pioneer.js`
 - **Comprehensive field explanations and filter options for all STEM fields represented in the data**
 - **Codebase is auto-formatted and linted for consistency and quality**
+- **Icon mapping system with diverse skin tone representation** (see `icon-mapping-demo.html`)
 
 ## Current Metrics
 
@@ -19,6 +20,17 @@ A static web app celebrating women pioneers in STEM fields. Features:
 1. Clone the repo
 2. Run a static server (e.g. `python3 -m http.server 8000`)
 3. Open `http://localhost:8000` in your browser
+
+## Icon Mapping System
+
+The project includes an advanced icon mapping system that automatically assigns appropriate emoji icons to pioneers based on their fields and regional background:
+
+- **Field-based mapping**: Computer Science → 👩‍💻 Technologist, Physics → 👩‍🔬 Scientist, etc.
+- **Diverse skin tone representation**: Icons reflect the pioneer's regional background
+- **Single Unicode characters**: Proper combining sequences for consistent display
+- **Demo available**: See `icon-mapping-demo.html` for examples and implementation details
+
+The system ensures inclusive representation across all skin tones and STEM fields.
 
 ## Contributing
 

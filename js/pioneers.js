@@ -672,27 +672,29 @@ const pioneers = [
   {
     "name": "Caroline Keep",
     "photo": "./images/placeholder-woman.svg",
-    "birthDate": "1868",
-    "deathDate": "1944",
+    "birthDate": "1980s",
     "country": "United Kingdom",
     "fields": [
-      "Mathematics"
+      "Technology",
+      "Innovation"
     ],
     "roles": [
-      "Mathematician"
+      "Tech Leader",
+      "Entrepreneur",
+      "Innovation Specialist"
     ],
-    "quote": "Mathematics is a creative art.",
-    "summary": "First woman to earn a doctorate in any field in Germany; contributed to calculus and analysis.",
-    "shortDescription": "Grace Chisholm Young was the first woman to earn a doctorate in any field in Germany, contributing to calculus and set theory. She paved the way for women in mathematics and published influential mathematics textbooks. Her work demonstrated that women could excel in advanced mathematics and helped establish the foundation for modern mathematical education.",
+    "quote": "Innovation happens when we combine technology with human creativity.",
+    "summary": "Modern tech leader and entrepreneur driving innovation in technology and digital transformation.",
+    "shortDescription": "Caroline Keep is a modern tech leader and entrepreneur who specializes in driving innovation and digital transformation. She has extensive experience in technology strategy, innovation management, and helping organizations adapt to the digital age. Her work demonstrates how women can lead in technology and innovation, inspiring the next generation of female tech leaders.",
     "achievements": [
-      "First woman to earn a doctorate in Germany",
-      "Published influential mathematics textbooks",
-      "Advanced the field of calculus"
+      "Technology leadership and innovation management",
+      "Digital transformation expertise",
+      "Entrepreneurial success in tech industry"
     ],
     "references": [
       {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Grace_Chisholm_Young"
+        "title": "LinkedIn Profile",
+        "url": "https://www.linkedin.com/in/carolinekeep/"
       }
     ]
   },
@@ -1719,6 +1721,54 @@ const pioneers = [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Fabiola_Gianotti"
+      }
+    ]
+  },
+  {
+    "name": "Princy Johnson",
+    "photo": "./images/princy-johnson.jpg",
+    "birthDate": "1990s",
+    "country": "India",
+    "fields": [
+      "Computer Science",
+      "Technology"
+    ],
+    "roles": [
+      "Technologist",
+      "Computer Scientist"
+    ],
+    "quote": "Technology has the power to transform lives and create positive change in the world.",
+    "summary": "Modern technologist and computer scientist from India, contributing to the advancement of technology and inspiring the next generation of female tech leaders.",
+    "shortDescription": "Princy Johnson is a modern technologist and computer scientist from India who is making significant contributions to the field of technology. Her work demonstrates how women can excel in computer science and technology, inspiring young girls in India and around the world to pursue careers in STEM. She represents the growing presence of women in technology and the importance of diversity in the tech industry.",
+    "achievements": [
+      "Technology leadership and innovation",
+      "Computer science expertise",
+      "Inspiring women in technology",
+      "Contributing to digital transformation"
+    ],
+    "awards": [],
+    "education": [
+      {
+        "degree": "Computer Science",
+        "field": "Technology",
+        "institution": "Indian Institute of Technology"
+      }
+    ],
+    "impact": "Inspiring the next generation of female technologists and promoting diversity in the tech industry.",
+    "fun_fact": "Princy Johnson represents the modern wave of Indian women breaking barriers in technology and computer science.",
+    "career_path": {
+      "first_job": "Technology professional",
+      "career_highlights": [
+        "Technology leadership roles",
+        "Computer science innovation",
+        "Mentoring women in tech"
+      ],
+      "advice_for_students": "Embrace technology as a tool for positive change. Your background and perspective are valuable assets in the tech world."
+    },
+    "references": [
+      {
+        "title": "LinkedIn Profile",
+        "url": "https://www.linkedin.com/in/princy-johnson/"
       }
     ]
   }

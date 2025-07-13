@@ -97,13 +97,26 @@ const IconMapping = {
         physical_chemistry: "scientist",
         analytical_chemistry: "scientist",
         
-        // Physics
+        // Physics and Astronomy
         physics: "scientist",
-        theoretical_physics: "mathematician",
-        quantum_physics: "scientist",
-        nuclear_physics: "scientist",
         astrophysics: "astronaut",
+        nuclear_physics: "scientist",
+        quantum_physics: "scientist",
+        theoretical_physics: "scientist",
+        experimental_physics: "scientist",
+        optics: "scientist",
+        acoustics: "scientist",
+        mechanics: "scientist",
+        thermodynamics: "scientist",
+        relativity: "scientist",
         particle_physics: "scientist",
+        condensed_matter: "scientist",
+        plasma_physics: "scientist",
+        astronomy: "astronaut",
+        cosmology: "astronaut",
+        planetary_science: "astronaut",
+        space_exploration: "astronaut",
+        satellite_technology: "astronaut",
         
         // Mathematics
         mathematics: "mathematician",
@@ -147,14 +160,6 @@ const IconMapping = {
         public_health: "doctor",
         nursing: "doctor",
         dentistry: "doctor",
-        
-        // Space and Astronomy
-        astronomy: "astronaut",
-        astrophysics: "astronaut",
-        cosmology: "astronaut",
-        planetary_science: "astronaut",
-        space_exploration: "astronaut",
-        satellite_technology: "astronaut",
         
         // Education and Academia
         education: "professor",
