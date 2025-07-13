@@ -5965,6 +5965,192 @@ const pioneers = [
       ],
       "cultural_contributions": "Broke barriers for African American women in mathematics and computer science"
     }
+  },
+  {
+    "name": "Annie Easley",
+    "photo": "./images/annie-easley.jpg",
+    "birthDate": "1933",
+    "deathDate": "2011",
+    "country": "United States",
+    "fields": [
+      "Mathematics",
+      "Computer Programming"
+    ],
+    "roles": [
+      "Mathematician",
+      "Computer Programmer",
+      "Rocket Scientist"
+    ],
+    "quote": "When people have their biases and prejudices, yes, I am aware. My head is not in the sand. But my thing is, if I can't work with you, I will work around you. I was not about to be so discouraged that I'd walk away.",
+    "summary": "NASA mathematician and computer programmer who worked on rocket propulsion systems and energy conversion.",
+    "shortDescription": "Annie Easley was a NASA mathematician and computer programmer who worked on rocket propulsion systems and energy conversion research. She helped develop software for the Centaur rocket stage and worked on alternative energy projects. Annie's work showed how women could excel in both mathematics and computer programming, and she became a mentor to many other women in STEM fields.",
+    "detailed_description": {
+      "early_life": "Born in 1933 in Alabama, Annie showed early talent in mathematics. She earned a degree in mathematics and began working for NASA's predecessor NACA in 1955.",
+      "stem_journey": "Annie worked as a mathematician and computer programmer at NASA for 34 years, developing software for rocket propulsion systems and energy conversion research.",
+      "challenges": "Faced racial and gender discrimination, had to prove herself in male-dominated fields, and adapted to new computer technology.",
+      "achievements": "Worked on rocket propulsion systems, developed software for Centaur rocket, and contributed to energy conversion research for 34 years at NASA.",
+      "legacy": "Pioneered computer programming in aerospace and inspired African American women in STEM fields."
+    },
+    "achievements": [
+      "Worked at NASA for 34 years",
+      "Developed software for Centaur rocket",
+      "Contributed to energy conversion research",
+      "Pioneered computer programming in aerospace"
+    ],
+    "awards": [
+      "NASA Group Achievement Award",
+      "Recognition for contributions to space program"
+    ],
+    "publications": [
+      {
+        "title": "Contributions to NASA Space Program",
+        "url": "https://www.nasa.gov/centers/glenn/about/bios/easley.html"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Mathematics",
+        "institution": "Cleveland State University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1955,
+        "event": "Joined NACA (later NASA) as mathematician"
+      },
+      {
+        "year": 1958,
+        "event": "NASA formed from NACA"
+      },
+      {
+        "year": 1965,
+        "event": "Developed software for Centaur rocket"
+      },
+      {
+        "year": 1989,
+        "event": "Retired from NASA after 34 years"
+      }
+    ],
+    "barriers": [
+      "Faced racial and gender discrimination",
+      "Had to prove herself in male-dominated fields",
+      "Adapted to new computer technology"
+    ],
+    "impact": "Pioneered computer programming in aerospace and inspired African American women in STEM.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Annie Easley: NASA Computer Programmer",
+        "url": "https://www.nasa.gov/centers/glenn/about/bios/easley.html"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Annie_Easley"
+      },
+      {
+        "title": "NASA",
+        "url": "https://www.nasa.gov/centers/glenn/about/bios/easley.html"
+      }
+    ],
+    "mentorship": "Became a mentor to many women in STEM and inspired African American women in computer programming.",
+    "fun_fact": "Annie Easley was one of only four African American employees at NASA's Lewis Research Center when she started in 1955.",
+    "career_path": {
+      "first_job": "Mathematician at NACA",
+      "career_highlights": [
+        "Worked at NASA for 34 years",
+        "Developed rocket propulsion software",
+        "Contributed to energy research"
+      ],
+      "advice_for_students": "Don't let discrimination stop you. Focus on your work and let your abilities speak for themselves."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+        "Women in Science: 50 Fearless Pioneers Who Changed the World"
+      ],
+      "websites": [
+        "nasa.gov",
+        "code.org",
+        "womeninscience.org"
+      ],
+      "programs": [
+        "Computer programming camps",
+        "Mathematics competitions",
+        "Women in STEM mentorship"
+      ],
+      "advice": "Learn to adapt to new technologies and don't be afraid to learn new skills throughout your career."
+    },
+    "challenges": {
+      "academic": [
+        "Limited opportunities for African American women in STEM"
+      ],
+      "professional": [
+        "Racial and gender discrimination",
+        "Adapting to new computer technology"
+      ],
+      "personal": [
+        "Being one of very few African American women at NASA",
+        "Proving her capabilities to skeptical colleagues"
+      ],
+      "how_overcame": "Used determination and adaptability to learn new skills and prove her capabilities"
+    },
+    "education_details": {
+      "high_school": "Excelled in mathematics",
+      "college_major": "Mathematics",
+      "graduate_school": "Bachelor's in Mathematics from Cleveland State",
+      "key_courses": [
+        "Mathematics",
+        "Computer Programming",
+        "Rocket Propulsion",
+        "Energy Systems"
+      ],
+      "study_tips": "Master the fundamentals and be willing to learn new technologies as they emerge"
+    },
+    "modern_impact": {
+      "current_applications": "Her work laid foundation for computer programming in aerospace",
+      "companies_using_her_work": [
+        "NASA",
+        "Aerospace companies",
+        "Technology companies"
+      ],
+      "future_implications": "Inspired more African American women to pursue careers in computer science and mathematics"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Problem solving",
+        "Space exploration",
+        "Computer programming"
+      ],
+      "family_background": "Encouraged education and mathematical ability",
+      "hobbies": [
+        "Reading",
+        "Problem solving",
+        "Mentoring others"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Adaptable",
+        "Persistent",
+        "Mentoring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "African American",
+      "cultural_influences": [
+        "African American cultural values",
+        "American space program",
+        "Civil rights movement"
+      ],
+      "cultural_challenges": [
+        "Racial discrimination in workplace",
+        "Limited representation of African American women in STEM"
+      ],
+      "cultural_contributions": "Broke barriers for African American women in computer programming and aerospace"
+    }
   }
 ];
 
