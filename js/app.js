@@ -1170,19 +1170,8 @@ class PioneersApp {
   }
 }
 
-// Initialize the app when DOM is loaded and pioneers data is available
+// Initialize the app when DOM is loaded
 document.addEventListener("DOMContentLoaded", () => {
-  // Wait for pioneers data to be available
-  if (window.pioneers && window.pioneers.length > 0) {
-    window.pioneersApp = new PioneersApp();
-  } else {
-    // If pioneers data isn't available yet, wait a bit and try again
-    setTimeout(() => {
-      if (window.pioneers && window.pioneers.length > 0) {
-        window.pioneersApp = new PioneersApp();
-      } else {
-        console.error("Pioneers data not available");
-      }
-    }, 100);
-  }
+  // Initialize the app - it will load pioneers asynchronously
+  window.pioneersApp = new PioneersApp();
 });
