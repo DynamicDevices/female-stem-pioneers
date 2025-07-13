@@ -5594,6 +5594,192 @@ const pioneers = [
       ],
       "cultural_contributions": "Broke barriers for women in genetics and showed the importance of persistence in science"
     }
+  },
+  {
+    "name": "Dorothy Vaughan",
+    "photo": "./images/dorothy-vaughan.jpg",
+    "birthDate": "1910",
+    "deathDate": "2008",
+    "country": "United States",
+    "fields": [
+      "Mathematics",
+      "Computer Programming"
+    ],
+    "roles": [
+      "Mathematician",
+      "Computer Programmer",
+      "NASA Supervisor"
+    ],
+    "quote": "I changed what I could, and what I couldn't, I endured.",
+    "summary": "NASA mathematician and computer programmer who led the West Area Computing Unit and transitioned to computer programming.",
+    "shortDescription": "Dorothy Vaughan was a NASA mathematician and computer programmer who led the West Area Computing Unit, a group of African American women mathematicians. She taught herself FORTRAN programming and became one of NASA's first computer programmers, helping to calculate rocket trajectories and orbital paths. Dorothy's leadership and adaptability showed how women could excel in both mathematics and the new field of computer programming.",
+    "detailed_description": {
+      "early_life": "Born in 1910 in Missouri, Dorothy showed exceptional talent in mathematics. She earned a degree in mathematics and became a teacher before joining NASA's predecessor NACA.",
+      "stem_journey": "Dorothy joined NACA (later NASA) as a mathematician and became supervisor of the West Area Computing Unit. She taught herself FORTRAN programming and transitioned to computer programming.",
+      "challenges": "Faced racial and gender discrimination, had to prove herself in male-dominated fields, and adapted to new technology as computers replaced human computers.",
+      "achievements": "Led the West Area Computing Unit, became one of NASA's first computer programmers, and helped calculate rocket trajectories for space missions.",
+      "legacy": "Pioneered the transition from human computers to computer programming and inspired African American women in STEM fields."
+    },
+    "achievements": [
+      "Led NASA's West Area Computing Unit",
+      "Became one of NASA's first computer programmers",
+      "Calculated rocket trajectories for space missions",
+      "Pioneered transition from human computers to programming"
+    ],
+    "awards": [
+      "NASA Group Achievement Award",
+      "Recognition for contributions to space program"
+    ],
+    "publications": [
+      {
+        "title": "Contributions to NASA Space Program",
+        "url": "https://www.nasa.gov/centers/langley/news/releases/2019/19-001.html"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Mathematics",
+        "institution": "Wilberforce University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1943,
+        "event": "Joined NACA (later NASA) as mathematician"
+      },
+      {
+        "year": 1949,
+        "event": "Became supervisor of West Area Computing Unit"
+      },
+      {
+        "year": 1958,
+        "event": "NASA formed from NACA"
+      },
+      {
+        "year": 1960,
+        "event": "Transitioned to computer programming"
+      }
+    ],
+    "barriers": [
+      "Faced racial and gender discrimination",
+      "Had to prove herself in male-dominated fields",
+      "Adapted to new computer technology"
+    ],
+    "impact": "Pioneered the transition from human computers to computer programming and inspired African American women in STEM.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Dorothy Vaughan: NASA Mathematician and Computer Programmer",
+        "url": "https://www.nasa.gov/centers/langley/news/releases/2019/19-001.html"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dorothy_Vaughan"
+      },
+      {
+        "title": "NASA",
+        "url": "https://www.nasa.gov/centers/langley/news/releases/2019/19-001.html"
+      }
+    ],
+    "mentorship": "Led and mentored African American women mathematicians and inspired future generations in STEM.",
+    "fun_fact": "Dorothy Vaughan taught herself FORTRAN programming language to stay relevant as computers replaced human computers.",
+    "career_path": {
+      "first_job": "Mathematics teacher",
+      "career_highlights": [
+        "Led West Area Computing Unit",
+        "Became computer programmer",
+        "Calculated rocket trajectories"
+      ],
+      "advice_for_students": "Be adaptable and willing to learn new skills. Technology changes, but your mathematical foundation stays with you."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+        "Women in Science: 50 Fearless Pioneers Who Changed the World"
+      ],
+      "websites": [
+        "nasa.gov",
+        "code.org",
+        "womeninscience.org"
+      ],
+      "programs": [
+        "Computer programming camps",
+        "Mathematics competitions",
+        "Women in STEM mentorship"
+      ],
+      "advice": "Learn the fundamentals well - they will serve you throughout your career, even as technology changes."
+    },
+    "challenges": {
+      "academic": [
+        "Limited opportunities for African American women in STEM"
+      ],
+      "professional": [
+        "Racial and gender discrimination",
+        "Adapting to new computer technology"
+      ],
+      "personal": [
+        "Balancing family and demanding career",
+        "Being a role model for African American community"
+      ],
+      "how_overcame": "Used determination and adaptability to learn new skills and prove her capabilities"
+    },
+    "education_details": {
+      "high_school": "Excelled in mathematics",
+      "college_major": "Mathematics",
+      "graduate_school": "Bachelor's in Mathematics from Wilberforce",
+      "key_courses": [
+        "Mathematics",
+        "Computer Programming",
+        "FORTRAN",
+        "Management"
+      ],
+      "study_tips": "Master the fundamentals and be willing to learn new technologies as they emerge"
+    },
+    "modern_impact": {
+      "current_applications": "Her work laid foundation for computer programming in aerospace",
+      "companies_using_her_work": [
+        "NASA",
+        "Aerospace companies",
+        "Technology companies"
+      ],
+      "future_implications": "Inspired more African American women to pursue careers in computer science and mathematics"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Teaching",
+        "Problem solving",
+        "Leadership"
+      ],
+      "family_background": "Encouraged education and mathematical ability",
+      "hobbies": [
+        "Reading",
+        "Problem solving",
+        "Mentoring others"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Adaptable",
+        "Leadership-oriented",
+        "Mentoring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "African American",
+      "cultural_influences": [
+        "African American cultural values",
+        "American space program",
+        "Civil rights movement"
+      ],
+      "cultural_challenges": [
+        "Racial discrimination in workplace",
+        "Limited opportunities for African American women"
+      ],
+      "cultural_contributions": "Broke barriers for African American women in STEM and became a leader in computer programming"
+    }
   }
 ];
 
