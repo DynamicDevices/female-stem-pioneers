@@ -316,11 +316,6 @@ class PioneersApp {
           <h4>About ${pioneer.name}</h4>
           <p>${pioneer.shortDescription || ''}</p>
         </div>
-        
-        <div class="pioneer-achievements">
-          <h4>Major Achievements</h4>
-          <ul>${achievementsList}</ul>
-        </div>
 
         <div class="pioneer-fun-fact" style="${pioneer.fun_fact && pioneer.fun_fact.trim() ? 'display: block;' : 'display: none;'}">
           <h4>Fun Fact</h4>
