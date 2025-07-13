@@ -7346,6 +7346,35 @@ const pioneers = [
         "url": "https://en.wikipedia.org/wiki/Radia_Perlman"
       }
     ]
+  },
+  {
+    "name": "Ada Yonath",
+    "photo": "./images/ada-yonath.jpg",
+    "birthDate": "1939",
+    "country": "Israel",
+    "fields": [
+      "Crystallography",
+      "Biochemistry"
+    ],
+    "roles": [
+      "Crystallographer",
+      "Nobel Laureate"
+    ],
+    "quote": "Science is about curiosity and persistence.",
+    "summary": "Nobel Prize-winning crystallographer who determined the structure of ribosomes.",
+    "shortDescription": "Ada Yonath is a Nobel Prize-winning crystallographer who determined the structure of ribosomes, the protein-making machines in cells. Her work has been crucial for developing new antibiotics and understanding how life works at the molecular level.",
+    "achievements": [
+      "Won Nobel Prize in Chemistry",
+      "Determined ribosome structure",
+      "Pioneered cryo-crystallography",
+      "Developed new antibiotic targets"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ada_Yonath"
+      }
+    ]
   }
 ];
 
