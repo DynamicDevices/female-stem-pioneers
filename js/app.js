@@ -173,7 +173,8 @@ class PioneersApp {
     };
     if (typeof window !== 'undefined' && window.IconMapping && typeof window.IconMapping.getIconForPioneer === 'function') {
       try {
-        return window.IconMapping.getIconForPioneer(meta);
+        const icon = window.IconMapping.getIconForPioneer(meta);
+        return icon;
       } catch (error) {
         console.warn('IconMapping failed, using default fallback:', error);
       }
