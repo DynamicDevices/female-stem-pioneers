@@ -3426,17 +3426,170 @@ const pioneers = [
     "quote": "What you do makes a difference, and you have to decide what kind of difference you want to make.",
     "summary": "World-renowned primatologist who transformed our understanding of chimpanzees and animal behavior.",
     "shortDescription": "Jane Goodall was a world-renowned primatologist who transformed our understanding of chimpanzees and animal behavior. She founded the Jane Goodall Institute and was the UN Messenger of Peace. Her groundbreaking research showed that chimpanzees use tools and have complex social relationships, revolutionizing our understanding of animal intelligence and conservation.",
+    "detailed_description": {
+      "early_life": "Born in London, Jane showed a deep love for animals from an early age. She dreamed of working with animals in Africa and saved money to travel there, eventually meeting Louis Leakey who gave her the opportunity to study chimpanzees.",
+      "stem_journey": "Jane began her groundbreaking research on chimpanzees in Gombe, Tanzania in 1960. She revolutionized primatology by living among the chimpanzees and observing their behavior, discovering that they use tools and have complex social relationships.",
+      "challenges": "Faced skepticism from the scientific community for her unconventional research methods. She had no formal scientific training initially and had to prove that her observations were valid scientific research.",
+      "achievements": "Transformed primatology by discovering chimpanzees use tools, founded the Jane Goodall Institute, became UN Messenger of Peace, and revolutionized our understanding of animal intelligence and conservation.",
+      "legacy": "Jane opened doors for women in primatology and conservation. Her work fundamentally changed how we understand animal intelligence and the relationship between humans and other species."
+    },
     "achievements": [
       "Transformed primatology",
       "Founded the Jane Goodall Institute",
       "UN Messenger of Peace"
+    ],
+    "awards": [
+      "UN Messenger of Peace",
+      "Dame Commander of the Order of the British Empire",
+      "Hubbard Medal from National Geographic"
+    ],
+    "publications": [
+      {
+        "title": "In the Shadow of Man",
+        "url": "https://janegoodall.org/"
+      },
+      {
+        "title": "Through a Window: My Thirty Years with the Chimpanzees of Gombe",
+        "url": "https://janegoodall.org/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Ethology",
+        "institution": "University of Cambridge"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1934,
+        "event": "Born in London, England"
+      },
+      {
+        "year": 1960,
+        "event": "Began chimpanzee research in Gombe"
+      },
+      {
+        "year": 1965,
+        "event": "Earned PhD from Cambridge"
+      },
+      {
+        "year": 1977,
+        "event": "Founded the Jane Goodall Institute"
+      },
+      {
+        "year": 2002,
+        "event": "Named UN Messenger of Peace"
+      }
+    ],
+    "barriers": [
+      "No formal scientific training initially",
+      "Skepticism from scientific community",
+      "Unconventional research methods"
+    ],
+    "impact": "Revolutionized primatology and conservation, fundamentally changing our understanding of animal intelligence.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Jane Goodall: The Woman Who Redefined Man",
+        "url": "https://www.nationalgeographic.com/magazine/article/jane-goodall"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Jane_Goodall"
       }
-    ]
+    ],
+    "mentorship": "Inspired generations of women in primatology and conservation through her groundbreaking research and advocacy.",
+    "fun_fact": "Jane's first discovery was that chimpanzees use tools - she observed them using sticks to fish for termites, which was previously thought to be a uniquely human behavior.",
+    "career_path": {
+      "first_job": "Secretary and waitress to save money for Africa",
+      "career_highlights": [
+        "Pioneering chimpanzee research",
+        "Founding the Jane Goodall Institute",
+        "Global conservation advocacy"
+      ],
+      "advice_for_students": "Follow your passion and don't let anyone tell you what you can't do. Sometimes the best discoveries come from unconventional approaches."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "My Life with the Chimpanzees",
+        "The Chimpanzees I Love"
+      ],
+      "websites": [
+        "janegoodall.org",
+        "rootsandshoots.org",
+        "nationalgeographic.com"
+      ],
+      "programs": [
+        "Roots & Shoots youth program",
+        "Conservation summer camps"
+      ],
+      "advice": "Start by observing the world around you. Every living thing has something to teach us."
+    },
+    "challenges": {
+      "academic": [
+        "No formal scientific training initially"
+      ],
+      "professional": [
+        "Skepticism from scientific community"
+      ],
+      "personal": [
+        "Living alone in the wilderness"
+      ],
+      "how_overcame": "Proved the value of her research through careful observation and documentation"
+    },
+    "education_details": {
+      "high_school": "Schools in England",
+      "college_major": "Ethology (animal behavior)",
+      "key_courses": [
+        "Animal Behavior",
+        "Conservation Biology",
+        "Field Research Methods"
+      ],
+      "study_tips": "Learn to observe carefully and record what you see. Patience is key in field research."
+    },
+    "modern_impact": {
+      "current_applications": "Her research methods influence modern conservation and animal behavior studies",
+      "companies_using_her_work": [
+        "Conservation organizations worldwide",
+        "Research institutions"
+      ],
+      "future_implications": "Her work continues to inspire conservation efforts and our understanding of animal intelligence"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Animals",
+        "Nature",
+        "Africa"
+      ],
+      "family_background": "Middle-class English family",
+      "hobbies": [
+        "Observing animals",
+        "Conservation advocacy",
+        "Writing and speaking"
+      ],
+      "personality_traits": [
+        "Compassionate",
+        "Determined",
+        "Observant",
+        "Inspiring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "British",
+      "cultural_influences": [
+        "British natural history tradition",
+        "Post-war environmental awareness",
+        "African conservation movement"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 1960s science",
+        "Colonial attitudes toward Africa"
+      ],
+      "cultural_contributions": "Demonstrated that women could excel in field research and bridge cultural gaps in conservation"
+    }
   },
   {
     "name": "Gladys West",
@@ -3454,17 +3607,171 @@ const pioneers = [
     "quote": "I never set out to be a pioneer. I just wanted to do my job well.",
     "summary": "Mathematician whose work on satellite geodesy was crucial to the development of GPS.",
     "shortDescription": "Gladys West was a mathematician whose work on satellite geodesy was crucial to the development of GPS. She pioneered satellite geodesy and developed mathematical modeling for GPS. Her work was inducted into the Air Force Space and Missile Pioneers Hall of Fame, and she helped create the mathematical foundation for the global positioning system we use today.",
+    "detailed_description": {
+      "early_life": "Born in rural Virginia, Gladys showed exceptional mathematical ability from an early age. She earned a scholarship to Virginia State College and later earned her master's degree in mathematics.",
+      "stem_journey": "Gladys worked at the Naval Surface Warfare Center for 42 years, where she developed mathematical models for satellite geodesy. Her work on satellite data processing was crucial to the development of GPS technology.",
+      "challenges": "Faced racial and gender discrimination in mathematics and engineering. She worked in a male-dominated field during the 1950s and 1960s, often being the only African American woman in her department.",
+      "achievements": "Pioneered satellite geodesy, developed mathematical modeling for GPS, and was inducted into the Air Force Space and Missile Pioneers Hall of Fame. Her work was fundamental to modern GPS technology.",
+      "legacy": "Gladys opened doors for African American women in mathematics and engineering. Her work on GPS has revolutionized navigation and location-based services worldwide."
+    },
     "achievements": [
       "Pioneered satellite geodesy",
       "Developed mathematical modeling for GPS",
       "Inducted into the Air Force Space and Missile Pioneers Hall of Fame"
+    ],
+    "awards": [
+      "Air Force Space and Missile Pioneers Hall of Fame",
+      "Virginia State University Distinguished Alumna",
+      "Recognition for GPS contributions"
+    ],
+    "publications": [
+      {
+        "title": "Satellite Geodesy and GPS Development",
+        "url": "https://www.navy.mil/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MS",
+        "field": "Mathematics",
+        "institution": "Virginia State University"
+      },
+      {
+        "degree": "BS",
+        "field": "Mathematics",
+        "institution": "Virginia State University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1930,
+        "event": "Born in rural Virginia"
+      },
+      {
+        "year": 1952,
+        "event": "Graduated from Virginia State University"
+      },
+      {
+        "year": 1956,
+        "event": "Began work at Naval Surface Warfare Center"
+      },
+      {
+        "year": 1986,
+        "event": "Published GPS mathematical models"
+      },
+      {
+        "year": 2018,
+        "event": "Inducted into Air Force Space and Missile Pioneers Hall of Fame"
+      }
+    ],
+    "barriers": [
+      "Racial discrimination in mathematics",
+      "Gender discrimination in engineering",
+      "Limited recognition for African American women"
+    ],
+    "impact": "Pioneered satellite geodesy and helped develop the mathematical foundation for GPS technology.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Gladys West: The Hidden Figure of GPS",
+        "url": "https://www.smithsonianmag.com/science-nature/gladys-west-hidden-figure-gps-180963608/"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Gladys_West"
       }
-    ]
+    ],
+    "mentorship": "Inspired future generations of African American women in mathematics and engineering through her groundbreaking work.",
+    "fun_fact": "Gladys worked on GPS development for decades before the technology became widely known to the public.",
+    "career_path": {
+      "first_job": "Mathematician at Naval Surface Warfare Center",
+      "career_highlights": [
+        "42-year career in satellite geodesy",
+        "GPS mathematical modeling",
+        "Air Force Space and Missile Pioneers Hall of Fame"
+      ],
+      "advice_for_students": "Focus on doing your best work and let your contributions speak for themselves. Mathematics can solve real-world problems."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Hidden Figures by Margot Lee Shetterly",
+        "Women in Mathematics"
+      ],
+      "websites": [
+        "nasa.gov",
+        "navy.mil",
+        "womeninmath.org"
+      ],
+      "programs": [
+        "Mathematics summer camps",
+        "GPS and navigation programs"
+      ],
+      "advice": "Study mathematics and physics to understand how the world works. Your skills can solve problems that affect millions of people."
+    },
+    "challenges": {
+      "academic": [
+        "Limited educational opportunities for African Americans"
+      ],
+      "professional": [
+        "Racial and gender discrimination in mathematics"
+      ],
+      "personal": [
+        "Being the only African American woman in her department"
+      ],
+      "how_overcame": "Focused on excellence in her work and demonstrated the value of her mathematical contributions"
+    },
+    "education_details": {
+      "high_school": "Rural Virginia schools",
+      "college_major": "Mathematics",
+      "key_courses": [
+        "Advanced Mathematics",
+        "Satellite Geodesy",
+        "Computer Programming"
+      ],
+      "study_tips": "Learn to apply mathematical concepts to real-world problems like navigation and positioning"
+    },
+    "modern_impact": {
+      "current_applications": "Her GPS work is used in navigation systems worldwide",
+      "companies_using_her_work": [
+        "GPS technology companies",
+        "Navigation systems",
+        "Smartphone manufacturers"
+      ],
+      "future_implications": "Her mathematical models continue to influence modern positioning and navigation technology"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Problem-solving",
+        "Technology"
+      ],
+      "family_background": "African American farming family",
+      "hobbies": [
+        "Mathematics research",
+        "Community service"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Analytical",
+        "Humble",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "African American",
+      "cultural_influences": [
+        "Rural Virginia upbringing",
+        "African American educational tradition",
+        "Post-war technological advancement"
+      ],
+      "cultural_challenges": [
+        "Racial discrimination in education and employment",
+        "Gender barriers in mathematics"
+      ],
+      "cultural_contributions": "Demonstrated that African American women could excel in advanced mathematics and contribute to technological innovation"
+    }
   },
   {
     "name": "Mary Cartwright",
