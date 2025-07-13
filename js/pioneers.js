@@ -16,20 +16,20 @@ const pioneers = [
       "Mathematician",
       "Writer"
     ],
-    "quote": "That brain of mine is something more than merely mortal; as time will show.",
-    "summary": "Often regarded as the first computer programmer for her work on Babbage's Analytical Engine.",
-    "shortDescription": "Ada Lovelace is often called the world's first computer programmer. She worked with Charles Babbage on his Analytical Engine and wrote the first algorithm meant for a machine. Ada believed that computers could do more than just math—they could create music and art, too! Her creative ideas inspire people to combine technology and imagination.",
+    "quote": "",
+    "summary": "Wrote the first algorithm intended for machine processing and envisioned the broader potential of computing.",
+    "shortDescription": "Ada Lovelace collaborated with Charles Babbage on his Analytical Engine and wrote the first algorithm intended for machine processing. She envisioned that computers could do more than just calculations—they could process symbols and potentially create music and art. Her work laid the foundation for modern computer programming and continues to inspire students in computer science.",
     "detailed_description": {
       "early_life": "Born in 1815 to the famous poet Lord Byron, Ada was encouraged by her mother to study mathematics and science. She showed exceptional talent from an early age and was tutored by leading scientists of the day.",
-      "stem_journey": "At age 17, Ada met Charles Babbage and became fascinated by his mechanical computer, the Analytical Engine. She translated an article about it and added her own notes, including the first computer program ever written.",
+      "stem_journey": "At age 17, Ada met Charles Babbage and became fascinated by his mechanical computer, the Analytical Engine. She translated an article about it and added her own detailed notes, including the first algorithm intended for machine processing.",
       "challenges": "As a woman in 19th-century England, Ada faced expectations to focus on domestic roles rather than science. She also struggled with health issues throughout her life.",
-      "achievements": "Ada wrote the first computer program - an algorithm for calculating numbers. She also predicted that computers could create music and graphics, envisioning their creative potential long before others.",
-      "legacy": "Ada is considered the first computer programmer, and the programming language Ada is named in her honor. She inspires millions of women in computer science today."
+      "achievements": "Ada wrote the first algorithm intended for machine processing and envisioned the broader potential of computing beyond pure calculation. She recognized that machines could process symbols and potentially create music and art.",
+      "legacy": "Ada's work on the Analytical Engine established foundational concepts in computer programming. The programming language Ada is named in her honor, and she continues to inspire women in computer science."
     },
     "achievements": [
-      "First computer programmer",
-      "Worked on Charles Babbage's Analytical Engine",
-      "Wrote the first algorithm intended for processing on a computer"
+      "Wrote the first algorithm intended for machine processing",
+      "Collaborated with Charles Babbage on the Analytical Engine",
+      "Published detailed notes on computational possibilities"
     ],
     "awards": [],
     "publications": [
@@ -75,10 +75,10 @@ const pioneers = [
     "mentorship": "Advocated for the potential of women in science and mathematics.",
     "fun_fact": "Ada was the daughter of the poet Lord Byron.",
     "career_path": {
-      "first_job": "Mathematical assistant to Charles Babbage",
+      "first_job": "Collaborator with Charles Babbage",
       "career_highlights": [
-        "Collaborated with leading scientists",
-        "Published influential mathematical papers"
+        "Translated and annotated Menabrea's article on the Analytical Engine",
+        "Wrote detailed notes on computational possibilities"
       ],
       "advice_for_students": "Follow your curiosity and don't let anyone tell you what you can't do. Mathematics and computing are for everyone."
     },
@@ -160,7 +160,8 @@ const pioneers = [
         "Aristocratic expectations vs. scientific pursuits"
       ],
       "cultural_contributions": "Bridged romantic poetry and mathematical logic, showing how creativity and logic can coexist"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Marie Curie",
@@ -5012,24 +5013,10 @@ const pioneers = [
       "achievements": "Mary discovered the first complete ichthyosaur skeleton at age 12, the first complete plesiosaur skeleton, and the first pterosaur outside Germany. Her discoveries helped establish the field of paleontology and proved that women could excel in science.",
       "legacy": "Mary's discoveries revolutionized our understanding of prehistoric life. She proved that women could make significant contributions to science without formal education, inspiring generations of female scientists."
     },
-    "achievements": [
-      "Discovered first complete ichthyosaur skeleton",
-      "Found first complete plesiosaur skeleton",
-      "Discovered first pterosaur outside Germany",
-      "Pioneered fossil hunting techniques"
-    ],
-    "awards": [],
     "publications": [
       {
         "title": "Fossil discoveries documented in scientific journals",
         "url": "https://en.wikipedia.org/wiki/Mary_Anning#Scientific_contributions"
-      }
-    ],
-    "education": [
-      {
-        "degree": "Self-taught",
-        "field": "Paleontology",
-        "institution": "Lyme Regis beaches"
       }
     ],
     "timeline": [
@@ -5199,27 +5186,10 @@ const pioneers = [
       "achievements": "Kalpana became the first Indian-born woman in space, flying on the Space Shuttle Columbia in 1997. She was selected as a NASA astronaut in 1994 and flew her second mission in 2003, tragically perishing in the Columbia disaster.",
       "legacy": "Kalpana inspired millions of Indian students, especially girls, to pursue careers in STEM and space exploration. Her story shows that with determination and education, anyone can reach for the stars."
     },
-    "achievements": [
-      "First Indian-born woman in space",
-      "Flew on Space Shuttle Columbia",
-      "Earned PhD in aerospace engineering",
-      "Inspired millions of Indian students"
-    ],
-    "awards": [
-      "NASA Space Flight Medal",
-      "Congressional Space Medal of Honor (posthumous)"
-    ],
     "publications": [
       {
         "title": "Research papers on aerospace engineering",
         "url": "https://en.wikipedia.org/wiki/Kalpana_Chawla#Education_and_career"
-      }
-    ],
-    "education": [
-      {
-        "degree": "PhD",
-        "field": "Aerospace Engineering",
-        "institution": "University of Colorado Boulder"
       }
     ],
     "timeline": [
@@ -5404,28 +5374,10 @@ const pioneers = [
       "achievements": "Fabiola led the ATLAS experiment that discovered the Higgs boson in 2012, one of the most important discoveries in physics. She became the first woman Director-General of CERN in 2016, leading the world's largest particle physics laboratory.",
       "legacy": "Fabiola's leadership at CERN and her role in the Higgs boson discovery have made her a role model for women in physics. She has shown that women can lead the world's most advanced scientific collaborations."
     },
-    "achievements": [
-      "First woman Director-General of CERN",
-      "Led ATLAS experiment that discovered Higgs boson",
-      "Pioneered particle physics research",
-      "Inspired women in physics worldwide"
-    ],
-    "awards": [
-      "Enrico Fermi Prize (2013)",
-      "Breakthrough Prize in Fundamental Physics (2013)",
-      "Order of Merit of the Italian Republic"
-    ],
     "publications": [
       {
         "title": "Higgs boson discovery papers",
         "url": "https://en.wikipedia.org/wiki/Fabiola_Gianotti#Career"
-      }
-    ],
-    "education": [
-      {
-        "degree": "PhD",
-        "field": "Particle Physics",
-        "institution": "University of Milan"
       }
     ],
     "timeline": [
@@ -5600,24 +5552,10 @@ const pioneers = [
       "achievements": "Princy has become a technology leader, contributing to digital transformation and innovation. She has mentored other women in tech and promoted diversity in the technology sector.",
       "legacy": "Princy represents the new generation of Indian women breaking barriers in technology. Her work inspires young women to pursue careers in computer science and technology."
     },
-    "achievements": [
-      "Technology leadership and innovation",
-      "Computer science expertise",
-      "Inspiring women in technology",
-      "Contributing to digital transformation"
-    ],
-    "awards": [],
     "publications": [
       {
         "title": "Technology leadership articles and presentations",
         "url": "https://www.linkedin.com/in/princy-johnson/"
-      }
-    ],
-    "education": [
-      {
-        "degree": "Computer Science",
-        "field": "Technology",
-        "institution": "Indian Institute of Technology"
       }
     ],
     "timeline": [
@@ -5759,8 +5697,15 @@ const pioneers = [
     "birthDate": "1768",
     "deathDate": "1797",
     "country": "China",
-    "fields": ["Astronomy", "Mathematics"],
-    "roles": ["Scientist", "Mathematician", "Poet"],
+    "fields": [
+      "Astronomy",
+      "Mathematics"
+    ],
+    "roles": [
+      "Scientist",
+      "Mathematician",
+      "Poet"
+    ],
     "quote": "Knowledge is powerful and what counts is the usefulness, no matter whether it is Chinese or Western.",
     "summary": "Trailblazing Chinese scientist and mathematician who made major contributions to astronomy and mathematics, and advocated for women's education.",
     "shortDescription": "Wang Zhenyi was a brilliant 18th-century Chinese scientist who taught herself astronomy and mathematics, wrote books explaining lunar and solar eclipses, and challenged gender norms through her poetry and teaching. She inspired generations by showing that girls can excel in science and learning.",
@@ -5917,8 +5862,14 @@ const pioneers = [
     "birthDate": "1942",
     "deathDate": "2019",
     "country": "United States",
-    "fields": ["Ophthalmology", "Medical Invention"],
-    "roles": ["Doctor", "Inventor"],
+    "fields": [
+      "Ophthalmology",
+      "Medical Invention"
+    ],
+    "roles": [
+      "Doctor",
+      "Inventor"
+    ],
     "quote": "The most important part is having faith and belief in the power of your own ideas.",
     "summary": "Inventor of the Laserphaco Probe for cataract treatment and the first African American woman doctor to receive a medical patent.",
     "shortDescription": "Patricia Bath was a pioneering ophthalmologist and inventor whose Laserphaco Probe revolutionized cataract surgery. She broke barriers for women and African Americans in medicine, and her inventions have restored sight to thousands.",
@@ -6097,8 +6048,15 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1982",
     "country": "Lebanon/United States",
-    "fields": ["Engineering", "Invention"],
-    "roles": ["Engineer", "Inventor", "Entrepreneur"],
+    "fields": [
+      "Engineering",
+      "Invention"
+    ],
+    "roles": [
+      "Engineer",
+      "Inventor",
+      "Entrepreneur"
+    ],
     "quote": "I am inspired by empowering people to invent.",
     "summary": "Founder of littleBits, making engineering and invention accessible to all ages.",
     "shortDescription": "Ayah Bdeir is an engineer and inventor who created littleBits, a system of electronic building blocks that makes learning about technology fun and creative for everyone.",
@@ -6277,8 +6235,13 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1967",
     "country": "United States",
-    "fields": ["Robotics"],
-    "roles": ["Roboticist", "Professor"],
+    "fields": [
+      "Robotics"
+    ],
+    "roles": [
+      "Roboticist",
+      "Professor"
+    ],
     "quote": "Robots will become a part of our everyday lives.",
     "summary": "Pioneer in social robotics and human-robot interaction.",
     "shortDescription": "Cynthia Breazeal is a roboticist who created some of the first social robots that can interact with people in friendly, human-like ways. Her work is shaping the future of robotics and artificial intelligence.",
@@ -6462,8 +6425,14 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1980s",
     "country": "United States",
-    "fields": ["Chemistry", "Environmental Engineering"],
-    "roles": ["Chemist", "Inventor"],
+    "fields": [
+      "Chemistry",
+      "Environmental Engineering"
+    ],
+    "roles": [
+      "Chemist",
+      "Inventor"
+    ],
     "quote": "It's not just to make this really cool product, but also to help improve people's lives.",
     "summary": "Inventor of germ-killing water filters (Folia Water) that provide clean water in developing countries.",
     "shortDescription": "Theresa Dankovich invented affordable, germ-killing water filters that help provide safe drinking water to families around the world. Her work saves lives and improves health in communities with limited resources.",
@@ -6643,8 +6612,12 @@ const pioneers = [
     "birthDate": "1917",
     "deathDate": "1998",
     "country": "United States",
-    "fields": ["Invention"],
-    "roles": ["Inventor"],
+    "fields": [
+      "Invention"
+    ],
+    "roles": [
+      "Inventor"
+    ],
     "quote": "I went to all the big names that you could think of and they said, 'we don't need it—no woman has asked us for that . . .' so I went into manufacturing myself.",
     "summary": "Inventor of the waterproof diaper cover (The Boater) and other household innovations.",
     "shortDescription": "Marion O'Brien Donovan was an inventor who created the waterproof diaper cover, making life easier for parents everywhere. She held many patents and showed that women can be successful inventors and entrepreneurs.",
@@ -6815,8 +6788,15 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1949",
     "country": "United States",
-    "fields": ["Engineering", "Invention"],
-    "roles": ["Engineer", "Inventor", "Athlete"],
+    "fields": [
+      "Engineering",
+      "Invention"
+    ],
+    "roles": [
+      "Engineer",
+      "Inventor",
+      "Athlete"
+    ],
     "quote": "Innovation is born from necessity and determination.",
     "summary": "Inventor of the lightweight sports wheelchair, enabling greater mobility for people with disabilities.",
     "shortDescription": "Marilyn Hamilton invented the lightweight sports wheelchair, helping people with disabilities to be more active and independent. Her invention changed the world of adaptive sports.",
@@ -6987,8 +6967,14 @@ const pioneers = [
     "birthDate": "1896",
     "deathDate": "1994",
     "country": "United States",
-    "fields": ["Invention", "Beauty Technology"],
-    "roles": ["Inventor", "Entrepreneur"],
+    "fields": [
+      "Invention",
+      "Beauty Technology"
+    ],
+    "roles": [
+      "Inventor",
+      "Entrepreneur"
+    ],
     "quote": "If I've set an example for other people—not just black people, not just poor people, not just women—I want it to be that you shouldn't be limited in what you try to do.",
     "summary": "Inventor of the permanent wave machine for hair and a leader in beauty technology.",
     "shortDescription": "Marjorie Stewart Joyner invented the permanent wave machine, making it easier to style hair. She was a trailblazer in the beauty industry and a mentor to many African American women entrepreneurs.",
@@ -7159,8 +7145,14 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1975",
     "country": "United States",
-    "fields": ["Biomedical Engineering"],
-    "roles": ["Engineer", "Inventor", "Professor"],
+    "fields": [
+      "Biomedical Engineering"
+    ],
+    "roles": [
+      "Engineer",
+      "Inventor",
+      "Professor"
+    ],
     "quote": "I didn't fit into any of the parameters that most people would think of as an inventor.",
     "summary": "Inventor of Shrinky Dinks-based microfluidic devices for medical diagnostics.",
     "shortDescription": "Michelle Khine is a biomedical engineer who turned a childhood toy into a tool for medical diagnostics, making healthcare more accessible and affordable.",
@@ -7340,8 +7332,14 @@ const pioneers = [
     "birthDate": "1838",
     "deathDate": "1914",
     "country": "United States",
-    "fields": ["Invention", "Engineering"],
-    "roles": ["Inventor", "Engineer"],
+    "fields": [
+      "Invention",
+      "Engineering"
+    ],
+    "roles": [
+      "Inventor",
+      "Engineer"
+    ],
     "quote": "As a child, I never cared for things that girls usually do; . . . I was always making things.",
     "summary": "Inventor of the machine to make flat-bottomed paper bags and holder of many patents.",
     "shortDescription": "Margaret Knight was an inventor who created the machine that makes flat-bottomed paper bags. She held dozens of patents and proved that women can be great inventors and engineers.",
@@ -7514,8 +7512,13 @@ const pioneers = [
     "birthDate": "1923",
     "deathDate": "2014",
     "country": "United States",
-    "fields": ["Chemistry"],
-    "roles": ["Chemist", "Inventor"],
+    "fields": [
+      "Chemistry"
+    ],
+    "roles": [
+      "Chemist",
+      "Inventor"
+    ],
     "quote": "To invent, I draw upon my knowledge, intuition, creativity, experience, common sense, perseverance, flexibility, and hard work.",
     "summary": "Inventor of Kevlar, the strong fiber used in bulletproof vests and many other products.",
     "shortDescription": "Stephanie Kwolek was a chemist who invented Kevlar, a super-strong fiber used in bulletproof vests and many other products. Her discovery has saved countless lives.",
@@ -7690,8 +7693,14 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1990s",
     "country": "United States",
-    "fields": ["Invention", "Humanitarian Engineering"],
-    "roles": ["Inventor", "Student"],
+    "fields": [
+      "Invention",
+      "Humanitarian Engineering"
+    ],
+    "roles": [
+      "Inventor",
+      "Student"
+    ],
     "quote": "Inventors are basically anybody and everybody who's ever tried to solve a problem.",
     "summary": "Inventor of the rescue travois and emergency smoke filtration kit, inspiring young inventors everywhere.",
     "shortDescription": "Alexis Lewis is a young inventor who created a rescue sled to help families in emergencies and a smoke filtration kit for fire safety. She shows that kids can invent solutions to real-world problems.",
@@ -7861,8 +7870,14 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1970s",
     "country": "United States",
-    "fields": ["Invention", "Sports Engineering"],
-    "roles": ["Inventors", "Entrepreneurs"],
+    "fields": [
+      "Invention",
+      "Sports Engineering"
+    ],
+    "roles": [
+      "Inventors",
+      "Entrepreneurs"
+    ],
     "quote": "This was made by women for women.",
     "summary": "Inventors of the sports bra (Jogbra), revolutionizing athletic wear for women.",
     "shortDescription": "Lisa Lindahl, Hinda Miller, and Polly Palmer Smith invented the sports bra, making exercise more comfortable for women and helping to open doors for women in sports.",
@@ -8030,8 +8045,15 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1990s",
     "country": "United States",
-    "fields": ["E-textiles", "Engineering"],
-    "roles": ["Engineer", "Inventor", "Entrepreneur"],
+    "fields": [
+      "E-textiles",
+      "Engineering"
+    ],
+    "roles": [
+      "Engineer",
+      "Inventor",
+      "Entrepreneur"
+    ],
     "quote": "I felt like it was the right time to finally make my dreams come true.",
     "summary": "Innovator in electronic textiles and wearable technology.",
     "shortDescription": "Madison Maxey is an engineer and entrepreneur who creates electronic textiles—fabrics that can sense, light up, or even heat up. Her work is changing how we think about clothing and technology.",
@@ -8201,8 +8223,15 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1976",
     "country": "United States",
-    "fields": ["Chemistry", "Battery Technology"],
-    "roles": ["Chemist", "Inventor", "Professor"],
+    "fields": [
+      "Chemistry",
+      "Battery Technology"
+    ],
+    "roles": [
+      "Chemist",
+      "Inventor",
+      "Professor"
+    ],
     "quote": "Innovation is about making things better for everyone.",
     "summary": "Inventor of advanced battery technologies for a cleaner energy future.",
     "shortDescription": "Amy Prieto is a chemist and inventor who develops new types of batteries that are safer, more powerful, and better for the environment. Her work is helping to power the future.",
@@ -8381,8 +8410,13 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1950s",
     "country": "United States",
-    "fields": ["Medical Invention"],
-    "roles": ["Nurse", "Inventor"],
+    "fields": [
+      "Medical Invention"
+    ],
+    "roles": [
+      "Nurse",
+      "Inventor"
+    ],
     "quote": "Whatever you needed to do, you had to make up for yourself, because there weren't products out there.",
     "detailed_description": {
       "early_life": "Sharon Rogone worked as a neonatal intensive care nurse, where she witnessed the challenges of caring for premature infants. Her hands-on experience with the smallest patients inspired her to create better medical devices.",
@@ -8437,7 +8471,12 @@ const pioneers = [
         "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
       }
     ],
-    "references": [{"title": "Smithsonian Lemelson Center: Sharon Rogone","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Sharon Rogone",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
     "mentorship": "Inspired other healthcare workers to pursue innovation and invention.",
     "fun_fact": "Sharon's inventions were inspired by her daily work caring for premature infants in the NICU.",
     "career_path": {
@@ -8538,8 +8577,14 @@ const pioneers = [
     "birthDate": "1907",
     "deathDate": "2004",
     "country": "Germany/United States",
-    "fields": ["Invention", "Food Technology"],
-    "roles": ["Inventor", "Entrepreneur"],
+    "fields": [
+      "Invention",
+      "Food Technology"
+    ],
+    "roles": [
+      "Inventor",
+      "Entrepreneur"
+    ],
     "quote": "It's like opening another window in your life when you become involved in something creative and new.",
     "detailed_description": {
       "early_life": "Born in Germany in 1907, Charlotte Cramer Sachs immigrated to the United States and showed an early interest in food and cooking. She was inspired by the need to make baking more convenient for busy families.",
@@ -8598,7 +8643,12 @@ const pioneers = [
         "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
       }
     ],
-    "references": [{"title": "Smithsonian Lemelson Center: Charlotte Cramer Sachs","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Charlotte Cramer Sachs",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
     "mentorship": "Inspired other women to pursue entrepreneurship and food innovation.",
     "fun_fact": "Charlotte's instant mixes helped busy families save time while still enjoying homemade baked goods.",
     "career_path": {
@@ -8699,8 +8749,14 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1980s",
     "country": "United States",
-    "fields": ["Engineering", "Invention"],
-    "roles": ["Inventor", "Engineer"],
+    "fields": [
+      "Engineering",
+      "Invention"
+    ],
+    "roles": [
+      "Inventor",
+      "Engineer"
+    ],
     "quote": "I told my dad I'd like to try it.",
     "detailed_description": {
       "early_life": "Born in the 1980s, Laura Shepherd showed an early interest in building and engineering. She was inspired by her father's encouragement to try new things and explore her creativity through hands-on projects.",
@@ -8759,7 +8815,12 @@ const pioneers = [
         "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
       }
     ],
-    "references": [{"title": "Smithsonian Lemelson Center: Laura Shepherd","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Laura Shepherd",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
     "mentorship": "Inspired other young girls to pursue engineering and hands-on projects.",
     "fun_fact": "Laura's soapbox derby cars demonstrated that engineering can be fun and creative.",
     "career_path": {
@@ -8859,8 +8920,14 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1980s",
     "country": "United States/India",
-    "fields": ["Food Science", "Invention"],
-    "roles": ["Inventor", "Entrepreneur"],
+    "fields": [
+      "Food Science",
+      "Invention"
+    ],
+    "roles": [
+      "Inventor",
+      "Entrepreneur"
+    ],
     "quote": "I really love pursuing things and doing things that make me feel creative.",
     "detailed_description": {
       "early_life": "Born in the 1980s to Indian immigrant parents, Kavita Shukla showed an early interest in science and helping others. She was inspired by her grandmother's traditional knowledge and her desire to solve real-world problems.",
@@ -8922,7 +8989,12 @@ const pioneers = [
         "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
       }
     ],
-    "references": [{"title": "Smithsonian Lemelson Center: Kavita Shukla","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Kavita Shukla",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
     "mentorship": "Inspired young inventors and showed how traditional knowledge can inform modern innovation.",
     "fun_fact": "Kavita's invention was inspired by her grandmother's traditional knowledge of spices and food preservation.",
     "career_path": {
@@ -9023,8 +9095,15 @@ const pioneers = [
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1970s",
     "country": "United States",
-    "fields": ["Sports Engineering", "Invention"],
-    "roles": ["Inventor", "Athlete", "Entrepreneur"],
+    "fields": [
+      "Sports Engineering",
+      "Invention"
+    ],
+    "roles": [
+      "Inventor",
+      "Athlete",
+      "Entrepreneur"
+    ],
     "quote": "When I started in the '70s, female skateboarding was still taboo and I was the only girl at the skatepark. I had to block out negative comments and stand my ground.",
     "detailed_description": {
       "early_life": "Born in the 1970s, Cindy Whitehead showed an early passion for skateboarding and action sports. She was one of the few girls in skateboarding during the 1970s and 1980s, facing significant barriers in a male-dominated sport.",
@@ -9084,7 +9163,12 @@ const pioneers = [
         "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
       }
     ],
-    "references": [{"title": "Smithsonian Lemelson Center: Cindy Whitehead","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Cindy Whitehead",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
     "mentorship": "Inspired countless girls to pursue action sports and break gender barriers.",
     "fun_fact": "Cindy was often the only girl at skateparks in the 1970s and 1980s, paving the way for future female skateboarders.",
     "career_path": {
@@ -9188,8 +9272,14 @@ const pioneers = [
     "birthDate": "1868",
     "deathDate": "1953",
     "country": "United States",
-    "fields": ["Architecture", "Engineering"],
-    "roles": ["Architect", "Engineer"],
+    "fields": [
+      "Architecture",
+      "Engineering"
+    ],
+    "roles": [
+      "Architect",
+      "Engineer"
+    ],
     "quote": "[The Woman's Building] is the result of careful training in classical design and is the expression of what I liked and felt.",
     "detailed_description": {
       "early_life": "Born in 1868 in Santiago, Chile, Sophia Hayden showed an early talent for art and design. She moved to the United States and pursued her passion for architecture, despite the challenges facing women in the field.",
@@ -9252,7 +9342,12 @@ const pioneers = [
         "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
       }
     ],
-    "references": [{"title": "Smithsonian Lemelson Center: Sophia Hayden","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Sophia Hayden",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
     "mentorship": "Inspired future generations of women to pursue architecture and engineering.",
     "fun_fact": "Sophia's Woman's Building design was praised for its classical beauty and innovative features, despite facing criticism from some male architects.",
     "career_path": {
@@ -9355,8 +9450,16 @@ const pioneers = [
     "birthDate": "1867",
     "deathDate": "1919",
     "country": "United States",
-    "fields": ["Chemistry", "Invention", "Entrepreneurship"],
-    "roles": ["Inventor", "Entrepreneur", "Philanthropist"],
+    "fields": [
+      "Chemistry",
+      "Invention",
+      "Entrepreneurship"
+    ],
+    "roles": [
+      "Inventor",
+      "Entrepreneur",
+      "Philanthropist"
+    ],
     "quote": "Don't sit down and wait for the opportunities to come . . . get up and make them!",
     "detailed_description": {
       "early_life": "Born Sarah Breedlove in 1867 in Louisiana, Madam C. J. Walker was the first child in her family born free after the Civil War. She worked as a laundress and struggled with hair loss, which inspired her to develop hair care solutions.",
@@ -9419,7 +9522,12 @@ const pioneers = [
         "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
       }
     ],
-    "references": [{"title": "Smithsonian Lemelson Center: Madam C. J. Walker","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "references": [
+      {
+        "title": "Smithsonian Lemelson Center: Madam C. J. Walker",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
     "mentorship": "Employed and mentored thousands of African American women, showing them how to be successful entrepreneurs.",
     "fun_fact": "Madam Walker was the first child in her family born free after the Civil War, and she became one of the first self-made female millionaires in the United States.",
     "career_path": {
@@ -10829,7 +10937,7 @@ const pioneers = [
     "birthDate": "1924",
     "country": "United States",
     "fields": [
-        "Mathematics",
+      "Mathematics",
       "Computer Programming"
     ],
     "roles": [
