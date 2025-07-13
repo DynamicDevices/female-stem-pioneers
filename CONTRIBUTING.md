@@ -43,19 +43,19 @@ By contributing to this project, you agree that your contributions will be licen
 
 1. **Fork the repository**
 2. **Check for duplicates first** - Search the existing pioneers to ensure the person is not already included
-3. **Add your pioneer to `js/pioneers/`** following the current data structure (see existing JSON files for reference). Each entry is an object with fields such as:
-   - `name`, `photo`, `birthDate`, `deathDate`, `country`, `fields`, `roles`, `quote`, `summary`, `shortDescription`, `achievements`, `fun_fact`, and additional metadata (see `add-pioneer.js` for template)
+3. **Create a new JSON file** in `js/pioneers/` following the current data structure (see existing JSON files for reference). Each entry is an object with fields such as:
+   - `name`, `photo`, `birthDate`, `deathDate`, `country`, `fields`, `roles`, `quote`, `summary`, `shortDescription`, `achievements`, `fun_fact`, and additional metadata
    - Only **female** pioneers are accepted. No male pioneers will be included.
-   - Each pioneer must be unique by name. The system deduplicates by name, but please avoid adding duplicates. (Currently 100 unique pioneers)
+   - Each pioneer must be unique by name. The system deduplicates by name, but please avoid adding duplicates. (Currently 107 unique pioneers)
    - **Every pioneer must have a `shortDescription` field** with an engaging, student-friendly paragraph (2-3 sentences) explaining their impact and significance
    - **Real images are strongly preferred** - use JPG, WEBP, or PNG files when available. If no suitable image can be found, the diverse icon system will automatically provide appropriate fallback representation
    - Images should be placed in `images/` and use `.jpg`, `.png`, or `.svg` (see PROJECT-REFERENCE.md for details)
    - **Only valid, non-empty images are accepted. Do not add empty or broken image files.**
    - **All fields used in the data must have an explanation in the UI.**
    - **All images must be properly licensed for reuse** (see Image Licensing Requirements above)
-
-3. **Required fields:** `name`, `fields`, `summary`
-4. **Optional fields:** See the template in `add-pioneer.js` or existing entries
+4. **Update the index file** - Add your pioneer to `js/pioneers/index.json`
+5. **Required fields:** `name`, `fields`, `summary`
+6. **Optional fields:** See existing entries for the complete metadata structure
 
 ### Content Guidelines
 
@@ -78,6 +78,26 @@ By contributing to this project, you agree that your contributions will be licen
    - **Image source and license information** (if adding images)
    - Confirmation that you agree to CC BY 4.0 licensing
    - **Run linting and formatting tools before submitting your pull request.**
+
+## Development Guidelines
+
+### File Structure
+- **Individual Pioneer Files**: Each pioneer has their own JSON file in `js/pioneers/`
+- **Index File**: `js/pioneers/index.json` contains the list of all pioneers
+- **Dynamic Loading**: The system uses `js/pioneers-loader.js` to load files asynchronously
+
+### Available Scripts
+- `npm run check-duplicates` - Check for duplicate pioneer entries
+- `npm run validate-data` - Validate all pioneer JSON files
+- `npm run check-images` - Verify all image files exist
+- `npm run lint` - Run ESLint on JavaScript files
+- `npm run check-syntax` - Check JavaScript syntax
+
+### Best Practices
+- **Always run validation scripts** before committing changes
+- **Test with live server** to ensure pioneers load correctly
+- **Follow the established metadata structure** for consistency
+- **Update both the individual JSON file and the index** when adding new pioneers
 
 ## Attribution Guidelines
 
