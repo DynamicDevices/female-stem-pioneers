@@ -1167,6 +1167,161 @@ const pioneers = [
       "Worked on supersonic flight research",
       "Advocated for women and minorities in STEM"
     ]
+  },
+  {
+    name: "Rita Levi-Montalcini",
+    photo: "./images/rita-levi-montalcini.svg",
+    birthDate: "1909",
+    deathDate: "2012",
+    country: "Italy",
+    fields: ["Biology", "Neuroscience"],
+    roles: ["Neurobiologist", "Professor"],
+    quote: "Above all, don't fear difficult moments. The best comes from them.",
+    summary: "Nobel Prize-winning neurobiologist who discovered nerve growth factor.",
+    achievements: [
+      "Nobel Prize in Physiology or Medicine (1986)",
+      "Discovered nerve growth factor",
+      "Pioneered research in neurobiology"
+    ]
+  },
+  {
+    name: "Gertrude Elion",
+    photo: "./images/gertrude-elion.svg",
+    birthDate: "1918",
+    deathDate: "1999",
+    country: "United States",
+    fields: ["Chemistry", "Pharmacology"],
+    roles: ["Chemist", "Pharmacologist"],
+    quote: "Don't let others discourage you or tell you that you can't do it.",
+    summary: "Nobel Prize-winning chemist who developed drugs for leukemia, herpes, and organ transplants.",
+    achievements: [
+      "Nobel Prize in Physiology or Medicine (1988)",
+      "Developed drugs for leukemia and herpes",
+      "Pioneered rational drug design"
+    ]
+  },
+  {
+    name: "Maria Goeppert-Mayer",
+    photo: "./images/maria-goeppert-mayer.svg",
+    birthDate: "1906",
+    deathDate: "1972",
+    country: "Germany/United States",
+    fields: ["Physics"],
+    roles: ["Physicist", "Professor"],
+    quote: "Mathematics began to seem too much like puzzle solving.",
+    summary: "Nobel Prize-winning physicist who developed the nuclear shell model.",
+    achievements: [
+      "Nobel Prize in Physics (1963)",
+      "Developed nuclear shell model",
+      "Second woman to win Nobel Prize in Physics"
+    ]
+  },
+  {
+    name: "Rosalyn Yalow",
+    photo: "./images/rosalyn-yalow.svg",
+    birthDate: "1921",
+    deathDate: "2011",
+    country: "United States",
+    fields: ["Physics", "Medicine"],
+    roles: ["Medical Physicist", "Researcher"],
+    quote: "The world cannot afford the loss of the talents of half its people if we are to solve the many problems which beset us.",
+    summary: "Nobel Prize-winning medical physicist who developed radioimmunoassay.",
+    achievements: [
+      "Nobel Prize in Physiology or Medicine (1977)",
+      "Developed radioimmunoassay technique",
+      "Pioneered nuclear medicine"
+    ]
+  },
+  {
+    name: "Elizabeth Blackburn",
+    photo: "./images/elizabeth-blackburn.svg",
+    birthDate: "1948",
+    country: "Australia/United States",
+    fields: ["Biology", "Molecular Biology"],
+    roles: ["Molecular Biologist", "Professor"],
+    quote: "Science is curiosity in action.",
+    summary: "Nobel Prize-winning molecular biologist who discovered telomerase.",
+    achievements: [
+      "Nobel Prize in Physiology or Medicine (2009)",
+      "Discovered telomerase enzyme",
+      "Pioneered telomere research"
+    ]
+  },
+  {
+    name: "Françoise Barré-Sinoussi",
+    photo: "./images/francoise-barre-sinoussi.svg",
+    birthDate: "1947",
+    country: "France",
+    fields: ["Virology", "Biology"],
+    roles: ["Virologist", "Researcher"],
+    quote: "Science is not about being the first to discover something, but about being the first to understand it.",
+    summary: "Nobel Prize-winning virologist who co-discovered HIV.",
+    achievements: [
+      "Nobel Prize in Physiology or Medicine (2008)",
+      "Co-discovered HIV virus",
+      "Pioneered AIDS research"
+    ]
+  },
+  {
+    name: "Kimberly Bryant",
+    photo: "./images/kimberly-bryant.jpg",
+    birthDate: "1967",
+    country: "United States",
+    fields: ["Computer Science", "Technology"],
+    roles: ["Engineer", "Entrepreneur"],
+    quote: "I want to create opportunities for girls to see themselves as creators, not just consumers of technology.",
+    summary: "Founder of Black Girls Code, empowering young women of color in technology.",
+    achievements: [
+      "Founded Black Girls Code",
+      "Advocated for diversity in tech",
+      "Inspired thousands of young women"
+    ]
+  },
+  {
+    name: "Fabiola Gianotti",
+    photo: "./images/fabiola-gianotti.jpg",
+    birthDate: "1960",
+    country: "Italy",
+    fields: ["Physics", "Particle Physics"],
+    roles: ["Physicist", "Director"],
+    quote: "Science is a human endeavor, and diversity makes it stronger.",
+    summary: "First female Director-General of CERN and particle physicist.",
+    achievements: [
+      "First female Director-General of CERN",
+      "Led Higgs boson discovery team",
+      "Pioneered particle physics research"
+    ]
+  },
+  {
+    name: "Sally Ride",
+    photo: "./images/sally-ride.svg",
+    birthDate: "1951",
+    deathDate: "2012",
+    country: "United States",
+    fields: ["Physics", "Astronomy"],
+    roles: ["Astronaut", "Physicist"],
+    quote: "Science is fun. Science is curiosity. We all have natural curiosity.",
+    summary: "First American woman in space and advocate for science education.",
+    achievements: [
+      "First American woman in space",
+      "Youngest American astronaut",
+      "Founded Sally Ride Science"
+    ]
+  },
+  {
+    name: "Jocelyn Bell Burnell",
+    photo: "./images/jocelyn-bell-burnell.svg",
+    birthDate: "1943",
+    country: "United Kingdom",
+    fields: ["Astronomy", "Physics"],
+    roles: ["Astrophysicist", "Professor"],
+    quote: "I am not myself a believer, but I feel that if God is anywhere, he is in the stars.",
+    summary: "Discovered pulsars as a graduate student, though Nobel Prize went to her supervisor.",
+    achievements: [
+      "Discovered first pulsar",
+      "Pioneered radio astronomy",
+      "Advocate for women in physics"
+    ]
   }
 ];
 
