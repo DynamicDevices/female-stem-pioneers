@@ -104,9 +104,9 @@ class PioneersApp {
         case 'name-desc':
           return b.name.localeCompare(a.name);
         case 'birthday':
-          return this.extractYear(a.birthday) - this.extractYear(b.birthday);
+          return this.extractYear(a.birthDate) - this.extractYear(b.birthDate);
         case 'birthday-desc':
-          return this.extractYear(b.birthday) - this.extractYear(a.birthday);
+          return this.extractYear(b.birthDate) - this.extractYear(a.birthDate);
         case 'country':
           return a.country.localeCompare(b.country);
         case 'field':
@@ -117,8 +117,8 @@ class PioneersApp {
     });
   }
 
-  extractYear(birthday) {
-    const match = birthday.match(/(\d{4})/);
+  extractYear(birthDate) {
+    const match = birthDate.match(/(\d{4})/);
     return match ? parseInt(match[1]) : 0;
   }
 
@@ -127,9 +127,34 @@ class PioneersApp {
     card.className = 'pioneer-card';
     card.style.animationDelay = `${index * 0.1}s`;
 
+    // Add field explanations
+    const FIELD_EXPLANATIONS = {
+      'Mathematics': 'The study of numbers, quantities, shapes, and patterns.',
+      'Physics': 'The science of matter, energy, and the fundamental forces of nature.',
+      'Chemistry': 'The study of substances, their properties, and how they interact.',
+      'Biology': 'The science of living organisms and life processes.',
+      'Computer Science': 'The study of computers, algorithms, and information processing.',
+      'Engineering': 'The application of science and math to solve real-world problems.',
+      'Astronomy': 'The study of celestial objects, space, and the universe.',
+      'Medicine': 'The science and practice of diagnosing, treating, and preventing disease.',
+      'Cytogenetics': 'The branch of genetics that studies the structure and function of cells, especially chromosomes.',
+      'Crystallography': 'The study of the arrangement of atoms in solids.',
+      'Phytomedicine': 'The study of medicines derived from plants.',
+      'Virology': 'The study of viruses and viral diseases.',
+      'Immunology': 'The study of the immune system and immune responses.',
+      'Geodesy': 'The science of measuring and understanding the Earth’s shape, orientation, and gravity.',
+      'Rocket Science': 'The science of designing and launching rockets and spacecraft.',
+      'Pharmacology': 'The study of drugs and their effects on living organisms.'
+    };
+
+    // Render field badges with hover info
     const fieldsBadges = pioneer.fields.slice(0, 2).map(field => {
       const fieldClass = this.getFieldClass(field);
-      return `<span class="field-badge ${fieldClass}">${field}</span>`;
+      const explanation = FIELD_EXPLANATIONS[field] || 'No explanation available.';
+      return `<span class="field-badge ${fieldClass}" data-field="${field}" tabindex="0">
+        ${field}
+        <span class="field-info-box">${explanation}</span>
+      </span>`;
     }).join('');
 
     const achievementsList = pioneer.achievements.slice(0, 3).map(achievement => 
@@ -151,14 +176,14 @@ class PioneersApp {
                src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiBmaWxsPSIjMzM0MTU1IiByeD0iNDAiLz48L3N2Zz4="
                onerror="this.onerror=null;this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojZjhmYWZjO3N0b3Atb3BhY2l0eToxIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6I2UyZThmMDtzdG9wLW9wYWNpdHk6MSIgLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNiZykiIHJ4PSIxMCIvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEwMCwgMTAwKSI+PGNpcmNsZSBjeD0iMCIgY3k9Ii0yMCIgcj0iMjUiIGZpbGw9IiM2NDc0OGIiLz48cGF0aCBkPSJNIC0yNSAtNDUgUSAwIC0xMDAgMjUgLTQ1IiBzdHJva2U9IiM2NDc0OGIiIHN0cm9rZS13aWR0aD0iNCIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0gLTIwIC0zMCBRIDAgLTYwIDIwIC0zMCIgc3Ryb2tlPSIjNjQ3NDhiIiBzdHJva2Utd2lkdGg9IjMiIGZpbGw9Im5vbmUiLz48cGF0aCBkPSJNIC0xNSAtMzUgUSAwIC01MCAxNSAtMzUiIHN0cm9rZT0iIzY0NzQ4YiIgc3Ryb2tlLXdpZHRoPSIzIiBmaWxsPSJub25lIi8+PHBhdGggZD0iTSAtMTAgLTQwIFEgMCAtNTUgMTAgLTQwIiBzdHJva2U9IiM2NDc0OGIiIHN0cm9rZS13aWR0aD0iMyIgZmlsbD0ibm9uZSIvPjwvZz48dGV4dCB4PSIxMDAiIHk9IjE5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSIjNjQ3NDhiIj5QaW9uZWVyIFBvcnRyYWl0PC90ZXh0Pjwvc3ZnPg==';" 
                onload="this.classList.add('loaded')"
-               onclick="window.pioneersApp.openImageModal('${pioneer.photo}', '${pioneer.name}', '${pioneer.birthday}', '${pioneer.country}')"
+               onclick="window.pioneersApp.openImageModal('${pioneer.photo}', '${pioneer.name}', '${pioneer.deathDate ? `${pioneer.birthDate}–${pioneer.deathDate}` : `${pioneer.birthDate}–`}', '${pioneer.country}')"
                style="cursor: pointer;">
         </div>
         <div class="pioneer-header-info">
           <h3 class="pioneer-name">${pioneer.name}</h3>
           <div class="pioneer-field">${fieldsBadges}</div>
           <div class="pioneer-meta">
-            <span class="pioneer-birth-date">${pioneer.birthday}</span>
+            <span class="pioneer-birth-date">${pioneer.deathDate ? `${pioneer.birthDate}–${pioneer.deathDate}` : `${pioneer.birthDate}–`}</span>
             <span class="pioneer-country">${pioneer.country}</span>
           </div>
           <p class="pioneer-subtitle">${pioneer.summary}</p>
@@ -173,16 +198,16 @@ class PioneersApp {
           </blockquote>
         </div>
         
+        ${shortDescription}
+        
         <div class="pioneer-achievements">
           <h4>Key Achievements</h4>
           <ul>${achievementsList}</ul>
         </div>
 
-        ${shortDescription}
-
         <div class="pioneer-fun-fact">
           <h4>Fun Fact</h4>
-          <p>${pioneer.fun_fact}</p>
+          <p>${pioneer.fun_fact ? pioneer.fun_fact : ""}</p>
         </div>
 
         <div class="pioneer-study-path">

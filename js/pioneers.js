@@ -727,6 +727,286 @@ const pioneers = [
       "Published research on AI and automation",
       "Mentors young women in engineering"
     ]
+  },
+  {
+    name: "Maryam Mirzakhani",
+    photo: "./images/maryam-mirzakhani.svg",
+    birthDate: "1977",
+    deathDate: "2017",
+    country: "Iran",
+    fields: ["Mathematics"],
+    roles: ["Mathematician", "Professor"],
+    quote: "The beauty of mathematics only shows itself to more patient followers.",
+    summary: "First woman to win the Fields Medal, the highest honor in mathematics.",
+    achievements: [
+      "First woman and first Iranian to win the Fields Medal",
+      "Pioneered research in geometry and dynamical systems",
+      "Professor at Stanford University"
+    ]
+  },
+  {
+    name: "Tu Youyou",
+    photo: "./images/tu-youyou.svg",
+    birthDate: "1930",
+    country: "China",
+    fields: ["Medicine", "Pharmacology"],
+    roles: ["Pharmacologist", "Scientist"],
+    quote: "Every scientist dreams of doing something that can help the world.",
+    summary: "Discovered artemisinin, saving millions from malaria; Nobel Prize winner.",
+    achievements: [
+      "Discovered artemisinin for malaria treatment",
+      "First Chinese woman to win a Nobel Prize in Physiology or Medicine",
+      "Transformed global malaria treatment"
+    ]
+  },
+  {
+    name: "Mae Jemison",
+    photo: "./images/mae-jemison.jpg",
+    birthDate: "1956",
+    country: "United States",
+    fields: ["Astronomy", "Medicine"],
+    roles: ["Astronaut", "Physician"],
+    quote: "Never be limited by other people’s limited imaginations.",
+    summary: "First African American woman in space; physician and engineer.",
+    achievements: [
+      "First African American woman to travel in space",
+      "Mission specialist on Space Shuttle Endeavour",
+      "Advocate for science education"
+    ]
+  },
+  {
+    name: "Barbara McClintock",
+    photo: "./images/barbara-mcclintock.svg",
+    birthDate: "1902",
+    deathDate: "1992",
+    country: "United States",
+    fields: ["Biology", "Genetics"],
+    roles: ["Geneticist", "Scientist"],
+    quote: "If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off... no matter what they say.",
+    summary: "Nobel Prize-winning geneticist who discovered transposable elements (jumping genes).",
+    achievements: [
+      "Discovered genetic transposition",
+      "First woman to win an unshared Nobel Prize in Physiology or Medicine",
+      "Pioneered maize cytogenetics"
+    ]
+  },
+  {
+    name: "Lise Meitner",
+    photo: "./images/lise-meitner.svg",
+    birthDate: "1878",
+    deathDate: "1968",
+    country: "Austria/Germany/Sweden",
+    fields: ["Physics"],
+    roles: ["Physicist"],
+    quote: "Science makes people reach selflessly for truth and objectivity.",
+    summary: "Co-discovered nuclear fission; element Meitnerium named in her honor.",
+    achievements: [
+      "Co-discovered nuclear fission",
+      "First woman full professor of physics in Germany",
+      "Element 109 (Meitnerium) named after her"
+    ]
+  },
+  {
+    name: "Dorothy Vaughan",
+    photo: "./images/dorothy-vaughan.jpg",
+    birthDate: "1910",
+    deathDate: "2008",
+    country: "United States",
+    fields: ["Mathematics", "Computing"],
+    roles: ["Mathematician", "Computer Programmer"],
+    quote: "I changed what I could, and what I couldn’t, I endured.",
+    summary: "NASA mathematician and supervisor, featured in 'Hidden Figures'.",
+    achievements: [
+      "First African American supervisor at NASA",
+      "Expert in FORTRAN programming",
+      "Paved the way for women in computing"
+    ]
+  },
+  {
+    name: "Ellen Ochoa",
+    photo: "./images/ellen-ochoa.svg",
+    birthDate: "1958",
+    country: "United States",
+    fields: ["Astronomy", "Engineering"],
+    roles: ["Astronaut", "Engineer"],
+    quote: "Don’t be afraid to reach for the stars.",
+    summary: "First Hispanic woman in space and former director of Johnson Space Center.",
+    achievements: [
+      "First Hispanic woman in space",
+      "Director of NASA Johnson Space Center",
+      "Inventor with multiple patents"
+    ]
+  },
+  {
+    name: "Ada Yonath",
+    photo: "./images/ada-yonath.jpg",
+    birthDate: "1939",
+    country: "Israel",
+    fields: ["Chemistry", "Biology"],
+    roles: ["Crystallographer", "Professor"],
+    quote: "Curiosity is the driving force for discovery.",
+    summary: "Nobel Prize-winning crystallographer who revealed the structure of ribosomes.",
+    achievements: [
+      "First woman in 45 years to win Nobel Prize in Chemistry",
+      "Solved structure of ribosomes",
+      "Advanced antibiotic research"
+    ]
+  },
+  {
+    name: "Valentina Tereshkova",
+    photo: "./images/valentina-tereshkova.svg",
+    birthDate: "1937",
+    country: "Russia",
+    fields: ["Astronomy", "Engineering"],
+    roles: ["Cosmonaut", "Engineer"],
+    quote: "Once you've been in space, you appreciate how small and fragile the Earth is.",
+    summary: "First woman to fly in space, piloting Vostok 6 in 1963.",
+    achievements: [
+      "First woman in space",
+      "Orbited Earth 48 times",
+      "Role model for women in STEM worldwide"
+    ]
+  },
+  {
+    name: "Radia Perlman",
+    photo: "./images/radia-perlman.jpg",
+    birthDate: "1951",
+    country: "United States",
+    fields: ["Computer Science", "Engineering"],
+    roles: ["Computer Scientist", "Engineer"],
+    quote: "I never thought of myself as a woman in science. I just thought of myself as a person who loves science.",
+    summary: "Inventor of the spanning-tree protocol, known as the 'Mother of the Internet'.",
+    achievements: [
+      "Invented the spanning-tree protocol",
+      "Pioneered network design and security",
+      "Inducted into the Internet Hall of Fame"
+    ]
+  },
+  {
+    name: "Grace Chisholm Young",
+    photo: "./images/grace-chisholm-young.svg",
+    birthDate: "1868",
+    deathDate: "1944",
+    country: "United Kingdom",
+    fields: ["Mathematics"],
+    roles: ["Mathematician"],
+    quote: "Mathematics is a creative art.",
+    summary: "First woman to earn a doctorate in any field in Germany; contributed to calculus and analysis.",
+    achievements: [
+      "First woman to earn a doctorate in Germany",
+      "Published influential mathematics textbooks",
+      "Advanced the field of calculus"
+    ]
+  },
+  {
+    name: "Mildred Dresselhaus",
+    photo: "./images/mildred-dresselhaus.svg",
+    birthDate: "1930",
+    deathDate: "2017",
+    country: "United States",
+    fields: ["Physics", "Engineering"],
+    roles: ["Physicist", "Engineer"],
+    quote: "My advice is: work hard, have fun, and make history.",
+    summary: "Known as the 'Queen of Carbon Science' for her pioneering work in nanotechnology.",
+    achievements: [
+      "Pioneered research in carbon nanostructures",
+      "First female Institute Professor at MIT",
+      "National Medal of Science recipient"
+    ]
+  },
+  {
+    name: "Flossie Wong-Staal",
+    photo: "./images/flossie-wong-staal.svg",
+    birthDate: "1947",
+    deathDate: "2020",
+    country: "China/United States",
+    fields: ["Biology", "Virology"],
+    roles: ["Virologist", "Molecular Biologist"],
+    quote: "Science is a way of thinking much more than it is a body of knowledge.",
+    summary: "First to clone HIV and determine its gene functions, advancing AIDS research.",
+    achievements: [
+      "First to clone HIV",
+      "Mapped HIV gene functions",
+      "Leader in AIDS research"
+    ]
+  },
+  {
+    name: "Sophie Germain",
+    photo: "./images/sophie-germain.svg",
+    birthDate: "1776",
+    deathDate: "1831",
+    country: "France",
+    fields: ["Mathematics", "Physics"],
+    roles: ["Mathematician", "Physicist"],
+    quote: "Algebra is but written geometry and geometry is but written algebra.",
+    summary: "Pioneered elasticity theory and made contributions to number theory despite facing gender barriers.",
+    achievements: [
+      "Pioneered elasticity theory",
+      "Contributed to Fermat's Last Theorem",
+      "First woman to win a prize from the Paris Academy of Sciences"
+    ]
+  },
+  {
+    name: "Chieng Shih",
+    photo: "./images/chieng-shih.svg",
+    birthDate: "180",
+    country: "China",
+    fields: ["Engineering", "Invention"],
+    roles: ["Inventor", "Engineer"],
+    quote: "Innovation is the soul of progress.",
+    summary: "Ancient Chinese inventor credited with the creation of the mechanical loom.",
+    achievements: [
+      "Invented the mechanical loom",
+      "Advanced textile technology in ancient China",
+      "Role model for women inventors"
+    ]
+  },
+  {
+    name: "Mary Golda Ross",
+    photo: "./images/mary-golda-ross.svg",
+    birthDate: "1908",
+    deathDate: "2008",
+    country: "United States",
+    fields: ["Engineering", "Mathematics"],
+    roles: ["Engineer", "Mathematician"],
+    quote: "To function efficiently, any group of people must have faith in their leader.",
+    summary: "First Native American female engineer; worked on NASA's space program.",
+    achievements: [
+      "First Native American female engineer",
+      "Helped develop interplanetary space probes",
+      "Pioneer in aerospace engineering"
+    ]
+  },
+  {
+    name: "Esther Lederberg",
+    photo: "./images/esther-lederberg.svg",
+    birthDate: "1922",
+    deathDate: "2006",
+    country: "United States",
+    fields: ["Biology", "Microbiology"],
+    roles: ["Microbiologist", "Professor"],
+    quote: "Science is a way of life. Science is a perspective.",
+    summary: "Pioneered bacterial genetics and discovered the lambda phage.",
+    achievements: [
+      "Discovered the lambda phage",
+      "Developed replica plating technique",
+      "Advanced bacterial genetics"
+    ]
+  },
+  {
+    name: "Gladys West",
+    photo: "./images/gladys-west.svg",
+    birthDate: "1930",
+    country: "United States",
+    fields: ["Mathematics", "Geodesy"],
+    roles: ["Mathematician", "Programmer"],
+    quote: "I never set out to be a pioneer. I just wanted to do my job well.",
+    summary: "Her work on satellite geodesy was crucial to the development of GPS.",
+    achievements: [
+      "Developed mathematical modeling for GPS",
+      "Pioneered satellite geodesy",
+      "Inducted into the Air Force Space and Missile Pioneers Hall of Fame"
+    ]
   }
 ];
 
