@@ -272,7 +272,7 @@ class PioneersApp {
       })
       .join("");
 
-    const achievementsList = pioneer.achievements
+    const achievementsList = (pioneer.achievements || [])
       .slice(0, 3)
       .map((achievement) => `<li>${achievement}</li>`)
       .join("");
@@ -373,7 +373,7 @@ class PioneersApp {
     if (totalFields) {
       const uniqueFields = new Set();
       this.filteredPioneers.forEach((pioneer) => {
-        pioneer.fields.forEach((field) => uniqueFields.add(field));
+        (pioneer.fields || []).forEach((field) => uniqueFields.add(field));
       });
       totalFields.textContent = uniqueFields.size;
     }
@@ -563,7 +563,7 @@ class PioneersApp {
         "Study biology, chemistry, and human anatomy. Develop strong research and patient care skills.",
     };
 
-    const primaryField = pioneer.fields[0];
+    const primaryField = (pioneer.fields && pioneer.fields.length > 0) ? pioneer.fields[0] : "Mathematics";
     const studyPath =
       fieldStudyPaths[primaryField] ||
       "Study mathematics and science. Follow your curiosity and passion.";
