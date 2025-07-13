@@ -205,10 +205,12 @@ class PioneersApp {
           <ul>${achievementsList}</ul>
         </div>
 
+        ${pioneer.fun_fact && pioneer.fun_fact.trim() ? `
         <div class="pioneer-fun-fact">
           <h4>Fun Fact</h4>
-          <p>${pioneer.fun_fact ? pioneer.fun_fact : ""}</p>
+          <p>${pioneer.fun_fact}</p>
         </div>
+        ` : ''}
 
         <div class="pioneer-study-path">
           <h4>Follow in Her Footsteps</h4>
