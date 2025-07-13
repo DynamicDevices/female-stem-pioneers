@@ -6807,7 +6807,8 @@ const pioneers = [
         "Limited opportunities for women entrepreneurs"
       ],
       "cultural_contributions": "Pioneered American women's participation in invention and entrepreneurship"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Marilyn Hamilton",
@@ -6985,7 +6986,8 @@ const pioneers = [
         "Limited accessibility in sports"
       ],
       "cultural_contributions": "Pioneered American leadership in adaptive technology and inclusive sports"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Marjorie Stewart Joyner",
@@ -7164,7 +7166,8 @@ const pioneers = [
         "Gender barriers in business and invention"
       ],
       "cultural_contributions": "Pioneered African American women's participation in beauty technology and entrepreneurship"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Michelle Khine",
