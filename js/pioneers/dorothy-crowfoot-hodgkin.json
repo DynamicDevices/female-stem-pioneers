@@ -1,0 +1,188 @@
+{
+  "name": "Dorothy Crowfoot Hodgkin",
+  "photo": "./images/dorothy-hodgkin.jpg",
+  "birthDate": "1910",
+  "deathDate": "1994",
+  "country": "United Kingdom",
+  "fields": [
+    "Chemistry",
+    "Crystallography",
+    "Biochemistry"
+  ],
+  "roles": [
+    "Chemist",
+    "Crystallographer",
+    "Nobel Laureate"
+  ],
+  "quote": "I was captured for life by chemistry and by crystals.",
+  "summary": "British chemist who won the Nobel Prize in Chemistry for developing protein crystallography and determining the structures of important biomolecules.",
+  "shortDescription": "Dorothy Crowfoot Hodgkin was a British chemist who won the Nobel Prize in Chemistry in 1964 for developing protein crystallography. She determined the structures of penicillin, vitamin B12, and insulin, revolutionizing our understanding of biomolecules. Her work laid the foundation for modern drug development and structural biology.",
+  "detailed_description": {
+    "early_life": "Born in 1910 in Cairo, Egypt, Dorothy showed an early interest in chemistry and crystals. She was educated in England and began studying chemistry at Oxford University.",
+    "stem_journey": "Dorothy began her career studying X-ray crystallography and worked with J.D. Bernal. She developed techniques to determine the structures of complex biomolecules, including penicillin and vitamin B12.",
+    "challenges": "As a woman in chemistry, Dorothy faced gender discrimination. She also worked with complex crystallography techniques that required years of painstaking work.",
+    "achievements": "Dorothy determined the structures of penicillin, vitamin B12, and insulin using X-ray crystallography. She won the Nobel Prize in Chemistry and made numerous contributions to structural biology.",
+    "legacy": "Dorothy's work revolutionized our understanding of biomolecules and laid the foundation for modern drug development. She inspired generations of women in chemistry and crystallography."
+  },
+  "achievements": [
+    "Determined structure of penicillin",
+    "Determined structure of vitamin B12",
+    "Determined structure of insulin",
+    "Won Nobel Prize in Chemistry (1964)",
+    "Developed protein crystallography techniques"
+  ],
+  "awards": [
+    "Nobel Prize in Chemistry (1964)",
+    "Order of Merit (1965)",
+    "Copley Medal (1976)"
+  ],
+  "publications": [
+    {
+      "title": "The Structure of Penicillin",
+      "url": "https://www.nature.com/articles/156430a0"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Chemistry",
+      "institution": "University of Cambridge"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1937,
+      "event": "Earned PhD from Cambridge"
+    },
+    {
+      "year": 1945,
+      "event": "Determined structure of penicillin"
+    },
+    {
+      "year": 1956,
+      "event": "Determined structure of vitamin B12"
+    },
+    {
+      "year": 1964,
+      "event": "Won Nobel Prize in Chemistry"
+    },
+    {
+      "year": 1969,
+      "event": "Determined structure of insulin"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in chemistry",
+    "Complex technical challenges in crystallography",
+    "Years of painstaking work required"
+  ],
+  "impact": "Revolutionized structural biology and laid the foundation for modern drug development.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Dorothy Hodgkin: Nobel Prize Winner",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1964/hodgkin/facts/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dorothy_Hodgkin"
+    },
+    {
+      "title": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1964/summary/"
+    }
+  ],
+  "mentorship": "Mentored numerous students and researchers in crystallography and chemistry.",
+  "fun_fact": "Dorothy was the first woman to win the Nobel Prize in Chemistry since Marie Curie.",
+  "career_path": {
+    "first_job": "Research assistant to J.D. Bernal",
+    "career_highlights": [
+      "Determined structures of penicillin, vitamin B12, and insulin",
+      "Won Nobel Prize in Chemistry",
+      "Developed protein crystallography techniques"
+    ],
+    "advice_for_students": "Follow your passion for science and don't let technical challenges discourage you."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Dorothy Hodgkin: A Life",
+      "The Double Helix by James Watson"
+    ],
+    "websites": [
+      "nobelprize.org",
+      "chemistry.org"
+    ],
+    "programs": [
+      "Chemistry summer camps",
+      "Crystallography programs"
+    ],
+    "advice": "Be patient with complex problems and don't give up on difficult scientific challenges."
+  },
+  "challenges": {
+    "academic": [
+      "Gender discrimination in chemistry"
+    ],
+    "professional": [
+      "Complex technical challenges in crystallography",
+      "Years of painstaking work required"
+    ],
+    "personal": [
+      "Rheumatoid arthritis from age 24"
+    ],
+    "how_overcame": "Persevered despite health challenges and focused on her passion for crystallography"
+  },
+  "education_details": {
+    "high_school": "English education",
+    "college_major": "Chemistry",
+    "key_courses": [
+      "Chemistry",
+      "Mathematics",
+      "Physics"
+    ],
+    "study_tips": "Be patient with complex problems and learn from mentors"
+  },
+  "modern_impact": {
+    "current_applications": "Her work is used in drug development and structural biology",
+    "companies_using_her_work": [
+      "Pharmaceutical companies",
+      "Research institutions",
+      "Biotechnology companies"
+    ],
+    "future_implications": "Advanced drug design and protein engineering build on her crystallography techniques"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Chemistry",
+      "Crystals",
+      "Mathematics",
+      "Science"
+    ],
+    "family_background": "British family in Egypt",
+    "hobbies": [
+      "Crystallography",
+      "Teaching",
+      "Travel"
+    ],
+    "personality_traits": [
+      "Patient",
+      "Determined",
+      "Analytical",
+      "Dedicated"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "British",
+    "cultural_influences": [
+      "British scientific tradition",
+      "Oxford academic culture"
+    ],
+    "cultural_challenges": [
+      "Gender roles in early 20th century Britain",
+      "Limited opportunities for women in science"
+    ],
+    "cultural_contributions": "Pioneered women's role in structural chemistry and crystallography"
+  },
+  "verified": true
+} 

@@ -6,40 +6,39 @@
   "country": "United States",
   "fields": [
     "Medical Physics",
-    "Nuclear Medicine"
+    "Nuclear Medicine",
+    "Biochemistry"
   ],
   "roles": [
     "Medical Physicist",
-    "Nobel Laureate"
+    "Nobel Laureate",
+    "Researcher"
   ],
-  "quote": "The excitement of learning separates youth from old age. As long as you're learning, you're not old.",
-  "summary": "Nobel Prize-winning medical physicist who developed radioimmunoassay, revolutionizing medical testing.",
-  "shortDescription": "Rosalyn Yalow was a Nobel Prize-winning medical physicist who developed radioimmunoassay, a technique that revolutionized medical testing. Her work made it possible to measure tiny amounts of hormones and other substances in the blood, leading to better diagnosis and treatment of diseases.",
+  "quote": "The world cannot afford the loss of the talents of half its people if we are to solve the many problems which beset us.",
+  "summary": "American medical physicist who won the Nobel Prize in Physiology or Medicine for developing radioimmunoassay, revolutionizing medical diagnostics.",
+  "shortDescription": "Rosalyn Yalow was an American medical physicist who won the Nobel Prize in Physiology or Medicine in 1977 for developing radioimmunoassay (RIA). This revolutionary technique allows scientists to measure tiny amounts of substances in the blood, revolutionizing medical diagnostics and hormone research. Her work has saved countless lives through improved disease detection.",
   "detailed_description": {
-    "early_life": "Born in 1921 in New York City, Rosalyn showed exceptional talent in mathematics and science from an early age. She graduated from Hunter College at age 19 and earned her PhD in nuclear physics from the University of Illinois.",
-    "stem_journey": "Rosalyn began her career at the Bronx Veterans Administration Hospital where she developed radioimmunoassay (RIA) with Solomon Berson. This technique revolutionized medical testing by allowing scientists to measure tiny amounts of hormones and other substances in the blood.",
-    "challenges": "Rosalyn faced discrimination as a woman in physics and was often the only woman in her department. She also had to balance her career with family responsibilities and faced skepticism about her new medical testing technique.",
-    "achievements": "Rosalyn developed radioimmunoassay, which revolutionized medical testing and won her the Nobel Prize in Physiology or Medicine in 1977. She was the first woman to win this prize and her technique is still used in medical laboratories worldwide.",
-    "legacy": "Rosalyn's radioimmunoassay technique has saved countless lives by enabling early detection of diseases. She opened doors for women in medical physics and inspired generations of female scientists."
+    "early_life": "Born in 1921 in New York City, Rosalyn showed exceptional talent in mathematics and science from an early age. She attended Hunter College and later earned her PhD in nuclear physics.",
+    "stem_journey": "Rosalyn began her career working with Solomon Berson at the Bronx Veterans Administration Hospital. Together, they developed radioimmunoassay, a technique that revolutionized medical diagnostics.",
+    "challenges": "As a woman in physics and medicine, Rosalyn faced significant gender discrimination. She also worked in a male-dominated field and had to balance family responsibilities with her career.",
+    "achievements": "Rosalyn developed radioimmunoassay, which allows scientists to measure tiny amounts of substances in the blood. She won the Nobel Prize in Physiology or Medicine and made numerous contributions to medical physics.",
+    "legacy": "Rosalyn's work revolutionized medical diagnostics and hormone research. Her technique is used worldwide and has saved countless lives through improved disease detection."
   },
   "achievements": [
-    "Won Nobel Prize in Physiology or Medicine",
-    "Developed radioimmunoassay technique",
-    "Revolutionized medical testing",
-    "First woman to win Nobel Prize in Physiology or Medicine",
-    "Pioneered nuclear medicine",
-    "Advanced hormone research"
+    "Developed radioimmunoassay (RIA)",
+    "Won Nobel Prize in Physiology or Medicine (1977)",
+    "Revolutionized medical diagnostics",
+    "Made numerous contributions to medical physics"
   ],
   "awards": [
     "Nobel Prize in Physiology or Medicine (1977)",
-    "National Medal of Science",
-    "Albert Lasker Award",
-    "Elected to National Academy of Sciences"
+    "National Medal of Science (1988)",
+    "Albert Lasker Award (1976)"
   ],
   "publications": [
     {
-      "title": "Immunoassay of endogenous plasma insulin in man",
-      "year": "1960"
+      "title": "Immunoassay of Endogenous Plasma Insulin in Man",
+      "url": "https://www.jci.org/articles/view/104441"
     }
   ],
   "education": [
@@ -51,12 +50,16 @@
   ],
   "timeline": [
     {
-      "year": 1941,
-      "event": "Graduated from Hunter College"
-    },
-    {
       "year": 1945,
       "event": "Earned PhD in nuclear physics"
+    },
+    {
+      "year": 1950,
+      "event": "Began working with Solomon Berson"
+    },
+    {
+      "year": 1959,
+      "event": "Published first paper on radioimmunoassay"
     },
     {
       "year": 1977,
@@ -64,15 +67,15 @@
     }
   ],
   "barriers": [
-    "Discrimination as a woman in physics",
-    "Being the only woman in her department",
-    "Skepticism about new medical technique"
+    "Gender discrimination in physics and medicine",
+    "Working in male-dominated field",
+    "Balancing family and career"
   ],
-  "impact": "Her radioimmunoassay technique revolutionized medical testing and has saved countless lives through early disease detection.",
+  "impact": "Revolutionized medical diagnostics and hormone research, saving countless lives.",
   "media": [
     {
       "type": "article",
-      "title": "Rosalyn Yalow: Nobel Prize-winning medical physicist",
+      "title": "Rosalyn Yalow: Nobel Prize Winner",
       "url": "https://www.nobelprize.org/prizes/medicine/1977/yalow/facts/"
     }
   ],
@@ -80,102 +83,101 @@
     {
       "title": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Rosalyn_Yalow"
+    },
+    {
+      "title": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/1977/summary/"
     }
   ],
-  "mentorship": "Mentored many students in medical physics and supported women in science throughout her career.",
-  "fun_fact": "Rosalyn was the first woman to win the Nobel Prize in Physiology or Medicine.",
+  "mentorship": "Mentored numerous students and researchers in medical physics.",
+  "fun_fact": "Rosalyn was the first woman to win the Nobel Prize in Physiology or Medicine since Gerty Cori in 1947.",
   "career_path": {
-    "first_job": "Research physicist at Bronx VA Hospital",
+    "first_job": "Research assistant at Bronx VA Hospital",
     "career_highlights": [
       "Developed radioimmunoassay",
-      "Won Nobel Prize",
-      "Pioneered nuclear medicine"
+      "Won Nobel Prize in Physiology or Medicine",
+      "Revolutionized medical diagnostics"
     ],
-    "advice_for_students": "Follow your passion for science and don't let anyone tell you that women can't excel in physics or medicine."
+    "advice_for_students": "Don't let gender barriers stop you from pursuing your scientific interests. The world needs the talents of all people."
   },
   "student_resources": {
     "books_for_students": [
-      "Women in Science: 50 Fearless Pioneers Who Changed the World",
-      "The Nobel Prize: A History of Genius, Controversy, and Prestige"
+      "Rosalyn Yalow: Nobel Laureate",
+      "Women in Science: 50 Fearless Pioneers"
     ],
     "websites": [
       "nobelprize.org",
-      "physics.org",
-      "womeninscience.org"
+      "physics.org"
     ],
     "programs": [
-      "Physics summer programs",
       "Medical physics programs",
-      "Women in science organizations"
+      "Women in STEM programs"
     ],
-    "advice": "Study physics and biology with passion and look for ways to apply your knowledge to help people."
+    "advice": "Follow your passion for science and don't let discrimination stop you from making important contributions."
   },
   "challenges": {
     "academic": [
-      "Being a woman in physics",
-      "Limited opportunities for women"
+      "Gender discrimination in physics"
     ],
     "professional": [
-      "Discrimination in science",
-      "Skepticism about new techniques"
+      "Working in male-dominated field",
+      "Balancing family and career"
     ],
     "personal": [
-      "Balancing career and family",
-      "Working in isolation"
+      "Raising children while pursuing career"
     ],
-    "how_overcame": "Focused on her scientific work, collaborated with supportive colleagues, and persisted despite skepticism"
+    "how_overcame": "Persevered despite discrimination and focused on her scientific contributions"
   },
   "education_details": {
-    "high_school": "Excelled in mathematics and science",
+    "high_school": "New York education",
     "college_major": "Physics",
     "key_courses": [
-      "Nuclear Physics",
-      "Medical Physics",
+      "Physics",
       "Mathematics",
       "Chemistry"
     ],
-    "study_tips": "Connect physics principles to medical applications and never stop asking questions"
+    "study_tips": "Focus on fundamental principles and don't let barriers discourage you"
   },
   "modern_impact": {
-    "current_applications": "Radioimmunoassay is still used in medical laboratories worldwide",
+    "current_applications": "Her radioimmunoassay technique is used worldwide in medical diagnostics",
     "companies_using_her_work": [
-      "All medical laboratories",
-      "Pharmaceutical companies",
+      "Medical diagnostic companies",
+      "Hospitals worldwide",
       "Research institutions"
     ],
-    "future_implications": "Continues to influence medical testing and nuclear medicine"
+    "future_implications": "Advanced medical diagnostics and personalized medicine build on her techniques"
   },
   "personal_info": {
     "early_interests": [
       "Physics",
       "Mathematics",
-      "Medicine",
-      "Research"
+      "Science",
+      "Medicine"
     ],
-    "family_background": "Supportive family that encouraged her scientific interests",
+    "family_background": "Jewish American family",
     "hobbies": [
       "Scientific research",
       "Teaching",
-      "Reading"
+      "Family"
     ],
     "personality_traits": [
-      "Brilliant",
       "Determined",
-      "Curious",
-      "Compassionate"
+      "Analytical",
+      "Dedicated",
+      "Pioneering"
     ]
   },
   "cultural_background": {
-    "heritage": "American Jewish",
+    "heritage": "Jewish American",
     "cultural_influences": [
       "American scientific tradition",
       "Jewish intellectual culture"
     ],
     "cultural_challenges": [
-      "Gender discrimination in science",
-      "Religious discrimination"
+      "Gender discrimination in mid-20th century America",
+      "Jewish identity in American science"
     ],
-    "cultural_contributions": "Advanced American medical physics research and influenced nuclear medicine worldwide"
+    "cultural_contributions": "Pioneered women's role in medical physics and advanced medical diagnostics"
   },
   "verified": true
 }

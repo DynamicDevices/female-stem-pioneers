@@ -1,0 +1,184 @@
+{
+  "name": "Elise Meitner",
+  "photo": "./images/placeholder-woman.svg",
+  "birthDate": "1878",
+  "deathDate": "1968",
+  "country": "Austria",
+  "fields": [
+    "Physics",
+    "Nuclear Physics",
+    "Radioactivity"
+  ],
+  "roles": [
+    "Physicist",
+    "Nuclear Scientist",
+    "Researcher"
+  ],
+  "quote": "Science makes people reach selflessly for truth and objectivity; it teaches people to accept reality, with wonder and admiration, not to mention the deep awe and joy that the natural order of things brings to the true scientist.",
+  "summary": "Austrian physicist who made groundbreaking contributions to nuclear physics and was part of the team that discovered nuclear fission.",
+  "shortDescription": "Elise Meitner was an Austrian physicist who made groundbreaking contributions to nuclear physics. She was part of the team that discovered nuclear fission and was the first to explain the process theoretically. Despite being overlooked for the Nobel Prize, her work laid the foundation for nuclear energy and modern physics.",
+  "detailed_description": {
+    "early_life": "Born in 1878 in Vienna, Austria, Elise showed exceptional talent in mathematics and physics from an early age. She was one of the first women to earn a PhD in physics from the University of Vienna.",
+    "stem_journey": "Elise began her career working with Otto Hahn in Berlin, where they made significant discoveries in radioactivity. She became one of the leading experts in nuclear physics and was the first woman to become a full professor of physics in Germany.",
+    "challenges": "As a Jewish woman in Nazi Germany, Elise faced discrimination and persecution. She was forced to flee Germany in 1938 and lost her research position. She was also overlooked for the Nobel Prize despite her crucial contributions.",
+    "achievements": "Elise made groundbreaking contributions to nuclear physics, including the discovery of nuclear fission. She was the first to explain the process theoretically and made numerous discoveries in radioactivity.",
+    "legacy": "Elise's work laid the foundation for nuclear energy and modern physics. She is considered one of the most important physicists of the 20th century, and element 109 (meitnerium) is named in her honor."
+  },
+  "achievements": [
+    "Discovered nuclear fission with Otto Hahn",
+    "First woman to become full professor of physics in Germany",
+    "Made numerous discoveries in radioactivity",
+    "Explained nuclear fission theoretically"
+  ],
+  "awards": [
+    "Max Planck Medal (1949)",
+    "Enrico Fermi Award (1966)"
+  ],
+  "publications": [
+    {
+      "title": "Disintegration of Uranium by Neutrons: A New Type of Nuclear Reaction",
+      "url": "https://www.nature.com/articles/143239a0"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Physics",
+      "institution": "University of Vienna"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1906,
+      "event": "Earned PhD in physics from University of Vienna"
+    },
+    {
+      "year": 1918,
+      "event": "Discovered protactinium with Otto Hahn"
+    },
+    {
+      "year": 1938,
+      "event": "Forced to flee Nazi Germany"
+    },
+    {
+      "year": 1939,
+      "event": "Published paper explaining nuclear fission"
+    }
+  ],
+  "barriers": [
+    "Gender discrimination in physics",
+    "Anti-Semitism in Nazi Germany",
+    "Forced to flee her home country",
+    "Overlooked for Nobel Prize despite crucial contributions"
+  ],
+  "impact": "Pioneered nuclear physics and laid the foundation for nuclear energy and modern physics.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Lise Meitner: The Woman Behind Nuclear Fission",
+      "url": "https://www.scientificamerican.com/article/lise-meitner-the-woman-behind-nuclear-fission/"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lise_Meitner"
+    },
+    {
+      "title": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/physics/1944/summary/"
+    }
+  ],
+  "mentorship": "Mentored numerous students and researchers in nuclear physics.",
+  "fun_fact": "Element 109 (meitnerium) is named in her honor.",
+  "career_path": {
+    "first_job": "Research assistant to Otto Hahn",
+    "career_highlights": [
+      "First woman full professor of physics in Germany",
+      "Discovered nuclear fission",
+      "Made numerous discoveries in radioactivity"
+    ],
+    "advice_for_students": "Pursue your passion for science regardless of barriers. Truth and objectivity are the goals of science."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "Lise Meitner: A Life in Physics",
+      "The Disappearing Spoon by Sam Kean"
+    ],
+    "websites": [
+      "physics.org",
+      "nobelprize.org"
+    ],
+    "programs": [
+      "Physics summer camps",
+      "Women in Physics programs"
+    ],
+    "advice": "Focus on understanding fundamental principles and don't let discrimination stop your scientific pursuits."
+  },
+  "challenges": {
+    "academic": [
+      "Gender discrimination in physics education"
+    ],
+    "professional": [
+      "Anti-Semitism in Nazi Germany",
+      "Forced to flee her home country",
+      "Overlooked for Nobel Prize"
+    ],
+    "personal": [
+      "Persecution as a Jewish scientist"
+    ],
+    "how_overcame": "Continued research despite persecution and focused on scientific truth"
+  },
+  "education_details": {
+    "high_school": "Vienna education",
+    "college_major": "Physics",
+    "key_courses": [
+      "Advanced Physics",
+      "Mathematics",
+      "Chemistry"
+    ],
+    "study_tips": "Focus on fundamental principles and experimental verification"
+  },
+  "modern_impact": {
+    "current_applications": "Her work forms the foundation of nuclear physics and energy",
+    "companies_using_her_work": [
+      "Nuclear power plants",
+      "Medical imaging",
+      "Research institutions"
+    ],
+    "future_implications": "Nuclear fusion and advanced energy technologies build on her discoveries"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "Radioactivity"
+    ],
+    "family_background": "Jewish Austrian family",
+    "hobbies": [
+      "Scientific research",
+      "Teaching",
+      "Music"
+    ],
+    "personality_traits": [
+      "Determined",
+      "Analytical",
+      "Courageous",
+      "Dedicated to truth"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "Austrian Jewish",
+    "cultural_influences": [
+      "Viennese scientific tradition",
+      "German physics community"
+    ],
+    "cultural_challenges": [
+      "Anti-Semitism in Nazi Germany",
+      "Gender discrimination in physics"
+    ],
+    "cultural_contributions": "Pioneered women's role in nuclear physics and maintained scientific integrity during persecution"
+  },
+  "verified": true
+} 

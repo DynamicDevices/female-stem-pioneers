@@ -4,50 +4,43 @@
   "birthDate": "1912",
   "deathDate": "1997",
   "country": "China/United States",
-  "fields": [
-    "Physics",
-    "Nuclear Physics"
-  ],
-  "roles": [
-    "Physicist",
-    "Professor"
-  ],
-  "quote": "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
-  "summary": "Known as the 'First Lady of Physics' for her groundbreaking work in nuclear physics.",
-  "shortDescription": "Chien-Shiung Wu was a brilliant physicist known as the 'First Lady of Physics.' She disproved a fundamental law of physics called the Law of Conservation of Parity, which earned her colleagues the Nobel Prize. Despite her crucial contribution, she wasn't included in the award, highlighting the challenges women faced in science. Wu's work helped advance our understanding of the universe and opened doors for women in physics.",
-  "achievements": [
-    "Disproved the Law of Conservation of Parity",
-    "Pioneered research in nuclear physics",
-    "Developed the Wu experiment"
-  ],
-  "awards": [
-    "National Medal of Science (1975)",
-    "Wolf Prize in Physics (1978)",
-    "Comstock Prize in Physics (1964)"
-  ],
-  "education": [
-    {
-      "degree": "PhD",
-      "field": "Physics",
-      "institution": "University of California, Berkeley"
-    }
-  ],
-  "impact": "Revolutionized nuclear physics and paved the way for women in the field.",
-  "fun_fact": "Wu's parity violation experiment is considered one of the most important physics experiments of the 20th century.",
-  "career_path": {
-    "first_job": "Research assistant at University of California, Berkeley",
-    "career_highlights": [
-      "Joined Manhattan Project during WWII",
-      "Conducted the Wu experiment in 1956",
-      "Conducted groundbreaking parity violation experiment"
-    ],
-    "advice_for_students": "Don't let anyone tell you what you can't do. Physics is for everyone who is curious about how the universe works."
+  "fields": ["Physics", "Nuclear Physics"],
+  "roles": ["Physicist", "Professor", "Researcher"],
+  "quote": "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all!",
+  "summary": "Chinese-American physicist known as the 'First Lady of Physics' for her groundbreaking work in nuclear physics and the Manhattan Project.",
+  "shortDescription": "Chien-Shiung Wu was a Chinese-American physicist known as the 'First Lady of Physics.' She made groundbreaking contributions to nuclear physics, including the famous Wu experiment, and worked on the Manhattan Project.",
+  "detailed_description": {
+    "early_life": "Born in Jiangsu, China, Chien-Shiung was encouraged by her father to pursue education. She studied physics at National Central University and later earned her PhD at UC Berkeley.",
+    "stem_journey": "Wu moved to the US for graduate studies and became a leading experimental physicist. She worked on the Manhattan Project and later conducted the Wu experiment, which disproved the law of parity conservation.",
+    "challenges": "As a Chinese woman in physics, Wu faced racial and gender discrimination throughout her career.",
+    "achievements": "Conducted the Wu experiment, worked on the Manhattan Project, and became the first female president of the American Physical Society.",
+    "legacy": "Wu's work changed the field of physics and paved the way for women and minorities in science."
   },
-  "references": [
-    {
-      "title": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu"
-    }
+  "achievements": [
+    "Conducted the Wu experiment disproving parity conservation",
+    "Worked on the Manhattan Project",
+    "First female president of the American Physical Society"
   ],
+  "awards": ["Wolf Prize in Physics (1978)", "National Medal of Science (1975)"],
+  "publications": [],
+  "education": [{"degree": "PhD", "field": "Physics", "institution": "University of California, Berkeley"}],
+  "timeline": [
+    {"year": 1936, "event": "Moved to the US for graduate studies"},
+    {"year": 1944, "event": "Worked on the Manhattan Project"},
+    {"year": 1956, "event": "Conducted the Wu experiment"}
+  ],
+  "barriers": ["Racial and gender discrimination", "Underrecognition of women in physics"],
+  "impact": "Changed the field of physics and paved the way for women and minorities in science.",
+  "media": [{"type": "article", "title": "Chien-Shiung Wu: First Lady of Physics", "url": "https://www.aps.org/publications/apsnews/200702/history.cfm"}],
+  "references": [{"title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu"}],
+  "mentorship": "Mentored students and advocated for women in physics.",
+  "fun_fact": "Wu was the first female president of the American Physical Society.",
+  "career_path": {"first_job": "Research associate at Smith College", "career_highlights": ["Worked on Manhattan Project", "Conducted Wu experiment"], "advice_for_students": "Pursue your curiosity and don't let barriers stop you from doing science."},
+  "student_resources": {"books_for_students": ["Queen of Physics", "Women in Science"], "websites": ["aps.org"], "programs": ["Physics Olympiad", "Women in Physics"], "advice": "Ask questions and seek out mentors in your field."},
+  "challenges": {"academic": ["Limited opportunities for women in physics"], "professional": ["Racial and gender discrimination"], "personal": ["Balancing family and research"], "how_overcame": "Persevered through talent and support from mentors and family."},
+  "education_details": {"high_school": "Suzhou Women's Normal School", "college_major": "Physics", "key_courses": ["Physics", "Mathematics"], "study_tips": "Work on challenging experiments and collaborate with peers."},
+  "modern_impact": {"current_applications": "Her work is foundational in nuclear and particle physics.", "companies_using_her_work": ["Universities", "Research institutes"], "future_implications": "Her legacy inspires future generations of physicists."},
+  "personal_info": {"early_interests": ["Physics", "Mathematics"], "family_background": "Supportive family in Jiangsu", "hobbies": ["Research", "Teaching"], "personality_traits": ["Curious", "Persistent", "Brilliant"]},
+  "cultural_background": {"heritage": "Chinese-American", "cultural_influences": ["Chinese education system", "American physics community"], "cultural_challenges": ["Racial and gender discrimination"], "cultural_contributions": "Pioneered women's participation in advanced physics."},
   "verified": true
 }

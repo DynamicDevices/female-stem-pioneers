@@ -1,6 +1,6 @@
 {
   "name": "Kavita Shukla",
-  "summary": "Inventor and entrepreneur who created FreshPaper to keep food fresh longer.",
+  "summary": "Inventor and entrepreneur who developed FreshPaper, a simple solution to keep food fresh longer.",
   "shortDescription": "Kavita Shukla invented FreshPaper, a simple sheet that keeps fruits and vegetables fresh for longer. Her innovation helps reduce food waste and makes healthy food more accessible around the world.",
   "photo": "./images/rachel-carson.jpg",
   "birthDate": "1980s",
@@ -13,7 +13,6 @@
     "Inventor",
     "Entrepreneur"
   ],
-  "quote": "I really love pursuing things and doing things that make me feel creative.",
   "detailed_description": {
     "early_life": "Born in the 1980s to Indian immigrant parents, Kavita Shukla showed an early interest in science and helping others. She was inspired by her grandmother's traditional knowledge and her desire to solve real-world problems.",
     "stem_journey": "Kavita began developing FreshPaper as a teenager, combining her grandmother's traditional knowledge with modern science. She studied food science and chemistry to understand how to preserve produce naturally.",

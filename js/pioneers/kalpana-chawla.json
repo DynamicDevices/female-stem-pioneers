@@ -1,189 +1,46 @@
 {
   "name": "Kalpana Chawla",
   "photo": "./images/kalpana-chawla.jpg",
-  "birthDate": "1961",
+  "birthDate": "1962",
   "deathDate": "2003",
   "country": "India/United States",
-  "fields": [
-    "Aerospace Engineering",
-    "Astronautics"
-  ],
-  "roles": [
-    "Astronaut",
-    "Engineer"
-  ],
+  "fields": ["Astronautics", "Aerospace Engineering"],
+  "roles": ["Astronaut", "Engineer", "Mission Specialist"],
   "quote": "The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it.",
-  "summary": "First Indian-born woman in space and NASA astronaut who inspired millions in India and around the world.",
-  "shortDescription": "Kalpana Chawla was the first Indian-born woman in space and a NASA astronaut who inspired millions in India and around the world. She flew on the Space Shuttle Columbia and became a role model for women in STEM, especially in India. Kalpana showed that with determination and education, anyone can reach for the stars, regardless of their background or gender.",
-  "achievements": [
-    "First Indian-born woman in space",
-    "Flew on Space Shuttle Columbia",
-    "Earned PhD in aerospace engineering",
-    "Inspired millions of Indian students"
-  ],
-  "awards": [
-    "NASA Space Flight Medal",
-    "Congressional Space Medal of Honor (posthumous)"
-  ],
-  "education": [
-    {
-      "degree": "PhD",
-      "field": "Aerospace Engineering",
-      "institution": "University of Colorado Boulder"
-    }
-  ],
+  "summary": "Indian-American astronaut and engineer, the first woman of Indian origin in space, who flew on two Space Shuttle missions.",
+  "shortDescription": "Kalpana Chawla was an Indian-American astronaut and engineer, the first woman of Indian origin in space. She flew on two Space Shuttle missions and inspired millions with her achievements in aerospace.",
   "detailed_description": {
-    "early_life": "Born in 1961 in Karnal, India, Kalpana showed an early fascination with flying. She would watch airplanes from her rooftop and dream of becoming a pilot. Her parents supported her education, and she excelled in school, especially in science and mathematics.",
-    "stem_journey": "Kalpana earned her bachelor's degree in aeronautical engineering from Punjab Engineering College, then moved to the United States for graduate studies. She earned her master's and PhD in aerospace engineering from the University of Texas and University of Colorado respectively.",
-    "challenges": "As an Indian woman in the 1980s, Kalpana faced cultural expectations that discouraged women from pursuing technical careers. She also faced the challenge of moving to a new country and adapting to a different educational system.",
-    "achievements": "Kalpana became the first Indian-born woman in space, flying on the Space Shuttle Columbia in 1997. She was selected as a NASA astronaut in 1994 and flew her second mission in 2003, tragically perishing in the Columbia disaster.",
-    "legacy": "Kalpana inspired millions of Indian students, especially girls, to pursue careers in STEM and space exploration. Her story shows that with determination and education, anyone can reach for the stars."
+    "early_life": "Born in Karnal, India, Kalpana was fascinated by flight from a young age. She earned a degree in aeronautical engineering from Punjab Engineering College before moving to the US for graduate studies.",
+    "stem_journey": "Kalpana earned her PhD in aerospace engineering and joined NASA, where she became a mission specialist and flew on two Space Shuttle missions.",
+    "challenges": "As an immigrant woman in aerospace, Kalpana faced cultural and gender barriers. She persevered through determination and passion for flight.",
+    "achievements": "First woman of Indian origin in space, flew on STS-87 and STS-107, and contributed to research in microgravity.",
+    "legacy": "Kalpana inspired millions in India and around the world to pursue careers in STEM and space exploration."
   },
-  "publications": [
-    {
-      "title": "Research papers on aerospace engineering",
-      "url": "https://en.wikipedia.org/wiki/Kalpana_Chawla#Education_and_career"
-    }
+  "achievements": [
+    "First woman of Indian origin in space",
+    "Flew on two Space Shuttle missions",
+    "Contributed to microgravity research"
   ],
+  "awards": ["Congressional Space Medal of Honor (posthumous)", "NASA Space Flight Medal"],
+  "publications": [],
+  "education": [{"degree": "PhD", "field": "Aerospace Engineering", "institution": "University of Colorado Boulder"}],
   "timeline": [
-    {
-      "year": 1982,
-      "event": "Earned bachelor's degree in aeronautical engineering"
-    },
-    {
-      "year": 1984,
-      "event": "Earned master's degree in aerospace engineering"
-    },
-    {
-      "year": 1988,
-      "event": "Earned PhD in aerospace engineering"
-    },
-    {
-      "year": 1994,
-      "event": "Selected as NASA astronaut"
-    },
-    {
-      "year": 1997,
-      "event": "First space flight on Columbia"
-    },
-    {
-      "year": 2003,
-      "event": "Second space flight on Columbia"
-    }
+    {"year": 1988, "event": "Joined NASA Ames Research Center"},
+    {"year": 1997, "event": "First spaceflight (STS-87)"},
+    {"year": 2003, "event": "Second spaceflight (STS-107), died in Columbia disaster"}
   ],
-  "barriers": [
-    "Cultural expectations for women in India",
-    "Adapting to education system in new country",
-    "Gender barriers in aerospace engineering"
-  ],
-  "impact": "Inspired millions of Indian students, especially girls, to pursue careers in STEM and space exploration.",
-  "media": [
-    {
-      "type": "article",
-      "title": "Kalpana Chawla: First Indian Woman in Space",
-      "url": "https://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/kalpana-chawla.html"
-    }
-  ],
-  "references": [
-    {
-      "title": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kalpana_Chawla"
-    }
-  ],
-  "mentorship": "Inspired countless young women in India and around the world to pursue careers in aerospace and space exploration.",
-  "fun_fact": "Kalpana Chawla's name means 'imagination' in Hindi, which perfectly describes her dream of flying in space.",
-  "career_path": {
-    "first_job": "Research assistant at NASA Ames Research Center",
-    "career_highlights": [
-      "Selected as NASA astronaut in 1994",
-      "First space flight in 1997",
-      "Second space flight in 2003"
-    ],
-    "advice_for_students": "Dream big and work hard. Education is your ticket to the stars."
-  },
-  "student_resources": {
-    "books_for_students": [
-      "Kalpana Chawla: A Life",
-      "Reaching for the Stars: The Inspiring Story of a Woman's Fight for Space"
-    ],
-    "websites": [
-      "nasa.gov",
-      "space.com",
-      "indianwomeninscience.org"
-    ],
-    "programs": [
-      "NASA STEM programs",
-      "Space camps",
-      "Aerospace engineering summer programs"
-    ],
-    "advice": "Follow your dreams no matter where you come from. Education and determination can take you anywhere."
-  },
-  "challenges": {
-    "academic": [
-      "Adapting to new educational system in US"
-    ],
-    "professional": [
-      "Gender barriers in aerospace field",
-      "Cultural expectations in India"
-    ],
-    "personal": [
-      "Moving to new country alone"
-    ],
-    "how_overcame": "Focused on education, worked hard, and pursued her passion despite cultural barriers"
-  },
-  "education_details": {
-    "high_school": "Tagore School, Karnal, India",
-    "college_major": "Aeronautical Engineering",
-    "key_courses": [
-      "Aerospace Engineering",
-      "Fluid Dynamics",
-      "Flight Mechanics",
-      "Space Systems"
-    ],
-    "study_tips": "Combine theoretical knowledge with practical applications"
-  },
-  "modern_impact": {
-    "current_applications": "Her work continues to inspire space exploration and aerospace engineering",
-    "companies_using_her_work": [
-      "NASA",
-      "SpaceX",
-      "Boeing",
-      "Aerospace companies worldwide"
-    ],
-    "future_implications": "Inspiring next generation of space explorers and engineers"
-  },
-  "personal_info": {
-    "early_interests": [
-      "Aviation",
-      "Space exploration",
-      "Engineering",
-      "Science"
-    ],
-    "family_background": "Middle-class family in Karnal, India",
-    "hobbies": [
-      "Flying",
-      "Reading about space",
-      "Engineering projects"
-    ],
-    "personality_traits": [
-      "Determined",
-      "Curious",
-      "Adventurous",
-      "Inspiring"
-    ]
-  },
-  "cultural_background": {
-    "heritage": "Indian",
-    "cultural_influences": [
-      "Indian educational values",
-      "Space race era",
-      "Women's empowerment movement"
-    ],
-    "cultural_challenges": [
-      "Traditional gender roles in India",
-      "Cultural expectations for women"
-    ],
-    "cultural_contributions": "Broke barriers for Indian women in STEM and space exploration"
-  },
+  "barriers": ["Gender and cultural barriers in aerospace", "Immigrant experience"],
+  "impact": "Inspired millions to pursue STEM and space exploration.",
+  "media": [{"type": "article", "title": "Kalpana Chawla: First Indian Woman in Space", "url": "https://www.nasa.gov/sites/default/files/atoms/files/chawla_kalpana.pdf"}],
+  "references": [{"title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Kalpana_Chawla"}],
+  "mentorship": "Mentored students and young engineers, especially women in STEM.",
+  "fun_fact": "A mountain on Mars is named after her (Chawla Hill).",
+  "career_path": {"first_job": "Research scientist at NASA Ames", "career_highlights": ["First Indian woman in space", "Flew on two Space Shuttle missions"], "advice_for_students": "Dream big, work hard, and never give up on your goals."},
+  "student_resources": {"books_for_students": ["Kalpana Chawla: A Life", "Women in Space"], "websites": ["nasa.gov"], "programs": ["Space camp", "Women in Aerospace"], "advice": "Stay curious and keep learning about the universe."},
+  "challenges": {"academic": ["Adapting to new education systems"], "professional": ["Gender and cultural barriers"], "personal": ["Immigrant experience"], "how_overcame": "Persevered through determination and passion for flight."},
+  "education_details": {"high_school": "Tagore Baal Niketan, Karnal", "college_major": "Aeronautical Engineering", "key_courses": ["Aerospace Engineering", "Physics"], "study_tips": "Ask questions and seek mentors in your field."},
+  "modern_impact": {"current_applications": "Her legacy inspires women in aerospace and space exploration.", "companies_using_her_work": ["NASA", "ISRO"], "future_implications": "Future space missions and STEM outreach build on her inspiration."},
+  "personal_info": {"early_interests": ["Flight", "Engineering"], "family_background": "Indian family in Haryana", "hobbies": ["Flying", "Reading"], "personality_traits": ["Determined", "Curious", "Adventurous"]},
+  "cultural_background": {"heritage": "Indian-American", "cultural_influences": ["Indian and American education"], "cultural_challenges": ["Gender roles in India", "Immigrant experience in the US"], "cultural_contributions": "Pioneered Indian women's participation in space exploration."},
   "verified": true
 }

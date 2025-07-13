@@ -4,179 +4,43 @@
   "birthDate": "1977",
   "deathDate": "2017",
   "country": "Iran",
-  "fields": [
-    "Mathematics",
-    "Geometry"
-  ],
-  "roles": [
-    "Mathematician",
-    "Professor"
-  ],
+  "fields": ["Mathematics", "Geometry", "Dynamical Systems"],
+  "roles": ["Mathematician", "Professor", "Fields Medalist"],
   "quote": "The beauty of mathematics only shows itself to more patient followers.",
-  "summary": "First woman to win the Fields Medal, the highest honor in mathematics.",
-  "shortDescription": "Maryam Mirzakhani was the first woman to win the Fields Medal, the highest honor in mathematics. She made groundbreaking contributions to geometry and dynamical systems, solving complex problems that had puzzled mathematicians for decades.",
+  "summary": "Iranian mathematician and the first woman to win the Fields Medal, the highest honor in mathematics.",
+  "shortDescription": "Maryam Mirzakhani was an Iranian mathematician and the first woman to win the Fields Medal. Her work in geometry and dynamical systems has had a profound impact on mathematics.",
   "detailed_description": {
-    "early_life": "Born in 1977 in Tehran, Iran, Maryam showed exceptional talent in mathematics from an early age. She won gold medals at the International Mathematical Olympiad in 1994 and 1995, becoming the first Iranian woman to do so.",
-    "stem_journey": "Maryam earned her PhD in mathematics from Harvard University in 2004, working under Curtis McMullen. She went on to become a professor at Stanford University, where she made groundbreaking contributions to geometry and dynamical systems.",
-    "challenges": "Maryam faced challenges as a woman in mathematics and as an Iranian immigrant in the United States. She also battled cancer during her career but continued her mathematical research.",
-    "achievements": "Maryam became the first woman to win the Fields Medal in 2014, the highest honor in mathematics. She made revolutionary contributions to geometry, particularly in understanding the dynamics of Riemann surfaces and moduli spaces.",
-    "legacy": "Maryam's work has influenced many areas of mathematics and physics. She opened doors for women in mathematics and inspired countless students with her brilliant mind and determination."
+    "early_life": "Born in Tehran, Iran, Maryam showed early talent in mathematics and won gold medals in the International Mathematical Olympiad.",
+    "stem_journey": "Maryam earned her PhD at Harvard and became a professor at Stanford University. She made groundbreaking contributions to geometry and dynamical systems.",
+    "challenges": "As a woman in mathematics, Maryam faced gender barriers, especially in Iran and in the global mathematics community.",
+    "achievements": "First woman and first Iranian to win the Fields Medal. Made major advances in the theory of moduli spaces and Riemann surfaces.",
+    "legacy": "Maryam's achievements inspire women and girls worldwide to pursue mathematics."
   },
   "achievements": [
-    "First woman to win Fields Medal",
-    "Revolutionary work in geometry",
-    "Solved complex mathematical problems",
-    "Professor at Stanford University",
-    "Gold medals at International Mathematical Olympiad",
-    "Pioneered work in moduli spaces"
+    "First woman to win the Fields Medal",
+    "Made major advances in geometry and dynamical systems",
+    "Gold medalist at International Mathematical Olympiad"
   ],
-  "awards": [
-    "Fields Medal (2014)",
-    "Gold medals at International Mathematical Olympiad (1994, 1995)",
-    "Clay Research Award",
-    "Satter Prize"
-  ],
-  "publications": [
-    {
-      "title": "Simple geodesics on hyperbolic surfaces and the volume of the moduli space",
-      "year": "2007"
-    }
-  ],
-  "education": [
-    {
-      "degree": "PhD",
-      "field": "Mathematics",
-      "institution": "Harvard University"
-    }
-  ],
+  "awards": ["Fields Medal (2014)", "Clay Research Award (2014)"],
+  "publications": [],
+  "education": [{"degree": "PhD", "field": "Mathematics", "institution": "Harvard University"}],
   "timeline": [
-    {
-      "year": 1995,
-      "event": "Won gold medal at International Mathematical Olympiad"
-    },
-    {
-      "year": 2004,
-      "event": "Earned PhD from Harvard University"
-    },
-    {
-      "year": 2014,
-      "event": "Won Fields Medal"
-    }
+    {"year": 1994, "event": "Won gold medal at International Mathematical Olympiad"},
+    {"year": 2004, "event": "Earned PhD from Harvard"},
+    {"year": 2014, "event": "Won Fields Medal"}
   ],
-  "barriers": [
-    "Discrimination as a woman in mathematics",
-    "Challenges as Iranian immigrant",
-    "Battling cancer during her career"
-  ],
-  "impact": "Her revolutionary work in geometry has influenced many areas of mathematics and physics, and she opened doors for women in mathematics worldwide.",
-  "media": [
-    {
-      "type": "article",
-      "title": "Maryam Mirzakhani: First Woman to Win Fields Medal",
-      "url": "https://www.biography.com/scientist/maryam-mirzakhani"
-    }
-  ],
-  "references": [
-    {
-      "title": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Maryam_Mirzakhani"
-    }
-  ],
-  "mentorship": "Mentored many students in mathematics and inspired women worldwide to pursue mathematics.",
-  "fun_fact": "Maryam was the first Iranian woman to win gold medals at the International Mathematical Olympiad.",
-  "career_path": {
-    "first_job": "Postdoctoral researcher at Princeton University",
-    "career_highlights": [
-      "Professor at Stanford University",
-      "Won Fields Medal",
-      "Revolutionary work in geometry"
-    ],
-    "advice_for_students": "Follow your passion for mathematics and don't let anyone tell you that women can't excel in the most abstract areas of mathematics."
-  },
-  "student_resources": {
-    "books_for_students": [
-      "The Mathematical Universe",
-      "Women in Mathematics: The Addition of Difference"
-    ],
-    "websites": [
-      "math.org",
-      "womeninmath.org",
-      "claymath.org"
-    ],
-    "programs": [
-      "Mathematics summer programs",
-      "International Mathematical Olympiad",
-      "Women in mathematics organizations"
-    ],
-    "advice": "Study mathematics with passion and don't be afraid to tackle the most challenging problems."
-  },
-  "challenges": {
-    "academic": [
-      "Being a woman in mathematics",
-      "Working in highly abstract fields"
-    ],
-    "professional": [
-      "Discrimination in mathematics",
-      "Battling cancer during career"
-    ],
-    "personal": [
-      "Immigration challenges",
-      "Health struggles"
-    ],
-    "how_overcame": "Focused on her mathematical work, found supportive colleagues, and persisted despite all obstacles"
-  },
-  "education_details": {
-    "high_school": "Excelled in mathematics competitions",
-    "college_major": "Mathematics",
-    "key_courses": [
-      "Advanced Geometry",
-      "Dynamical Systems",
-      "Moduli Spaces",
-      "Riemann Surfaces"
-    ],
-    "study_tips": "Visualize mathematical concepts and don't be afraid to explore the most abstract areas"
-  },
-  "modern_impact": {
-    "current_applications": "Her work influences modern geometry and theoretical physics",
-    "companies_using_her_work": [
-      "Mathematics research institutions",
-      "Physics research laboratories",
-      "Universities worldwide"
-    ],
-    "future_implications": "Continues to influence the development of geometry and mathematical physics"
-  },
-  "personal_info": {
-    "early_interests": [
-      "Mathematics",
-      "Geometry",
-      "Problem solving",
-      "Competitions"
-    ],
-    "family_background": "Supportive family that encouraged her mathematical talents",
-    "hobbies": [
-      "Mathematics research",
-      "Teaching",
-      "Reading"
-    ],
-    "personality_traits": [
-      "Brilliant",
-      "Determined",
-      "Creative",
-      "Inspiring"
-    ]
-  },
-  "cultural_background": {
-    "heritage": "Iranian",
-    "cultural_influences": [
-      "Iranian mathematical tradition",
-      "International mathematical community"
-    ],
-    "cultural_challenges": [
-      "Gender discrimination in mathematics",
-      "Immigration challenges",
-      "Cultural barriers"
-    ],
-    "cultural_contributions": "Bridged Iranian and international mathematical traditions, inspired women worldwide in mathematics"
-  },
+  "barriers": ["Gender barriers in mathematics", "Underrepresentation of women in math"],
+  "impact": "Inspired women and girls worldwide to pursue mathematics.",
+  "media": [{"type": "article", "title": "Maryam Mirzakhani: Fields Medalist", "url": "https://www.ams.org/journals/notices/201709/rnoti-p1044.pdf"}],
+  "references": [{"title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Maryam_Mirzakhani"}],
+  "mentorship": "Mentored students and advocated for women in mathematics.",
+  "fun_fact": "Maryam was the first Iranian and the first woman to win the Fields Medal.",
+  "career_path": {"first_job": "Professor at Princeton University", "career_highlights": ["Won Fields Medal", "Made major advances in geometry"], "advice_for_students": "Be patient and persistent in your studies. Mathematics rewards curiosity and perseverance."},
+  "student_resources": {"books_for_students": ["Prime Obsession", "The Man Who Knew Infinity"], "websites": ["ams.org"], "programs": ["Math Olympiad", "Women in Math"], "advice": "Participate in math competitions and seek mentors in your field."},
+  "challenges": {"academic": ["Limited opportunities for women in math"], "professional": ["Gender barriers in academia"], "personal": ["Balancing family and research"], "how_overcame": "Persevered through talent and support from mentors and family."},
+  "education_details": {"high_school": "Farzanegan High School, Tehran", "college_major": "Mathematics", "key_courses": ["Geometry", "Dynamical Systems"], "study_tips": "Work on challenging problems and collaborate with peers."},
+  "modern_impact": {"current_applications": "Her work is foundational in geometry and dynamical systems.", "companies_using_her_work": ["Universities", "Research institutes"], "future_implications": "Her legacy inspires future generations of mathematicians."},
+  "personal_info": {"early_interests": ["Mathematics", "Reading"], "family_background": "Supportive family in Tehran", "hobbies": ["Reading", "Traveling"], "personality_traits": ["Curious", "Patient", "Brilliant"]},
+  "cultural_background": {"heritage": "Iranian", "cultural_influences": ["Iranian education system", "International math community"], "cultural_challenges": ["Gender roles in Iran", "Underrepresentation of women in math"], "cultural_contributions": "Pioneered women's participation in advanced mathematics."},
   "verified": true
 }

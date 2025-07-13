@@ -4,186 +4,43 @@
   "birthDate": "1918",
   "deathDate": "2020",
   "country": "United States",
-  "fields": [
-    "Mathematics",
-    "Physics"
-  ],
-  "roles": [
-    "Mathematician",
-    "Computer"
-  ],
-  "quote": "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed... anything that could be counted, I did.",
-  "summary": "NASA mathematician whose calculations were critical to the success of early space missions.",
-  "shortDescription": "Katherine Johnson was a brilliant mathematician who calculated the trajectories for NASA's first space missions, including the Apollo 11 moon landing. She worked at NASA when computers were people, not machines, and her precise calculations helped ensure the safety of astronauts. Katherine broke barriers as a Black woman in a male-dominated field and inspired the movie 'Hidden Figures.' Her work literally launched humanity into space.",
+  "fields": ["Mathematics", "Aerospace"],
+  "roles": ["Mathematician", "NASA Scientist", "Educator"],
+  "quote": "We will always have STEM with us. Some things will drop out of the public eye and go away, but there will always be science, engineering, and technology. And there will always, always be mathematics.",
+  "summary": "African-American mathematician whose calculations were critical to the success of NASA's space missions, including the first American orbital flight.",
+  "shortDescription": "Katherine Johnson was a pioneering African-American mathematician whose calculations were critical to the success of NASA's space missions, including John Glenn's orbital flight. Her work broke barriers for women and people of color in STEM.",
   "detailed_description": {
-    "early_life": "Born in White Sulphur Springs, West Virginia, Katherine showed exceptional mathematical ability from an early age. She graduated from high school at 14 and college at 18, displaying extraordinary talent in mathematics.",
-    "stem_journey": "Katherine worked as a teacher before joining NASA's predecessor NACA in 1953. She calculated trajectories for space missions when computers were people, not machines, and her work was trusted by astronauts.",
-    "challenges": "Faced both racial and gender discrimination as a Black woman in a male-dominated field. She had to prove herself repeatedly and was often excluded from important meetings.",
-    "achievements": "Calculated trajectories for Apollo 11 moon landing, verified computer calculations for John Glenn's flight, and worked on the Space Shuttle program. Her calculations were critical to space mission success.",
-    "legacy": "Inspired millions through the movie 'Hidden Figures' and showed that women of color can excel in mathematics and science. Her work literally launched humanity into space."
+    "early_life": "Born in West Virginia, Katherine showed exceptional talent in mathematics from a young age. She graduated from high school at 14 and college at 18.",
+    "stem_journey": "Katherine joined NACA (later NASA) in 1953, where she calculated flight trajectories for historic missions, including Alan Shepard's and John Glenn's flights.",
+    "challenges": "As a Black woman in the segregated South, Katherine faced racial and gender discrimination throughout her career.",
+    "achievements": "Calculated trajectories for the first American in space and the first American orbital flight. Her work was essential to the Apollo 11 moon landing.",
+    "legacy": "Katherine's story inspired the book and film 'Hidden Figures' and paved the way for future generations of women and minorities in STEM."
   },
   "achievements": [
-    "Calculated trajectories for Apollo 11 moon landing",
-    "Verified computer calculations for John Glenn's flight",
-    "Worked on Space Shuttle program"
+    "Calculated trajectories for John Glenn's orbital flight",
+    "Contributed to Apollo 11 moon landing",
+    "Pioneered work at NASA as a Black woman mathematician"
   ],
-  "awards": [
-    "Presidential Medal of Freedom (2015)",
-    "Congressional Gold Medal (2019)"
-  ],
-  "education": [
-    {
-      "degree": "Bachelor's",
-      "field": "Mathematics",
-      "institution": "West Virginia State University"
-    }
-  ],
+  "awards": ["Presidential Medal of Freedom (2015)", "Congressional Gold Medal (2019)"],
+  "publications": [],
+  "education": [{"degree": "BSc", "field": "Mathematics", "institution": "West Virginia State College"}],
   "timeline": [
-    {
-      "year": 1932,
-      "event": "Graduated from high school at age 14"
-    },
-    {
-      "year": 1936,
-      "event": "Graduated from college at age 18"
-    },
-    {
-      "year": 1953,
-      "event": "Joined NASA's predecessor NACA"
-    },
-    {
-      "year": 1961,
-      "event": "Calculated trajectory for Alan Shepard's flight"
-    },
-    {
-      "year": 1962,
-      "event": "Verified calculations for John Glenn's orbital flight"
-    },
-    {
-      "year": 1969,
-      "event": "Calculated trajectories for Apollo 11 moon landing"
-    }
+    {"year": 1953, "event": "Joined NACA (later NASA)"},
+    {"year": 1962, "event": "Calculated trajectory for John Glenn's orbital flight"},
+    {"year": 1969, "event": "Contributed to Apollo 11 moon landing"}
   ],
-  "barriers": [
-    "Racial discrimination in STEM fields",
-    "Gender discrimination in mathematics",
-    "Segregation in workplace and education"
-  ],
-  "impact": "Her calculations were critical to the success of early space missions and inspired millions.",
-  "media": [
-    {
-      "type": "movie",
-      "title": "Hidden Figures",
-      "url": "https://www.imdb.com/title/tt4846340/"
-    }
-  ],
-  "references": [
-    {
-      "title": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Katherine_Johnson"
-    },
-    {
-      "title": "NASA Biography",
-      "url": "https://www.nasa.gov/content/katherine-johnson-biography"
-    }
-  ],
-  "mentorship": "Inspired countless women and girls, especially African American students, to pursue careers in mathematics and science.",
-  "fun_fact": "Katherine graduated from high school at age 14 and college at age 18.",
-  "career_path": {
-    "first_job": "Teacher in West Virginia",
-    "career_highlights": [
-      "Joined NASA's predecessor NACA in 1953",
-      "Calculated trajectory for Alan Shepard's flight",
-      "Verified calculations for John Glenn's orbital flight"
-    ],
-    "advice_for_students": "Learn everything you can, then do what you want to do. Math is everywhere in the world around us."
-  },
-  "student_resources": {
-    "books_for_students": [
-      "Hidden Figures by Margot Lee Shetterly",
-      "Reaching for the Moon by Katherine Johnson",
-      "My Remarkable Journey by Katherine Johnson"
-    ],
-    "websites": [
-      "nasa.gov",
-      "mathcounts.org",
-      "blackgirlscode.org"
-    ],
-    "programs": [
-      "Math competitions",
-      "African American STEM programs",
-      "Women in mathematics mentorship"
-    ],
-    "advice": "Don't let anyone tell you what you can't do. Math is a language that opens doors to understanding the universe."
-  },
-  "challenges": {
-    "academic": [
-      "Limited educational opportunities for African American students",
-      "Being the only woman in mathematics classes"
-    ],
-    "professional": [
-      "Racial and gender discrimination at NASA",
-      "Segregation in workplace facilities"
-    ],
-    "personal": [
-      "Balancing family and career demands",
-      "Proving herself repeatedly in male-dominated field"
-    ],
-    "how_overcame": "Relied on her exceptional mathematical skills and determination. She focused on excellence and let her work speak for itself"
-  },
-  "education_details": {
-    "high_school": "Graduated at age 14 from high school",
-    "college_major": "Mathematics at West Virginia State University",
-    "graduate_school": "Self-taught advanced mathematics",
-    "key_courses": [
-      "Advanced Mathematics",
-      "Physics",
-      "Calculus",
-      "Analytical Geometry"
-    ],
-    "study_tips": "Practice mathematics daily and see it as a tool for understanding the world around you"
-  },
-  "modern_impact": {
-    "current_applications": "Her mathematical methods are still used in aerospace calculations and orbital mechanics",
-    "companies_using_her_work": [
-      "NASA and space agencies worldwide",
-      "Aerospace companies",
-      "Universities teaching orbital mechanics"
-    ],
-    "future_implications": "Her legacy continues to inspire diversity in mathematics and aerospace engineering"
-  },
-  "personal_info": {
-    "early_interests": [
-      "Mathematics and counting",
-      "Understanding how things work",
-      "Education and learning"
-    ],
-    "family_background": "Encouraged by parents to pursue education despite segregation",
-    "hobbies": [
-      "Mathematics",
-      "Teaching",
-      "Reading"
-    ],
-    "personality_traits": [
-      "Determined",
-      "Intelligent",
-      "Persistent",
-      "Humble"
-    ]
-  },
-  "cultural_background": {
-    "heritage": "African American heritage",
-    "cultural_influences": [
-      "African American educational values",
-      "Post-war American space program",
-      "Civil Rights Movement era"
-    ],
-    "cultural_challenges": [
-      "Racial segregation in education and workplace",
-      "Limited opportunities for African American women",
-      "Gender barriers in mathematics"
-    ],
-    "cultural_contributions": "Pioneered African American women's roles in mathematics and aerospace, inspiring future generations"
-  },
+  "barriers": ["Racial and gender discrimination", "Segregation in the workplace"],
+  "impact": "Broke barriers for women and people of color in STEM and contributed to historic space missions.",
+  "media": [{"type": "article", "title": "Katherine Johnson: NASA's Human Computer", "url": "https://www.nasa.gov/content/katherine-johnson-biography"}],
+  "references": [{"title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Katherine_Johnson"}],
+  "mentorship": "Mentored young mathematicians and advocated for STEM education.",
+  "fun_fact": "Katherine was portrayed by Taraji P. Henson in the film 'Hidden Figures'.",
+  "career_path": {"first_job": "Teacher", "career_highlights": ["Joined NASA", "Calculated historic spaceflight trajectories"], "advice_for_students": "Never be afraid to ask questions and always keep learning."},
+  "student_resources": {"books_for_students": ["Hidden Figures", "Reaching for the Moon"], "websites": ["nasa.gov"], "programs": ["Math clubs", "NASA internships"], "advice": "Believe in your abilities and pursue your passion for math and science."},
+  "challenges": {"academic": ["Limited access to advanced courses"], "professional": ["Racial and gender discrimination"], "personal": ["Balancing family and career"], "how_overcame": "Persevered through determination and support from family and mentors."},
+  "education_details": {"high_school": "West Virginia high school (graduated at 14)", "college_major": "Mathematics", "key_courses": ["Mathematics", "Physics"], "study_tips": "Practice problem-solving and seek out mentors."},
+  "modern_impact": {"current_applications": "Her work is foundational to aerospace engineering and space exploration.", "companies_using_her_work": ["NASA", "SpaceX"], "future_implications": "Her legacy inspires diversity and inclusion in STEM."},
+  "personal_info": {"early_interests": ["Mathematics", "Counting"], "family_background": "Supportive family in West Virginia", "hobbies": ["Math puzzles", "Reading"], "personality_traits": ["Curious", "Persistent", "Brilliant"]},
+  "cultural_background": {"heritage": "African-American", "cultural_influences": ["Segregated South", "Civil Rights Movement"], "cultural_challenges": ["Racial and gender discrimination"], "cultural_contributions": "Pioneered Black women's participation in space science."},
   "verified": true
 }

@@ -1,6 +1,6 @@
 {
   "name": "Sophia Hayden",
-  "summary": "Architect and advocate for women in design and engineering.",
+  "summary": "First female graduate of MIT's architecture program and designer of the Woman's Building at the 1893 World's Fair.",
   "shortDescription": "Sophia Hayden was the first female graduate of MIT’s architecture program and designed the Woman’s Building at the 1893 World’s Fair. She broke barriers for women in architecture and inspired future generations of designers.",
   "photo": "./images/rachel-carson.jpg",
   "birthDate": "1868",
@@ -11,10 +11,8 @@
     "Engineering"
   ],
   "roles": [
-    "Architect",
-    "Engineer"
+    "Architect"
   ],
-  "quote": "[The Woman's Building] is the result of careful training in classical design and is the expression of what I liked and felt.",
   "detailed_description": {
     "early_life": "Born in 1868 in Santiago, Chile, Sophia Hayden showed an early talent for art and design. She moved to the United States and pursued her passion for architecture, despite the challenges facing women in the field.",
     "stem_journey": "Sophia attended MIT and became the first woman to receive an architecture degree from the prestigious institution. She excelled in her studies and demonstrated exceptional design skills, winning the competition to design the Woman's Building.",

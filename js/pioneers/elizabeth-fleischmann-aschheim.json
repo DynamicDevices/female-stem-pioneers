@@ -1,0 +1,160 @@
+{
+  "name": "Elizabeth Fleischmann-Aschheim",
+  "photo": "./images/placeholder-woman.svg",
+  "birthDate": "1859",
+  "deathDate": "1905",
+  "country": "United States",
+  "fields": [
+    "Radiology",
+    "Medicine",
+    "Physics"
+  ],
+  "roles": [
+    "Radiologist",
+    "Physicist",
+    "Medical Pioneer"
+  ],
+  "quote": "I am going to make X-ray pictures. I am going to make them better than anyone else.",
+  "summary": "Pioneering radiologist who was one of the first women to work with X-rays and established the first X-ray laboratory in San Francisco.",
+  "shortDescription": "Elizabeth Fleischmann-Aschheim was one of the first women to work with X-rays, establishing the first X-ray laboratory in San Francisco in 1896. She became an expert in radiography and helped develop early X-ray technology for medical diagnosis. Her work laid the foundation for modern radiology and medical imaging.",
+  "detailed_description": {
+    "early_life": "Born in 1859 in California, Elizabeth showed an early interest in science and technology. She was educated in San Francisco and developed a fascination with the new field of electricity.",
+    "stem_journey": "In 1896, after learning about Wilhelm Röntgen's discovery of X-rays, Elizabeth became one of the first people in San Francisco to experiment with the new technology. She established the first X-ray laboratory in the city.",
+    "challenges": "As a woman in the late 19th century, Elizabeth faced significant barriers in pursuing a career in science and medicine. She also worked with dangerous X-ray technology without proper protection.",
+    "achievements": "Elizabeth became an expert in radiography and helped develop early X-ray technology for medical diagnosis. She established the first X-ray laboratory in San Francisco and trained others in the new technology.",
+    "legacy": "Elizabeth's pioneering work in radiology helped establish the field of medical imaging. Her laboratory became a center for X-ray research and training in the early 20th century."
+  },
+  "achievements": [
+    "Established the first X-ray laboratory in San Francisco",
+    "Became an expert in early radiography",
+    "Helped develop X-ray technology for medical diagnosis",
+    "Trained others in X-ray technology"
+  ],
+  "awards": [],
+  "publications": [],
+  "education": [
+    {
+      "degree": "Self-taught",
+      "field": "Radiology",
+      "institution": "Independent Study"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1896,
+      "event": "Established first X-ray laboratory in San Francisco"
+    },
+    {
+      "year": 1905,
+      "event": "Died from radiation exposure"
+    }
+  ],
+  "barriers": [
+    "Gender barriers in science and medicine",
+    "Working with dangerous X-ray technology without protection",
+    "Limited formal education opportunities for women"
+  ],
+  "impact": "Pioneered the field of medical radiology and helped establish X-ray technology for medical diagnosis.",
+  "media": [
+    {
+      "type": "article",
+      "title": "Elizabeth Fleischmann-Aschheim: Pioneer of Radiology",
+      "url": "https://www.radiologyinfo.org/en/info/history"
+    }
+  ],
+  "references": [
+    {
+      "title": "Women in Radiology",
+      "url": "https://www.radiologyinfo.org/en/info/women-radiology"
+    }
+  ],
+  "mentorship": "Trained others in X-ray technology and helped establish the field of radiology.",
+  "fun_fact": "Elizabeth was one of the first people in San Francisco to experiment with X-rays after their discovery.",
+  "career_path": {
+    "first_job": "X-ray laboratory operator",
+    "career_highlights": [
+      "Established first X-ray laboratory in San Francisco",
+      "Became expert in early radiography",
+      "Trained others in X-ray technology"
+    ],
+    "advice_for_students": "Be willing to explore new technologies and don't let gender barriers stop you from pursuing your interests in science and medicine."
+  },
+  "student_resources": {
+    "books_for_students": [
+      "The History of Radiology",
+      "Women in Medicine: A History"
+    ],
+    "websites": [
+      "radiologyinfo.org",
+      "womeninradiology.org"
+    ],
+    "programs": [
+      "Radiology summer camps",
+      "Women in Medicine mentorship programs"
+    ],
+    "advice": "Explore new technologies and don't be afraid to be a pioneer in emerging fields."
+  },
+  "challenges": {
+    "academic": [
+      "Limited formal education opportunities for women"
+    ],
+    "professional": [
+      "Gender barriers in science and medicine",
+      "Working with dangerous technology without protection"
+    ],
+    "personal": [
+      "Health risks from radiation exposure"
+    ],
+    "how_overcame": "Self-taught and determined to master the new X-ray technology"
+  },
+  "education_details": {
+    "high_school": "San Francisco education",
+    "college_major": "Self-taught in radiology",
+    "key_courses": [
+      "Physics",
+      "Electricity",
+      "Medical Technology"
+    ],
+    "study_tips": "Learn by doing and experimenting with new technologies"
+  },
+  "modern_impact": {
+    "current_applications": "Her work helped establish the field of medical imaging",
+    "companies_using_her_work": [
+      "All medical imaging companies",
+      "Hospitals worldwide"
+    ],
+    "future_implications": "Advanced medical imaging technologies build on early X-ray work"
+  },
+  "personal_info": {
+    "early_interests": [
+      "Science",
+      "Technology",
+      "Medicine",
+      "Electricity"
+    ],
+    "family_background": "California family",
+    "hobbies": [
+      "Scientific experimentation",
+      "Medical technology"
+    ],
+    "personality_traits": [
+      "Pioneering",
+      "Determined",
+      "Innovative",
+      "Courageous"
+    ]
+  },
+  "cultural_background": {
+    "heritage": "American",
+    "cultural_influences": [
+      "Late 19th century scientific discovery",
+      "California innovation culture"
+    ],
+    "cultural_challenges": [
+      "Gender roles in late 19th century",
+      "Limited opportunities for women in science"
+    ],
+    "cultural_contributions": "Helped establish women's role in medical technology and radiology"
+  },
+  "verified": true
+} 

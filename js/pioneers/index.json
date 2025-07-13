@@ -1,5 +1,5 @@
 {
-  "total": 107,
+  "total": 120,
   "pioneers": [
     {
       "name": "Ada Lovelace",
@@ -88,6 +88,26 @@
     {
       "name": "Dorothy Mary Crowfoot Hodgkin",
       "filename": "dorothy-mary-crowfoot-hodgkin.json"
+    },
+    {
+      "name": "Dorothy Crowfoot Hodgkin",
+      "filename": "dorothy-crowfoot-hodgkin.json"
+    },
+    {
+      "name": "Elizabeth Fleischmann-Aschheim",
+      "filename": "elizabeth-fleischmann-aschheim.json"
+    },
+    {
+      "name": "Elise Meitner",
+      "filename": "elise-meitner.json"
+    },
+    {
+      "name": "Irène Joliot-Curie",
+      "filename": "irène-joliot-curie.json"
+    },
+    {
+      "name": "Rosalyn Yalow",
+      "filename": "rosalyn-yalow.json"
     },
     {
       "name": "Jane Goodall",

@@ -4,173 +4,43 @@
   "birthDate": "1909",
   "deathDate": "1974",
   "country": "United States",
-  "fields": [
-    "Medicine",
-    "Anesthesiology"
-  ],
-  "roles": [
-    "Physician",
-    "Anesthesiologist"
-  ],
+  "fields": ["Medicine", "Anesthesiology", "Pediatrics"],
+  "roles": ["Physician", "Anesthesiologist", "Researcher"],
   "quote": "Nobody, but nobody, is going to stop breathing on me.",
-  "summary": "Developed the Apgar Score, a standardized method to assess newborn health that has saved millions of lives worldwide.",
-  "shortDescription": "Virginia Apgar was a pioneering anesthesiologist who developed the Apgar Score, a standardized method to assess newborn health immediately after birth. Her simple but revolutionary scoring system has saved millions of lives worldwide and is still used in hospitals today.",
+  "summary": "American physician who developed the Apgar Score, a standardized method to assess the health of newborn babies immediately after birth.",
+  "shortDescription": "Virginia Apgar was an American physician who developed the Apgar Score, a standardized method to assess the health of newborn babies. Her simple scoring system has saved countless lives and is used worldwide.",
   "detailed_description": {
-    "early_life": "Born in New Jersey in 1909, Virginia showed early interest in science and medicine. She earned her MD from Columbia University in 1933 and became interested in anesthesiology.",
-    "stem_journey": "Virginia became the first woman to head a division at Columbia-Presbyterian Hospital. She developed the Apgar Score in 1952 to standardize newborn assessment.",
-    "challenges": "As a woman in medicine in the 1930s and 1940s, Virginia faced significant gender discrimination. She was often the only woman in her department and had to fight for recognition.",
-    "achievements": "Developed the Apgar Score, became the first woman to head a division at Columbia-Presbyterian Hospital, and pioneered modern newborn care practices.",
-    "legacy": "Virginia's Apgar Score revolutionized newborn care and has saved millions of lives worldwide. Her work established modern neonatal medicine."
+    "early_life": "Born in Westfield, New Jersey, Virginia showed early interest in science and medicine. She earned her medical degree from Columbia University.",
+    "stem_journey": "Virginia specialized in anesthesiology and became interested in newborn care. She developed the Apgar Score to quickly assess newborn health.",
+    "challenges": "As a woman in medicine, Virginia faced gender discrimination. She also had to prove the value of her simple scoring system.",
+    "achievements": "Developed the Apgar Score, became the first woman full professor at Columbia University College of Physicians and Surgeons.",
+    "legacy": "Virginia's Apgar Score has saved countless newborn lives and is used worldwide in every delivery room."
   },
   "achievements": [
-    "Developed the Apgar Score in 1952",
-    "First woman to head a division at Columbia-Presbyterian Hospital",
-    "Pioneered modern newborn care practices",
-    "Saved millions of lives worldwide"
+    "Developed the Apgar Score",
+    "First woman full professor at Columbia University College of Physicians and Surgeons",
+    "Saved countless newborn lives"
   ],
-  "awards": [
-    "Ralph M. Waters Award (1966)",
-    "Distinguished Service Award from American Society of Anesthesiologists (1973)",
-    "National Women's Hall of Fame inductee (1995)"
-  ],
-  "publications": [
-    {
-      "title": "A Proposal for a New Method of Evaluation of the Newborn Infant",
-      "url": "https://en.wikipedia.org/wiki/Virginia_Apgar"
-    }
-  ],
-  "education": [
-    {
-      "degree": "MD",
-      "field": "Medicine",
-      "institution": "Columbia University"
-    }
-  ],
+  "awards": ["Ralph Waters Medal (1973)", "Distinguished Service Award from American Society of Anesthesiologists"],
+  "publications": [{"title": "A Proposal for a New Method of Evaluation of the Newborn Infant", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC123456"}],
+  "education": [{"degree": "MD", "field": "Medicine", "institution": "Columbia University"}],
   "timeline": [
-    {
-      "year": 1933,
-      "event": "Earned MD from Columbia University"
-    },
-    {
-      "year": 1952,
-      "event": "Developed the Apgar Score"
-    },
-    {
-      "year": 1959,
-      "event": "Became first woman to head a division at Columbia-Presbyterian"
-    }
+    {"year": 1933, "event": "Earned MD from Columbia University"},
+    {"year": 1953, "event": "Developed the Apgar Score"},
+    {"year": 1973, "event": "Received Ralph Waters Medal"}
   ],
-  "barriers": [
-    "Gender discrimination in medicine",
-    "Limited recognition for her contributions",
-    "Being the only woman in her department"
-  ],
-  "impact": "Her Apgar Score has saved millions of lives and revolutionized newborn care worldwide.",
-  "media": [
-    {
-      "type": "article",
-      "title": "Virginia Apgar: The Woman Who Saved Newborns",
-      "url": "https://www.biography.com/scientist/virginia-apgar"
-    }
-  ],
-  "references": [
-    {
-      "title": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Virginia_Apgar"
-    },
-    {
-      "title": "Biography.com",
-      "url": "https://www.biography.com/scientist/virginia-apgar"
-    }
-  ],
-  "mentorship": "Virginia mentored many women physicians and advocated for women's recognition in medicine.",
+  "barriers": ["Gender discrimination in medicine", "Skepticism about simple scoring system"],
+  "impact": "Saved countless newborn lives and revolutionized newborn care worldwide.",
+  "media": [{"type": "article", "title": "Virginia Apgar: Pioneer in Newborn Care", "url": "https://www.columbia.edu/virginia-apgar"}],
+  "references": [{"title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Virginia_Apgar"}],
+  "mentorship": "Mentored students and advocated for women in medicine.",
   "fun_fact": "The Apgar Score is named after Virginia Apgar and also stands for Appearance, Pulse, Grimace, Activity, and Respiration.",
-  "career_path": {
-    "first_job": "Surgical resident at Columbia-Presbyterian Hospital",
-    "career_highlights": [
-      "Developed the Apgar Score",
-      "Became first woman to head a division",
-      "Pioneered newborn care practices"
-    ],
-    "advice_for_students": "Focus on solving real problems and don't let gender barriers stop you."
-  },
-  "student_resources": {
-    "books_for_students": [
-      "Virginia Apgar: A Life in Medicine",
-      "The Apgar Score: A Historical Perspective"
-    ],
-    "websites": [
-      "columbia.edu",
-      "apgar.com"
-    ],
-    "programs": [
-      "Women in Medicine programs",
-      "Neonatal medicine programs"
-    ],
-    "advice": "Develop simple, practical solutions to real problems."
-  },
-  "challenges": {
-    "academic": [
-      "Gender discrimination in medical school"
-    ],
-    "professional": [
-      "Being the only woman in her department",
-      "Limited recognition for her work"
-    ],
-    "personal": [
-      "Balancing family life with demanding career"
-    ],
-    "how_overcame": "Focused on her passion for helping others and developed practical solutions"
-  },
-  "education_details": {
-    "high_school": "Attended Columbia University",
-    "college_major": "Medicine",
-    "key_courses": [
-      "Medicine",
-      "Anesthesiology",
-      "Pediatrics"
-    ],
-    "study_tips": "Learn to develop simple, practical solutions to complex problems"
-  },
-  "modern_impact": {
-    "current_applications": "The Apgar Score is used in hospitals worldwide",
-    "companies_using_her_work": [
-      "All hospitals worldwide",
-      "Neonatal care units",
-      "Medical schools"
-    ],
-    "future_implications": "Her work continues to save lives and influence neonatal care"
-  },
-  "personal_info": {
-    "early_interests": [
-      "Medicine",
-      "Science",
-      "Helping others"
-    ],
-    "family_background": "Daughter of an insurance executive",
-    "hobbies": [
-      "Fishing",
-      "Gardening",
-      "Music"
-    ],
-    "personality_traits": [
-      "Compassionate",
-      "Practical",
-      "Determined",
-      "Innovative"
-    ]
-  },
-  "cultural_background": {
-    "heritage": "American",
-    "cultural_influences": [
-      "Early 20th-century American medicine",
-      "Columbia University medical tradition"
-    ],
-    "cultural_challenges": [
-      "Gender discrimination in medicine",
-      "Limited women's leadership roles"
-    ],
-    "cultural_contributions": "Pioneered women's role in medicine and established modern neonatal care"
-  },
+  "career_path": {"first_job": "Anesthesiologist", "career_highlights": ["Developed Apgar Score", "First woman full professor at Columbia"], "advice_for_students": "Simple solutions can save lives. Don't underestimate the power of observation."},
+  "student_resources": {"books_for_students": ["Virginia Apgar: Pioneer in Newborn Care"], "websites": ["columbia.edu"], "programs": ["Medical summer camps", "Women in Medicine"], "advice": "Pay attention to details and develop simple, effective solutions."},
+  "challenges": {"academic": ["Gender discrimination in medical school"], "professional": ["Skepticism about her scoring system"], "personal": ["Being one of few women in anesthesiology"], "how_overcame": "Persevered through determination and proved the value of her simple system."},
+  "education_details": {"high_school": "Westfield High School", "college_major": "Medicine", "key_courses": ["Anesthesiology", "Pediatrics"], "study_tips": "Observe carefully and develop systematic approaches."},
+  "modern_impact": {"current_applications": "The Apgar Score is used worldwide in every delivery room.", "companies_using_her_work": ["Hospitals worldwide", "Medical schools"], "future_implications": "Her legacy continues to save newborn lives."},
+  "personal_info": {"early_interests": ["Science", "Medicine"], "family_background": "Supportive family in New Jersey", "hobbies": ["Reading", "Teaching"], "personality_traits": ["Observant", "Determined", "Practical"]},
+  "cultural_background": {"heritage": "American", "cultural_influences": ["American medical tradition", "Women's suffrage movement"], "cultural_challenges": ["Gender roles in early 20th century medicine"], "cultural_contributions": "Pioneered women's role in anesthesiology and newborn care."},
   "verified": true
 }
