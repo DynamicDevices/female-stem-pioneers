@@ -7465,6 +7465,36 @@ const pioneers = [
         "url": "https://en.wikipedia.org/wiki/Mina_Rees"
       }
     ]
+  },
+  {
+    "name": "Maryam Mirzakhani",
+    "photo": "./images/maryam-mirzakhani.jpg",
+    "birthDate": "1977",
+    "deathDate": "2017",
+    "country": "Iran",
+    "fields": [
+      "Mathematics",
+      "Geometry"
+    ],
+    "roles": [
+      "Mathematician",
+      "Professor"
+    ],
+    "quote": "The beauty of mathematics only shows itself to more patient followers.",
+    "summary": "First woman to win the Fields Medal, the highest honor in mathematics.",
+    "shortDescription": "Maryam Mirzakhani was the first woman to win the Fields Medal, the highest honor in mathematics. She made groundbreaking contributions to geometry and dynamical systems, solving complex problems that had puzzled mathematicians for decades.",
+    "achievements": [
+      "First woman to win Fields Medal",
+      "Revolutionary work in geometry",
+      "Solved complex mathematical problems",
+      "Professor at Stanford University"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maryam_Mirzakhani"
+      }
+    ]
   }
 ];
 
