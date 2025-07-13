@@ -1070,33 +1070,6 @@ const pioneers = [
     ]
   },
   {
-    "name": "Alice Ball",
-    "photo": "./images/placeholder-woman.svg",
-    "birthDate": "1892",
-    "deathDate": "1916",
-    "country": "United States",
-    "fields": [
-      "Chemistry",
-      "Pharmacy"
-    ],
-    "roles": [
-      "Chemist",
-      "Pharmacist"
-    ],
-    "quote": "I work for the benefit of suffering humanity.",
-    "summary": "Developed the first successful treatment for leprosy (the Ball Method).",
-    "achievements": [
-      "Developed the Ball Method for leprosy treatment",
-      "First woman and first African American to earn a master's from University of Hawaii"
-    ],
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Alice_Ball"
-      }
-    ]
-  },
-  {
     "name": "Caroline Herschel",
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1750",
