@@ -34,7 +34,7 @@ The system ensures inclusive representation across all skin tones and STEM field
 
 ## Contributing
 
-- Add new pioneers in `js/pioneers.js` or use `add-pioneer.js`
+- Add new pioneers in `js/pioneers/` directory using individual JSON files
 - Images go in the `images/` folder (photo, artistic, or symbolic SVG)
 - **Only valid, non-empty images are accepted. Broken or empty images will be removed.**
 - **All images must be Creative Commons licensed, public domain, or your own original work.**
@@ -47,7 +47,7 @@ The system ensures inclusive representation across all skin tones and STEM field
 We welcome contributions of new female STEM pioneers! To add a new pioneer:
 
 1. **Open an Issue or Pull Request** using our templates (see the 'New Pioneer Profile' templates).
-2. **Add your pioneer to `js/pioneers.js`** using the provided structure (see `add-pioneer.js` for a template).
+2. **Add your pioneer to `js/pioneers/`** using the provided structure (see existing JSON files for a template).
 3. **Include an image** in the `images/` folder (JPG, PNG, SVG preferred). If no real image is available, the diverse icon system will automatically provide appropriate fallback icons.
 4. **Provide a short, engaging description** for students.
 5. **Ensure images are properly licensed** (Creative Commons, public domain, or your own work).

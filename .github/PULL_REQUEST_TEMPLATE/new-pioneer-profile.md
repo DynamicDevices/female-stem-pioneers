@@ -23,7 +23,7 @@ This PR adds a new female STEM pioneer to the project.
 
 ## Checklist
 - [ ] I confirm this is a female STEM pioneer
-- [ ] I have checked for duplicates in `js/pioneers.js`
+- [ ] I have checked for duplicates in `js/pioneers/` directory
 - [ ] I have provided a short, student-friendly description
 - [ ] I have included at least one reliable reference
 - [ ] I have added an image to `images/` (if available)

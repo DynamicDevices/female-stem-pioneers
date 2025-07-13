@@ -39,11 +39,11 @@ By contributing to this project, you agree that your contributions will be licen
 
 ### Adding New Pioneer Profiles
 
-**IMPORTANT EFFICIENCY NOTE**: Before spending time researching and writing metadata for a potential new pioneer, **always check if they are already included in the project**. Use `grep` or search the `js/pioneers.js` file to verify the pioneer's name is not already present. This saves significant time and prevents duplicate work.
+**IMPORTANT EFFICIENCY NOTE**: Before spending time researching and writing metadata for a potential new pioneer, **always check if they are already included in the project**. Use `grep` or search the `js/pioneers/` directory to verify the pioneer's name is not already present. This saves significant time and prevents duplicate work.
 
 1. **Fork the repository**
 2. **Check for duplicates first** - Search the existing pioneers to ensure the person is not already included
-3. **Add your pioneer to `js/pioneers.js`** following the current data structure (see existing entries for reference). Each entry is an object with fields such as:
+3. **Add your pioneer to `js/pioneers/`** following the current data structure (see existing JSON files for reference). Each entry is an object with fields such as:
    - `name`, `photo`, `birthDate`, `deathDate`, `country`, `fields`, `roles`, `quote`, `summary`, `shortDescription`, `achievements`, `fun_fact`, and additional metadata (see `add-pioneer.js` for template)
    - Only **female** pioneers are accepted. No male pioneers will be included.
    - Each pioneer must be unique by name. The system deduplicates by name, but please avoid adding duplicates. (Currently 100 unique pioneers)

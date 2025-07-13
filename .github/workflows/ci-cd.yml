@@ -124,8 +124,8 @@ jobs:
             exit 1
           fi
 
-          if [ ! -f "js/pioneers.js" ]; then
-            echo "❌ js/pioneers.js not found"
+          if [ ! -f "js/pioneers/index.json" ]; then
+            echo "❌ js/pioneers/index.json not found"
             exit 1
           fi
 

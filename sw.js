@@ -37,7 +37,7 @@ const staticUrlsToCache = [
 ];
 
 // Dynamic resources that may change frequently
-const dynamicUrls = ["./js/pioneers.js"];
+const dynamicUrls = ["./js/pioneers/index.json"];
 
 // Image resources for caching
 const imageUrls = [
