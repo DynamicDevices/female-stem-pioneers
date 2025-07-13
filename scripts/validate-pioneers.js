@@ -13,7 +13,7 @@ const path = require('path');
 const pioneersDir = path.join(__dirname, '..', 'js', 'pioneers');
 const indexPath = path.join(pioneersDir, 'index.json');
 
-let pioneers = [];
+const pioneers = [];
 
 try {
   // Read the index file to get the list of pioneers

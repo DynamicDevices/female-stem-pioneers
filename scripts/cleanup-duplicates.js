@@ -35,7 +35,7 @@ try {
   
   if (duplicates.length === 0) {
     console.log('No duplicates found!');
-    return;
+    process.exit(0);
   }
   
   // Remove duplicate files
