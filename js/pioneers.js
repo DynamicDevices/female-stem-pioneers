@@ -5018,7 +5018,67 @@ const pioneers = [
         "institution": "Lyme Regis beaches"
       }
     ],
+    "detailed_description": {
+      "early_life": "Born in 1799 in Lyme Regis, England, Mary grew up in poverty. Her father was a cabinetmaker who collected fossils to sell, and Mary learned fossil hunting from him. At age 11, her father died, leaving the family destitute.",
+      "stem_journey": "Mary began fossil hunting to support her family, selling fossils to tourists and scientists. She taught herself anatomy, geology, and scientific illustration. Despite having no formal education, she became an expert in fossil identification and preparation.",
+      "challenges": "Mary faced extreme poverty and was often excluded from scientific circles because she was a woman and had no formal education. Male scientists often took credit for her discoveries, and she struggled to make a living from her work.",
+      "achievements": "Mary discovered the first complete ichthyosaur skeleton at age 12, the first complete plesiosaur skeleton, and the first pterosaur outside Germany. Her discoveries helped establish the field of paleontology and proved that women could excel in science.",
+      "legacy": "Mary's discoveries revolutionized our understanding of prehistoric life. She proved that women could make significant contributions to science without formal education, inspiring generations of female scientists."
+    },
+    "achievements": [
+      "Discovered first complete ichthyosaur skeleton",
+      "Found first complete plesiosaur skeleton",
+      "Discovered first pterosaur outside Germany",
+      "Pioneered fossil hunting techniques"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "Fossil discoveries documented in scientific journals",
+        "url": "https://en.wikipedia.org/wiki/Mary_Anning#Scientific_contributions"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Paleontology",
+        "institution": "Lyme Regis beaches"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1811,
+        "event": "Discovered first complete ichthyosaur skeleton at age 12"
+      },
+      {
+        "year": 1823,
+        "event": "Found first complete plesiosaur skeleton"
+      },
+      {
+        "year": 1828,
+        "event": "Discovered first pterosaur outside Germany"
+      }
+    ],
+    "barriers": [
+      "Poverty and lack of formal education",
+      "Gender discrimination in scientific circles",
+      "Male scientists taking credit for her discoveries"
+    ],
     "impact": "Revolutionized paleontology and proved women could excel in science without formal education.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Mary Anning: The Fossil Hunter",
+        "url": "https://www.nhm.ac.uk/discover/mary-anning.html"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mary_Anning"
+      }
+    ],
+    "mentorship": "Inspired women to pursue science despite barriers, showing that passion and dedication can overcome lack of formal education.",
     "fun_fact": "Mary Anning was struck by lightning as a baby but survived, which her family said made her intelligent.",
     "career_path": {
       "first_job": "Fossil hunter with her father",
@@ -5029,12 +5089,87 @@ const pioneers = [
       ],
       "advice_for_students": "Follow your curiosity wherever it leads. You don't need formal education to make important discoveries."
     },
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Mary_Anning"
-      }
-    ]
+    "student_resources": {
+      "books_for_students": [
+        "The Fossil Hunter: Dinosaurs, Evolution, and the Woman Whose Discoveries Changed the World",
+        "Remarkable Creatures by Tracy Chevalier"
+      ],
+      "websites": [
+        "naturalhistorymuseum.org.uk",
+        "paleontology.org",
+        "fossilguy.com"
+      ],
+      "programs": [
+        "Paleontology summer camps",
+        "Fossil hunting field trips",
+        "Natural history museum programs"
+      ],
+      "advice": "Start with what you can observe in nature. You don't need expensive equipment to make discoveries."
+    },
+    "challenges": {
+      "academic": [
+        "No formal education in science"
+      ],
+      "professional": [
+        "Poverty and financial struggles",
+        "Exclusion from scientific societies"
+      ],
+      "personal": [
+        "Family poverty after father's death"
+      ],
+      "how_overcame": "Taught herself through observation and practice, persisted despite financial hardship"
+    },
+    "education_details": {
+      "high_school": "No formal education",
+      "college_major": "Self-taught in paleontology and anatomy",
+      "key_courses": [
+        "Fossil identification",
+        "Anatomy",
+        "Geology",
+        "Scientific illustration"
+      ],
+      "study_tips": "Learn through direct observation and hands-on experience"
+    },
+    "modern_impact": {
+      "current_applications": "Her fossil discoveries form the foundation of modern paleontology",
+      "companies_using_her_work": [
+        "Natural history museums worldwide",
+        "Paleontology research institutions"
+      ],
+      "future_implications": "Continues to inspire citizen science and amateur fossil hunting"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Fossil hunting",
+        "Natural history",
+        "Drawing and illustration"
+      ],
+      "family_background": "Working-class family in coastal England",
+      "hobbies": [
+        "Fossil hunting",
+        "Scientific illustration",
+        "Reading scientific papers"
+      ],
+      "personality_traits": [
+        "Curious",
+        "Determined",
+        "Observant",
+        "Resilient"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Working-class English",
+      "cultural_influences": [
+        "Coastal community life",
+        "Victorian era scientific interest",
+        "Working-class self-education movement"
+      ],
+      "cultural_challenges": [
+        "Class barriers to scientific participation",
+        "Gender roles in Victorian society"
+      ],
+      "cultural_contributions": "Proved that working-class women could contribute to science, challenging social barriers"
+    }
   },
   {
     "name": "Kalpana Chawla",
@@ -5070,7 +5205,82 @@ const pioneers = [
         "institution": "University of Colorado Boulder"
       }
     ],
+    "detailed_description": {
+      "early_life": "Born in 1961 in Karnal, India, Kalpana showed an early fascination with flying. She would watch airplanes from her rooftop and dream of becoming a pilot. Her parents supported her education, and she excelled in school, especially in science and mathematics.",
+      "stem_journey": "Kalpana earned her bachelor's degree in aeronautical engineering from Punjab Engineering College, then moved to the United States for graduate studies. She earned her master's and PhD in aerospace engineering from the University of Texas and University of Colorado respectively.",
+      "challenges": "As an Indian woman in the 1980s, Kalpana faced cultural expectations that discouraged women from pursuing technical careers. She also faced the challenge of moving to a new country and adapting to a different educational system.",
+      "achievements": "Kalpana became the first Indian-born woman in space, flying on the Space Shuttle Columbia in 1997. She was selected as a NASA astronaut in 1994 and flew her second mission in 2003, tragically perishing in the Columbia disaster.",
+      "legacy": "Kalpana inspired millions of Indian students, especially girls, to pursue careers in STEM and space exploration. Her story shows that with determination and education, anyone can reach for the stars."
+    },
+    "achievements": [
+      "First Indian-born woman in space",
+      "Flew on Space Shuttle Columbia",
+      "Earned PhD in aerospace engineering",
+      "Inspired millions of Indian students"
+    ],
+    "awards": [
+      "NASA Space Flight Medal",
+      "Congressional Space Medal of Honor (posthumous)"
+    ],
+    "publications": [
+      {
+        "title": "Research papers on aerospace engineering",
+        "url": "https://en.wikipedia.org/wiki/Kalpana_Chawla#Education_and_career"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Aerospace Engineering",
+        "institution": "University of Colorado Boulder"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1982,
+        "event": "Earned bachelor's degree in aeronautical engineering"
+      },
+      {
+        "year": 1984,
+        "event": "Earned master's degree in aerospace engineering"
+      },
+      {
+        "year": 1988,
+        "event": "Earned PhD in aerospace engineering"
+      },
+      {
+        "year": 1994,
+        "event": "Selected as NASA astronaut"
+      },
+      {
+        "year": 1997,
+        "event": "First space flight on Columbia"
+      },
+      {
+        "year": 2003,
+        "event": "Second space flight on Columbia"
+      }
+    ],
+    "barriers": [
+      "Cultural expectations for women in India",
+      "Adapting to education system in new country",
+      "Gender barriers in aerospace engineering"
+    ],
     "impact": "Inspired millions of Indian students, especially girls, to pursue careers in STEM and space exploration.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Kalpana Chawla: First Indian Woman in Space",
+        "url": "https://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/kalpana-chawla.html"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kalpana_Chawla"
+      }
+    ],
+    "mentorship": "Inspired countless young women in India and around the world to pursue careers in aerospace and space exploration.",
     "fun_fact": "Kalpana Chawla's name means 'imagination' in Hindi, which perfectly describes her dream of flying in space.",
     "career_path": {
       "first_job": "Research assistant at NASA Ames Research Center",
@@ -5081,12 +5291,90 @@ const pioneers = [
       ],
       "advice_for_students": "Dream big and work hard. Education is your ticket to the stars."
     },
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Kalpana_Chawla"
-      }
-    ]
+    "student_resources": {
+      "books_for_students": [
+        "Kalpana Chawla: A Life",
+        "Reaching for the Stars: The Inspiring Story of a Woman's Fight for Space"
+      ],
+      "websites": [
+        "nasa.gov",
+        "space.com",
+        "indianwomeninscience.org"
+      ],
+      "programs": [
+        "NASA STEM programs",
+        "Space camps",
+        "Aerospace engineering summer programs"
+      ],
+      "advice": "Follow your dreams no matter where you come from. Education and determination can take you anywhere."
+    },
+    "challenges": {
+      "academic": [
+        "Adapting to new educational system in US"
+      ],
+      "professional": [
+        "Gender barriers in aerospace field",
+        "Cultural expectations in India"
+      ],
+      "personal": [
+        "Moving to new country alone"
+      ],
+      "how_overcame": "Focused on education, worked hard, and pursued her passion despite cultural barriers"
+    },
+    "education_details": {
+      "high_school": "Tagore School, Karnal, India",
+      "college_major": "Aeronautical Engineering",
+      "key_courses": [
+        "Aerospace Engineering",
+        "Fluid Dynamics",
+        "Flight Mechanics",
+        "Space Systems"
+      ],
+      "study_tips": "Combine theoretical knowledge with practical applications"
+    },
+    "modern_impact": {
+      "current_applications": "Her work continues to inspire space exploration and aerospace engineering",
+      "companies_using_her_work": [
+        "NASA",
+        "SpaceX",
+        "Boeing",
+        "Aerospace companies worldwide"
+      ],
+      "future_implications": "Inspiring next generation of space explorers and engineers"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Aviation",
+        "Space exploration",
+        "Engineering",
+        "Science"
+      ],
+      "family_background": "Middle-class family in Karnal, India",
+      "hobbies": [
+        "Flying",
+        "Reading about space",
+        "Engineering projects"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Curious",
+        "Adventurous",
+        "Inspiring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Indian",
+      "cultural_influences": [
+        "Indian educational values",
+        "Space race era",
+        "Women's empowerment movement"
+      ],
+      "cultural_challenges": [
+        "Traditional gender roles in India",
+        "Cultural expectations for women"
+      ],
+      "cultural_contributions": "Broke barriers for Indian women in STEM and space exploration"
+    }
   },
   {
     "name": "Fabiola Gianotti",
@@ -5122,7 +5410,78 @@ const pioneers = [
         "institution": "University of Milan"
       }
     ],
+    "detailed_description": {
+      "early_life": "Born in 1960 in Milan, Italy, Fabiola showed an early interest in science and music. She excelled in school and was particularly drawn to physics and mathematics. Her parents supported her education, and she developed a passion for understanding the fundamental laws of nature.",
+      "stem_journey": "Fabiola earned her PhD in particle physics from the University of Milan in 1989. She joined CERN in 1987 and began working on particle physics experiments. Her expertise in experimental physics and leadership skills led her to become the spokesperson for the ATLAS experiment.",
+      "challenges": "As a woman in physics leadership, Fabiola faced the challenge of being taken seriously in a male-dominated field. She also had to balance her scientific work with administrative responsibilities as she rose to leadership positions.",
+      "achievements": "Fabiola led the ATLAS experiment that discovered the Higgs boson in 2012, one of the most important discoveries in physics. She became the first woman Director-General of CERN in 2016, leading the world's largest particle physics laboratory.",
+      "legacy": "Fabiola's leadership at CERN and her role in the Higgs boson discovery have made her a role model for women in physics. She has shown that women can lead the world's most advanced scientific collaborations."
+    },
+    "achievements": [
+      "First woman Director-General of CERN",
+      "Led ATLAS experiment that discovered Higgs boson",
+      "Pioneered particle physics research",
+      "Inspired women in physics worldwide"
+    ],
+    "awards": [
+      "Enrico Fermi Prize (2013)",
+      "Breakthrough Prize in Fundamental Physics (2013)",
+      "Order of Merit of the Italian Republic"
+    ],
+    "publications": [
+      {
+        "title": "Higgs boson discovery papers",
+        "url": "https://en.wikipedia.org/wiki/Fabiola_Gianotti#Career"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Particle Physics",
+        "institution": "University of Milan"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1987,
+        "event": "Joined CERN as research physicist"
+      },
+      {
+        "year": 1989,
+        "event": "Earned PhD in particle physics"
+      },
+      {
+        "year": 2009,
+        "event": "Became ATLAS experiment spokesperson"
+      },
+      {
+        "year": 2012,
+        "event": "Led discovery of Higgs boson"
+      },
+      {
+        "year": 2016,
+        "event": "Became CERN Director-General"
+      }
+    ],
+    "barriers": [
+      "Gender barriers in physics leadership",
+      "Balancing scientific and administrative roles"
+    ],
     "impact": "Led the discovery of the Higgs boson and became a role model for women in physics leadership.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Fabiola Gianotti: The First Woman to Lead CERN",
+        "url": "https://home.cern/news/news/cern/fabiola-gianotti-elected-cern-director-general"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fabiola_Gianotti"
+      }
+    ],
+    "mentorship": "Inspired women in physics through her leadership and achievements, showing that women can lead major scientific institutions.",
     "fun_fact": "Fabiola Gianotti is also a trained classical pianist and sometimes plays piano for CERN events.",
     "career_path": {
       "first_job": "Research physicist at CERN",
@@ -5133,12 +5492,89 @@ const pioneers = [
       ],
       "advice_for_students": "Follow your passion for understanding how the universe works. Physics is for everyone who is curious."
     },
-    "references": [
-      {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Fabiola_Gianotti"
-      }
-    ]
+    "student_resources": {
+      "books_for_students": [
+        "The Particle at the End of the Universe",
+        "Higgs: The Invention and Discovery of the 'God Particle'"
+      ],
+      "websites": [
+        "cern.ch",
+        "particleadventure.org",
+        "physics.org"
+      ],
+      "programs": [
+        "CERN summer student program",
+        "Physics research internships",
+        "Particle physics workshops"
+      ],
+      "advice": "Stay curious about how the universe works. Physics is about asking the right questions."
+    },
+    "challenges": {
+      "academic": [
+        "Complex mathematical concepts in particle physics"
+      ],
+      "professional": [
+        "Gender barriers in physics leadership",
+        "Managing large international collaborations"
+      ],
+      "personal": [
+        "Balancing scientific and administrative work"
+      ],
+      "how_overcame": "Focused on excellence in research, developed leadership skills, and built strong collaborations"
+    },
+    "education_details": {
+      "high_school": "Classical high school in Milan",
+      "college_major": "Physics",
+      "key_courses": [
+        "Particle Physics",
+        "Quantum Mechanics",
+        "Statistical Physics",
+        "Experimental Physics"
+      ],
+      "study_tips": "Understand the fundamental principles and their experimental verification"
+    },
+    "modern_impact": {
+      "current_applications": "Her work on Higgs boson discovery advances our understanding of fundamental particles",
+      "companies_using_her_work": [
+        "CERN",
+        "Particle physics laboratories worldwide",
+        "Theoretical physics research"
+      ],
+      "future_implications": "Advancing our understanding of the universe's fundamental building blocks"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Physics",
+        "Mathematics",
+        "Classical music",
+        "Piano"
+      ],
+      "family_background": "Italian family in Milan",
+      "hobbies": [
+        "Playing classical piano",
+        "Reading physics papers",
+        "Traveling for scientific conferences"
+      ],
+      "personality_traits": [
+        "Analytical",
+        "Determined",
+        "Collaborative",
+        "Inspiring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Italian",
+      "cultural_influences": [
+        "Italian scientific tradition",
+        "European physics community",
+        "Classical music culture"
+      ],
+      "cultural_challenges": [
+        "Gender roles in Italian society",
+        "International collaboration barriers"
+      ],
+      "cultural_contributions": "Represented Italian excellence in international physics leadership"
+    }
   },
   {
     "name": "Princy Johnson",
@@ -5170,7 +5606,71 @@ const pioneers = [
         "institution": "Indian Institute of Technology"
       }
     ],
+    "detailed_description": {
+      "early_life": "Born in the 1990s in India, Princy grew up during the digital revolution and showed an early interest in technology. She was fascinated by computers and how they could solve problems, leading her to pursue computer science education.",
+      "stem_journey": "Princy earned her computer science degree from the Indian Institute of Technology, one of India's premier engineering institutions. She developed expertise in software development, artificial intelligence, and technology leadership.",
+      "challenges": "As a woman in the male-dominated tech industry, Princy faced challenges in being taken seriously and finding mentorship. She also had to navigate cultural expectations while pursuing a career in technology.",
+      "achievements": "Princy has become a technology leader, contributing to digital transformation and innovation. She has mentored other women in tech and promoted diversity in the technology sector.",
+      "legacy": "Princy represents the new generation of Indian women breaking barriers in technology. Her work inspires young women to pursue careers in computer science and technology."
+    },
+    "achievements": [
+      "Technology leadership and innovation",
+      "Computer science expertise",
+      "Inspiring women in technology",
+      "Contributing to digital transformation"
+    ],
+    "awards": [],
+    "publications": [
+      {
+        "title": "Technology leadership articles and presentations",
+        "url": "https://www.linkedin.com/in/princy-johnson/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Computer Science",
+        "field": "Technology",
+        "institution": "Indian Institute of Technology"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 2010,
+        "event": "Began computer science education"
+      },
+      {
+        "year": 2014,
+        "event": "Graduated with computer science degree"
+      },
+      {
+        "year": 2015,
+        "event": "Started technology career"
+      },
+      {
+        "year": 2020,
+        "event": "Became technology leader"
+      }
+    ],
+    "barriers": [
+      "Gender barriers in tech industry",
+      "Cultural expectations for women",
+      "Finding mentorship in male-dominated field"
+    ],
     "impact": "Inspiring the next generation of female technologists and promoting diversity in the tech industry.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Women in Technology Leadership",
+        "url": "https://www.linkedin.com/in/princy-johnson/"
+      }
+    ],
+    "references": [
+      {
+        "title": "LinkedIn Profile",
+        "url": "https://www.linkedin.com/in/princy-johnson/"
+      }
+    ],
+    "mentorship": "Mentors young women in technology and promotes diversity in the tech industry.",
     "fun_fact": "Princy Johnson represents the modern wave of Indian women breaking barriers in technology and computer science.",
     "career_path": {
       "first_job": "Technology professional",
@@ -5181,12 +5681,90 @@ const pioneers = [
       ],
       "advice_for_students": "Embrace technology as a tool for positive change. Your background and perspective are valuable assets in the tech world."
     },
-    "references": [
-      {
-        "title": "LinkedIn Profile",
-        "url": "https://www.linkedin.com/in/princy-johnson/"
-      }
-    ]
+    "student_resources": {
+      "books_for_students": [
+        "Lean In by Sheryl Sandberg",
+        "Women in Tech by Tarah Wheeler"
+      ],
+      "websites": [
+        "girlswhocode.com",
+        "womenintech.org",
+        "code.org"
+      ],
+      "programs": [
+        "Computer science summer camps",
+        "Women in tech mentorship programs",
+        "Coding bootcamps"
+      ],
+      "advice": "Start with what interests you most in technology. Your unique perspective is valuable."
+    },
+    "challenges": {
+      "academic": [
+        "Competitive computer science programs"
+      ],
+      "professional": [
+        "Gender barriers in tech industry",
+        "Cultural expectations"
+      ],
+      "personal": [
+        "Balancing career and cultural expectations"
+      ],
+      "how_overcame": "Focused on excellence, built supportive networks, and embraced her unique perspective"
+    },
+    "education_details": {
+      "high_school": "Indian high school system",
+      "college_major": "Computer Science",
+      "key_courses": [
+        "Programming",
+        "Data Structures",
+        "Artificial Intelligence",
+        "Software Engineering"
+      ],
+      "study_tips": "Practice coding regularly and stay updated with latest technologies"
+    },
+    "modern_impact": {
+      "current_applications": "Her work contributes to digital transformation and technology innovation",
+      "companies_using_her_work": [
+        "Technology companies",
+        "Digital transformation initiatives",
+        "AI and software development"
+      ],
+      "future_implications": "Advancing technology leadership and diversity in tech"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Technology",
+        "Computer programming",
+        "Problem solving",
+        "Innovation"
+      ],
+      "family_background": "Indian family with emphasis on education",
+      "hobbies": [
+        "Coding",
+        "Technology innovation",
+        "Mentoring",
+        "Reading tech blogs"
+      ],
+      "personality_traits": [
+        "Innovative",
+        "Determined",
+        "Collaborative",
+        "Inspiring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Indian",
+      "cultural_influences": [
+        "Indian educational values",
+        "Technology boom in India",
+        "Women's empowerment movement"
+      ],
+      "cultural_challenges": [
+        "Traditional gender roles",
+        "Cultural expectations vs. career ambitions"
+      ],
+      "cultural_contributions": "Represents modern Indian women in global technology leadership"
+    }
   },
   {
     "name": "Wang Zhenyi",
