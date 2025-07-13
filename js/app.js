@@ -340,7 +340,7 @@ class PioneersApp {
     return card;
   }
 
-  createActionButtons(pioneer) {
+  createActionButtons(_pioneer) {
     // No action buttons needed - everything goes in the expandable content
     return "";
   }
@@ -573,9 +573,8 @@ class PioneersApp {
     return dateString;
   }
 
-  toggleExpandableContent(button, pioneer) {
+  toggleExpandableContent(button, _pioneer) {
     const card = button.closest('.pioneer-card');
-    const expandableContent = card.querySelector('.expandable-content');
     const expandText = button.querySelector('.expand-text');
     const expandIcon = button.querySelector('.expand-icon');
     

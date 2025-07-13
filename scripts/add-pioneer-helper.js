@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const acorn = require('acorn');
+// const acorn = require('acorn'); // Unused import
 const AI_JSON_DIR = path.join(__dirname, '../ai-pioneer-json');
 
 // Ensure the AI JSON directory exists
@@ -10,14 +10,14 @@ if (!fs.existsSync(AI_JSON_DIR)) {
     fs.mkdirSync(AI_JSON_DIR);
 }
 
-function resolveAIJsonPath(aiDataFile) {
-    // If the path is absolute or contains a path separator, use as is
-    if (aiDataFile.includes('/') || aiDataFile.includes('\\')) {
-        return aiDataFile;
-    }
-    // Otherwise, prepend the ai-pioneer-json directory
-    return path.join(AI_JSON_DIR, aiDataFile);
-}
+// function resolveAIJsonPath(aiDataFile) {
+//     // If the path is absolute or contains a path separator, use as is
+//     if (aiDataFile.includes('/') || aiDataFile.includes('\\')) {
+//         return aiDataFile;
+//     }
+//     // Otherwise, prepend the ai-pioneer-json directory
+//     return path.join(AI_JSON_DIR, aiDataFile);
+// }
 
 // Function to check if a pioneer already exists
 function checkDuplicate(name, existingPioneers) {
@@ -110,7 +110,7 @@ function addPioneerSafely(pioneerName, aiJsonData = null) {
   
   try {
     // Read the current pioneers file
-    let pioneersContent = fs.readFileSync(pioneersFilePath, 'utf8');
+    const pioneersContent = fs.readFileSync(pioneersFilePath, 'utf8');
     
     // Extract the pioneers array using regex (more reliable than string manipulation)
     const arrayMatch = pioneersContent.match(/const pioneers = (\[[\s\S]*?\]);/);

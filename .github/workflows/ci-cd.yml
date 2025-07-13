@@ -169,7 +169,7 @@ jobs:
           npx lighthouse http://localhost:8000 --output html --output-path ./lighthouse-report.html --only-categories=accessibility,performance || echo "Lighthouse check completed"
 
       - name: Upload Lighthouse report
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         if: always()
         with:
           name: lighthouse-report
@@ -194,47 +194,10 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Check for placeholder content
+      - name: Check content quality
         run: |
-          echo "🔍 Checking for placeholder content..."
-          if grep -r -i "placeholder\|to be added\|coming soon\|lorem ipsum" js/pioneers.js; then
-            echo "❌ Found placeholder content in pioneer data"
-            exit 1
-          fi
-          echo "✅ No placeholder content found"
-
-      - name: Check description lengths
-        run: |
-          echo "🔍 Checking description quality..."
-          node -e "
-            const fs = require('fs');
-            const content = fs.readFileSync('js/pioneers.js', 'utf8');
-            const arrayStart = content.indexOf('const pioneers = [');
-            const arrayEnd = content.lastIndexOf('];');
-            const arrayContent = content.substring(arrayStart + 'const pioneers = '.length, arrayEnd + 1);
-            const tempFile = 'module.exports = ' + arrayContent;
-            fs.writeFileSync('temp-check.js', tempFile);
-            const pioneers = require('./temp-check.js');
-            fs.unlinkSync('temp-check.js');
-            
-            let issues = [];
-            pioneers.forEach((pioneer, idx) => {
-              if (pioneer.shortDescription && pioneer.shortDescription.length < 50) {
-                issues.push(\`Pioneer #\${idx + 1} (\${pioneer.name}): shortDescription too short (\${pioneer.shortDescription.length} chars)\`);
-              }
-              if (pioneer.summary && pioneer.summary.length < 20) {
-                issues.push(\`Pioneer #\${idx + 1} (\${pioneer.name}): summary too short (\${pioneer.summary.length} chars)\`);
-              }
-            });
-            
-            if (issues.length > 0) {
-              console.log('❌ Content quality issues:');
-              issues.forEach(issue => console.log('  -', issue));
-              process.exit(1);
-            }
-            
-            console.log('✅ All descriptions meet quality standards');
-          "
+          echo "🔍 Checking content quality..."
+          npm run check-content
 
   # Deploy to GitHub Pages
   deploy:
