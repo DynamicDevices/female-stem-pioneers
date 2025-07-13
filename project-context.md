@@ -39,6 +39,7 @@ A static web app that showcases women pioneers in STEM. Each profile includes ri
 
 ## Rules for Adding/Editing Pioneers (AI-Specific)
 - **Always check for duplicates** before adding a new pioneer (check `js/pioneers/index.json` for the name).
+- **Use `js/pioneers/index.json` as the source of truth** for checking duplicates and current pioneer list.
 - **Create individual JSON files** for new pioneers in `js/pioneers/` directory.
 - **Update the index file** `js/pioneers/index.json` when adding new pioneers.
 - **Follow the full metadata structure** as in the latest entries.
@@ -82,6 +83,7 @@ A static web app that showcases women pioneers in STEM. Each profile includes ri
 
 ### Duplicate Prevention
 - **Check for duplicates before adding new pioneers** using `npm run check-duplicates`
+- **Use `js/pioneers/index.json` as the source of truth** for checking duplicates and current pioneer list
 - **Search for exact names** in `js/pioneers/index.json` before adding entries
 - **When removing duplicates, delete the individual JSON file** and update the index
 - **Verify syntax and structure after any duplicate removal**
@@ -153,6 +155,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ### Future Development Guidelines
 - **Always use individual JSON files** in `js/pioneers/` directory
+- **Use `js/pioneers/index.json` as the source of truth** for checking duplicates and current pioneer list
 - **Update index.json** when adding new pioneers
 - **Test with live server** to ensure pioneers load correctly
 - **Use `npm run check-duplicates`** before committing changes
