@@ -14,6 +14,7 @@ class PioneersApp {
       this.pioneers.length,
       "pioneers",
     );
+    console.log("Window pioneers:", window.pioneers ? window.pioneers.length : "undefined");
 
     this.init();
   }
@@ -533,7 +534,19 @@ class PioneersApp {
   }
 }
 
-// Initialize the app when DOM is loaded
+// Initialize the app when DOM is loaded and pioneers data is available
 document.addEventListener("DOMContentLoaded", () => {
-  window.pioneersApp = new PioneersApp();
+  // Wait for pioneers data to be available
+  if (window.pioneers && window.pioneers.length > 0) {
+    window.pioneersApp = new PioneersApp();
+  } else {
+    // If pioneers data isn't available yet, wait a bit and try again
+    setTimeout(() => {
+      if (window.pioneers && window.pioneers.length > 0) {
+        window.pioneersApp = new PioneersApp();
+      } else {
+        console.error("Pioneers data not available");
+      }
+    }, 100);
+  }
 });
