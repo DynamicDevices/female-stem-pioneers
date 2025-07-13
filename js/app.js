@@ -308,11 +308,16 @@ class PioneersApp {
 
   updateStats() {
     const totalPioneers = document.getElementById("totalPioneers");
+    const displayedPioneers = document.getElementById("displayedPioneers");
     const totalFields = document.getElementById("totalFields");
     const totalCountries = document.getElementById("totalCountries");
 
     if (totalPioneers) {
-      totalPioneers.textContent = this.filteredPioneers.length;
+      totalPioneers.textContent = this.pioneers.length;
+    }
+
+    if (displayedPioneers) {
+      displayedPioneers.textContent = this.filteredPioneers.length;
     }
 
     if (totalFields) {
