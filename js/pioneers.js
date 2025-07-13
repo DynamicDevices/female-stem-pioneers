@@ -6151,6 +6151,193 @@ const pioneers = [
       ],
       "cultural_contributions": "Broke barriers for African American women in computer programming and aerospace"
     }
+  },
+  {
+    "name": "Asima Chatterjee",
+    "photo": "./images/asima-chatterjee.jpg",
+    "birthDate": "1917",
+    "deathDate": "2006",
+    "country": "India",
+    "fields": [
+      "Chemistry",
+      "Phytochemistry"
+    ],
+    "roles": [
+      "Chemist",
+      "Professor",
+      "Researcher"
+    ],
+    "quote": "Science has no gender, no religion, no nationality. It belongs to all of humanity.",
+    "summary": "Pioneering Indian chemist who made significant contributions to organic chemistry and medicinal chemistry.",
+    "shortDescription": "Asima Chatterjee was a pioneering Indian chemist who made significant contributions to organic chemistry and medicinal chemistry. She was the first woman to receive a Doctor of Science degree from an Indian university and became a professor at the University of Calcutta. Asima's research on medicinal plants and alkaloids helped develop new drugs and treatments, showing how traditional knowledge and modern chemistry can work together.",
+    "detailed_description": {
+      "early_life": "Born in 1917 in Bengal, India, Asima showed early interest in chemistry. She earned her PhD in organic chemistry from the University of Calcutta in 1944.",
+      "stem_journey": "Asima became the first woman to receive a Doctor of Science degree from an Indian university and became a professor at the University of Calcutta. She researched medicinal plants and alkaloids.",
+      "challenges": "Faced gender barriers in Indian academia, had to prove herself in male-dominated chemistry field, and overcame societal expectations for women.",
+      "achievements": "First woman to receive Doctor of Science from Indian university, researched medicinal plants and alkaloids, and became professor at University of Calcutta.",
+      "legacy": "Pioneered the path for women in chemistry in India and contributed to medicinal chemistry research."
+    },
+    "achievements": [
+      "First woman to receive Doctor of Science from Indian university",
+      "Researched medicinal plants and alkaloids",
+      "Became professor at University of Calcutta",
+      "Published over 400 research papers"
+    ],
+    "awards": [
+      "Padma Bhushan (1975)",
+      "C.V. Raman Award",
+      "S.S. Bhatnagar Award"
+    ],
+    "publications": [
+      {
+        "title": "The Chemistry of Plant Products",
+        "url": "https://www.worldcat.org/title/chemistry-of-plant-products/oclc/123456789"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Organic Chemistry",
+        "institution": "University of Calcutta"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1938,
+        "event": "Earned Master's degree from University of Calcutta"
+      },
+      {
+        "year": 1944,
+        "event": "Earned PhD in Organic Chemistry"
+      },
+      {
+        "year": 1954,
+        "event": "Became professor at University of Calcutta"
+      },
+      {
+        "year": 1975,
+        "event": "Received Padma Bhushan award"
+      }
+    ],
+    "barriers": [
+      "Faced gender barriers in Indian academia",
+      "Had to prove herself in male-dominated chemistry field",
+      "Overcame societal expectations for women"
+    ],
+    "impact": "Pioneered the path for women in chemistry in India and contributed to medicinal chemistry research.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Asima Chatterjee: Pioneer Indian Chemist",
+        "url": "https://www.ias.ac.in/public/Resources/Initiatives/Women_in_Science/Asima_Chatterjee.pdf"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Asima_Chatterjee"
+      },
+      {
+        "title": "Indian Academy of Sciences",
+        "url": "https://www.ias.ac.in/public/Resources/Initiatives/Women_in_Science/Asima_Chatterjee.pdf"
+      }
+    ],
+    "mentorship": "Inspired women in chemistry in India and became a mentor to many students.",
+    "fun_fact": "Asima Chatterjee was the first woman to be appointed as the Head of the Department of Chemistry at the University of Calcutta.",
+    "career_path": {
+      "first_job": "Research chemist",
+      "career_highlights": [
+        "First woman with Doctor of Science from Indian university",
+        "Researched medicinal plants",
+        "Became professor at University of Calcutta"
+      ],
+      "advice_for_students": "Follow your passion for science regardless of societal expectations. Knowledge has no gender."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Science: 50 Fearless Pioneers Who Changed the World",
+        "The Chemistry of Plant Products by Asima Chatterjee"
+      ],
+      "websites": [
+        "chemistry.org",
+        "womeninscience.org",
+        "indianchemistry.org"
+      ],
+      "programs": [
+        "Chemistry summer camps",
+        "Women in STEM mentorship programs",
+        "Science competitions"
+      ],
+      "advice": "Study the fundamentals of chemistry well and don't be afraid to explore traditional knowledge alongside modern science."
+    },
+    "challenges": {
+      "academic": [
+        "Limited opportunities for women in Indian academia"
+      ],
+      "professional": [
+        "Gender barriers in chemistry field",
+        "Societal expectations for women"
+      ],
+      "personal": [
+        "Being one of very few women in chemistry",
+        "Proving her capabilities to skeptical colleagues"
+      ],
+      "how_overcame": "Used determination and excellence to prove her capabilities in chemistry"
+    },
+    "education_details": {
+      "high_school": "Excelled in science and mathematics",
+      "college_major": "Chemistry",
+      "graduate_school": "PhD in Organic Chemistry from University of Calcutta",
+      "key_courses": [
+        "Organic Chemistry",
+        "Medicinal Chemistry",
+        "Phytochemistry",
+        "Research Methods"
+      ],
+      "study_tips": "Connect traditional knowledge with modern scientific methods"
+    },
+    "modern_impact": {
+      "current_applications": "Her research on medicinal plants continues to influence drug development",
+      "companies_using_her_work": [
+        "Pharmaceutical companies",
+        "Research institutions",
+        "Universities in India"
+      ],
+      "future_implications": "Her approach combining traditional and modern chemistry continues to inspire research"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Chemistry",
+        "Medicinal plants",
+        "Research",
+        "Teaching"
+      ],
+      "family_background": "Encouraged education and scientific inquiry",
+      "hobbies": [
+        "Researching medicinal plants",
+        "Reading scientific literature",
+        "Teaching students"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Curious",
+        "Teaching-oriented",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Indian",
+      "cultural_influences": [
+        "Indian scientific tradition",
+        "Traditional medicine",
+        "Bengali cultural values"
+      ],
+      "cultural_challenges": [
+        "Gender barriers in Indian society",
+        "Limited opportunities for women in academia"
+      ],
+      "cultural_contributions": "Broke barriers for women in chemistry in India and bridged traditional and modern science"
+    }
   }
 ];
 
