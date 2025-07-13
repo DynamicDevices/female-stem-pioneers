@@ -4685,7 +4685,8 @@ const pioneers = [
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Yvonne_Brill"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Susan Solomon",
@@ -4713,7 +4714,8 @@ const pioneers = [
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Susan_Solomon"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Margarita Salas",
@@ -4742,7 +4744,8 @@ const pioneers = [
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Margarita_Salas"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Emilie du Châtelet",
@@ -4771,7 +4774,8 @@ const pioneers = [
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Agnes Pockels",
@@ -4800,7 +4804,8 @@ const pioneers = [
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Agnes_Pockels"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Hertha Ayrton",
@@ -4829,7 +4834,8 @@ const pioneers = [
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Hertha_Ayrton"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Wangari Maathai",
@@ -4882,7 +4888,8 @@ const pioneers = [
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Wangari_Maathai"
       }
-    ]
+    ],
+    "verified": true
   },
   {
     "name": "Maya Angelou",
@@ -5157,7 +5164,8 @@ const pioneers = [
         "Gender roles in Victorian society"
       ],
       "cultural_contributions": "Proved that working-class women could contribute to science, challenging social barriers"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Kalpana Chawla",
@@ -5345,7 +5353,8 @@ const pioneers = [
         "Cultural expectations for women"
       ],
       "cultural_contributions": "Broke barriers for Indian women in STEM and space exploration"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Fabiola Gianotti",
@@ -5527,7 +5536,8 @@ const pioneers = [
         "International collaboration barriers"
       ],
       "cultural_contributions": "Represented Italian excellence in international physics leadership"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Princy Johnson",
@@ -5868,7 +5878,8 @@ const pioneers = [
         "Societal expectations for women"
       ],
       "cultural_contributions": "Bridged traditional Chinese knowledge with advocacy for women's education and intellectual pursuits"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Patricia Bath",
@@ -6055,7 +6066,8 @@ const pioneers = [
         "Gender barriers in medical field"
       ],
       "cultural_contributions": "Pioneered African American women's participation in ophthalmology and medical innovation"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Ayah Bdeir",
