@@ -1587,11 +1587,6 @@ const pioneers = [
   }
 ];
 
-// Remove Node.js fs code - this should be handled statically in the data
-
-// Short descriptions should be added statically to the data, not generated at runtime
-
-
 // Remove duplicates by name
 const seen = new Set();
 const uniquePioneers = pioneers.filter((p) => {
