@@ -482,7 +482,7 @@ const pioneers = [
   },
   {
     "name": "Rachel Carson",
-    "photo": "./images/rachel-carson.jpg",
+    "photo": "./images/placeholder.jpg",
     "birthDate": "1907",
     "deathDate": "1964",
     "country": "United States",
@@ -539,7 +539,7 @@ const pioneers = [
   },
   {
     "name": "Caroline Keep",
-    "photo": "./images/caroline-keep.jpg",
+    "photo": "./images/placeholder.jpg",
     "birthDate": "1980",
     "country": "United Kingdom",
     "fields": [
@@ -679,7 +679,7 @@ const pioneers = [
   },
   {
     "name": "Barbara McClintock",
-    "photo": "./images/barbara-mcclintock.svg",
+    "photo": "./images/barbara-mcclintock.jpg",
     "birthDate": "1902",
     "deathDate": "1992",
     "country": "United States",
@@ -820,7 +820,7 @@ const pioneers = [
   },
   {
     "name": "Valentina Tereshkova",
-    "photo": "./images/valentina-tereshkova.svg",
+    "photo": "./images/valentina-tereshkova.jpg",
     "birthDate": "1937",
     "country": "Russia",
     "fields": [
@@ -990,7 +990,7 @@ const pioneers = [
   },
   {
     "name": "Chieng Shih",
-    "photo": "./images/chieng-shih.svg",
+    "photo": "./images/chieng-shih.jpg",
     "birthDate": "180",
     "country": "China",
     "fields": [
@@ -1087,7 +1087,7 @@ const pioneers = [
   },
   {
     "name": "Mary Somerville",
-    "photo": "./images/mary-somerville.svg",
+    "photo": "./images/mary-somerville.jpg",
     "birthDate": "1780",
     "deathDate": "1872",
     "country": "United Kingdom",
@@ -1110,7 +1110,7 @@ const pioneers = [
   },
   {
     "name": "Gerty Cori",
-    "photo": "./images/gerty-cori.svg",
+    "photo": "./images/gerty-cori.jpg",
     "birthDate": "1896",
     "deathDate": "1957",
     "country": "Czech Republic/United States",
@@ -1201,7 +1201,7 @@ const pioneers = [
   },
   {
     "name": "Gladys West",
-    "photo": "./images/gladys-west.svg",
+    "photo": "./images/gladys-west.jpg",
     "birthDate": "1930",
     "country": "United States",
     "fields": [
@@ -1276,7 +1276,7 @@ const pioneers = [
   },
   {
     "name": "Caroline Herschel",
-    "photo": "./images/caroline-herschel.jpg",
+    "photo": "./images/placeholder.jpg",
     "birthDate": "1750",
     "deathDate": "1848",
     "country": "Germany/United Kingdom",
@@ -1333,7 +1333,7 @@ const pioneers = [
   },
   {
     "name": "Mariam Al-Astrulabi",
-    "photo": "./images/mariam-al-astrulabi.jpg",
+    "photo": "./images/placeholder.jpg",
     "birthDate": "950",
     "deathDate": "1000",
     "country": "Syria",
@@ -1391,7 +1391,7 @@ const pioneers = [
   },
   {
     "name": "Yvonne Brill",
-    "photo": "./images/yvonne-brill.jpg",
+    "photo": "./images/placeholder.jpg",
     "birthDate": "1924",
     "deathDate": "2013",
     "country": "Canada/United States",
@@ -1506,7 +1506,7 @@ const pioneers = [
   },
   {
     "name": "Agnes Pockels",
-    "photo": "./images/agnes-pockels.jpg",
+    "photo": "./images/placeholder.jpg",
     "birthDate": "1862",
     "deathDate": "1935",
     "country": "Germany",
@@ -1535,7 +1535,7 @@ const pioneers = [
   },
   {
     "name": "Hertha Ayrton",
-    "photo": "./images/hertha-ayrton.jpg",
+    "photo": "./images/placeholder.jpg",
     "birthDate": "1854",
     "deathDate": "1923",
     "country": "United Kingdom",
