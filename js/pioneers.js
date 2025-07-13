@@ -7227,6 +7227,36 @@ const pioneers = [
         "url": "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi"
       }
     ]
+  },
+  {
+    "name": "Gertrude Elion",
+    "photo": "./images/gertrude-elion.jpg",
+    "birthDate": "1918",
+    "deathDate": "1999",
+    "country": "United States",
+    "fields": [
+      "Pharmacology",
+      "Chemistry"
+    ],
+    "roles": [
+      "Pharmacologist",
+      "Nobel Laureate"
+    ],
+    "quote": "Don't let anyone tell you that you can't do something because you're a woman.",
+    "summary": "Nobel Prize-winning pharmacologist who developed drugs for leukemia, herpes, and organ transplants.",
+    "shortDescription": "Gertrude Elion was a Nobel Prize-winning pharmacologist who developed life-saving drugs for leukemia, herpes, and organ transplants. She pioneered rational drug design and created treatments that have saved millions of lives. Her work revolutionized how we develop medicines.",
+    "achievements": [
+      "Won Nobel Prize in Physiology or Medicine",
+      "Developed drugs for leukemia and herpes",
+      "Pioneered rational drug design",
+      "Created immunosuppressive drugs for transplants"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gertrude_Elion"
+      }
+    ]
   }
 ];
 
