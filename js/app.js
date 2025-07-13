@@ -287,7 +287,7 @@ class PioneersApp {
         <div class="pioneer-image">
           <img data-src="${pioneer.photo}" alt="Portrait of ${pioneer.name}" 
                class="lazy-image"
-               src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iNDAiIGN5PSI0MCIgcj0iMzUiIGZpbGw9IiNmMWY1ZjkiIHN0cm9rZT0iI2M2ZDdkZCIgc3Ryb2tlLXdpZHRoPSIyIi8+PHRleHQgeD0iNDAiIHk9IjQ1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjNjQ3NDhiIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9IjUwMCI+8J+RjTwvdGV4dD48L3N2Zz4="
+               src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iNDAiIGN5PSI0MCIgcj0iMzUiIGZpbGw9IiNlZWVlZWUiIHN0cm9rZT0iI2NjY2NjYyIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iMzAiIHk9IjU1IiB3aWR0aD0iMjAiIGhlaWdodD0iMTUiIHJ4PSI3IiBmaWxsPSIjY2NjY2NjIi8+PC9zdmc+"
                onerror="setFallbackIcon(this, '${fallbackIcon}')"
                onload="this.classList.add('loaded'); this.style.filter='none'; this.style.opacity='1';"
                onclick="window.pioneersApp.openImageModal('${pioneer.photo}', '${pioneer.name}', '${pioneer.birthDate}', '${pioneer.deathDate}', '${pioneer.country}')"
