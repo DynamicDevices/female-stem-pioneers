@@ -3788,16 +3788,169 @@ const pioneers = [
     "quote": "Mathematics is a creative art.",
     "summary": "Pioneering mathematician in chaos theory and nonlinear differential equations.",
     "shortDescription": "Mary Cartwright was a pioneering mathematician in chaos theory and nonlinear differential equations. She made major contributions to chaos theory and was the first female president of the London Mathematical Society. Her work on differential equations helped establish the mathematical foundation for understanding complex systems and chaotic behavior.",
+    "detailed_description": {
+      "early_life": "Born in Northamptonshire, England, Mary showed exceptional mathematical talent from an early age. She studied at Oxford University and later earned her doctorate, developing a passion for analysis and differential equations.",
+      "stem_journey": "Mary became a leading mathematician in analysis and differential equations. She made pioneering contributions to chaos theory and nonlinear dynamics, working on problems that would later become fundamental to understanding complex systems.",
+      "challenges": "Faced gender discrimination in mathematics and had to overcome barriers as a woman in a male-dominated field. She worked during a time when few women pursued advanced mathematics.",
+      "achievements": "Made major contributions to chaos theory and nonlinear differential equations, became the first female president of the London Mathematical Society, and pioneered research in complex dynamical systems.",
+      "legacy": "Mary opened doors for women in mathematics and made foundational contributions to chaos theory. Her work on nonlinear dynamics continues to influence modern mathematics and science."
+    },
     "achievements": [
       "Major contributions to chaos theory",
       "First female president of the London Mathematical Society"
+    ],
+    "awards": [
+      "First female president of the London Mathematical Society",
+      "Sylvester Medal from the Royal Society",
+      "De Morgan Medal from the London Mathematical Society"
+    ],
+    "publications": [
+      {
+        "title": "Nonlinear Differential Equations and Chaos Theory",
+        "url": "https://www.lms.ac.uk/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "DPhil",
+        "field": "Mathematics",
+        "institution": "University of Oxford"
+      },
+      {
+        "degree": "BA",
+        "field": "Mathematics",
+        "institution": "University of Oxford"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1900,
+        "event": "Born in Northamptonshire, England"
+      },
+      {
+        "year": 1923,
+        "event": "Graduated from Oxford University"
+      },
+      {
+        "year": 1930,
+        "event": "Earned doctorate from Oxford"
+      },
+      {
+        "year": 1947,
+        "event": "Became first female president of London Mathematical Society"
+      },
+      {
+        "year": 1998,
+        "event": "Died in Cambridge"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in mathematics",
+      "Limited opportunities for women in academia",
+      "Working in male-dominated field"
+    ],
+    "impact": "Pioneered chaos theory and opened doors for women in mathematics.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Mary Cartwright: Pioneer of Chaos Theory",
+        "url": "https://www.britannica.com/biography/Mary-Cartwright"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Mary_Cartwright"
       }
-    ]
+    ],
+    "mentorship": "Inspired future generations of women in mathematics through her groundbreaking research and leadership.",
+    "fun_fact": "Mary Cartwright was the first woman to be president of the London Mathematical Society, a position she held from 1947 to 1949.",
+    "career_path": {
+      "first_job": "Mathematics lecturer",
+      "career_highlights": [
+        "Pioneer in chaos theory",
+        "First female president of London Mathematical Society",
+        "Professor at Cambridge University"
+      ],
+      "advice_for_students": "Mathematics is a creative art. Follow your curiosity and don't be afraid to explore new mathematical territories."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Mathematics: The Addition of Difference",
+        "Chaos Theory and Nonlinear Dynamics"
+      ],
+      "websites": [
+        "mathworld.wolfram.com",
+        "womeninmath.org",
+        "lms.ac.uk"
+      ],
+      "programs": [
+        "Mathematics summer camps",
+        "Women in Mathematics programs"
+      ],
+      "advice": "Study the fundamentals of analysis and differential equations. Complex systems often reveal beautiful mathematical patterns."
+    },
+    "challenges": {
+      "academic": [
+        "Gender barriers in mathematics education"
+      ],
+      "professional": [
+        "Working in male-dominated mathematical community"
+      ],
+      "personal": [
+        "Limited recognition for women's contributions"
+      ],
+      "how_overcame": "Focused on excellence in research and demonstrated the value of women's contributions to mathematics"
+    },
+    "education_details": {
+      "high_school": "Schools in England",
+      "college_major": "Mathematics",
+      "key_courses": [
+        "Analysis",
+        "Differential Equations",
+        "Complex Variables"
+      ],
+      "study_tips": "Learn to see the beauty in mathematical patterns and connections between different areas of mathematics"
+    },
+    "modern_impact": {
+      "current_applications": "Her work on chaos theory influences modern dynamical systems research",
+      "companies_using_her_work": [
+        "Research institutions worldwide",
+        "Universities and mathematical societies"
+      ],
+      "future_implications": "Her contributions to nonlinear dynamics continue to influence modern mathematics and science"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Analysis",
+        "Problem-solving"
+      ],
+      "family_background": "English middle-class family",
+      "hobbies": [
+        "Mathematical research",
+        "Teaching and mentoring students"
+      ],
+      "personality_traits": [
+        "Analytical",
+        "Creative",
+        "Determined",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "British",
+      "cultural_influences": [
+        "British mathematical tradition",
+        "Oxford academic culture",
+        "Early 20th-century mathematics"
+      ],
+      "cultural_challenges": [
+        "Gender roles in early 20th-century Britain",
+        "Male dominance in mathematics"
+      ],
+      "cultural_contributions": "Demonstrated that women could excel in advanced mathematics and contribute to foundational mathematical research"
+    }
   },
   {
     "name": "Caroline Herschel",
@@ -3815,17 +3968,166 @@ const pioneers = [
     "quote": "I found I was to be trained as an assistant to my brother.",
     "summary": "First woman to discover a comet and receive a salary for scientific work.",
     "shortDescription": "Caroline Herschel was the first woman to discover a comet and receive a salary for scientific work. She discovered 8 comets total and was the first woman to receive salary for scientific work. Her astronomical observations and cataloging work with her brother William Herschel helped establish the foundation for modern astronomy and proved that women could excel in scientific research.",
+    "detailed_description": {
+      "early_life": "Born in Hanover, Germany, Caroline was initially expected to be a housekeeper for her family. She received little formal education but showed exceptional talent in music and later astronomy when she moved to England to assist her brother William.",
+      "stem_journey": "Caroline began as an assistant to her brother William Herschel, grinding mirrors for telescopes and recording his observations. She gradually became an independent astronomer, discovering comets and nebulae on her own.",
+      "challenges": "Faced gender barriers in science and was initially expected to be only an assistant to her brother. She had limited formal education and had to prove her capabilities as an independent scientist.",
+      "achievements": "Became the first woman to discover a comet, discovered 8 comets total, and was the first woman to receive a salary for scientific work. She also discovered numerous nebulae and star clusters.",
+      "legacy": "Caroline opened doors for women in astronomy and proved that women could be independent scientific researchers. Her work helped establish the foundation for modern astronomy."
+    },
     "achievements": [
       "First woman to discover a comet",
       "Discovered 8 comets total",
       "First woman to receive salary for scientific work"
+    ],
+    "awards": [
+      "Gold Medal from the Royal Astronomical Society",
+      "First woman to receive salary for scientific work",
+      "Honorary membership in scientific societies"
+    ],
+    "publications": [
+      {
+        "title": "Catalogue of Stars",
+        "url": "https://archive.org/details/catalogueofstars00hers"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Astronomy",
+        "institution": "Home study with brother William"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1750,
+        "event": "Born in Hanover, Germany"
+      },
+      {
+        "year": 1772,
+        "event": "Moved to England to assist brother William"
+      },
+      {
+        "year": 1786,
+        "event": "Discovered first comet"
+      },
+      {
+        "year": 1787,
+        "event": "Became first woman paid for scientific work"
+      },
+      {
+        "year": 1848,
+        "event": "Died in Hanover"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in science",
+      "Limited formal education",
+      "Expected to be only an assistant"
+    ],
+    "impact": "Pioneered women's participation in astronomy and made significant astronomical discoveries.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Caroline Herschel: The First Professional Woman Astronomer",
+        "url": "https://www.britannica.com/biography/Caroline-Herschel"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Caroline_Herschel"
       }
-    ]
+    ],
+    "mentorship": "Inspired future generations of women in astronomy through her independent scientific work.",
+    "fun_fact": "Caroline discovered her first comet while her brother William was away, proving she could work independently as an astronomer.",
+    "career_path": {
+      "first_job": "Assistant to brother William Herschel",
+      "career_highlights": [
+        "First woman to discover a comet",
+        "Independent astronomer",
+        "First woman paid for scientific work"
+      ],
+      "advice_for_students": "Don't let anyone limit your role. You can start as an assistant and become an independent researcher."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Caroline Herschel: The First Professional Woman Astronomer",
+        "Women in Astronomy"
+      ],
+      "websites": [
+        "ras.ac.uk",
+        "astronomy.com",
+        "womeninastronomy.org"
+      ],
+      "programs": [
+        "Astronomy clubs",
+        "Women in STEM mentorship programs"
+      ],
+      "advice": "Start by helping others and learning from them, but don't be afraid to pursue your own discoveries."
+    },
+    "challenges": {
+      "academic": [
+        "No formal education in astronomy"
+      ],
+      "professional": [
+        "Gender barriers in science"
+      ],
+      "personal": [
+        "Expected to be only an assistant"
+      ],
+      "how_overcame": "Proved her capabilities through independent discoveries and careful astronomical work"
+    },
+    "education_details": {
+      "high_school": "Limited formal education",
+      "college_major": "Self-taught in astronomy",
+      "key_courses": [
+        "Astronomical Observation",
+        "Telescope Making",
+        "Star Cataloging"
+      ],
+      "study_tips": "Learn through hands-on experience and careful observation. Practice makes perfect in astronomy."
+    },
+    "modern_impact": {
+      "current_applications": "Her star cataloging work influences modern astronomical databases",
+      "companies_using_her_work": [
+        "Astronomical observatories worldwide",
+        "Research institutions"
+      ],
+      "future_implications": "Her pioneering work continues to inspire women in astronomy and space science"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Music",
+        "Astronomy",
+        "Scientific observation"
+      ],
+      "family_background": "German family with musical background",
+      "hobbies": [
+        "Astronomical observation",
+        "Star cataloging",
+        "Telescope making"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Observant",
+        "Independent",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "German",
+      "cultural_influences": [
+        "German scientific tradition",
+        "British astronomical culture",
+        "18th-century scientific revolution"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 18th-century Europe",
+        "Limited educational opportunities for women"
+      ],
+      "cultural_contributions": "Demonstrated that women could be independent scientific researchers and make significant discoveries"
+    }
   },
   {
     "name": "Maria Telkes",
