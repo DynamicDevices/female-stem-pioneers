@@ -10,6 +10,10 @@ A static web app celebrating women pioneers in STEM fields. Features:
 - **Comprehensive field explanations and filter options for all STEM fields represented in the data**
 - **Codebase is auto-formatted and linted for consistency and quality**
 
+## Current Metrics
+
+- **Pioneers**: 100+ profiles
+
 ## Getting Started
 
 1. Clone the repo

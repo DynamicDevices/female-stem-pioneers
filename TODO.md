@@ -26,7 +26,7 @@
 
 ### **Priority 1: Add More Pioneers** 🔥
 
-- [ ] Target 100+ pioneer profiles (currently 81)
+- [x] Target 100+ pioneer profiles (currently 100+)
 - [ ] Continue to increase diversity in backgrounds, time periods, and STEM fields
 - [ ] Use `add-pioneer.js` helper script for efficiency
 - [ ] Download high-quality images or create SVG icons as needed
@@ -135,7 +135,7 @@
 
 ## 🎯 **Current Metrics**
 
-- **Pioneers**: 81 profiles
+- **Pioneers**: 100+ profiles
 - **Fields**: (see filter dropdown for current count)
 - **Countries**: (see statistics section on site)
 - **Performance**: Lighthouse 90+

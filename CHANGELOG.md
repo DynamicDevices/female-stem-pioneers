@@ -95,6 +95,32 @@ All notable changes to this project will be documented in this file.
 - Improved UI accessibility and responsiveness
 - Updated statistics display for total pioneers, fields, and countries
 
+## [v1.2.0] - 2025-07-13
+
+### 🚀 Major Content Expansion & Improvements
+
+#### Added
+- Expanded to 100+ unique female STEM pioneer profiles, with global diversity
+- Systematic deduplication logic: only the first occurrence of each pioneer (by name) is shown in the UI
+- Added or fixed images for all pioneers (photo, SVG, or symbolic as needed)
+- All STEM fields in the data now have clear explanations and filter options
+- Reference links for all pioneers
+
+#### Changed
+- Updated documentation: README, PROJECT-REFERENCE.md, CONTRIBUTING.md, TODO.md
+- Improved instructions for adding new pioneers and images
+- Clarified image requirements and deduplication process
+
+#### Fixed
+- Removed duplicate entries from dataset for clarity
+- Fixed 404 errors for missing images (SVG fallback)
+- Improved error handling for missing or undefined dataset
+
+#### Technical Improvements
+- Enhanced data structure for pioneer profiles
+- Improved UI accessibility and responsiveness
+- Updated statistics display for total pioneers, fields, and countries
+
 ---
 
 ## Version History
