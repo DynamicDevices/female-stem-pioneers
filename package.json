@@ -41,5 +41,8 @@
   "homepage": "https://dynamicdevices.github.io/female-stem-pioneers",
   "bugs": {
     "url": "https://github.com/DynamicDevices/female-stem-pioneers/issues"
+  },
+  "dependencies": {
+    "acorn": "^8.15.0"
   }
 }

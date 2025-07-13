@@ -3316,6 +3316,8 @@ body.light-theme .mobile-menu-toggle span {
   overflow: hidden;
   background: rgba(30, 41, 59, 0.3);
   transition: all 0.3s ease;
+  position: relative;
+  isolation: isolate;
 }
 
 .collapsible-section:hover {
@@ -3339,6 +3341,7 @@ body.light-theme .mobile-menu-toggle span {
   font-weight: 600;
   transition: all 0.3s ease;
   position: relative;
+  z-index: 1;
 }
 
 .section-toggle:hover {
@@ -3376,6 +3379,11 @@ body.light-theme .mobile-menu-toggle span {
   padding: 1.5rem;
   background: rgba(30, 41, 59, 0.2);
   border-top: 1px solid rgba(96, 165, 250, 0.1);
+  position: relative;
+  z-index: 0;
+}
+
+.section-content[style*="display: block"] {
   animation: slideDown 0.3s ease-out;
 }
 

@@ -319,19 +319,19 @@ class PioneersApp {
       </div>
 
       <div class="expandable-content">
-        ${this.createCollapsibleSection("🏠 Early Life & Journey", this.createEarlyLifeContent(pioneer))}
-        ${this.createCollapsibleSection("🚀 STEM Journey", this.createStemJourneyContent(pioneer))}
-        ${this.createCollapsibleSection("⚡ Challenges Overcome", this.createChallengesContent(pioneer))}
-        ${this.createCollapsibleSection("🎓 Education Path", this.createEducationContent(pioneer))}
-        ${this.createCollapsibleSection("💼 Career Highlights", this.createCareerContent(pioneer))}
-        ${this.createCollapsibleSection("📚 Student Resources", this.createStudentResourcesContent(pioneer))}
-        ${this.createCollapsibleSection("🌍 Cultural Background", this.createCulturalContent(pioneer))}
-        ${this.createCollapsibleSection("🔬 Modern Impact", this.createModernImpactContent(pioneer))}
-        ${this.createCollapsibleSection("📖 Publications", this.createPublicationsContent(pioneer))}
-        ${this.createCollapsibleSection("🏆 Awards & Recognition", this.createAwardsContent(pioneer))}
-        ${this.createCollapsibleSection("⏰ Timeline", this.createTimelineContent(pioneer))}
-        ${this.createCollapsibleSection("💡 Fun Facts", this.createFunFactsContent(pioneer))}
-        ${this.createCollapsibleSection("🔗 More Resources", this.createResourcesContent(pioneer))}
+        ${this.createCollapsibleSection("🏠 Early Life & Journey", this.createEarlyLifeContent(pioneer), index, 0)}
+        ${this.createCollapsibleSection("🚀 STEM Journey", this.createStemJourneyContent(pioneer), index, 1)}
+        ${this.createCollapsibleSection("⚡ Challenges Overcome", this.createChallengesContent(pioneer), index, 2)}
+        ${this.createCollapsibleSection("🎓 Education Path", this.createEducationContent(pioneer), index, 3)}
+        ${this.createCollapsibleSection("💼 Career Highlights", this.createCareerContent(pioneer), index, 4)}
+        ${this.createCollapsibleSection("📚 Student Resources", this.createStudentResourcesContent(pioneer), index, 5)}
+        ${this.createCollapsibleSection("🌍 Cultural Background", this.createCulturalContent(pioneer), index, 6)}
+        ${this.createCollapsibleSection("🔬 Modern Impact", this.createModernImpactContent(pioneer), index, 7)}
+        ${this.createCollapsibleSection("📖 Publications", this.createPublicationsContent(pioneer), index, 8)}
+        ${this.createCollapsibleSection("🏆 Awards & Recognition", this.createAwardsContent(pioneer), index, 9)}
+        ${this.createCollapsibleSection("⏰ Timeline", this.createTimelineContent(pioneer), index, 10)}
+        ${this.createCollapsibleSection("💡 Fun Facts", this.createFunFactsContent(pioneer), index, 11)}
+        ${this.createCollapsibleSection("🔗 More Resources", this.createResourcesContent(pioneer), index, 12)}
       </div>
     `;
 
@@ -629,10 +629,11 @@ class PioneersApp {
   }
 
   // Helper method to create collapsible sections
-  createCollapsibleSection(title, content) {
+  createCollapsibleSection(title, content, cardIndex, sectionIndex) {
+    const sectionId = `section-${cardIndex}-${sectionIndex}`;
     return `
-      <div class="collapsible-section">
-        <button class="section-toggle" onclick="window.pioneersApp.toggleSection(this)">
+      <div class="collapsible-section" id="${sectionId}">
+        <button class="section-toggle" data-section-id="${sectionId}" onclick="window.pioneersApp.toggleSectionById('${sectionId}')">
           <span class="section-title">${title}</span>
           <span class="toggle-icon">▼</span>
         </button>
@@ -643,12 +644,13 @@ class PioneersApp {
     `;
   }
 
-  // Toggle section visibility
-  toggleSection(button) {
-    const section = button.closest('.collapsible-section');
+  // New toggle method using unique section ID
+  toggleSectionById(sectionId) {
+    const section = document.getElementById(sectionId);
+    if (!section) return;
     const content = section.querySelector('.section-content');
+    const button = section.querySelector('.section-toggle');
     const icon = button.querySelector('.toggle-icon');
-    
     if (content.style.display === 'none') {
       content.style.display = 'block';
       icon.textContent = '▲';
