@@ -1865,6 +1865,11 @@ body.light-theme .mobile-menu-toggle span {
   min-height: 550px;
 }
 
+.pioneer-card.expanded {
+  min-height: auto;
+  height: auto;
+}
+
 .pioneer-card::before {
   content: "";
   position: absolute;
@@ -3097,6 +3102,7 @@ body.light-theme .mobile-menu-toggle span {
 .pioneer-card.expanded {
   max-height: none;
   overflow: visible;
+  height: auto;
 }
 
 .pioneer-card.expanded .pioneer-content {
@@ -3115,8 +3121,9 @@ body.light-theme .mobile-menu-toggle span {
 }
 
 .pioneer-card.expanded .expandable-content {
-  max-height: 1000px;
+  max-height: none;
   padding: 1rem;
+  overflow: visible;
 }
 
 .expandable-section {
