@@ -39,8 +39,11 @@ By contributing to this project, you agree that your contributions will be licen
 
 ### Adding New Pioneer Profiles
 
+**IMPORTANT EFFICIENCY NOTE**: Before spending time researching and writing metadata for a potential new pioneer, **always check if they are already included in the project**. Use `grep` or search the `js/pioneers.js` file to verify the pioneer's name is not already present. This saves significant time and prevents duplicate work.
+
 1. **Fork the repository**
-2. **Add your pioneer to `js/pioneers.js`** following the current data structure (see existing entries for reference). Each entry is an object with fields such as:
+2. **Check for duplicates first** - Search the existing pioneers to ensure the person is not already included
+3. **Add your pioneer to `js/pioneers.js`** following the current data structure (see existing entries for reference). Each entry is an object with fields such as:
    - `name`, `photo`, `birthDate`, `deathDate`, `country`, `fields`, `roles`, `quote`, `summary`, `shortDescription`, `achievements`, `fun_fact`, and additional metadata (see `add-pioneer.js` for template)
    - Only **female** pioneers are accepted. No male pioneers will be included.
    - Each pioneer must be unique by name. The system deduplicates by name, but please avoid adding duplicates. (Currently 100+ unique pioneers)
@@ -56,13 +59,14 @@ By contributing to this project, you agree that your contributions will be licen
 
 ### Content Guidelines
 
-- Ensure biographical information is accurate and well-sourced
-- Focus on achievements and impact that would inspire young women
-- Include diverse representation across STEM fields, countries, and time periods
-- Write in an engaging, accessible style appropriate for the target audience
-- Verify information from reliable sources before submitting
-- Remove any duplicate entries by name for clarity
+- **Ensure biographical information is accurate and well-sourced**
+- **Focus on achievements and impact that would inspire young women**
+- **Include diverse representation across STEM fields, countries, and time periods**
+- **Write in an engaging, accessible style appropriate for the target audience**
+- **Verify information from reliable sources before submitting**
+- **Remove any duplicate entries by name for clarity**
 - **Verify image licensing before submitting** - include source and license information
+- **Provide high-quality, comprehensive metadata** - Each pioneer should have complete information including achievements, quotes, and engaging descriptions that will inspire students
 
 ### Submitting Changes
 
