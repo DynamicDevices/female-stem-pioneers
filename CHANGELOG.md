@@ -2,6 +2,42 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.1.1] - 2025-01-13
+
+### 🎨 Enhanced Tooltip Design & User Experience
+
+#### Added
+- **Modern Tooltip Design**: Redesigned field badge tooltips with beautiful purple gradient
+- **Rounded Rectangle Design**: Changed from 8px to 16px border-radius for modern pill-shaped appearance
+- **No Scrollbars**: Removed overflow scrollbars for cleaner, more elegant appearance
+- **Enhanced Visual Effects**: Added backdrop blur and improved shadows for modern glass-like appearance
+
+#### Changed
+- **Color Scheme**: Replaced yellow background with beautiful purple gradient (`#667eea` to `#764ba2`)
+- **Text Contrast**: Changed text color to white for better readability against gradient background
+- **Arrow Design**: Increased arrow size from 6px to 8px and added drop shadow for better visibility
+- **Spacing**: Increased padding and margins for better breathing room and readability
+- **Mobile Optimization**: Adjusted border-radius to 12px on mobile for better touch targets
+
+#### Fixed
+- **Tooltip Clipping**: Resolved issues with tooltips being cut off by circular image areas
+- **Z-index Issues**: Ensured proper layering with z-index: 999999
+- **Overflow Problems**: Fixed pioneer card overflow settings to allow tooltips to display properly
+- **Mobile Display**: Improved tooltip positioning and sizing on mobile devices
+
+#### Technical Improvements
+- **CSS Enhancements**: Added backdrop-filter for modern glass morphism effect
+- **Responsive Design**: Better mobile tooltip handling with adjusted sizing
+- **Performance**: Removed unnecessary overflow properties that were causing display issues
+- **Accessibility**: Improved tooltip visibility and contrast for better user experience
+
+#### Design Statistics
+- **Border Radius**: Increased from 8px to 16px (desktop), 12px (mobile)
+- **Color Transition**: From yellow (#fffbe8) to purple gradient
+- **Arrow Size**: Increased from 6px to 8px
+- **Padding**: Increased from 12px/16px to 16px/20px
+- **Shadow**: Enhanced with colored drop shadow matching gradient theme
+
 ## [v2.1.0] - 2025-01-13
 
 ### 🔍 Comprehensive Quote Verification & Accuracy Improvements

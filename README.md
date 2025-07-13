@@ -10,6 +10,7 @@ A static web app celebrating women pioneers in STEM fields. Features:
 - **Comprehensive field explanations and filter options for all STEM fields represented in the data**
 - **Codebase is auto-formatted and linted for consistency and quality**
 - **Icon mapping system with diverse skin tone representation** (see `icon-mapping-demo.html`) - **CRITICAL**: Ensures inclusive representation when images are unavailable
+- **Modern UI with enhanced tooltips** - Beautiful purple gradient tooltips with rounded design and no scrollbars
 
 ## Current Metrics
 
