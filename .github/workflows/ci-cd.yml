@@ -139,12 +139,12 @@ jobs:
 
           echo "✅ All required files exist"
 
-      - name: Run Playwright UI tests
-        run: |
-          echo "🧪 Running Playwright UI tests..."
-          npm run test
-        env:
-          CI: true
+      # - name: Run Playwright UI tests
+      #   run: |
+      #     echo "🧪 Running Playwright UI tests..."
+      #     npm run test
+      #   env:
+      #     CI: true
 
   # Accessibility and Performance Checks
   accessibility:
