@@ -156,10 +156,10 @@ class PioneersApp {
    * @returns {string} - Fallback icon emoji character
    */
   getFallbackIcon(pioneer) {
-    // Check if IconMapping is available
-    if (typeof IconMapping !== 'undefined') {
+    // Check if IconMapping is available and working
+    if (typeof window !== 'undefined' && window.IconMapping && typeof window.IconMapping.getIconForPioneer === 'function') {
       try {
-        return IconMapping.getIconForPioneer(pioneer);
+        return window.IconMapping.getIconForPioneer(pioneer);
       } catch (error) {
         console.warn('IconMapping failed, using default fallback:', error);
       }
@@ -262,14 +262,7 @@ class PioneersApp {
       .map((achievement) => `<li>${achievement}</li>`)
       .join("");
 
-    const shortDescription = pioneer.shortDescription
-      ? `
-      <div class="pioneer-short-description">
-        <h4>About ${pioneer.name}</h4>
-        <p>${pioneer.shortDescription}</p>
-      </div>
-    `
-      : "";
+
 
     // Generate fallback icon for this pioneer
     const fallbackIcon = this.getFallbackIcon(pioneer);
