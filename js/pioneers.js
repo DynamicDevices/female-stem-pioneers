@@ -743,7 +743,7 @@ const pioneers = [
     },
     "achievements": [
       "Co-invented frequency-hopping spread spectrum",
-      "Technology used in Bluetooth and WiFi",
+      "Influenced modern wireless communications",
       "Inducted into National Inventors Hall of Fame"
     ],
     "awards": [
@@ -886,7 +886,8 @@ const pioneers = [
         "Cultural barriers as an immigrant"
       ],
       "cultural_contributions": "Bridged European intellectual tradition with American innovation, showing how creativity spans cultures and fields"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Shirley Ann Jackson",
@@ -902,7 +903,7 @@ const pioneers = [
       "University President"
     ],
     "quote": "The best way to predict the future is to invent it.",
-    "summary": "First African American woman to earn a doctorate from MIT and first woman to lead a top-ranked research university.",
+    "summary": "First African American woman to earn a doctorate from MIT and influential leader in higher education.",
     "shortDescription": "Shirley Ann Jackson was the first African American woman to earn a doctorate from MIT and the first woman to lead a top-ranked research university. She was a physicist and advocate for science education, serving as president of Rensselaer Polytechnic Institute and chair of the Nuclear Regulatory Commission. Her leadership has opened doors for women and minorities in STEM fields.",
     "detailed_description": {
       "early_life": "Born in Washington, D.C., Shirley showed exceptional academic ability from an early age. She was encouraged by her parents to pursue education and was inspired by the space race and scientific discoveries of the 1950s and 1960s.",
@@ -918,8 +919,7 @@ const pioneers = [
     ],
     "awards": [
       "National Medal of Science (2014)",
-      "Vannevar Bush Award (2007)",
-      "Thomas Alva Edison Science Award (2001)"
+      "Vannevar Bush Award (2007)"
     ],
     "education": [
       {
@@ -1070,7 +1070,8 @@ const pioneers = [
         "Being a trailblazer in multiple arenas"
       ],
       "cultural_contributions": "Pioneered leadership roles for African American women in physics and higher education, inspiring future generations"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Rachel Carson",
@@ -1098,7 +1099,7 @@ const pioneers = [
     },
     "achievements": [
       "Wrote 'Silent Spring' launching environmental movement",
-      "Pioneered marine biology research",
+      "Wrote influential books about marine biology",
       "Received Presidential Medal of Freedom"
     ],
     "awards": [
@@ -1256,7 +1257,8 @@ const pioneers = [
         "Being a woman in science and publishing"
       ],
       "cultural_contributions": "Pioneered environmental awareness and science communication, showing how scientific writing can create social change"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Chien-Shiung Wu",
