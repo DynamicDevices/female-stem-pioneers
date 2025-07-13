@@ -353,17 +353,183 @@ const pioneers = [
     "quote": "The most damaging phrase in the language is 'We've always done it this way!'",
     "summary": "Pioneering computer scientist who developed the first compiler and popularized the term 'debugging'.",
     "shortDescription": "Grace Hopper was a pioneering computer scientist who developed the first compiler and popularized the term 'debugging'. She was instrumental in the development of COBOL, a programming language that is still widely used today. As a Navy Admiral, she broke barriers for women in both technology and the military, becoming the first woman to receive the National Medal of Technology and inspiring generations of programmers.",
+    "detailed_description": {
+      "early_life": "Born in New York City, Grace showed exceptional mathematical ability from an early age. She was curious about how things worked and often took apart household items to understand their mechanisms.",
+      "stem_journey": "Grace earned her PhD in mathematics from Yale University in 1934, one of only a few women with doctorates in mathematics at the time. She joined the Navy during World War II and worked on the Harvard Mark I computer.",
+      "challenges": "Faced gender discrimination in both academia and the military. She was often the only woman in her technical teams and had to prove herself repeatedly in male-dominated environments.",
+      "achievements": "Developed the first compiler, invented COBOL programming language, and became the first woman to reach the rank of Rear Admiral in the U.S. Navy.",
+      "legacy": "Revolutionized computer programming and paved the way for women in computer science and the military. Her work made computers accessible to non-technical users."
+    },
     "achievements": [
       "Developed first computer compiler",
       "Invented COBOL programming language",
       "First woman to receive National Medal of Technology"
     ],
+    "awards": [
+      "National Medal of Technology (1991)",
+      "Presidential Medal of Freedom (2016, posthumous)",
+      "IEEE Computer Society Pioneer Award (1980)"
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Mathematics",
+        "institution": "Yale University"
+      },
+      {
+        "degree": "MA",
+        "field": "Mathematics",
+        "institution": "Yale University"
+      },
+      {
+        "degree": "BA",
+        "field": "Mathematics and Physics",
+        "institution": "Vassar College"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1928,
+        "event": "Graduated from Vassar College"
+      },
+      {
+        "year": 1934,
+        "event": "Earned PhD in mathematics from Yale"
+      },
+      {
+        "year": 1943,
+        "event": "Joined U.S. Navy during World War II"
+      },
+      {
+        "year": 1952,
+        "event": "Developed the first compiler"
+      },
+      {
+        "year": 1959,
+        "event": "Led development of COBOL programming language"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in mathematics and computer science",
+      "Being the only woman in technical teams",
+      "Age discrimination when trying to rejoin the Navy"
+    ],
+    "impact": "Revolutionized computer programming by making it accessible to non-technical users and paved the way for women in computer science.",
+    "media": [
+      {
+        "type": "documentary",
+        "title": "Grace Hopper: The Queen of Code",
+        "url": "https://www.youtube.com/watch?v=AZI6vtESdQU"
+      }
+    ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Grace_Hopper"
+      },
+      {
+        "title": "Computer History Museum",
+        "url": "https://computerhistory.org/profile/grace-hopper/"
       }
-    ]
+    ],
+    "mentorship": "Mentored countless programmers and advocated for women in computer science throughout her career.",
+    "fun_fact": "Grace Hopper is credited with popularizing the term 'debugging' after an actual bug (a moth) was found in the Harvard Mark II computer.",
+    "career_path": {
+      "first_job": "Mathematics professor at Vassar College",
+      "career_highlights": [
+        "Worked on Harvard Mark I computer during WWII",
+        "Developed first compiler at Remington Rand",
+        "Led COBOL development team",
+        "Became Navy Rear Admiral"
+      ],
+      "advice_for_students": "Don't be afraid to challenge the status quo. The most dangerous phrase is 'We've always done it this way.'"
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Grace Hopper and the Invention of the Information Age by Kurt Beyer",
+        "The Innovators by Walter Isaacson"
+      ],
+      "websites": [
+        "gracehopper.org",
+        "computerhistory.org",
+        "code.org"
+      ],
+      "programs": [
+        "Grace Hopper Celebration of Women in Computing",
+        "Computer science summer camps",
+        "Navy STEM programs"
+      ],
+      "advice": "Learn to program and don't be afraid to be the only woman in the room. Your perspective is valuable."
+    },
+    "challenges": {
+      "academic": [
+        "Being one of few women in mathematics PhD programs",
+        "Proving herself in male-dominated academic environments"
+      ],
+      "professional": [
+        "Gender discrimination in computer science",
+        "Age discrimination when trying to rejoin Navy"
+      ],
+      "personal": [
+        "Balancing family and career demands",
+        "Navigating military and civilian career paths"
+      ],
+      "how_overcame": "Relied on her mathematical skills and determination. She focused on results and built supportive networks"
+    },
+    "education_details": {
+      "high_school": "Wadleigh High School, New York",
+      "college_major": "Mathematics and Physics at Vassar College",
+      "graduate_school": "PhD in Mathematics from Yale University",
+      "key_courses": [
+        "Advanced Mathematics",
+        "Physics",
+        "Computer Programming",
+        "Military Science"
+      ],
+      "study_tips": "Build strong foundations in mathematics. Learn to think logically and solve problems systematically."
+    },
+    "modern_impact": {
+      "current_applications": "Her compiler technology is the foundation of all modern programming languages",
+      "companies_using_her_work": [
+        "All major technology companies",
+        "Financial institutions using COBOL",
+        "Government agencies"
+      ],
+      "future_implications": "Her work continues to influence programming language design and computer science education"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Understanding how things work",
+        "Military service"
+      ],
+      "family_background": "Encouraged by parents to pursue education and independence",
+      "hobbies": [
+        "Programming",
+        "Teaching",
+        "Military service"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Innovative",
+        "Direct",
+        "Leadership-oriented"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American heritage",
+      "cultural_influences": [
+        "World War II era patriotism",
+        "Early computer industry culture",
+        "Military tradition"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 1940s-1980s America",
+        "Military culture and gender barriers",
+        "Being a pioneer in computer science"
+      ],
+      "cultural_contributions": "Bridged military service with technological innovation, showing how women can excel in both technical and leadership roles"
+    }
   },
   {
     "name": "Rosalind Franklin",
@@ -382,17 +548,176 @@ const pioneers = [
     "quote": "Science and everyday life cannot and should not be separated.",
     "summary": "Chemist whose X-ray diffraction images of DNA were crucial to understanding its double helix structure.",
     "shortDescription": "Rosalind Franklin's X-ray diffraction images of DNA were crucial to understanding its double helix structure. Her work laid the foundation for the discovery of the structure of DNA and the understanding of genetic inheritance. Despite her critical contributions to one of the most important scientific discoveries of the 20th century, her work was initially overlooked, highlighting the importance of recognizing all contributors to scientific breakthroughs.",
+    "detailed_description": {
+      "early_life": "Born in London to a prominent Jewish family, Rosalind showed exceptional academic ability from an early age. She was determined to pursue a career in science despite family expectations for women.",
+      "stem_journey": "Rosalind earned her PhD in physical chemistry from Cambridge University and became an expert in X-ray crystallography. Her work on DNA structure at King's College London produced the famous 'Photo 51' that revealed the double helix.",
+      "challenges": "Faced gender discrimination in science and was often excluded from important discussions about her own research. Her work was shared without her permission, leading to the Nobel Prize being awarded to others.",
+      "achievements": "Produced the crucial X-ray diffraction images of DNA that revealed its double helix structure, pioneered crystallography techniques, and made significant contributions to understanding virus structures.",
+      "legacy": "Her work was fundamental to understanding DNA structure, though she wasn't recognized during her lifetime. She inspired generations of women in science and highlighted the importance of proper attribution."
+    },
     "achievements": [
       "Produced X-ray diffraction images of DNA",
       "Discovered molecular structure of viruses",
       "Pioneered crystallography techniques"
     ],
+    "awards": [
+      "Posthumous recognition for DNA structure work",
+      "Honorary degrees from multiple universities"
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Physical Chemistry",
+        "institution": "University of Cambridge"
+      },
+      {
+        "degree": "BA",
+        "field": "Natural Sciences",
+        "institution": "Newnham College, Cambridge"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1941,
+        "event": "Graduated from Cambridge University"
+      },
+      {
+        "year": 1945,
+        "event": "Earned PhD in physical chemistry"
+      },
+      {
+        "year": 1951,
+        "event": "Joined King's College London to study DNA"
+      },
+      {
+        "year": 1952,
+        "event": "Produced 'Photo 51' showing DNA structure"
+      },
+      {
+        "year": 1958,
+        "event": "Passed away from ovarian cancer"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in science",
+      "Exclusion from important research discussions",
+      "Work shared without permission"
+    ],
+    "impact": "Her X-ray diffraction work was crucial to understanding DNA structure, though she wasn't recognized during her lifetime.",
+    "media": [
+      {
+        "type": "documentary",
+        "title": "DNA: The Secret of Life",
+        "url": "https://www.pbs.org/wgbh/nova/transcripts/2809dna.html"
+      }
+    ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+      },
+      {
+        "title": "Rosalind Franklin Society",
+        "url": "https://rosalindfranklinsociety.org/"
       }
-    ]
+    ],
+    "mentorship": "Inspired women in science through her dedication to research and the importance of proper scientific attribution.",
+    "fun_fact": "Rosalind Franklin's famous 'Photo 51' of DNA was shown to Watson and Crick without her permission, leading to their discovery of the double helix structure.",
+    "career_path": {
+      "first_job": "Research chemist at British Coal Utilization Research Association",
+      "career_highlights": [
+        "Research on coal structure in Paris",
+        "DNA structure research at King's College London",
+        "Virus structure research at Birkbeck College"
+      ],
+      "advice_for_students": "Focus on the quality of your research and don't let others take credit for your work. Science should be collaborative and properly attributed."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Rosalind Franklin: The Dark Lady of DNA by Brenda Maddox",
+        "The Double Helix by James Watson"
+      ],
+      "websites": [
+        "rosalindfranklinsociety.org",
+        "dnalc.org",
+        "nature.com"
+      ],
+      "programs": [
+        "Women in Chemistry programs",
+        "Crystallography workshops",
+        "DNA and genetics programs"
+      ],
+      "advice": "Learn to advocate for yourself and your research. Proper attribution is crucial in science."
+    },
+    "challenges": {
+      "academic": [
+        "Gender discrimination in chemistry and physics",
+        "Being excluded from important research discussions"
+      ],
+      "professional": [
+        "Work shared without permission",
+        "Lack of recognition for contributions"
+      ],
+      "personal": [
+        "Battling ovarian cancer",
+        "Navigating male-dominated scientific environment"
+      ],
+      "how_overcame": "Focused on excellence in her research and maintained high scientific standards despite obstacles"
+    },
+    "education_details": {
+      "high_school": "St Paul's Girls' School, London",
+      "college_major": "Natural Sciences at Cambridge",
+      "graduate_school": "PhD in Physical Chemistry from Cambridge",
+      "key_courses": [
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Crystallography"
+      ],
+      "study_tips": "Build strong foundations in both chemistry and physics. Attention to detail is crucial in experimental science."
+    },
+    "modern_impact": {
+      "current_applications": "Her crystallography techniques are used in drug discovery and structural biology",
+      "companies_using_her_work": [
+        "Pharmaceutical companies",
+        "Research institutions",
+        "Biotechnology companies"
+      ],
+      "future_implications": "Her work continues to influence structural biology and the importance of proper scientific attribution"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Chemistry and physics",
+        "Scientific research",
+        "Travel and hiking"
+      ],
+      "family_background": "Born to a prominent Jewish family in London",
+      "hobbies": [
+        "Hiking and mountaineering",
+        "Travel",
+        "Scientific research"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Intelligent",
+        "Independent",
+        "Detail-oriented"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "British Jewish heritage",
+      "cultural_influences": [
+        "British academic tradition",
+        "Jewish intellectual culture",
+        "Post-war scientific community"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 1940s-1950s Britain",
+        "Jewish identity in post-war Europe",
+        "Being a woman in male-dominated science"
+      ],
+      "cultural_contributions": "Pioneered women's roles in structural biology and highlighted the importance of proper scientific attribution"
+    }
   },
   {
     "name": "Hedy Lamarr",
