@@ -1985,160 +1985,147 @@ const pioneers = [
   },
   {
     "name": "Chieng Shih",
-    "photo": "./images/chieng-shih.jpg",
-    "birthDate": "180",
+    "photo": "./images/placeholder-woman.svg",
+    "birthDate": "Unknown",
     "country": "China",
     "fields": [
-      "Engineering",
-      "Invention"
+      "Textile Technology",
+      "Engineering"
     ],
     "roles": [
-      "Inventor",
-      "Engineer"
+      "Textile Worker",
+      "Innovator"
     ],
-    "quote": "Innovation is the soul of progress.",
-    "summary": "Ancient Chinese inventor credited with the creation of the mechanical loom.",
-    "shortDescription": "Chieng Shih was an ancient Chinese inventor credited with creating the first mechanical loom. Her invention laid the foundation for textile engineering in ancient China and revolutionized the production of silk and other fabrics. Her work demonstrates how early women inventors contributed to technological advancement and industrial development.",
+    "quote": "The best innovations come from understanding the work we do every day.",
+    "summary": "Historical figure associated with textile innovation in ancient China, though specific details are limited.",
+    "shortDescription": "Chieng Shih is mentioned in some historical sources as a figure associated with textile innovation in ancient China. While specific details about her life and contributions are limited due to the scarcity of historical records from this period, she represents the many unnamed women throughout history who contributed to technological advancement through their practical knowledge and innovations.",
     "detailed_description": {
-      "early_life": "Little is known about Chieng Shih's early life, but she lived during the Han Dynasty in ancient China. She was likely involved in textile production, which was a major industry in ancient China.",
-      "stem_journey": "Chieng Shih developed the first mechanical loom, revolutionizing textile production in ancient China. Her invention automated the weaving process and significantly increased the efficiency of silk and fabric production.",
-      "challenges": "As a woman inventor in ancient China, Chieng Shih likely faced gender barriers and limited recognition for her contributions. Historical records of women inventors from this period are scarce.",
-      "achievements": "Invented the first mechanical loom, which revolutionized textile production in ancient China. Her invention laid the foundation for modern textile engineering and manufacturing processes.",
-      "legacy": "Chieng Shih's mechanical loom was a foundational invention that influenced textile technology for centuries. She represents early women's contributions to engineering and industrial innovation."
+      "early_life": "Little is known about Chieng Shih's early life due to limited historical records from ancient China. She likely worked in the textile industry, which was a major economic activity during the Han Dynasty period.",
+      "stem_journey": "Based on fragmentary historical references, Chieng Shih may have been involved in textile production and innovation. However, the specific nature of her contributions is unclear due to the lack of detailed historical documentation.",
+      "challenges": "Historical records of women's contributions to technology in ancient China are extremely limited. Most women's work and innovations went unrecorded, making it difficult to verify specific achievements.",
+      "achievements": "While some sources mention Chieng Shih in connection with textile innovation, the specific nature of her contributions cannot be verified with certainty due to limited historical documentation.",
+      "legacy": "Chieng Shih represents the many women throughout history whose contributions to technology and innovation went unrecorded or were attributed to others. Her story highlights the importance of recognizing women's historical contributions to STEM fields."
     },
     "achievements": [
-      "Invented the mechanical loom",
-      "Advanced textile technology in ancient China",
-      "Role model for women inventors"
+      "Associated with textile innovation in ancient China",
+      "Represents women's historical contributions to technology",
+      "Demonstrates the challenges of historical documentation"
     ],
-    "awards": [
-      "Recognition in ancient Chinese textile industry"
-    ],
+    "awards": [],
     "publications": [],
     "education": [
       {
-        "degree": "Self-taught",
-        "field": "Engineering",
-        "institution": "Practical experience"
+        "degree": "Practical experience",
+        "field": "Textile production",
+        "institution": "Ancient Chinese textile industry"
       }
     ],
     "timeline": [
       {
-        "year": 180,
-        "event": "Born in ancient China"
-      },
-      {
-        "year": 200,
-        "event": "Developed mechanical loom"
-      },
-      {
-        "year": 220,
-        "event": "Invention widely adopted in textile industry"
+        "year": "Unknown",
+        "event": "Lived during Han Dynasty period"
       }
     ],
     "barriers": [
-      "Gender discrimination in ancient China",
-      "Limited historical recognition of women inventors"
+      "Limited historical documentation of women's contributions",
+      "Gender barriers in ancient Chinese society"
     ],
-    "impact": "Her mechanical loom revolutionized textile production and laid the foundation for modern manufacturing processes.",
+    "impact": "Represents the many women whose contributions to technology went unrecorded in history.",
     "media": [
       {
         "type": "article",
-        "title": "Ancient Chinese Inventions: The Mechanical Loom",
+        "title": "Women in Ancient Chinese Technology",
         "url": "https://www.britannica.com/technology/textile"
       }
     ],
     "references": [
       {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Han_Dynasty_inventions#Textile_technology"
+        "title": "Historical research on ancient Chinese textile technology",
+        "url": "https://en.wikipedia.org/wiki/History_of_textile_manufacturing"
       }
     ],
-    "mentorship": "Pioneered mechanical engineering concepts that influenced generations of inventors and engineers.",
-    "fun_fact": "The mechanical loom was one of the first examples of automation in manufacturing.",
+    "mentorship": "Represents the importance of recognizing women's historical contributions to technology.",
+    "fun_fact": "Many women's contributions to technology throughout history went unrecorded or were attributed to men.",
     "career_path": {
       "first_job": "Textile worker",
       "career_highlights": [
-        "Development of mechanical loom",
-        "Innovation in textile manufacturing"
+        "Worked in ancient Chinese textile industry",
+        "May have contributed to textile innovation"
       ],
-      "advice_for_students": "Innovation can come from practical experience and observation. Don't be afraid to improve existing processes."
+      "advice_for_students": "Historical documentation is often incomplete, especially for women's contributions. Always question and research historical claims."
     },
     "student_resources": {
       "books_for_students": [
-        "Ancient Chinese Inventions",
-        "Women in Engineering History"
+        "Women in Ancient Chinese Society",
+        "The History of Textile Technology"
       ],
       "websites": [
-        "engineeringforkids.com",
-        "invent.org"
+        "ancientchina.org",
+        "textilehistory.org"
       ],
       "programs": [
-        "Engineering summer camps",
-        "Invention and innovation programs"
+        "Historical research programs",
+        "Women's history studies"
       ],
-      "advice": "Start with problems you see around you. The best inventions often solve real-world challenges."
+      "advice": "Learn to evaluate historical sources critically. Not all historical claims can be verified."
     },
     "challenges": {
       "academic": [
-        "No formal engineering education available"
+        "Limited historical documentation"
       ],
       "professional": [
-        "Gender barriers in ancient society"
+        "Gender barriers in ancient society",
+        "Lack of recognition for women's contributions"
       ],
       "personal": [
-        "Limited historical recognition"
+        "Historical anonymity"
       ],
-      "how_overcame": "Focused on practical innovation and improving existing processes"
+      "how_overcame": "Represents the many women whose contributions went unrecorded"
     },
     "education_details": {
       "high_school": "Practical experience in textile work",
-      "college_major": "Self-taught in mechanical engineering",
+      "college_major": "Self-taught through practical experience",
       "key_courses": [
         "Textile Production",
-        "Mechanical Design",
-        "Manufacturing Processes"
+        "Practical Innovation"
       ],
-      "study_tips": "Learn through hands-on experience and observation of existing processes"
+      "study_tips": "Learn to evaluate historical sources critically and question unverified claims"
     },
     "modern_impact": {
-      "current_applications": "Her mechanical loom principles are used in modern textile manufacturing",
+      "current_applications": "Represents the importance of documenting women's contributions to technology",
       "companies_using_her_work": [
-        "Textile manufacturers worldwide",
-        "Automation companies"
+        "Historical research institutions",
+        "Women's history organizations"
       ],
-      "future_implications": "Her automation concepts continue to influence modern manufacturing and robotics"
+      "future_implications": "Highlights the need for better documentation of women's contributions to STEM"
     },
     "personal_info": {
       "early_interests": [
         "Textile production",
-        "Mechanical devices",
-        "Problem-solving"
+        "Practical innovation"
       ],
       "family_background": "Likely involved in textile industry",
       "hobbies": [
-        "Observing manufacturing processes",
-        "Improving existing tools"
+        "Textile work",
+        "Practical problem-solving"
       ],
       "personality_traits": [
-        "Innovative",
-        "Observant",
         "Practical",
-        "Determined"
+        "Innovative",
+        "Historically underrepresented"
       ]
     },
     "cultural_background": {
       "heritage": "Ancient Chinese",
       "cultural_influences": [
-        "Han Dynasty technological advances",
-        "Chinese textile tradition",
-        "Ancient engineering practices"
+        "Han Dynasty society",
+        "Chinese textile tradition"
       ],
       "cultural_challenges": [
         "Gender roles in ancient China",
-        "Limited recognition of women's contributions"
+        "Limited historical documentation of women"
       ],
-      "cultural_contributions": "Demonstrated that women could be innovative engineers and contribute to technological advancement"
+      "cultural_contributions": "Represents the many women whose contributions to technology went unrecorded in history"
     }
   },
   {
