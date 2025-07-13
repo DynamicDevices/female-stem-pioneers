@@ -1259,7 +1259,7 @@ const pioneers = [
     birthDate: "1908",
     deathDate: "2008",
     country: "United States",
-    fields: ["Engineering", "Mathematics"],
+    fields: ["Engineering", "Aerospace"],
     roles: ["Engineer", "Mathematician"],
     quote:
       "To function efficiently, any group of people must have faith in their leader.",
@@ -2200,6 +2200,186 @@ const pioneers = [
       "Nobel Prize in Physiology or Medicine (1983)",
       "Pioneered maize cytogenetics",
     ],
+  },
+  {
+    name: "Mary Golda Ross",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1908",
+    deathDate: "2008",
+    country: "United States",
+    fields: ["Engineering", "Aerospace"],
+    roles: ["Engineer", "Mathematician"],
+    quote: "To function efficiently, any group of people must have faith in their leader.",
+    summary: "First known Native American female engineer, contributed to early spaceflight and missile design at Lockheed.",
+    achievements: [
+      "First Native American female engineer",
+      "Worked on top-secret aerospace projects at Lockheed",
+      "Pioneered work on interplanetary space travel and ballistic missiles"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mary_Golda_Ross" }
+    ]
+  },
+  {
+    name: "Tu Youyou",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1930",
+    country: "China",
+    fields: ["Pharmacology", "Chemistry"],
+    roles: ["Pharmacologist", "Chemist"],
+    quote: "Every scientist dreams of doing something that can help the world.",
+    summary: "Discovered artemisinin, a groundbreaking malaria treatment, saving millions of lives.",
+    achievements: [
+      "Discovered artemisinin for malaria treatment",
+      "First Chinese woman to win a Nobel Prize in Physiology or Medicine"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Tu_Youyou" }
+    ]
+  },
+  {
+    name: "Barbara McClintock",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1902",
+    deathDate: "1992",
+    country: "United States",
+    fields: ["Genetics", "Biology"],
+    roles: ["Geneticist", "Cytogeneticist"],
+    quote: "If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off... no matter what they say.",
+    summary: "Nobel Prize-winning geneticist who discovered transposable elements (jumping genes) in maize.",
+    achievements: [
+      "Discovered transposable elements in DNA",
+      "Nobel Prize in Physiology or Medicine (1983)"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Barbara_McClintock" }
+    ]
+  },
+  {
+    name: "Chieng Shih",
+    photo: "./images/placeholder.jpg",
+    birthDate: "180",
+    country: "China",
+    fields: ["Engineering", "Invention"],
+    roles: ["Inventor", "Engineer"],
+    quote: "Inventiveness is the mother of progress.",
+    summary: "Ancient Chinese inventor credited with creating the first mechanical loom.",
+    achievements: [
+      "Invented the mechanical loom (drawloom)",
+      "Pioneered textile engineering in ancient China"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Han_Dynasty_inventions#Textile_technology" }
+    ]
+  },
+  {
+    name: "Mary Cartwright",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1900",
+    deathDate: "1998",
+    country: "United Kingdom",
+    fields: ["Mathematics"],
+    roles: ["Mathematician"],
+    quote: "Mathematics is a creative art.",
+    summary: "Pioneering mathematician in chaos theory and nonlinear differential equations.",
+    achievements: [
+      "Major contributions to chaos theory",
+      "First female president of the London Mathematical Society"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mary_Cartwright" }
+    ]
+  },
+  {
+    name: "Grace Chisholm Young",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1868",
+    deathDate: "1944",
+    country: "United Kingdom",
+    fields: ["Mathematics"],
+    roles: ["Mathematician"],
+    quote: "I was determined to study mathematics, no matter what.",
+    summary: "First woman to receive a doctorate in any field from a German university, contributed to calculus and set theory.",
+    achievements: [
+      "First woman to earn a doctorate from a German university",
+      "Contributions to calculus and set theory"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Grace_Chisholm_Young" }
+    ]
+  },
+  {
+    name: "Sophie Germain",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1776",
+    deathDate: "1831",
+    country: "France",
+    fields: ["Mathematics", "Physics"],
+    roles: ["Mathematician", "Physicist"],
+    quote: "Algebra is but written geometry and geometry is but written algebra.",
+    summary: "Self-taught mathematician who made foundational contributions to number theory and elasticity theory.",
+    achievements: [
+      "Contributions to number theory and elasticity theory",
+      "First woman to win a prize from the Paris Academy of Sciences"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Sophie_Germain" }
+    ]
+  },
+  {
+    name: "Rachel Carson",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1907",
+    deathDate: "1964",
+    country: "United States",
+    fields: ["Biology", "Environmental Science"],
+    roles: ["Biologist", "Writer"],
+    quote: "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction.",
+    summary: "Marine biologist and conservationist whose book 'Silent Spring' launched the global environmental movement.",
+    achievements: [
+      "Author of 'Silent Spring'",
+      "Pioneered the environmental movement"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Rachel_Carson" }
+    ]
+  },
+  {
+    name: "Alice Ball",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1892",
+    deathDate: "1916",
+    country: "United States",
+    fields: ["Chemistry", "Pharmacy"],
+    roles: ["Chemist", "Pharmacist"],
+    quote: "I work for the benefit of suffering humanity.",
+    summary: "Developed the first successful treatment for leprosy (the Ball Method).",
+    achievements: [
+      "Developed the Ball Method for leprosy treatment",
+      "First woman and first African American to earn a master's from University of Hawaii"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Alice_Ball" }
+    ]
+  },
+  {
+    name: "Caroline Herschel",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1750",
+    deathDate: "1848",
+    country: "Germany/United Kingdom",
+    fields: ["Astronomy"],
+    roles: ["Astronomer", "Scientist"],
+    quote: "I found I was to be trained as an assistant to my brother.",
+    summary: "First woman to discover a comet and receive a salary for scientific work.",
+    achievements: [
+      "First woman to discover a comet",
+      "Discovered 8 comets total",
+      "First woman to receive salary for scientific work"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Caroline_Herschel" }
+    ]
   },
 ];
 
