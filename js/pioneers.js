@@ -5035,6 +5035,192 @@ const pioneers = [
       ],
       "cultural_contributions": "Broke barriers for women in space exploration and inspired women worldwide"
     }
+  },
+  {
+    "name": "Ellen Ochoa",
+    "photo": "./images/ellen-ochoa.jpg",
+    "birthDate": "1958",
+    "country": "United States",
+    "fields": [
+      "Aerospace Engineering",
+      "Physics"
+    ],
+    "roles": [
+      "Astronaut",
+      "Engineer",
+      "NASA Director"
+    ],
+    "quote": "What everyone in the astronaut corps shares in common is not gender or ethnic background, but motivation, sustained curiosity, and a desire to do something for the greater good.",
+    "summary": "First Hispanic woman in space, former NASA astronaut, and director of Johnson Space Center.",
+    "shortDescription": "Ellen Ochoa was the first Hispanic woman in space and became the first Hispanic director of NASA's Johnson Space Center. She flew on four space shuttle missions and spent nearly 1,000 hours in space. Ellen's journey from a young girl interested in science to a NASA leader shows that with hard work and determination, anyone can reach for the stars, regardless of their background.",
+    "detailed_description": {
+      "early_life": "Born in 1958 in California, Ellen showed early interest in science and music. She earned degrees in physics and electrical engineering, becoming the first Hispanic woman to go to space.",
+      "stem_journey": "Ellen earned her PhD in electrical engineering and worked on optical systems before being selected as a NASA astronaut. She flew on four space shuttle missions and became director of Johnson Space Center.",
+      "challenges": "Faced barriers as a Hispanic woman in engineering and aerospace, had to prove herself in male-dominated fields, and balanced family life with demanding career.",
+      "achievements": "First Hispanic woman in space, flew on four space shuttle missions, spent nearly 1,000 hours in space, and became director of Johnson Space Center.",
+      "legacy": "Inspired Hispanic women and girls to pursue careers in STEM and space exploration, showing that diversity strengthens the space program."
+    },
+    "achievements": [
+      "First Hispanic woman in space (1993)",
+      "Flew on four space shuttle missions",
+      "Spent nearly 1,000 hours in space",
+      "First Hispanic director of Johnson Space Center"
+    ],
+    "awards": [
+      "NASA Distinguished Service Medal",
+      "NASA Outstanding Leadership Medal",
+      "Hispanic Engineer National Achievement Award"
+    ],
+    "publications": [
+      {
+        "title": "Optical Information Processing",
+        "url": "https://www.nasa.gov/centers/johnson/about/people/orgs/bios/ochoa.html"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Electrical Engineering",
+        "institution": "Stanford University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1985,
+        "event": "Earned PhD from Stanford University"
+      },
+      {
+        "year": 1990,
+        "event": "Selected as NASA astronaut"
+      },
+      {
+        "year": 1993,
+        "event": "First Hispanic woman in space"
+      },
+      {
+        "year": 2013,
+        "event": "Became director of Johnson Space Center"
+      }
+    ],
+    "barriers": [
+      "Faced barriers as Hispanic woman in engineering",
+      "Male-dominated aerospace field",
+      "Balancing family and demanding career"
+    ],
+    "impact": "Inspired Hispanic women and girls to pursue careers in STEM and space exploration.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Ellen Ochoa: First Hispanic Woman in Space",
+        "url": "https://www.nasa.gov/centers/johnson/about/people/orgs/bios/ochoa.html"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ellen_Ochoa"
+      },
+      {
+        "title": "NASA",
+        "url": "https://www.nasa.gov/centers/johnson/about/people/orgs/bios/ochoa.html"
+      }
+    ],
+    "mentorship": "Inspired Hispanic women and girls to pursue careers in STEM and space exploration.",
+    "fun_fact": "Ellen Ochoa is also a classical flutist and has performed with the Stanford Symphony Orchestra.",
+    "career_path": {
+      "first_job": "Research engineer at NASA Ames Research Center",
+      "career_highlights": [
+        "First Hispanic woman in space",
+        "Flew on four space shuttle missions",
+        "Became director of Johnson Space Center"
+      ],
+      "advice_for_students": "Follow your interests and don't let stereotypes hold you back. STEM is for everyone."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Space: 23 Stories of First Flights, Scientific Missions, and Gravity-Breaking Adventures",
+        "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race"
+      ],
+      "websites": [
+        "nasa.gov",
+        "space.com",
+        "hispanicscientists.org"
+      ],
+      "programs": [
+        "Space camps",
+        "Hispanic STEM programs",
+        "Women in STEM mentorship"
+      ],
+      "advice": "Don't let anyone tell you what you can't do because of your background. Your heritage is a strength, not a limitation."
+    },
+    "challenges": {
+      "academic": [
+        "Limited representation of Hispanic women in STEM"
+      ],
+      "professional": [
+        "Male-dominated aerospace field",
+        "Stereotypes about Hispanic women in science"
+      ],
+      "personal": [
+        "Balancing family and demanding career",
+        "Being a role model for Hispanic community"
+      ],
+      "how_overcame": "Used determination and excellence to prove her capabilities, became a mentor for others"
+    },
+    "education_details": {
+      "high_school": "Excelled in science and mathematics",
+      "college_major": "Physics",
+      "graduate_school": "PhD in Electrical Engineering from Stanford",
+      "key_courses": [
+        "Physics",
+        "Electrical Engineering",
+        "Optical Systems",
+        "Space Technology"
+      ],
+      "study_tips": "Combine theoretical knowledge with practical applications and never stop learning"
+    },
+    "modern_impact": {
+      "current_applications": "Her leadership at NASA continues to inspire diversity in space exploration",
+      "companies_using_her_work": [
+        "NASA",
+        "Space agencies worldwide",
+        "Aerospace companies"
+      ],
+      "future_implications": "Inspired more Hispanic women to pursue careers in space exploration and STEM leadership"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Science",
+        "Music",
+        "Space exploration",
+        "Engineering"
+      ],
+      "family_background": "Encouraged education and scientific inquiry",
+      "hobbies": [
+        "Playing classical flute",
+        "Reading about space",
+        "Mentoring students"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Curious",
+        "Leadership-oriented",
+        "Inspiring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Hispanic American",
+      "cultural_influences": [
+        "Hispanic cultural values",
+        "American space program",
+        "Diversity in STEM movement"
+      ],
+      "cultural_challenges": [
+        "Limited representation of Hispanic women in STEM",
+        "Stereotypes about Hispanic women in science"
+      ],
+      "cultural_contributions": "Broke barriers for Hispanic women in space exploration and became a role model for diversity in STEM"
+    }
   }
 ];
 
