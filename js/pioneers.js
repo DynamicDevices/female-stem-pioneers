@@ -1543,26 +1543,9 @@ const pioneers = [
   }
 ];
 
-// For each pioneer, update the photo field to use a real image if available. Only use './images/placeholder.jpg' if no real image exists. Do not use Node.js code; update the data statically.
-pioneers.forEach(pioneer => {
-  if (pioneer.photo === './images/placeholder.jpg') {
-    const imageName = pioneer.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
-    const imagePath = `./images/${imageName}.jpg`;
-    if (fs.existsSync(imagePath)) {
-      pioneer.photo = imagePath;
-    } else {
-      const imagePathWebp = `./images/${imageName}.webp`;
-      if (fs.existsSync(imagePathWebp)) {
-        pioneer.photo = imagePathWebp;
-      } else {
-        const imagePathPng = `./images/${imageName}.png`;
-        if (fs.existsSync(imagePathPng)) {
-          pioneer.photo = imagePathPng;
-        }
-      }
-    }
-  }
-});
+// Remove Node.js fs code - this should be handled statically in the data
+
+// Short descriptions should be added statically to the data, not generated at runtime
 
 
 // Remove duplicates by name
