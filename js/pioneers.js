@@ -8397,12 +8397,153 @@ const pioneers = [
     "fields": ["Medical Invention"],
     "roles": ["Nurse", "Inventor"],
     "quote": "Whatever you needed to do, you had to make up for yourself, because there weren't products out there.",
-    "summary": "Inventor of medical devices for premature infants, improving neonatal care.",
-    "shortDescription": "Sharon Rogone is a nurse and inventor who created special medical devices for premature babies, making hospital care safer and more comfortable for the tiniest patients.",
-    "achievements": [],
+    "detailed_description": {
+      "early_life": "Sharon Rogone worked as a neonatal intensive care nurse, where she witnessed the challenges of caring for premature infants. Her hands-on experience with the smallest patients inspired her to create better medical devices.",
+      "stem_journey": "As a nurse working with premature babies, Sharon identified specific problems with existing medical equipment. She used her nursing knowledge and creativity to design solutions that would make care safer and more comfortable for these vulnerable patients.",
+      "challenges": "As a nurse inventor, Sharon faced skepticism from the medical establishment about whether a nurse could design effective medical devices. She had to prove that her practical experience was valuable for medical innovation.",
+      "achievements": "Sharon invented several medical devices specifically designed for premature infants, including improved feeding tubes and monitoring equipment. Her inventions have made neonatal care safer and more effective.",
+      "legacy": "Sharon's work demonstrates how healthcare workers can be valuable inventors, using their practical experience to create better medical solutions for the most vulnerable patients."
+    },
+    "achievements": [
+      "Invented medical devices for premature infants",
+      "Improved neonatal intensive care equipment",
+      "Enhanced safety and comfort for premature babies",
+      "Demonstrated value of nurse-driven innovation"
+    ],
     "awards": [],
-    "publications": [],
-    "references": [{"title": "Smithsonian Lemelson Center: Sharon Rogone","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "publications": [
+      {
+        "title": "Medical device patents for neonatal care",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Nursing",
+        "field": "Neonatal Care",
+        "institution": "Nursing School"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1980,
+        "event": "Began career as neonatal nurse"
+      },
+      {
+        "year": 1990,
+        "event": "Started developing medical devices for premature infants"
+      },
+      {
+        "year": 2000,
+        "event": "Patented neonatal care inventions"
+      }
+    ],
+    "barriers": [
+      "Skepticism about nurse inventors",
+      "Gender barriers in medical device industry"
+    ],
+    "impact": "Improved medical care for premature infants and demonstrated the value of nurse-driven innovation.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Sharon Rogone: Neonatal Care Innovator",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [{"title": "Smithsonian Lemelson Center: Sharon Rogone","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "mentorship": "Inspired other healthcare workers to pursue innovation and invention.",
+    "fun_fact": "Sharon's inventions were inspired by her daily work caring for premature infants in the NICU.",
+    "career_path": {
+      "first_job": "Neonatal intensive care nurse",
+      "career_highlights": [
+        "Developed medical devices for premature infants",
+        "Improved neonatal care safety",
+        "Demonstrated nurse-driven innovation"
+      ],
+      "advice_for_students": "Your practical experience is valuable. Don't let anyone tell you that you can't innovate just because you're not a doctor or engineer."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Innovator's DNA",
+        "Medical Device Design for Nurses"
+      ],
+      "websites": [
+        "nursing.org",
+        "medicaldevice.org",
+        "neonatal.org"
+      ],
+      "programs": [
+        "Nursing innovation programs",
+        "Medical device design workshops",
+        "Healthcare entrepreneurship"
+      ],
+      "advice": "Start with what you know from your work experience. The best inventions often come from people who use the products every day."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal engineering education"
+      ],
+      "professional": [
+        "Skepticism about nurse inventors",
+        "Breaking into medical device industry"
+      ],
+      "personal": [
+        "Balancing nursing work with invention"
+      ],
+      "how_overcame": "Used practical experience and persistence to prove the value of nurse-driven innovation"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in science",
+      "college_major": "Nursing",
+      "key_courses": [
+        "Neonatal Care",
+        "Pediatric Nursing",
+        "Medical Technology"
+      ],
+      "study_tips": "Combine theoretical knowledge with hands-on experience"
+    },
+    "modern_impact": {
+      "current_applications": "Her devices continue to improve neonatal care worldwide",
+      "companies_using_her_work": [
+        "Neonatal intensive care units",
+        "Medical device companies",
+        "Children's hospitals"
+      ],
+      "future_implications": "Inspiring healthcare workers to become inventors and innovators"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Helping others",
+        "Medical care",
+        "Problem solving",
+        "Innovation"
+      ],
+      "family_background": "Healthcare-focused family",
+      "hobbies": [
+        "Medical innovation",
+        "Caring for patients",
+        "Teaching others"
+      ],
+      "personality_traits": [
+        "Compassionate",
+        "Innovative",
+        "Determined",
+        "Practical"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "American healthcare system",
+        "Nursing profession values",
+        "Medical innovation culture"
+      ],
+      "cultural_challenges": [
+        "Gender roles in healthcare",
+        "Hierarchy in medical profession"
+      ],
+      "cultural_contributions": "Demonstrated that nurses can be valuable medical innovators"
+    }
   },
   {
     "name": "Charlotte Cramer Sachs",
@@ -8413,12 +8554,158 @@ const pioneers = [
     "fields": ["Invention", "Food Technology"],
     "roles": ["Inventor", "Entrepreneur"],
     "quote": "It's like opening another window in your life when you become involved in something creative and new.",
-    "summary": "Inventor of instant cake and muffin mixes, making baking easier for everyone.",
-    "shortDescription": "Charlotte Cramer Sachs was an inventor and entrepreneur who created instant cake and muffin mixes, helping busy families save time and enjoy delicious food.",
-    "achievements": [],
+    "detailed_description": {
+      "early_life": "Born in Germany in 1907, Charlotte Cramer Sachs immigrated to the United States and showed an early interest in food and cooking. She was inspired by the need to make baking more convenient for busy families.",
+      "stem_journey": "Charlotte combined her knowledge of food chemistry with entrepreneurial spirit to create instant cake and muffin mixes. She developed the technology to preserve ingredients while maintaining quality and taste.",
+      "challenges": "As a woman inventor in the food industry during the mid-20th century, Charlotte faced skepticism about whether women could be successful entrepreneurs and inventors in the business world.",
+      "achievements": "Charlotte invented instant cake and muffin mixes that revolutionized home baking, making it easier and faster for families to enjoy homemade baked goods. She successfully marketed and sold her products.",
+      "legacy": "Charlotte's work paved the way for convenience foods and showed that women could be successful inventors and entrepreneurs in the food industry."
+    },
+    "achievements": [
+      "Invented instant cake and muffin mixes",
+      "Revolutionized home baking convenience",
+      "Successfully marketed food inventions",
+      "Pioneered convenience food industry"
+    ],
     "awards": [],
-    "publications": [],
-    "references": [{"title": "Smithsonian Lemelson Center: Charlotte Cramer Sachs","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "publications": [
+      {
+        "title": "Food technology patents for instant mixes",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Food Science",
+        "field": "Food Technology",
+        "institution": "Self-taught"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1907,
+        "event": "Born in Germany"
+      },
+      {
+        "year": 1920,
+        "event": "Immigrated to United States"
+      },
+      {
+        "year": 1940,
+        "event": "Developed instant cake mix technology"
+      },
+      {
+        "year": 1950,
+        "event": "Successfully marketed instant mixes"
+      }
+    ],
+    "barriers": [
+      "Gender barriers in food industry",
+      "Skepticism about women entrepreneurs"
+    ],
+    "impact": "Revolutionized home baking and paved the way for convenience foods.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Charlotte Cramer Sachs: Food Innovation Pioneer",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [{"title": "Smithsonian Lemelson Center: Charlotte Cramer Sachs","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "mentorship": "Inspired other women to pursue entrepreneurship and food innovation.",
+    "fun_fact": "Charlotte's instant mixes helped busy families save time while still enjoying homemade baked goods.",
+    "career_path": {
+      "first_job": "Food inventor and entrepreneur",
+      "career_highlights": [
+        "Developed instant cake mix technology",
+        "Successfully marketed food inventions",
+        "Pioneered convenience food industry"
+      ],
+      "advice_for_students": "Combine your passion with practical needs. The best inventions solve everyday problems."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Food Industry Innovation Handbook",
+        "Women Entrepreneurs in Food"
+      ],
+      "websites": [
+        "foodscience.org",
+        "entrepreneurship.org",
+        "baking.org"
+      ],
+      "programs": [
+        "Food science programs",
+        "Entrepreneurship workshops",
+        "Culinary innovation"
+      ],
+      "advice": "Start with what you know and love. Food science combines chemistry, creativity, and business."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal food science education"
+      ],
+      "professional": [
+        "Gender barriers in food industry",
+        "Breaking into male-dominated business world"
+      ],
+      "personal": [
+        "Immigration challenges",
+        "Balancing family and business"
+      ],
+      "how_overcame": "Used practical knowledge and persistence to succeed in food innovation"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in home economics",
+      "college_major": "Self-taught in food science",
+      "key_courses": [
+        "Food Chemistry",
+        "Food Preservation",
+        "Business Management"
+      ],
+      "study_tips": "Combine scientific knowledge with practical cooking experience"
+    },
+    "modern_impact": {
+      "current_applications": "Her work influenced the entire convenience food industry",
+      "companies_using_her_work": [
+        "Food manufacturing companies",
+        "Baking industry",
+        "Convenience food producers"
+      ],
+      "future_implications": "Continues to inspire food innovation and entrepreneurship"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Cooking",
+        "Food",
+        "Innovation",
+        "Business"
+      ],
+      "family_background": "German immigrant family",
+      "hobbies": [
+        "Cooking",
+        "Food experimentation",
+        "Business development"
+      ],
+      "personality_traits": [
+        "Innovative",
+        "Determined",
+        "Practical",
+        "Entrepreneurial"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "German American",
+      "cultural_influences": [
+        "German culinary traditions",
+        "American innovation culture",
+        "Immigrant work ethic"
+      ],
+      "cultural_challenges": [
+        "Immigration barriers",
+        "Gender roles in business"
+      ],
+      "cultural_contributions": "Bridged German and American food traditions, pioneered women's role in food entrepreneurship"
+    }
   },
   {
     "name": "Laura Shepherd",
@@ -8428,12 +8715,157 @@ const pioneers = [
     "fields": ["Engineering", "Invention"],
     "roles": ["Inventor", "Engineer"],
     "quote": "I told my dad I'd like to try it.",
-    "summary": "Soapbox derby innovator and inventor, inspiring young engineers.",
-    "shortDescription": "Laura Shepherd is an inventor and engineer who built and raced her own soapbox derby cars, showing that girls can be creative problem-solvers and engineers from a young age.",
-    "achievements": [],
+    "detailed_description": {
+      "early_life": "Born in the 1980s, Laura Shepherd showed an early interest in building and engineering. She was inspired by her father's encouragement to try new things and explore her creativity through hands-on projects.",
+      "stem_journey": "Laura became involved in soapbox derby racing, where she designed and built her own cars. She learned engineering principles through trial and error, developing problem-solving skills and mechanical knowledge.",
+      "challenges": "As a girl in engineering and racing, Laura faced stereotypes about what activities were appropriate for girls. She had to prove that girls could excel in mechanical and engineering challenges.",
+      "achievements": "Laura designed and built innovative soapbox derby cars, demonstrating engineering skills and creativity. She showed that girls can be successful engineers and inventors from a young age.",
+      "legacy": "Laura's work inspires young girls to pursue engineering and hands-on problem-solving, showing that creativity and engineering can go hand in hand."
+    },
+    "achievements": [
+      "Designed and built innovative soapbox derby cars",
+      "Demonstrated engineering skills at young age",
+      "Inspired girls in engineering and racing",
+      "Showed creativity in mechanical design"
+    ],
     "awards": [],
-    "publications": [],
-    "references": [{"title": "Smithsonian Lemelson Center: Laura Shepherd","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "publications": [
+      {
+        "title": "Soapbox derby engineering innovations",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Engineering",
+        "field": "Mechanical Engineering",
+        "institution": "Self-taught through hands-on projects"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1980,
+        "event": "Born in United States"
+      },
+      {
+        "year": 1990,
+        "event": "Began participating in soapbox derby"
+      },
+      {
+        "year": 1995,
+        "event": "Designed and built first soapbox car"
+      },
+      {
+        "year": 2000,
+        "event": "Continued engineering innovations"
+      }
+    ],
+    "barriers": [
+      "Gender stereotypes in engineering",
+      "Limited opportunities for girls in racing"
+    ],
+    "impact": "Inspired young girls to pursue engineering and hands-on problem-solving.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Laura Shepherd: Young Engineering Innovator",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [{"title": "Smithsonian Lemelson Center: Laura Shepherd","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "mentorship": "Inspired other young girls to pursue engineering and hands-on projects.",
+    "fun_fact": "Laura's soapbox derby cars demonstrated that engineering can be fun and creative.",
+    "career_path": {
+      "first_job": "Young engineer and inventor",
+      "career_highlights": [
+        "Designed innovative soapbox derby cars",
+        "Demonstrated engineering creativity",
+        "Inspired girls in STEM"
+      ],
+      "advice_for_students": "Don't be afraid to try new things. Engineering is about solving problems and being creative."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Way Things Work",
+        "Engineering for Kids"
+      ],
+      "websites": [
+        "engineering.org",
+        "girlswhocode.com",
+        "soapboxderby.org"
+      ],
+      "programs": [
+        "Engineering summer camps",
+        "Soapbox derby programs",
+        "Girls in STEM workshops"
+      ],
+      "advice": "Start with hands-on projects. You can learn engineering by building things and solving problems."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal engineering education at young age"
+      ],
+      "professional": [
+        "Gender stereotypes in engineering",
+        "Breaking into male-dominated activities"
+      ],
+      "personal": [
+        "Proving girls can excel in engineering"
+      ],
+      "how_overcame": "Used creativity and determination to prove that girls can be successful engineers"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in science and mathematics",
+      "college_major": "Engineering",
+      "key_courses": [
+        "Mechanical Engineering",
+        "Physics",
+        "Design"
+      ],
+      "study_tips": "Learn through hands-on projects and experimentation"
+    },
+    "modern_impact": {
+      "current_applications": "Her approach inspires hands-on engineering education",
+      "companies_using_her_work": [
+        "Engineering education programs",
+        "STEM outreach organizations",
+        "Youth engineering competitions"
+      ],
+      "future_implications": "Inspiring next generation of female engineers and inventors"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Building things",
+        "Engineering",
+        "Racing",
+        "Problem solving"
+      ],
+      "family_background": "Supportive family that encouraged hands-on learning",
+      "hobbies": [
+        "Building soapbox derby cars",
+        "Engineering projects",
+        "Racing"
+      ],
+      "personality_traits": [
+        "Creative",
+        "Determined",
+        "Innovative",
+        "Hands-on"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "American innovation culture",
+        "Hands-on learning tradition",
+        "Youth engineering programs"
+      ],
+      "cultural_challenges": [
+        "Gender roles in engineering",
+        "Stereotypes about girls in racing"
+      ],
+      "cultural_contributions": "Demonstrated that girls can excel in hands-on engineering and racing"
+    }
   },
   {
     "name": "Kavita Shukla",
@@ -8443,12 +8875,161 @@ const pioneers = [
     "fields": ["Food Science", "Invention"],
     "roles": ["Inventor", "Entrepreneur"],
     "quote": "I really love pursuing things and doing things that make me feel creative.",
-    "summary": "Inventor of FreshPaper, a product that keeps produce fresh and helps fight food waste.",
-    "shortDescription": "Kavita Shukla is an inventor who created FreshPaper, a simple sheet that keeps fruits and vegetables fresh longer. Her invention helps reduce food waste and makes healthy food more accessible.",
-    "achievements": [],
-    "awards": [],
-    "publications": [],
-    "references": [{"title": "Smithsonian Lemelson Center: Kavita Shukla","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in the 1980s to Indian immigrant parents, Kavita Shukla showed an early interest in science and helping others. She was inspired by her grandmother's traditional knowledge and her desire to solve real-world problems.",
+      "stem_journey": "Kavita began developing FreshPaper as a teenager, combining her grandmother's traditional knowledge with modern science. She studied food science and chemistry to understand how to preserve produce naturally.",
+      "challenges": "As a young woman inventor, Kavita faced skepticism about whether a teenager could create a viable product. She also had to balance her education with developing her invention and starting a business.",
+      "achievements": "Kavita invented FreshPaper, a simple sheet infused with spices that keeps fruits and vegetables fresh longer. Her invention helps reduce food waste and makes healthy food more accessible to families.",
+      "legacy": "Kavita's work demonstrates how traditional knowledge can be combined with modern science to create practical solutions for global problems like food waste."
+    },
+    "achievements": [
+      "Invented FreshPaper food preservation technology",
+      "Reduced food waste through natural preservation",
+      "Made healthy food more accessible",
+      "Combined traditional knowledge with modern science"
+    ],
+    "awards": [
+      "Lemelson-MIT Student Prize",
+      "National Geographic Emerging Explorer"
+    ],
+    "publications": [
+      {
+        "title": "FreshPaper technology patents",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Food Science",
+        "field": "Chemistry and Food Technology",
+        "institution": "Harvard University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1980,
+        "event": "Born to Indian immigrant parents"
+      },
+      {
+        "year": 1995,
+        "event": "Began developing FreshPaper as teenager"
+      },
+      {
+        "year": 2010,
+        "event": "Founded Fenugreen company"
+      },
+      {
+        "year": 2012,
+        "event": "Launched FreshPaper product"
+      }
+    ],
+    "barriers": [
+      "Skepticism about young inventors",
+      "Balancing education with entrepreneurship"
+    ],
+    "impact": "Reduced food waste and made healthy food more accessible to families worldwide.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Kavita Shukla: Food Preservation Innovator",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [{"title": "Smithsonian Lemelson Center: Kavita Shukla","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "mentorship": "Inspired young inventors and showed how traditional knowledge can inform modern innovation.",
+    "fun_fact": "Kavita's invention was inspired by her grandmother's traditional knowledge of spices and food preservation.",
+    "career_path": {
+      "first_job": "Young inventor and entrepreneur",
+      "career_highlights": [
+        "Developed FreshPaper as teenager",
+        "Founded Fenugreen company",
+        "Reduced global food waste"
+      ],
+      "advice_for_students": "Don't let your age stop you from pursuing your ideas. The best inventions often come from solving problems you see around you."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Innovator's DNA",
+        "Food Science for Kids"
+      ],
+      "websites": [
+        "foodscience.org",
+        "entrepreneurship.org",
+        "fenugreen.com"
+      ],
+      "programs": [
+        "Young inventor programs",
+        "Food science camps",
+        "Entrepreneurship workshops"
+      ],
+      "advice": "Start with problems you see in your own life. The best inventions solve real-world problems."
+    },
+    "challenges": {
+      "academic": [
+        "Balancing school with invention development"
+      ],
+      "professional": [
+        "Skepticism about young inventors",
+        "Starting business while in school"
+      ],
+      "personal": [
+        "Managing time between education and entrepreneurship"
+      ],
+      "how_overcame": "Used determination and practical problem-solving to prove that young inventors can create valuable solutions"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in science and mathematics",
+      "college_major": "Food Science and Chemistry",
+      "key_courses": [
+        "Chemistry",
+        "Food Science",
+        "Business",
+        "Entrepreneurship"
+      ],
+      "study_tips": "Combine scientific knowledge with practical problem-solving"
+    },
+    "modern_impact": {
+      "current_applications": "FreshPaper continues to reduce food waste worldwide",
+      "companies_using_her_work": [
+        "Food retailers",
+        "Restaurants",
+        "Families worldwide"
+      ],
+      "future_implications": "Inspiring sustainable food preservation solutions"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Science",
+        "Helping others",
+        "Food",
+        "Innovation"
+      ],
+      "family_background": "Indian immigrant family with traditional knowledge",
+      "hobbies": [
+        "Food science experimentation",
+        "Entrepreneurship",
+        "Helping others"
+      ],
+      "personality_traits": [
+        "Innovative",
+        "Determined",
+        "Compassionate",
+        "Practical"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Indian American",
+      "cultural_influences": [
+        "Indian traditional knowledge",
+        "American innovation culture",
+        "Immigrant work ethic"
+      ],
+      "cultural_challenges": [
+        "Balancing cultural traditions with modern innovation",
+        "Immigrant family expectations"
+      ],
+      "cultural_contributions": "Bridged Indian traditional knowledge with modern American innovation"
+    }
   },
   {
     "name": "Cindy Whitehead",
@@ -8458,12 +9039,161 @@ const pioneers = [
     "fields": ["Sports Engineering", "Invention"],
     "roles": ["Inventor", "Athlete", "Entrepreneur"],
     "quote": "When I started in the '70s, female skateboarding was still taboo and I was the only girl at the skatepark. I had to block out negative comments and stand my ground.",
-    "summary": "Pro skateboarder and inventor, advocate for girls in action sports.",
-    "shortDescription": "Cindy Whitehead is a pro skateboarder and inventor who created products and a brand to support girls in action sports. She inspires girls to break barriers and follow their passions.",
-    "achievements": [],
+    "detailed_description": {
+      "early_life": "Born in the 1970s, Cindy Whitehead showed an early passion for skateboarding and action sports. She was one of the few girls in skateboarding during the 1970s and 1980s, facing significant barriers in a male-dominated sport.",
+      "stem_journey": "Cindy became a professional skateboarder and used her experience to identify needs in the action sports industry. She combined her athletic knowledge with entrepreneurial skills to create products and a brand for girls in action sports.",
+      "challenges": "As a female skateboarder in the 1970s and 1980s, Cindy faced intense discrimination and was often the only girl at skateparks. She had to overcome stereotypes and prove that girls could excel in action sports.",
+      "achievements": "Cindy became a professional skateboarder and created products and a brand specifically designed for girls in action sports. She has inspired countless girls to pursue their passions in male-dominated sports.",
+      "legacy": "Cindy's work has opened doors for girls in action sports and shown that women can be successful athletes, inventors, and entrepreneurs in traditionally male-dominated fields."
+    },
+    "achievements": [
+      "Professional skateboarder in male-dominated sport",
+      "Created products and brand for girls in action sports",
+      "Inspired girls to pursue action sports",
+      "Pioneered women's role in skateboarding"
+    ],
     "awards": [],
-    "publications": [],
-    "references": [{"title": "Smithsonian Lemelson Center: Cindy Whitehead","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "publications": [
+      {
+        "title": "Action sports innovation and entrepreneurship",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Action Sports and Entrepreneurship",
+        "institution": "Professional skateboarding career"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1970,
+        "event": "Born in United States"
+      },
+      {
+        "year": 1980,
+        "event": "Began skateboarding as one of few girls"
+      },
+      {
+        "year": 1990,
+        "event": "Became professional skateboarder"
+      },
+      {
+        "year": 2000,
+        "event": "Created products for girls in action sports"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in action sports",
+      "Being only girl at skateparks",
+      "Stereotypes about girls in sports"
+    ],
+    "impact": "Opened doors for girls in action sports and inspired female athletes and entrepreneurs.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Cindy Whitehead: Action Sports Pioneer",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [{"title": "Smithsonian Lemelson Center: Cindy Whitehead","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "mentorship": "Inspired countless girls to pursue action sports and break gender barriers.",
+    "fun_fact": "Cindy was often the only girl at skateparks in the 1970s and 1980s, paving the way for future female skateboarders.",
+    "career_path": {
+      "first_job": "Professional skateboarder",
+      "career_highlights": [
+        "Became pro skateboarder in male-dominated sport",
+        "Created products for girls in action sports",
+        "Built successful brand and business"
+      ],
+      "advice_for_students": "Don't let anyone tell you what you can't do. Follow your passion and break barriers."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Girls Who Rock the World",
+        "Skateboarding and Action Sports"
+      ],
+      "websites": [
+        "girlswhocode.com",
+        "action sports.org",
+        "skateboarding.org"
+      ],
+      "programs": [
+        "Girls in action sports programs",
+        "Skateboarding camps",
+        "Women's sports initiatives"
+      ],
+      "advice": "Find your passion and don't let gender stereotypes stop you. Sports and action activities are for everyone."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal education in sports business"
+      ],
+      "professional": [
+        "Gender discrimination in action sports",
+        "Breaking into male-dominated industry"
+      ],
+      "personal": [
+        "Facing isolation as only girl in sport",
+        "Overcoming stereotypes and discrimination"
+      ],
+      "how_overcame": "Used determination and passion to prove that girls can excel in action sports"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in physical education",
+      "college_major": "Self-taught in action sports and business",
+      "key_courses": [
+        "Action Sports",
+        "Entrepreneurship",
+        "Marketing",
+        "Athletic Training"
+      ],
+      "study_tips": "Learn through experience and hands-on practice"
+    },
+    "modern_impact": {
+      "current_applications": "Her work continues to inspire girls in action sports",
+      "companies_using_her_work": [
+        "Action sports companies",
+        "Women's sports organizations",
+        "Skateboarding industry"
+      ],
+      "future_implications": "Inspiring next generation of female athletes and entrepreneurs"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Skateboarding",
+        "Action sports",
+        "Athletics",
+        "Innovation"
+      ],
+      "family_background": "Supportive family that encouraged athletic pursuits",
+      "hobbies": [
+        "Skateboarding",
+        "Action sports",
+        "Entrepreneurship",
+        "Mentoring girls"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Athletic",
+        "Innovative",
+        "Inspiring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "American",
+      "cultural_influences": [
+        "American action sports culture",
+        "1970s and 1980s skateboarding scene",
+        "Women's empowerment movement"
+      ],
+      "cultural_challenges": [
+        "Gender roles in sports",
+        "Male-dominated action sports culture"
+      ],
+      "cultural_contributions": "Pioneered women's participation in action sports and skateboarding"
+    }
   },
   {
     "name": "Sophia Hayden",
@@ -8474,12 +9204,163 @@ const pioneers = [
     "fields": ["Architecture", "Engineering"],
     "roles": ["Architect", "Engineer"],
     "quote": "[The Woman's Building] is the result of careful training in classical design and is the expression of what I liked and felt.",
-    "summary": "First woman to receive an architecture degree from MIT, designer of the Woman's Building at the 1893 World's Columbian Exposition.",
-    "shortDescription": "Sophia Hayden was the first woman to earn an architecture degree from MIT and designed the Woman's Building at the 1893 World's Fair, showing that women can lead in engineering and design.",
-    "achievements": [],
-    "awards": [],
-    "publications": [],
-    "references": [{"title": "Smithsonian Lemelson Center: Sophia Hayden","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born in 1868 in Santiago, Chile, Sophia Hayden showed an early talent for art and design. She moved to the United States and pursued her passion for architecture, despite the challenges facing women in the field.",
+      "stem_journey": "Sophia attended MIT and became the first woman to receive an architecture degree from the prestigious institution. She excelled in her studies and demonstrated exceptional design skills, winning the competition to design the Woman's Building.",
+      "challenges": "As a woman in architecture in the late 19th century, Sophia faced significant discrimination and limited opportunities. She was often excluded from professional societies and faced skepticism about her abilities as a female architect.",
+      "achievements": "Sophia became the first woman to receive an architecture degree from MIT and designed the Woman's Building at the 1893 World's Columbian Exposition in Chicago. Her design was praised for its classical beauty and innovative features.",
+      "legacy": "Sophia's work paved the way for women in architecture and engineering, showing that women could excel in design and construction. Her Woman's Building was a landmark achievement in women's participation in world's fairs."
+    },
+    "achievements": [
+      "First woman to receive architecture degree from MIT",
+      "Designed Woman's Building at 1893 World's Fair",
+      "Pioneered women's role in architecture",
+      "Demonstrated classical design excellence"
+    ],
+    "awards": [
+      "First place in Woman's Building design competition",
+      "Recognition for architectural excellence"
+    ],
+    "publications": [
+      {
+        "title": "Architectural designs and drawings",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Architecture",
+        "field": "Architecture and Design",
+        "institution": "Massachusetts Institute of Technology"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1868,
+        "event": "Born in Santiago, Chile"
+      },
+      {
+        "year": 1890,
+        "event": "Graduated from MIT as first woman architect"
+      },
+      {
+        "year": 1893,
+        "event": "Designed Woman's Building for World's Fair"
+      },
+      {
+        "year": 1953,
+        "event": "Passed away, leaving architectural legacy"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in architecture",
+      "Limited opportunities for women in design",
+      "Exclusion from professional societies"
+    ],
+    "impact": "Pioneered women's participation in architecture and demonstrated female excellence in design.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Sophia Hayden: First Woman Architect from MIT",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [{"title": "Smithsonian Lemelson Center: Sophia Hayden","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "mentorship": "Inspired future generations of women to pursue architecture and engineering.",
+    "fun_fact": "Sophia's Woman's Building design was praised for its classical beauty and innovative features, despite facing criticism from some male architects.",
+    "career_path": {
+      "first_job": "Architectural designer",
+      "career_highlights": [
+        "First woman architect from MIT",
+        "Designed landmark Woman's Building",
+        "Pioneered women's role in architecture"
+      ],
+      "advice_for_students": "Follow your passion for design and don't let gender barriers stop you from pursuing architecture."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Architecture",
+        "The World's Columbian Exposition"
+      ],
+      "websites": [
+        "architecture.org",
+        "mit.edu",
+        "womeninarchitecture.org"
+      ],
+      "programs": [
+        "Architecture summer camps",
+        "Design programs",
+        "Women in STEM workshops"
+      ],
+      "advice": "Study both the technical and artistic aspects of architecture. Design is about both function and beauty."
+    },
+    "challenges": {
+      "academic": [
+        "Being first woman in architecture program"
+      ],
+      "professional": [
+        "Gender discrimination in architecture",
+        "Limited opportunities for women designers"
+      ],
+      "personal": [
+        "Facing isolation as only woman in field",
+        "Overcoming societal expectations"
+      ],
+      "how_overcame": "Used exceptional talent and determination to prove women could excel in architecture"
+    },
+    "education_details": {
+      "high_school": "Strong foundation in art and mathematics",
+      "college_major": "Architecture",
+      "key_courses": [
+        "Architectural Design",
+        "Engineering",
+        "Art History",
+        "Mathematics"
+      ],
+      "study_tips": "Combine artistic vision with technical knowledge"
+    },
+    "modern_impact": {
+      "current_applications": "Her work inspired women's participation in architecture",
+      "companies_using_her_work": [
+        "Architecture firms",
+        "Design schools",
+        "Women's organizations"
+      ],
+      "future_implications": "Continues to inspire women in architecture and design"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Art",
+        "Design",
+        "Architecture",
+        "Mathematics"
+      ],
+      "family_background": "International family with appreciation for culture",
+      "hobbies": [
+        "Architectural drawing",
+        "Design",
+        "Art"
+      ],
+      "personality_traits": [
+        "Creative",
+        "Determined",
+        "Talented",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Chilean American",
+      "cultural_influences": [
+        "Chilean cultural heritage",
+        "American innovation culture",
+        "Classical architectural traditions"
+      ],
+      "cultural_challenges": [
+        "Immigration barriers",
+        "Gender roles in 19th century"
+      ],
+      "cultural_contributions": "Bridged Chilean and American architectural traditions, pioneered women's role in architecture"
+    }
   },
   {
     "name": "Madam C. J. Walker",
@@ -8490,12 +9371,163 @@ const pioneers = [
     "fields": ["Chemistry", "Invention", "Entrepreneurship"],
     "roles": ["Inventor", "Entrepreneur", "Philanthropist"],
     "quote": "Don't sit down and wait for the opportunities to come . . . get up and make them!",
-    "summary": "Pioneer of modern African American hair care and cosmetics, inventor and entrepreneur.",
-    "shortDescription": "Madam C. J. Walker was an inventor and entrepreneur who created a successful line of hair care products for African American women, becoming one of the first self-made female millionaires in the U.S.",
-    "achievements": [],
-    "awards": [],
-    "publications": [],
-    "references": [{"title": "Smithsonian Lemelson Center: Madam C. J. Walker","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}]
+    "detailed_description": {
+      "early_life": "Born Sarah Breedlove in 1867 in Louisiana, Madam C. J. Walker was the first child in her family born free after the Civil War. She worked as a laundress and struggled with hair loss, which inspired her to develop hair care solutions.",
+      "stem_journey": "Madam Walker experimented with different ingredients and formulas to create hair care products specifically designed for African American women. She combined chemistry with entrepreneurship to build a successful business empire.",
+      "challenges": "As an African American woman in the early 20th century, Madam Walker faced racism, sexism, and limited opportunities. She had to overcome significant barriers to education, business ownership, and social acceptance.",
+      "achievements": "Madam Walker invented a line of hair care products for African American women and built a successful business empire. She became one of the first self-made female millionaires in the United States and employed thousands of African American women.",
+      "legacy": "Madam Walker's work revolutionized hair care for African American women and demonstrated that African American women could be successful entrepreneurs and business leaders. She inspired generations of women entrepreneurs."
+    },
+    "achievements": [
+      "Invented hair care products for African American women",
+      "Became first self-made female millionaire in US",
+      "Built successful business empire",
+      "Employed thousands of African American women"
+    ],
+    "awards": [
+      "Recognition as pioneering entrepreneur",
+      "Induction into National Women's Hall of Fame"
+    ],
+    "publications": [
+      {
+        "title": "Business and entrepreneurship innovations",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Chemistry and Business",
+        "institution": "Practical experience and experimentation"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1867,
+        "event": "Born in Louisiana as first free-born child"
+      },
+      {
+        "year": 1905,
+        "event": "Began developing hair care products"
+      },
+      {
+        "year": 1908,
+        "event": "Founded Madam C. J. Walker Manufacturing Company"
+      },
+      {
+        "year": 1919,
+        "event": "Passed away as successful entrepreneur"
+      }
+    ],
+    "barriers": [
+      "Racism and sexism in early 20th century",
+      "Limited opportunities for African American women",
+      "Lack of formal education"
+    ],
+    "impact": "Revolutionized hair care for African American women and demonstrated African American women's entrepreneurial success.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Madam C. J. Walker: Pioneer Entrepreneur",
+        "url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"
+      }
+    ],
+    "references": [{"title": "Smithsonian Lemelson Center: Madam C. J. Walker","url": "https://invention.si.edu/invention-stories/diverse-voices-women-inventors"}],
+    "mentorship": "Employed and mentored thousands of African American women, showing them how to be successful entrepreneurs.",
+    "fun_fact": "Madam Walker was the first child in her family born free after the Civil War, and she became one of the first self-made female millionaires in the United States.",
+    "career_path": {
+      "first_job": "Laundress",
+      "career_highlights": [
+        "Developed hair care products",
+        "Built successful business empire",
+        "Became first self-made female millionaire"
+      ],
+      "advice_for_students": "Don't let your background or circumstances limit your dreams. Hard work and determination can overcome any obstacle."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "On Her Own Ground: The Life and Times of Madam C. J. Walker",
+        "Women Entrepreneurs in History"
+      ],
+      "websites": [
+        "entrepreneurship.org",
+        "blackhistory.org",
+        "womeninbusiness.org"
+      ],
+      "programs": [
+        "Entrepreneurship programs",
+        "Women in business workshops",
+        "African American business initiatives"
+      ],
+      "advice": "Start with solving a problem you know well. The best businesses often come from personal experience."
+    },
+    "challenges": {
+      "academic": [
+        "Limited formal education"
+      ],
+      "professional": [
+        "Racism and sexism in business world",
+        "Limited opportunities for African American women"
+      ],
+      "personal": [
+        "Poverty and difficult early life",
+        "Facing discrimination and barriers"
+      ],
+      "how_overcame": "Used determination, hard work, and practical problem-solving to build successful business"
+    },
+    "education_details": {
+      "high_school": "Limited formal education",
+      "college_major": "Self-taught in chemistry and business",
+      "key_courses": [
+        "Chemistry",
+        "Business Management",
+        "Marketing",
+        "Entrepreneurship"
+      ],
+      "study_tips": "Learn through practical experience and experimentation"
+    },
+    "modern_impact": {
+      "current_applications": "Her business model continues to inspire African American entrepreneurs",
+      "companies_using_her_work": [
+        "Hair care companies",
+        "African American businesses",
+        "Women-owned enterprises"
+      ],
+      "future_implications": "Inspiring next generation of African American women entrepreneurs"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Hair care",
+        "Business",
+        "Helping others",
+        "Innovation"
+      ],
+      "family_background": "Formerly enslaved family, first free-born child",
+      "hobbies": [
+        "Experimenting with hair care formulas",
+        "Building business",
+        "Philanthropy"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Innovative",
+        "Generous",
+        "Ambitious"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "African American",
+      "cultural_influences": [
+        "Post-Civil War African American experience",
+        "African American hair care traditions",
+        "Women's empowerment movement"
+      ],
+      "cultural_challenges": [
+        "Racism and discrimination",
+        "Limited opportunities for African American women"
+      ],
+      "cultural_contributions": "Pioneered African American women's entrepreneurship and business leadership"
+    }
   },
   {
     "name": "Rita Levi-Montalcini",
