@@ -318,7 +318,7 @@ class PioneersApp {
         </div>
         
         <div class="pioneer-achievements">
-          <h4>Key Achievements</h4>
+          <h4>Major Achievements</h4>
           <ul>${achievementsList}</ul>
         </div>
 
