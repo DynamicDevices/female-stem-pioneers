@@ -5780,6 +5780,191 @@ const pioneers = [
       ],
       "cultural_contributions": "Broke barriers for African American women in STEM and became a leader in computer programming"
     }
+  },
+  {
+    "name": "Evelyn Boyd Granville",
+    "photo": "./images/evelyn-boyd-granville.jpg",
+    "birthDate": "1924",
+    "country": "United States",
+    "fields": [
+      "Mathematics",
+      "Computer Programming"
+    ],
+    "roles": [
+      "Mathematician",
+      "Computer Programmer",
+      "Professor"
+    ],
+    "quote": "Mathematics is the language of the universe.",
+    "summary": "Second African American woman to earn a PhD in mathematics and pioneer in computer programming for NASA.",
+    "shortDescription": "Evelyn Boyd Granville was the second African American woman to earn a PhD in mathematics and worked as a computer programmer for NASA during the space race. She helped calculate rocket trajectories and orbital paths for early space missions. Evelyn's work showed that women of color could excel in both pure mathematics and applied computer science, inspiring future generations of mathematicians and programmers.",
+    "detailed_description": {
+      "early_life": "Born in 1924 in Washington, D.C., Evelyn showed exceptional talent in mathematics from an early age. She earned her PhD in mathematics from Yale University in 1949.",
+      "stem_journey": "Evelyn worked as a mathematician and computer programmer for NASA, helping calculate rocket trajectories for space missions. She later became a professor and inspired many students.",
+      "challenges": "Faced racial and gender discrimination in mathematics and computer science, had to prove herself in male-dominated fields, and overcame barriers to education.",
+      "achievements": "Second African American woman to earn PhD in mathematics, worked on NASA space missions, and became a professor inspiring future mathematicians.",
+      "legacy": "Pioneered the path for African American women in mathematics and computer science, showing that excellence knows no color or gender."
+    },
+    "achievements": [
+      "Second African American woman to earn PhD in mathematics",
+      "Worked on NASA space missions",
+      "Calculated rocket trajectories",
+      "Became mathematics professor"
+    ],
+    "awards": [
+      "Honorary Doctorate from Spelman College",
+      "Recognition for contributions to mathematics education"
+    ],
+    "publications": [
+      {
+        "title": "Theory and Application of Mathematics for Teachers",
+        "url": "https://www.amazon.com/Theory-Application-Mathematics-Teachers-Granville/dp/053495166X"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Mathematics",
+        "institution": "Yale University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1945,
+        "event": "Earned Bachelor's degree from Smith College"
+      },
+      {
+        "year": 1949,
+        "event": "Earned PhD in Mathematics from Yale"
+      },
+      {
+        "year": 1955,
+        "event": "Worked on NASA space missions"
+      },
+      {
+        "year": 1965,
+        "event": "Became mathematics professor"
+      }
+    ],
+    "barriers": [
+      "Faced racial and gender discrimination",
+      "Limited opportunities for African American women in mathematics",
+      "Had to prove herself in male-dominated fields"
+    ],
+    "impact": "Pioneered the path for African American women in mathematics and computer science.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Evelyn Boyd Granville: Pioneer Mathematician",
+        "url": "https://www.agnesscott.edu/lriddle/women/granville.htm"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Evelyn_Boyd_Granville"
+      },
+      {
+        "title": "Agnes Scott College",
+        "url": "https://www.agnesscott.edu/lriddle/women/granville.htm"
+      }
+    ],
+    "mentorship": "Inspired African American women in mathematics and became a mentor to many students.",
+    "fun_fact": "Evelyn Boyd Granville was one of only two African American women to earn PhDs in mathematics in the 1940s.",
+    "career_path": {
+      "first_job": "Research mathematician",
+      "career_highlights": [
+        "Second African American woman with math PhD",
+        "Worked on NASA space missions",
+        "Became mathematics professor"
+      ],
+      "advice_for_students": "Don't let anyone tell you what you can't do. Mathematics is for everyone who is willing to work hard."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+        "Women in Science: 50 Fearless Pioneers Who Changed the World"
+      ],
+      "websites": [
+        "math.org",
+        "womeninscience.org",
+        "code.org"
+      ],
+      "programs": [
+        "Mathematics competitions",
+        "Computer programming camps",
+        "Women in STEM mentorship"
+      ],
+      "advice": "Master the fundamentals of mathematics - they will serve you in any field you choose to pursue."
+    },
+    "challenges": {
+      "academic": [
+        "Limited opportunities for African American women in mathematics"
+      ],
+      "professional": [
+        "Racial and gender discrimination",
+        "Male-dominated mathematics field"
+      ],
+      "personal": [
+        "Being one of very few African American women in mathematics",
+        "Proving her capabilities to skeptical colleagues"
+      ],
+      "how_overcame": "Used determination and excellence to prove her mathematical abilities"
+    },
+    "education_details": {
+      "high_school": "Excelled in mathematics",
+      "college_major": "Mathematics",
+      "graduate_school": "PhD in Mathematics from Yale",
+      "key_courses": [
+        "Advanced Mathematics",
+        "Computer Programming",
+        "Applied Mathematics",
+        "Teaching Methods"
+      ],
+      "study_tips": "Build a strong foundation in fundamentals and practice regularly"
+    },
+    "modern_impact": {
+      "current_applications": "Her work laid foundation for computer programming in aerospace",
+      "companies_using_her_work": [
+        "NASA",
+        "Universities worldwide",
+        "Technology companies"
+      ],
+      "future_implications": "Inspired more African American women to pursue careers in mathematics and computer science"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Problem solving",
+        "Teaching",
+        "Space exploration"
+      ],
+      "family_background": "Encouraged education and mathematical ability",
+      "hobbies": [
+        "Reading mathematical literature",
+        "Teaching",
+        "Mentoring students"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Analytical",
+        "Teaching-oriented",
+        "Inspiring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "African American",
+      "cultural_influences": [
+        "African American cultural values",
+        "American space program",
+        "Civil rights movement"
+      ],
+      "cultural_challenges": [
+        "Racial discrimination in education",
+        "Limited representation of African American women in mathematics"
+      ],
+      "cultural_contributions": "Broke barriers for African American women in mathematics and computer science"
+    }
   }
 ];
 
