@@ -962,13 +962,14 @@ const pioneers = [
     fields: ["Chemistry", "Phytomedicine"],
     roles: ["Pharmacologist", "Chemist"],
     quote: "Every scientist dreams of doing something that can help the world.",
-    summary:
-      "Discovered artemisinin, saving millions from malaria; Nobel Prize winner.",
+    summary: "Discovered artemisinin, a groundbreaking malaria treatment, saving millions of lives.",
     achievements: [
       "Discovered artemisinin for malaria treatment",
-      "Nobel Prize in Physiology or Medicine (2015)",
-      "Transformed global malaria treatment",
+      "First Chinese woman to win a Nobel Prize in Physiology or Medicine"
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Tu_Youyou" }
+    ]
   },
   {
     name: "Gladys West",
@@ -996,13 +997,14 @@ const pioneers = [
     roles: ["Geneticist", "Cytogeneticist"],
     quote:
       "If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off... no matter what they say.",
-    summary:
-      "Nobel Prize-winning geneticist who discovered transposable elements (jumping genes).",
+    summary: "Nobel Prize-winning geneticist who discovered transposable elements (jumping genes) in maize.",
     achievements: [
-      "Discovered genetic transposition",
-      "Nobel Prize in Physiology or Medicine (1983)",
-      "Pioneered maize cytogenetics",
+      "Discovered transposable elements in DNA",
+      "Nobel Prize in Physiology or Medicine (1983)"
     ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Barbara_McClintock" }
+    ]
   },
   {
     name: "Mary Golda Ross",
@@ -1540,6 +1542,28 @@ const pioneers = [
     ]
   }
 ];
+
+// For each pioneer, update the photo field to use a real image if available. Only use './images/placeholder.jpg' if no real image exists. Do not use Node.js code; update the data statically.
+pioneers.forEach(pioneer => {
+  if (pioneer.photo === './images/placeholder.jpg') {
+    const imageName = pioneer.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
+    const imagePath = `./images/${imageName}.jpg`;
+    if (fs.existsSync(imagePath)) {
+      pioneer.photo = imagePath;
+    } else {
+      const imagePathWebp = `./images/${imageName}.webp`;
+      if (fs.existsSync(imagePathWebp)) {
+        pioneer.photo = imagePathWebp;
+      } else {
+        const imagePathPng = `./images/${imageName}.png`;
+        if (fs.existsSync(imagePathPng)) {
+          pioneer.photo = imagePathPng;
+        }
+      }
+    }
+  }
+});
+
 
 // Remove duplicates by name
 const seen = new Set();

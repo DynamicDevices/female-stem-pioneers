@@ -23,6 +23,7 @@ All notable changes to this project will be documented in this file.
 - **Button Centering**: Perfectly centered "Learn More" button text
 - **Text Visibility**: Improved contrast and font weights for date/nationality and bio text
 - **Card Layout**: Enhanced pioneer card structure with flexbox
+- **Improved image handling**: real images are now always used for pioneers if available, and placeholders are only used as a last resort
 
 #### Fixed
 

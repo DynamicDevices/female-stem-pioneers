@@ -2,7 +2,7 @@
 
 A static web app celebrating women pioneers in STEM fields. Features:
 
-- Gallery of 81+ female STEM pioneers with images, bios, achievements, and fun facts
+- Gallery of 100+ female STEM pioneers with real images (photo, SVG, or symbolic) used wherever available; placeholders only as a last resort
 - Search, filter, and sort by name, field, or era
 - Responsive, accessible design with modern UI
 - Deduplication: only unique pioneers by name are shown
