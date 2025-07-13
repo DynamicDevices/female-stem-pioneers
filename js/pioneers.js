@@ -1000,7 +1000,7 @@ const pioneers = [
   },
   {
     "name": "Mary Cartwright",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1900",
     "deathDate": "1998",
     "country": "United Kingdom",
@@ -1026,7 +1026,7 @@ const pioneers = [
   },
   {
     "name": "Alice Ball",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1892",
     "deathDate": "1916",
     "country": "United States",
@@ -1197,7 +1197,7 @@ const pioneers = [
   },
   {
     "name": "Susan Solomon",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1956",
     "country": "United States",
     "fields": [
@@ -1225,7 +1225,7 @@ const pioneers = [
   },
   {
     "name": "Margarita Salas",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1938",
     "deathDate": "2019",
     "country": "Spain",
@@ -1254,7 +1254,7 @@ const pioneers = [
   },
   {
     "name": "Emilie du Châtelet",
-    "photo": "./images/placeholder.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1706",
     "deathDate": "1749",
     "country": "France",
