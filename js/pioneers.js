@@ -185,7 +185,7 @@ const pioneers = [
       "early_life": "Born in Poland in 1867, Marie showed exceptional talent in school despite restrictions on Polish students. Her parents were teachers who emphasized education, and she worked as a governess to save money for university.",
       "stem_journey": "Marie moved to Paris in 1891 to study at the Sorbonne, often going without food to afford her studies. She earned degrees in physics and mathematics, then began research with Pierre Curie, whom she married.",
       "challenges": "Marie faced discrimination as a woman in science and was denied admission to the University of Warsaw because she was female. She worked in poverty and faced resistance from male colleagues throughout her career.",
-      "achievements": "Marie discovered two new elements - polonium and radium - and coined the term 'radioactivity.' She won Nobel Prizes in both Physics (1903) and Chemistry (1911), the first person to win in two different sciences.",
+      "achievements": "Marie discovered two new elements - polonium and radium - and used the term 'radioactivity.' She won Nobel Prizes in both Physics (1903) and Chemistry (1911), the first person to win in two different sciences.",
       "legacy": "Marie opened doors for women in science worldwide. Her research led to X-ray technology and cancer treatments. She remains a symbol of scientific excellence and determination."
     },
     "achievements": [
@@ -247,7 +247,7 @@ const pioneers = [
       "first_job": "Research assistant at the University of Paris",
       "career_highlights": [
         "Led groundbreaking radioactivity research",
-        "Became the first female professor at the University of Paris"
+        "Became professor at the University of Paris"
       ],
       "advice_for_students": "Persistence is key in science. Don't be afraid to work hard and question everything. Your gender doesn't determine your abilities."
     },
@@ -323,19 +323,18 @@ const pioneers = [
       ]
     },
     "cultural_background": {
-      "heritage": "Polish Jewish and French intellectual traditions",
+      "heritage": "Polish and French intellectual traditions",
       "cultural_influences": [
         "Polish resistance to Russian occupation",
-        "French scientific community",
-        "Jewish intellectual tradition"
+        "French scientific community"
       ],
       "cultural_challenges": [
-        "Anti-Semitism in Europe",
         "Polish nationalism vs. French assimilation",
         "Gender barriers in both cultures"
       ],
       "cultural_contributions": "Brought Polish determination and French scientific rigor to her work, transcending national boundaries"
-    }
+    },
+    "verified": true
   },
   {
     "name": "Grace Hopper",
