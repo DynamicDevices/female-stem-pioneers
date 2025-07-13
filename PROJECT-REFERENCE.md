@@ -93,6 +93,16 @@ const icon = IconMapping.getIconForPioneer({
 
 ## Development Guidelines
 
+### Adding New Pioneers
+**IMPORTANT**: When adding pioneers, follow these essential guidelines:
+
+1. **Duplicate Check**: First check the pioneers to be added against current pioneers so that there are no duplicates
+2. **Structure Compliance**: Follow the existing structure for pioneer meta-data
+3. **Description**: Include a paragraph short description for display
+4. **Learn More Link**: Include a relevant "learn more" link
+5. **Image Retrieval**: Try to retrieve an image that can be displayed
+6. **Fallback Icons**: If there is no image, an appropriate fallback diverse icon should be used based on their profession and nationality (for skin tone)
+
 ### Image Requirements
 - **Licensing**: Creative Commons or public domain only
 - **Attribution**: Must include proper credit
