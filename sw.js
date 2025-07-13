@@ -29,12 +29,10 @@ const IMAGE_CACHE = "female-stem-pioneers-images-v2";
 const staticUrlsToCache = [
   "./",
   "./css/styles.css",
-  "./js/performance.js",
   "./js/app.js",
 
   "./manifest.json",
   "./404.html",
-  "./images/stem-female-pattern.svg",
   "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700;800;900&display=swap",
 ];
 

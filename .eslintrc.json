@@ -34,7 +34,6 @@
   },
   "globals": {
     "Chart": "readonly",
-    "languages": "readonly",
     "baseUrls": "readonly"
   },
   "ignorePatterns": ["node_modules/", "*.min.js", "sw.js", "archive/"]
