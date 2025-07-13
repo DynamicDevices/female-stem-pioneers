@@ -122,25 +122,34 @@ All notable changes to this project will be documented in this file.
 - Improved UI accessibility and responsiveness
 - Updated statistics display for total pioneers, fields, and countries
 
-## [v1.4.0] - 2025-07-13
+## [v1.4.0] - 2025-01-15
 
-### 🚀 Major Pioneer Expansion & Source Enhancement
+### 🎉 Enhanced User Experience & Interactive Features
 
 #### Added
-- **7 New Pioneer Profiles**: Rita Levi-Montalcini, Tu Youyou, Valentina Tereshkova, Ellen Ochoa, Mae Jemison, Barbara McClintock, Dorothy Vaughan, Evelyn Boyd Granville, Annie Easley, Asima Chatterjee, Janaki Ammal, Ynes Mexia, Sofia Kovalevskaya
-- **Enhanced Source Documentation**: Updated SOURCES.md with 40+ new high-quality research sources
-- **Diverse Representation**: Added pioneers from Italy, China, Soviet Union/Russia, United States, India, Mexico
-- **Multiple STEM Fields**: Neuroscience, Chemistry, Aerospace Engineering, Genetics, Mathematics, Computer Programming, Botany, Physics
+- **Collapsible Information Sections**: 13 dynamic content sections with smooth animations
+- **Timeline Visualization**: Interactive timeline showing pioneer's life events and achievements
+- **Enhanced Pioneer Cards**: Improved spacing, consistent presentation, and better visual hierarchy
+- **Accessibility Improvements**: Better keyboard navigation and screen reader support for collapsible sections
+- **Mobile Responsiveness**: Optimized collapsible sections for mobile devices
 
 #### Changed
-- Updated documentation: README.md, TODO.md to reflect current 78+ pioneer count
-- Enhanced source research capabilities with comprehensive international databases
-- Improved cultural diversity with pioneers from multiple continents and backgrounds
+- **UI Layout**: Fixed CSS grid and flexbox conflicts for better card presentation
+- **Spacing**: Reduced excessive vertical spacing and removed redundant borders
+- **Timeline Display**: Fixed timeline dates visibility with proper styling and contrast
+- **JavaScript Error Handling**: Added null checks and improved error handling for pioneer data
+
+#### Fixed
+- **JavaScript Errors**: Resolved 'slice' of undefined errors with proper null checking
+- **Timeline Visibility**: Fixed timeline dates that were blending into background
+- **Collapsible Sections**: Ensured proper expansion and visibility of all content sections
+- **Cache Issues**: Added cache-busting parameters to prevent stale JavaScript loading
 
 #### Technical Improvements
-- Maintained consistent data structure across all new pioneer profiles
-- Each pioneer includes comprehensive educational resources and career advice
-- All pioneers follow accessibility guidelines for student engagement
+- **Performance**: Optimized collapsible section animations and transitions
+- **Code Quality**: Improved error handling and data validation
+- **User Experience**: Enhanced accessibility and mobile responsiveness
+- **Visual Design**: Better contrast and readability for all content sections
 
 ## [v1.3.0] - 2025-07-13
 
@@ -167,6 +176,10 @@ All notable changes to this project will be documented in this file.
 
 ## Version History
 
+- **v1.4.0** (2025-01-15): 🎉 **Enhanced User Experience** - Collapsible sections, timeline visualization, improved UI
+- **v1.3.0** (2025-07-13): 🌍 **Diverse Icon Fallback** - Improved image handling and data quality
+- **v1.2.0** (2025-07-13): 🚀 **Major Content Expansion** - 100+ pioneer profiles with global diversity
+- **v1.1.0** (2025-07-13): 🚀 **Content Expansion** - 81 pioneer profiles with deduplication
 - **v1.0.0-mvp** (2025-01-12): 🎉 **MVP Release Complete** - UX foundation solid, ready for content expansion
 - **v1.0.0-beta** (2025-01-11): Enhanced design, typography, and interactions
 - **v1.0.0-alpha** (2025-01-10): Core functionality and responsive design
@@ -177,8 +190,8 @@ All notable changes to this project will be documented in this file.
 
 The MVP foundation is complete. Next phase focuses on:
 
-- **Content Expansion**: Add more pioneer profiles (target: 50+)
-- **Enhanced Features**: Timeline visualizations, advanced filtering
+- **Content Expansion**: Add more pioneer profiles (target: 100+)
+- **Enhanced Features**: Advanced filtering, educational resources
 - **Educational Resources**: Interactive activities and downloadable content
 
 ---
