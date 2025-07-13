@@ -1901,7 +1901,7 @@ body.light-theme .mobile-menu-toggle span {
   flex: 1;
   display: grid;
   grid-template-rows: auto auto auto auto auto;
-  gap: 16px;
+  gap: 12px;
   align-items: start;
   grid-row: 2;
 }
@@ -3213,8 +3213,8 @@ body.light-theme .mobile-menu-toggle span {
   font-weight: 600;
   cursor: pointer;
   transition: all 0.2s ease;
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
+  margin-top: 0.125rem;
+  margin-bottom: 0.125rem;
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
