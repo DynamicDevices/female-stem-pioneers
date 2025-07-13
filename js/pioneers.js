@@ -7495,6 +7495,36 @@ const pioneers = [
         "url": "https://en.wikipedia.org/wiki/Maryam_Mirzakhani"
       }
     ]
+  },
+  {
+    "name": "Maria Goeppert Mayer",
+    "photo": "./images/maria-goeppert-mayer.jpg",
+    "birthDate": "1906",
+    "deathDate": "1972",
+    "country": "Germany/United States",
+    "fields": [
+      "Physics",
+      "Nuclear Physics"
+    ],
+    "roles": [
+      "Physicist",
+      "Nobel Laureate"
+    ],
+    "quote": "Mathematics was easy for me. I had a very good teacher.",
+    "summary": "Nobel Prize-winning physicist who developed the nuclear shell model of the atomic nucleus.",
+    "shortDescription": "Maria Goeppert Mayer was a Nobel Prize-winning physicist who developed the nuclear shell model, explaining how protons and neutrons are arranged in the atomic nucleus. She was only the second woman to win the Nobel Prize in Physics and her work laid the foundation for our understanding of nuclear structure.",
+    "achievements": [
+      "Won Nobel Prize in Physics",
+      "Developed nuclear shell model",
+      "Second woman to win Nobel Prize in Physics",
+      "Pioneered nuclear structure research"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer"
+      }
+    ]
   }
 ];
 
