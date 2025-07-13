@@ -132,6 +132,9 @@
     </script>
   </head>
   <body>
+    <!-- Debug timestamp for GitHub Pages deployment -->
+    <div id="debug-timestamp" style="position: fixed; top: 10px; left: 10px; background: rgba(0,0,0,0.8); color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px; z-index: 9999; font-family: monospace;"></div>
+    
     <div class="main-content">
       <!-- Header -->
       <header class="header">
@@ -319,5 +322,18 @@
     <!-- JavaScript -->
     <script src="js/pioneers.js"></script>
     <script src="js/app.js"></script>
+    
+    <!-- Debug timestamp script -->
+    <script>
+      function updateTimestamp() {
+        const commitHash = 'adc22705b5356943705d95ab21a7b1272c16b339';
+        const commitDate = '2025-07-13 09:50:19 +0100';
+        const shortHash = commitHash.substring(0, 8);
+        document.getElementById('debug-timestamp').textContent = `Commit: ${shortHash} (${commitDate})`;
+      }
+      
+      // Update timestamp immediately
+      updateTimestamp();
+    </script>
   </body>
 </html>
