@@ -2701,17 +2701,170 @@ const pioneers = [
     "quote": "Nothing has afforded me so convincing a proof of the unity of the Deity as these purely mental conceptions of numerical and mathematical science.",
     "summary": "Popularized science and mathematics, and her work led to the discovery of Neptune.",
     "shortDescription": "Mary Somerville was a self-taught mathematician and astronomer who wrote influential scientific books and was called 'the queen of science'. She popularized science and mathematics and was the first person to be called 'scientist'. Her work led to the discovery of Neptune and she became the first female member of the Royal Astronomical Society.",
+    "detailed_description": {
+      "early_life": "Born in Scotland in 1780, Mary was largely self-taught in mathematics and science. Despite limited formal education, she developed a passion for astronomy and mathematics, studying in her family's library.",
+      "stem_journey": "Mary became a leading scientific writer and popularizer of science. She was the first person to be called a 'scientist' and her work on celestial mechanics helped predict the existence of Neptune.",
+      "challenges": "Faced gender barriers in science and had limited formal education. She had to overcome societal expectations that women shouldn't pursue advanced mathematics and astronomy.",
+      "achievements": "Became the first female member of the Royal Astronomical Society, popularized science through her writings, and her work contributed to the discovery of Neptune. She was called 'the queen of science'.",
+      "legacy": "Mary opened doors for women in science and inspired future generations of female scientists. Her scientific writings made complex concepts accessible to the public."
+    },
     "achievements": [
       "Popularized science and mathematics",
       "Work led to discovery of Neptune",
       "First female member of the Royal Astronomical Society"
+    ],
+    "awards": [
+      "First female member of the Royal Astronomical Society",
+      "Honorary membership in scientific societies"
+    ],
+    "publications": [
+      {
+        "title": "The Connection of the Physical Sciences",
+        "url": "https://archive.org/details/connectionofphy00somegoog"
+      },
+      {
+        "title": "Physical Geography",
+        "url": "https://archive.org/details/physicalgeograph00some"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Mathematics and Astronomy",
+        "institution": "Home study"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1780,
+        "event": "Born in Scotland"
+      },
+      {
+        "year": 1804,
+        "event": "Began serious study of mathematics"
+      },
+      {
+        "year": 1826,
+        "event": "Published first scientific paper"
+      },
+      {
+        "year": 1835,
+        "event": "Became first female member of Royal Astronomical Society"
+      },
+      {
+        "year": 1872,
+        "event": "Died in Naples, Italy"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in science",
+      "Limited formal education opportunities",
+      "Societal expectations for women's roles"
+    ],
+    "impact": "Popularized science and mathematics, making complex concepts accessible to the public and inspiring women in science.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Mary Somerville: The Queen of Science",
+        "url": "https://www.britannica.com/biography/Mary-Somerville"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Mary_Somerville"
       }
-    ]
+    ],
+    "mentorship": "Inspired future generations of women in science through her writings and example.",
+    "fun_fact": "Mary Somerville was the first person to be called a 'scientist' - the term was coined specifically for her.",
+    "career_path": {
+      "first_job": "Scientific writer and translator",
+      "career_highlights": [
+        "First female member of Royal Astronomical Society",
+        "Pioneering scientific popularizer",
+        "Influential scientific writer"
+      ],
+      "advice_for_students": "Follow your curiosity in science and don't let anyone tell you what you can't learn or achieve."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Connection of the Physical Sciences",
+        "Women in Science: 50 Fearless Pioneers"
+      ],
+      "websites": [
+        "royalsociety.org",
+        "womeninscience.org",
+        "astronomy.com"
+      ],
+      "programs": [
+        "Astronomy clubs",
+        "Women in STEM mentorship programs"
+      ],
+      "advice": "Start with what fascinates you most in science. The connections between different fields will become clear as you learn."
+    },
+    "challenges": {
+      "academic": [
+        "No formal education in advanced mathematics"
+      ],
+      "professional": [
+        "Gender barriers in scientific societies"
+      ],
+      "personal": [
+        "Societal expectations limiting women's roles"
+      ],
+      "how_overcame": "Self-taught through extensive reading and focused on making science accessible to others"
+    },
+    "education_details": {
+      "high_school": "Limited formal education",
+      "college_major": "Self-taught in mathematics and astronomy",
+      "key_courses": [
+        "Mathematics",
+        "Astronomy",
+        "Physics",
+        "Geography"
+      ],
+      "study_tips": "Connect different scientific disciplines to see the bigger picture"
+    },
+    "modern_impact": {
+      "current_applications": "Her scientific popularization continues to influence science communication",
+      "companies_using_her_work": [
+        "Scientific societies worldwide",
+        "Science education programs"
+      ],
+      "future_implications": "Her approach to making science accessible continues to inspire science communication"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Astronomy",
+        "Scientific writing"
+      ],
+      "family_background": "Scottish middle-class family",
+      "hobbies": [
+        "Scientific writing",
+        "Astronomical observation",
+        "Travel and study"
+      ],
+      "personality_traits": [
+        "Curious",
+        "Determined",
+        "Analytical",
+        "Communicative"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Scottish",
+      "cultural_influences": [
+        "Scottish Enlightenment",
+        "British scientific tradition",
+        "Victorian era intellectual circles"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 19th-century Britain",
+        "Limited educational opportunities for women"
+      ],
+      "cultural_contributions": "Demonstrated that women could excel in scientific writing and popularization, making science accessible to broader audiences"
+    }
   },
   {
     "name": "Gerty Cori",
@@ -2730,17 +2883,165 @@ const pioneers = [
     "quote": "The love for and dedication to one's work is the foundation of all happiness.",
     "summary": "First woman to win the Nobel Prize in Physiology or Medicine for her work on carbohydrate metabolism.",
     "shortDescription": "Gerty Cori was the first woman to win the Nobel Prize in Physiology or Medicine for her work on carbohydrate metabolism. She discovered the Cori cycle and pioneered research in biochemistry. Her work with her husband Carl Cori on how the body processes glucose has been fundamental to our understanding of metabolism and diabetes research.",
+    "detailed_description": {
+      "early_life": "Born in Prague, Gerty showed exceptional academic ability from an early age. She earned her medical degree from the German University of Prague and developed a passion for biochemistry.",
+      "stem_journey": "Gerty worked with her husband Carl Cori on carbohydrate metabolism research. She discovered the Cori cycle and became the first woman to win the Nobel Prize in Physiology or Medicine.",
+      "challenges": "Faced gender discrimination in science and had to overcome barriers as a woman in biochemistry. She often worked in her husband's shadow despite making equal contributions.",
+      "achievements": "Became the first woman to win the Nobel Prize in Physiology or Medicine, discovered the Cori cycle, and pioneered research in carbohydrate metabolism and biochemistry.",
+      "legacy": "Gerty opened doors for women in biochemistry and medicine. Her work on carbohydrate metabolism is fundamental to understanding diabetes and metabolic diseases."
+    },
     "achievements": [
       "Nobel Prize in Physiology or Medicine (1947)",
       "Discovered the Cori cycle",
       "Pioneered research in biochemistry"
+    ],
+    "awards": [
+      "Nobel Prize in Physiology or Medicine (1947)",
+      "Garvan-Olin Medal (1948)",
+      "National Academy of Sciences member"
+    ],
+    "publications": [
+      {
+        "title": "The Cori Cycle: Carbohydrate Metabolism",
+        "url": "https://www.nobelprize.org/prizes/medicine/1947/cori-gt/facts/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MD",
+        "field": "Medicine",
+        "institution": "German University of Prague"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1896,
+        "event": "Born in Prague"
+      },
+      {
+        "year": 1920,
+        "event": "Earned medical degree"
+      },
+      {
+        "year": 1922,
+        "event": "Married Carl Cori and moved to US"
+      },
+      {
+        "year": 1947,
+        "event": "Won Nobel Prize in Physiology or Medicine"
+      },
+      {
+        "year": 1957,
+        "event": "Died in Missouri"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in science",
+      "Working in husband's shadow",
+      "Limited recognition for women's contributions"
+    ],
+    "impact": "Pioneered biochemistry research and became the first woman to win the Nobel Prize in Physiology or Medicine.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Gerty Cori: The First Woman to Win the Nobel Prize in Physiology or Medicine",
+        "url": "https://www.nobelprize.org/prizes/medicine/1947/cori-gt/facts/"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Gerty_Cori"
       }
-    ]
+    ],
+    "mentorship": "Inspired future generations of women in biochemistry and medicine through her groundbreaking research.",
+    "fun_fact": "Gerty was the first woman to win the Nobel Prize in Physiology or Medicine, and she shared the prize with her husband Carl Cori.",
+    "career_path": {
+      "first_job": "Medical researcher",
+      "career_highlights": [
+        "First woman to win Nobel Prize in Physiology or Medicine",
+        "Pioneer in biochemistry research",
+        "Professor at Washington University"
+      ],
+      "advice_for_students": "Dedication to your work and passion for discovery are the keys to scientific success."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Science: 50 Fearless Pioneers",
+        "The Nobel Prize: A History of Genius"
+      ],
+      "websites": [
+        "nobelprize.org",
+        "biochemistry.org",
+        "womeninscience.org"
+      ],
+      "programs": [
+        "Biochemistry summer camps",
+        "Women in STEM mentorship programs"
+      ],
+      "advice": "Follow your passion for understanding how living things work. Biochemistry connects chemistry to life itself."
+    },
+    "challenges": {
+      "academic": [
+        "Gender barriers in medical education"
+      ],
+      "professional": [
+        "Working in husband's shadow despite equal contributions"
+      ],
+      "personal": [
+        "Balancing family and scientific career"
+      ],
+      "how_overcame": "Focused on excellence in research and demonstrated the value of women's contributions to science"
+    },
+    "education_details": {
+      "high_school": "Schools in Prague",
+      "college_major": "Medicine",
+      "key_courses": [
+        "Biochemistry",
+        "Physiology",
+        "Medical Research"
+      ],
+      "study_tips": "Connect chemical processes to biological functions to understand metabolism"
+    },
+    "modern_impact": {
+      "current_applications": "Her work on carbohydrate metabolism is fundamental to diabetes research",
+      "companies_using_her_work": [
+        "Pharmaceutical companies",
+        "Medical research institutions"
+      ],
+      "future_implications": "Her discoveries continue to influence metabolic disease research and treatment"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Medicine",
+        "Biochemistry",
+        "Scientific research"
+      ],
+      "family_background": "Jewish family in Prague",
+      "hobbies": [
+        "Scientific research",
+        "Collaboration with husband Carl"
+      ],
+      "personality_traits": [
+        "Dedicated",
+        "Analytical",
+        "Collaborative",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Czech Jewish",
+      "cultural_influences": [
+        "European scientific tradition",
+        "Jewish intellectual culture",
+        "American research environment"
+      ],
+      "cultural_challenges": [
+        "Gender discrimination in science",
+        "Working in husband's shadow"
+      ],
+      "cultural_contributions": "Demonstrated that women could excel in biochemistry and win the highest scientific honors"
+    }
   },
   {
     "name": "Inge Lehmann",
