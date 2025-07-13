@@ -3537,3 +3537,97 @@ body.light-theme .mobile-menu-toggle span {
     padding-left: 1.25rem;
   }
 }
+
+/* Contribute Section Styles */
+.contribute-section {
+  margin: 3rem auto;
+  max-width: 800px;
+  background: #f8fafc;
+  color: #222;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+  padding: 2rem;
+}
+
+.contribute-section h2 {
+  color: #3b82f6;
+  margin-bottom: 1rem;
+}
+
+.contribute-section h3 {
+  color: #3b82f6;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.contribute-section p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.contribute-section ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.contribute-section li {
+  margin-bottom: 0.5rem;
+}
+
+.thank-you-message {
+  margin-top: 1.5rem;
+  font-style: italic;
+  color: #6b7280;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* No Results Styles */
+.no-results {
+  display: none;
+  text-align: center;
+  padding: 3rem 1rem;
+  color: #6b7280;
+}
+
+.no-results h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #374151;
+}
+
+.no-results p {
+  font-size: 1.1rem;
+  opacity: 0.8;
+}
+
+/* Mobile Responsive for Contribute Section */
+@media (max-width: 768px) {
+  .contribute-section {
+    margin: 2rem 1rem;
+    padding: 1.5rem;
+  }
+  
+  .contribute-section h2 {
+    font-size: 1.5rem;
+  }
+  
+  .contribute-section h3 {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .contribute-section {
+    margin: 1rem;
+    padding: 1rem;
+  }
+  
+  .contribute-section h2 {
+    font-size: 1.3rem;
+  }
+  
+  .contribute-section h3 {
+    font-size: 1.1rem;
+  }
+}

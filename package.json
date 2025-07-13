@@ -16,7 +16,11 @@
     "lint:fix": "eslint . --ext .js --fix",
     "check-syntax": "find . -name \"*.js\" -not -path \"./node_modules/*\" -not -path \"./.git/*\" -exec node -c {} \\;",
     "check-duplicates": "node scripts/check-duplicate-pioneers.js",
-    "ci": "npm run check-syntax && npm run lint && npm run validate && npm run check-duplicates"
+    "validate-data": "node scripts/validate-pioneers.js",
+    "check-images": "node -e \"const fs = require('fs'); const pioneers = require('./js/pioneers.js'); pioneers.forEach(p => { if (p.photo && !p.photo.startsWith('data:') && !fs.existsSync(p.photo.replace('./', ''))) { console.error('Missing image:', p.photo); process.exit(1); } }); console.log('✅ All images exist');\"",
+    "check-content": "node scripts/check-content.js",
+    "check-temp-files": "find . -name \"*.temp\" -o -name \"temp-*\" -o -name \"*backup*\" | grep -q . && (echo \"❌ Found temporary files\" && find . -name \"*.temp\" -o -name \"temp-*\" -o -name \"*backup*\" && exit 1) || echo \"✅ No temporary files found\"",
+    "ci": "npm run check-syntax && npm run lint && npm run validate && npm run check-duplicates && npm run validate-data && npm run check-images && npm run check-content && npm run check-temp-files"
   },
   "keywords": [
     "women-in-stem",

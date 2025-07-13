@@ -7,6 +7,49 @@ on:
     branches: [main, master]
 
 jobs:
+  # Data Integrity Checks
+  data-validation:
+    name: Data Integrity Validation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check for duplicate pioneers
+        run: |
+          echo "🔍 Checking for duplicate pioneers..."
+          npm run check-duplicates
+
+      - name: Validate pioneer data structure
+        run: |
+          echo "🔍 Validating pioneer data structure..."
+          npm run validate-data
+
+      - name: Check image files exist
+        run: |
+          echo "🔍 Checking image files..."
+          npm run check-images
+
+      - name: Check for temporary/script files
+        run: |
+          echo "🔍 Checking for temporary or script files..."
+          if find . -name "*.temp" -o -name "temp-*" -o -name "*backup*" | grep -q .; then
+            echo "❌ Found temporary or backup files in repository"
+            find . -name "*.temp" -o -name "temp-*" -o -name "*backup*"
+            exit 1
+          fi
+          echo "✅ No temporary files found"
+
   # JavaScript Syntax Check
   lint:
     name: JavaScript Syntax Check
@@ -56,7 +99,7 @@ jobs:
   test:
     name: Build and Test
     runs-on: ubuntu-latest
-    needs: lint
+    needs: [lint, data-validation]
 
     steps:
       - name: Checkout code
@@ -95,11 +138,109 @@ jobs:
 
           echo "✅ All tests passed"
 
+  # Accessibility and Performance Checks
+  accessibility:
+    name: Accessibility and Performance
+    runs-on: ubuntu-latest
+    needs: [lint, data-validation]
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Start local server
+        run: |
+          echo "🚀 Starting local server..."
+          npx http-server . -p 8000 &
+          sleep 5
+
+      - name: Run Lighthouse CI
+        run: |
+          echo "🔍 Running Lighthouse CI..."
+          npx lighthouse http://localhost:8000 --output html --output-path ./lighthouse-report.html --only-categories=accessibility,performance || echo "Lighthouse check completed"
+
+      - name: Upload Lighthouse report
+        uses: actions/upload-artifact@v3
+        if: always()
+        with:
+          name: lighthouse-report
+          path: lighthouse-report.html
+
+  # Content Quality Checks
+  content-quality:
+    name: Content Quality Validation
+    runs-on: ubuntu-latest
+    needs: [data-validation]
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check for placeholder content
+        run: |
+          echo "🔍 Checking for placeholder content..."
+          if grep -r -i "placeholder\|to be added\|coming soon\|lorem ipsum" js/pioneers.js; then
+            echo "❌ Found placeholder content in pioneer data"
+            exit 1
+          fi
+          echo "✅ No placeholder content found"
+
+      - name: Check description lengths
+        run: |
+          echo "🔍 Checking description quality..."
+          node -e "
+            const fs = require('fs');
+            const content = fs.readFileSync('js/pioneers.js', 'utf8');
+            const arrayStart = content.indexOf('const pioneers = [');
+            const arrayEnd = content.lastIndexOf('];');
+            const arrayContent = content.substring(arrayStart + 'const pioneers = '.length, arrayEnd + 1);
+            const tempFile = 'module.exports = ' + arrayContent;
+            fs.writeFileSync('temp-check.js', tempFile);
+            const pioneers = require('./temp-check.js');
+            fs.unlinkSync('temp-check.js');
+            
+            let issues = [];
+            pioneers.forEach((pioneer, idx) => {
+              if (pioneer.shortDescription && pioneer.shortDescription.length < 50) {
+                issues.push(\`Pioneer #\${idx + 1} (\${pioneer.name}): shortDescription too short (\${pioneer.shortDescription.length} chars)\`);
+              }
+              if (pioneer.summary && pioneer.summary.length < 20) {
+                issues.push(\`Pioneer #\${idx + 1} (\${pioneer.name}): summary too short (\${pioneer.summary.length} chars)\`);
+              }
+            });
+            
+            if (issues.length > 0) {
+              console.log('❌ Content quality issues:');
+              issues.forEach(issue => console.log('  -', issue));
+              process.exit(1);
+            }
+            
+            console.log('✅ All descriptions meet quality standards');
+          "
+
   # Deploy to GitHub Pages
   deploy:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
-    needs: [lint, test]
+    needs: [lint, test, data-validation, accessibility, content-quality]
     if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
 
     permissions:

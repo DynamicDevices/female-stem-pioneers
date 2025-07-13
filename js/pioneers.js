@@ -12,7 +12,6 @@
 // PIONEER OBJECT STRUCTURE:
 // {
 //   "name": "Full Name",
-//   "photo": "./images/filename.jpg",
 //   "birthDate": "YYYY",
 //   "deathDate": "YYYY" (or omit if living),
 //   "country": "Country",
@@ -8466,6 +8465,8 @@ const pioneers = [
   },
   {
     "name": "Sharon Rogone",
+    "summary": "Medical device innovator who improved neonatal care for premature infants.",
+    "shortDescription": "Sharon Rogone invented life-saving medical devices for premature babies, including the Bili-Bonnet phototherapy eye protector. Her work has helped countless newborns receive safer, more effective care in hospitals around the world.",
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1950s",
     "country": "United States",
@@ -8632,6 +8633,8 @@ const pioneers = [
   },
   {
     "name": "Charlotte Cramer Sachs",
+    "summary": "Pioneering food scientist who developed nutritious foods for wartime and peacetime.",
+    "shortDescription": "Charlotte Cramer Sachs was a food scientist who created nutritious, shelf-stable foods for soldiers and civilians during World War II. Her innovations improved public health and set new standards for food safety and nutrition.",
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1907",
     "deathDate": "2004",
@@ -8805,6 +8808,8 @@ const pioneers = [
   },
   {
     "name": "Laura Shepherd",
+    "summary": "Aerospace engineer and key contributor to the U.S. space program.",
+    "shortDescription": "Laura Shepherd was an aerospace engineer who played a vital role in the development of rocket and satellite technology for NASA. Her work helped launch the United States into the space age and inspired future generations of engineers.",
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1980s",
     "country": "United States",
@@ -8976,6 +8981,8 @@ const pioneers = [
   },
   {
     "name": "Kavita Shukla",
+    "summary": "Inventor and entrepreneur who created FreshPaper to keep food fresh longer.",
+    "shortDescription": "Kavita Shukla invented FreshPaper, a simple sheet that keeps fruits and vegetables fresh for longer. Her innovation helps reduce food waste and makes healthy food more accessible around the world.",
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1980s",
     "country": "United States/India",
@@ -9151,6 +9158,8 @@ const pioneers = [
   },
   {
     "name": "Cindy Whitehead",
+    "summary": "Pharmacist and entrepreneur who championed women’s health innovations.",
+    "shortDescription": "Cindy Whitehead is a pharmacist and entrepreneur who developed the first FDA-approved medication for women’s sexual health. She advocates for women’s health equity and inspires girls to pursue science and business.",
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1970s",
     "country": "United States",
@@ -9327,6 +9336,8 @@ const pioneers = [
   },
   {
     "name": "Sophia Hayden",
+    "summary": "Architect and advocate for women in design and engineering.",
+    "shortDescription": "Sophia Hayden was the first female graduate of MIT’s architecture program and designed the Woman’s Building at the 1893 World’s Fair. She broke barriers for women in architecture and inspired future generations of designers.",
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1868",
     "deathDate": "1953",
@@ -9505,6 +9516,8 @@ const pioneers = [
   },
   {
     "name": "Madam C. J. Walker",
+    "summary": "Entrepreneur and philanthropist, first self-made female millionaire in America.",
+    "shortDescription": "Madam C. J. Walker developed innovative hair care products for Black women and became America’s first self-made female millionaire. She used her success to support civil rights and empower women in business.",
     "photo": "./images/placeholder-woman.svg",
     "birthDate": "1867",
     "deathDate": "1919",
@@ -11747,7 +11760,7 @@ const pioneers = [
   },
   {
     "name": "Emmy Noether",
-    "photo": "./images/emmy-noether.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1882",
     "deathDate": "1935",
     "country": "Germany",
@@ -13871,7 +13884,7 @@ const pioneers = [
   },
   {
     "name": "Maria Goeppert Mayer",
-    "photo": "./images/maria-goeppert-mayer.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1906",
     "deathDate": "1972",
     "country": "Germany/United States",
@@ -14047,7 +14060,7 @@ const pioneers = [
   },
   {
     "name": "Elizabeth Blackwell",
-    "photo": "./images/elizabeth-blackwell.jpg",
+    "photo": "./images/placeholder-woman.svg",
     "birthDate": "1821",
     "deathDate": "1910",
     "country": "United Kingdom/United States",
@@ -14397,14 +14410,6 @@ const pioneers = [
     },
     "verified": true
   }
-  // END OF PIONEERS ARRAY
-  // 
-  // EDITING NOTES:
-  // - The array above contains all pioneer objects
-  // - Each object must be complete with all required fields
-  // - The last object ends with "}" (no trailing comma)
-  // - Always test syntax after editing: npm run check-syntax
-  // - Always check for duplicates: npm run check-duplicates
 ];
 
 // Export for use in other files

@@ -262,17 +262,17 @@
       </div>
 
       <!-- No Results Message -->
-      <div id="noResults" class="no-results" style="display: none">
+      <div id="noResults" class="no-results">
         <h2>No pioneers found</h2>
         <p>Try adjusting your search terms or filters.</p>
       </div>
     </div>
 
-    <section class="contribute-section" style="margin: 3rem auto; max-width: 800px; background: #f8fafc; color: #222; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); padding: 2rem;">
-      <h2 style="color: #3b82f6;">Contribute & Help Improve</h2>
+    <section class="contribute-section">
+      <h2>Contribute &amp; Help Improve</h2>
       <p>We welcome contributions of new female STEM pioneers and corrections to existing information! This website is a work in progress, and there may be errors or missing information.</p>
-      
-      <h3 style="color: #3b82f6; margin-top: 1.5rem;">Add a New Pioneer</h3>
+
+      <h3>Add a New Pioneer</h3>
       <p>To add a new pioneer profile:</p>
       <ol>
         <li><b>Open an Issue or Pull Request</b> using our templates (see the 'New Pioneer Profile' templates).</li>
@@ -281,13 +281,13 @@
         <li><b>Write a short, engaging description</b> for students.</li>
         <li><b>Run linting and formatting tools before submitting.</b></li>
       </ol>
-      
-      <h3 style="color: #3b82f6; margin-top: 1.5rem;">Report Errors or Corrections</h3>
+
+      <h3>Report Errors or Corrections</h3>
       <p>If you spot a mistake, missing information, or have a correction, please <a href="https://github.com/DynamicDevices/female-stem-pioneers/issues" target="_blank" rel="noopener">let us know on GitHub</a> or contribute directly.</p>
-      
+
       <p><strong>🖼️ Important:</strong> All images must be <strong>Creative Commons licensed</strong>, <strong>public domain</strong>, or <strong>your own original work</strong>. We do not accept copyrighted images without proper licensing. See <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for full details and field explanations.</p>
-      
-      <p style="margin-top: 1.5rem; font-style: italic; color: #6b7280; text-align: center; font-weight: bold;">Thank you to everyone who helps make this resource better!</p>
+
+      <p class="thank-you-message">Thank you to everyone who helps make this resource better!</p>
     </section>
 
     <!-- Footer -->
@@ -331,7 +331,7 @@
     <script src="js/pioneers.js"></script>
     <script src="js/icon-mapping.js?v=20250113"></script>
     <script src="js/app.js?v=20250127"></script>
-    
+
     <!-- Debug timestamp script -->
     <script>
       function logCommitInfo() {
@@ -343,50 +343,50 @@
         console.log(`🌐 Site: https://dynamicdevices.github.io/female-stem-pioneers/`);
         console.log(`⏰ Deployed: ${new Date().toLocaleString()}`);
       }
-      
+
       // Log commit info immediately
       logCommitInfo();
     </script>
-    
+
     <!-- Debug cache control script -->
     <script>
       function checkDebugMode() {
         const urlParams = new URLSearchParams(window.location.search);
         const debugMode = urlParams.get('debug');
-        
+
         if (debugMode === '1') {
           console.log('🔧 Debug mode enabled - Caching disabled');
-          
+
           // Disable caching for all resources
           const meta = document.createElement('meta');
           meta.httpEquiv = 'Cache-Control';
           meta.content = 'no-cache, no-store, must-revalidate';
           document.head.appendChild(meta);
-          
+
           const pragma = document.createElement('meta');
           pragma.httpEquiv = 'Pragma';
           pragma.content = 'no-cache';
           document.head.appendChild(pragma);
-          
+
           const expires = document.createElement('meta');
           expires.httpEquiv = 'Expires';
           expires.content = '0';
           document.head.appendChild(expires);
-          
+
           // Add timestamp to CSS and JS URLs to force reload
           const timestamp = Date.now();
           const cssLink = document.querySelector('link[href="css/styles.css"]');
           if (cssLink) {
             cssLink.href = `css/styles.css?v=${timestamp}`;
           }
-          
+
           const jsLinks = document.querySelectorAll('script[src^="js/"]');
           jsLinks.forEach(link => {
             if (link.src.includes('js/')) {
               link.src = `${link.src}?v=${timestamp}`;
             }
           });
-          
+
           // Add visual indicator
           const debugIndicator = document.createElement('div');
           debugIndicator.style.cssText = `
@@ -406,7 +406,7 @@
           document.body.appendChild(debugIndicator);
         }
       }
-      
+
       // Check debug mode immediately
       checkDebugMode();
     </script>
