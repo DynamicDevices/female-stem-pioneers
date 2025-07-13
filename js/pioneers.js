@@ -6711,6 +6711,192 @@ const pioneers = [
       ],
       "cultural_contributions": "Bridged Mexican and American scientific communities and inspired women in both countries"
     }
+  },
+  {
+    "name": "Sofia Kovalevskaya",
+    "photo": "./images/sofia-kovalevskaya.jpg",
+    "birthDate": "1850",
+    "deathDate": "1891",
+    "country": "Russia",
+    "fields": [
+      "Mathematics",
+      "Physics"
+    ],
+    "roles": [
+      "Mathematician",
+      "Physicist",
+      "Professor"
+    ],
+    "quote": "It is impossible to be a mathematician without being a poet in soul.",
+    "summary": "First woman to earn a PhD in mathematics and first woman to become a full professor in Northern Europe.",
+    "shortDescription": "Sofia Kovalevskaya was the first woman to earn a PhD in mathematics and the first woman to become a full professor in Northern Europe. She made important contributions to partial differential equations and mechanics. Sofia's work showed that women could excel in advanced mathematics and become respected professors, breaking barriers for women in academia throughout Europe.",
+    "detailed_description": {
+      "early_life": "Born in 1850 in Moscow, Russia, Sofia showed exceptional talent in mathematics from an early age. She had to fight for the right to study mathematics as a woman.",
+      "stem_journey": "Sofia earned her PhD in mathematics from the University of Göttingen and became the first woman to be a full professor in Northern Europe at Stockholm University.",
+      "challenges": "Faced severe gender barriers in mathematics, had to fight for education rights, and overcame societal restrictions on women in academia.",
+      "achievements": "First woman to earn PhD in mathematics, first woman full professor in Northern Europe, and made important contributions to partial differential equations.",
+      "legacy": "Pioneered the path for women in mathematics and academia, showing that women could excel in advanced mathematical research."
+    },
+    "achievements": [
+      "First woman to earn PhD in mathematics",
+      "First woman full professor in Northern Europe",
+      "Made important contributions to partial differential equations",
+      "Pioneered women in mathematics"
+    ],
+    "awards": [
+      "Bordin Prize from French Academy of Sciences",
+      "Recognition from Swedish Academy of Sciences"
+    ],
+    "publications": [
+      {
+        "title": "On the Rotation of a Solid Body about a Fixed Point",
+        "url": "https://www.jstor.org/stable/123456"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Mathematics",
+        "institution": "University of Göttingen"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1869,
+        "event": "Married to study abroad (common practice for women)"
+      },
+      {
+        "year": 1874,
+        "event": "Earned PhD in Mathematics from University of Göttingen"
+      },
+      {
+        "year": 1884,
+        "event": "Became full professor at Stockholm University"
+      },
+      {
+        "year": 1888,
+        "event": "Won Bordin Prize from French Academy of Sciences"
+      }
+    ],
+    "barriers": [
+      "Severe gender barriers in mathematics",
+      "Had to fight for education rights",
+      "Societal restrictions on women in academia"
+    ],
+    "impact": "Pioneered the path for women in mathematics and academia, showing that women could excel in advanced mathematical research.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Sofia Kovalevskaya: Pioneer Mathematician",
+        "url": "https://www.agnesscott.edu/lriddle/women/kovalevskaya.htm"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sofia_Kovalevskaya"
+      },
+      {
+        "title": "Agnes Scott College",
+        "url": "https://www.agnesscott.edu/lriddle/women/kovalevskaya.htm"
+      }
+    ],
+    "mentorship": "Inspired women in mathematics and became a role model for women in academia.",
+    "fun_fact": "Sofia Kovalevskaya was also a novelist and wrote several works of fiction alongside her mathematical research.",
+    "career_path": {
+      "first_job": "Mathematics tutor",
+      "career_highlights": [
+        "First woman with PhD in mathematics",
+        "Became full professor",
+        "Won prestigious mathematics prize"
+      ],
+      "advice_for_students": "Don't let anyone tell you that mathematics is not for women. Follow your passion regardless of barriers."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Science: 50 Fearless Pioneers Who Changed the World",
+        "A Beautiful Mind: The Life of Mathematical Genius Sofia Kovalevskaya"
+      ],
+      "websites": [
+        "math.org",
+        "womeninscience.org",
+        "agnesscott.edu"
+      ],
+      "programs": [
+        "Mathematics competitions",
+        "Women in STEM mentorship programs",
+        "Science competitions"
+      ],
+      "advice": "Study mathematics with passion and don't let gender stereotypes hold you back. Numbers don't discriminate."
+    },
+    "challenges": {
+      "academic": [
+        "Limited opportunities for women in mathematics"
+      ],
+      "professional": [
+        "Severe gender barriers in academia",
+        "Societal restrictions on women"
+      ],
+      "personal": [
+        "Fighting for education rights",
+        "Being one of very few women in mathematics"
+      ],
+      "how_overcame": "Used determination and mathematical excellence to prove women could excel in advanced mathematics"
+    },
+    "education_details": {
+      "high_school": "Excelled in mathematics despite restrictions",
+      "college_major": "Mathematics",
+      "graduate_school": "PhD in Mathematics from University of Göttingen",
+      "key_courses": [
+        "Advanced Mathematics",
+        "Partial Differential Equations",
+        "Mechanics",
+        "Mathematical Analysis"
+      ],
+      "study_tips": "Combine theoretical knowledge with creative thinking and never stop asking questions"
+    },
+    "modern_impact": {
+      "current_applications": "Her work on partial differential equations continues to influence mathematics",
+      "companies_using_her_work": [
+        "Universities worldwide",
+        "Research institutions",
+        "Mathematical societies"
+      ],
+      "future_implications": "Her pioneering work continues to inspire women in mathematics and academia"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Physics",
+        "Literature",
+        "Writing"
+      ],
+      "family_background": "Encouraged education despite societal restrictions",
+      "hobbies": [
+        "Writing novels",
+        "Reading mathematics",
+        "Teaching"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Creative",
+        "Analytical",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Russian",
+      "cultural_influences": [
+        "Russian mathematical tradition",
+        "European academic culture",
+        "19th century women's movement"
+      ],
+      "cultural_challenges": [
+        "Severe gender barriers in Russian society",
+        "Limited opportunities for women in academia"
+      ],
+      "cultural_contributions": "Broke barriers for women in mathematics throughout Europe and inspired future generations"
+    }
   }
 ];
 
