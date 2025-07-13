@@ -1408,7 +1408,7 @@ const pioneers = [
     fields: ["Chemistry", "Medicine"],
     roles: ["Chemist", "Researcher"],
     quote: "I have always tried to do what I could to help others.",
-    summary: "First African American woman to receive a master's degree from University of Hawaii and developed treatment for leprosy.",
+    summary: "Developed the first successful treatment for leprosy and was the first African American woman to earn a master's from the University of Hawaii.",
     achievements: [
       "Developed leprosy treatment",
       "First African American woman with master's from UH",
@@ -1588,6 +1588,162 @@ const pioneers = [
       "Pioneered research in medicinal plants",
       "Developed anti-malarial drugs",
       "First Indian woman to receive Doctor of Science"
+    ]
+  },
+  {
+    name: "Alice Augusta Ball",
+    photo: "./images/alice-ball.svg",
+    birthDate: "1892",
+    deathDate: "1916",
+    country: "United States",
+    fields: ["Chemistry", "Medicine"],
+    roles: ["Chemist", "Researcher"],
+    quote: "I have always tried to do what I could to help others.",
+    summary: "Developed the first successful treatment for leprosy and was the first African American woman to earn a master's from the University of Hawaii.",
+    achievements: [
+      "Developed leprosy treatment",
+      "First African American woman with master's from UH",
+      "Pioneered chaulmoogra oil extraction"
+    ]
+  },
+  {
+    name: "Mary Somerville",
+    photo: "./images/mary-somerville.svg",
+    birthDate: "1780",
+    deathDate: "1872",
+    country: "United Kingdom",
+    fields: ["Mathematics", "Astronomy"],
+    roles: ["Mathematician", "Science Writer"],
+    quote: "Nothing has afforded me so convincing a proof of the unity of the Deity as these purely mental conceptions of numerical and mathematical science.",
+    summary: "Popularized science and mathematics, and her work led to the discovery of Neptune.",
+    achievements: [
+      "Popularized science and mathematics",
+      "Work led to discovery of Neptune",
+      "First female member of the Royal Astronomical Society"
+    ]
+  },
+  {
+    name: "Gerty Cori",
+    photo: "./images/gerty-cori.svg",
+    birthDate: "1896",
+    deathDate: "1957",
+    country: "Czech Republic/United States",
+    fields: ["Biochemistry", "Medicine"],
+    roles: ["Biochemist", "Professor"],
+    quote: "The love for and dedication to one's work is the foundation of all happiness.",
+    summary: "First woman to win the Nobel Prize in Physiology or Medicine for her work on carbohydrate metabolism.",
+    achievements: [
+      "Nobel Prize in Physiology or Medicine (1947)",
+      "Discovered the Cori cycle",
+      "Pioneered research in biochemistry"
+    ]
+  },
+  {
+    name: "Inge Lehmann",
+    photo: "./images/inge-lehmann.svg",
+    birthDate: "1888",
+    deathDate: "1993",
+    country: "Denmark",
+    fields: ["Geophysics", "Seismology"],
+    roles: ["Geophysicist", "Seismologist"],
+    quote: "You should know how many incompetent men I had to compete with—in vain.",
+    summary: "Discovered the Earth's inner core, revolutionizing our understanding of the planet's structure.",
+    achievements: [
+      "Discovered Earth's inner core",
+      "Pioneered seismology",
+      "First woman to receive the William Bowie Medal"
+    ]
+  },
+  {
+    name: "Dorothy Mary Crowfoot Hodgkin",
+    photo: "./images/dorothy-hodgkin.svg",
+    birthDate: "1910",
+    deathDate: "1994",
+    country: "United Kingdom",
+    fields: ["Chemistry", "Crystallography"],
+    roles: ["Chemist", "Crystallographer"],
+    quote: "I was captured for life by chemistry and by crystals.",
+    summary: "Nobel Prize-winning chemist who determined the structure of penicillin and vitamin B12 using X-ray crystallography.",
+    achievements: [
+      "Nobel Prize in Chemistry (1964)",
+      "Determined structure of penicillin",
+      "Solved structure of vitamin B12"
+    ]
+  },
+  {
+    name: "Jane Goodall",
+    photo: "./images/jane-goodall.svg",
+    birthDate: "1934",
+    country: "United Kingdom",
+    fields: ["Primatology", "Anthropology"],
+    roles: ["Primatologist", "Anthropologist"],
+    quote: "What you do makes a difference, and you have to decide what kind of difference you want to make.",
+    summary: "World-renowned primatologist who transformed our understanding of chimpanzees and animal behavior.",
+    achievements: [
+      "Transformed primatology",
+      "Founded the Jane Goodall Institute",
+      "UN Messenger of Peace"
+    ]
+  },
+  {
+    name: "Mae Jemison",
+    photo: "./images/mae-jemison.jpg",
+    birthDate: "1956",
+    country: "United States",
+    fields: ["Engineering", "Medicine", "Astronautics"],
+    roles: ["Engineer", "Physician", "Astronaut"],
+    quote: "Never be limited by other people's limited imaginations.",
+    summary: "First African American woman in space, physician, and engineer.",
+    achievements: [
+      "First African American woman in space",
+      "Mission specialist on Space Shuttle Endeavour",
+      "Advocate for science education"
+    ]
+  },
+  {
+    name: "Tu Youyou",
+    photo: "./images/tu-youyou.svg",
+    birthDate: "1930",
+    country: "China",
+    fields: ["Chemistry", "Phytomedicine"],
+    roles: ["Pharmacologist", "Chemist"],
+    quote: "Every scientist dreams of doing something that can help the world.",
+    summary: "Discovered artemisinin, saving millions from malaria; Nobel Prize winner.",
+    achievements: [
+      "Discovered artemisinin for malaria treatment",
+      "Nobel Prize in Physiology or Medicine (2015)",
+      "Transformed global malaria treatment"
+    ]
+  },
+  {
+    name: "Gladys West",
+    photo: "./images/gladys-west.svg",
+    birthDate: "1930",
+    country: "United States",
+    fields: ["Mathematics", "Geodesy"],
+    roles: ["Mathematician", "Geodesist"],
+    quote: "I never set out to be a pioneer. I just wanted to do my job well.",
+    summary: "Mathematician whose work on satellite geodesy was crucial to the development of GPS.",
+    achievements: [
+      "Pioneered satellite geodesy",
+      "Developed mathematical modeling for GPS",
+      "Inducted into the Air Force Space and Missile Pioneers Hall of Fame"
+    ]
+  },
+  {
+    name: "Barbara McClintock",
+    photo: "./images/barbara-mcclintock.svg",
+    birthDate: "1902",
+    deathDate: "1992",
+    country: "United States",
+    fields: ["Genetics", "Cytogenetics"],
+    roles: ["Geneticist", "Cytogeneticist"],
+    quote: "If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off... no matter what they say.",
+    summary: "Nobel Prize-winning geneticist who discovered transposable elements (jumping genes).",
+    achievements: [
+      "Discovered genetic transposition",
+      "Nobel Prize in Physiology or Medicine (1983)",
+      "Pioneered maize cytogenetics"
     ]
   }
 ];
