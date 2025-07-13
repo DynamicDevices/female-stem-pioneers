@@ -361,13 +361,6 @@ class PioneersApp {
         </div>
         ` : ''}
         
-        ${pioneer.fun_fact ? `
-        <div class="expandable-section">
-          <h4>Fun Fact</h4>
-          <p>${pioneer.fun_fact}</p>
-        </div>
-        ` : ''}
-        
         <div class="expandable-section">
           <h4>Legacy</h4>
           <p>${pioneer.legacy || "Her work continues to inspire future generations of scientists and researchers."}</p>
