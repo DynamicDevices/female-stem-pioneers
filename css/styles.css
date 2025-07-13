@@ -1901,7 +1901,7 @@ body.light-theme .mobile-menu-toggle span {
   flex: 1;
   display: grid;
   grid-template-rows: auto auto auto auto auto;
-  gap: 12px;
+  gap: 16px;
   align-items: start;
   grid-row: 2;
 }
@@ -1909,7 +1909,7 @@ body.light-theme .mobile-menu-toggle span {
 .pioneer-actions {
   display: flex;
   gap: 12px;
-  margin-top: auto;
+  margin-top: 16px;
   padding-top: 16px;
   border-top: 1px solid #334155;
   grid-row: 3;
@@ -2203,7 +2203,6 @@ body.light-theme .mobile-menu-toggle span {
   border-radius: 8px;
   border-left: 4px solid #ec4899;
   grid-row: 2;
-  margin-bottom: 12px;
 }
 
 .pioneer-short-description h4 {
