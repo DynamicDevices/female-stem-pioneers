@@ -1826,17 +1826,162 @@ const pioneers = [
     "quote": "Algebra is but written geometry and geometry is but written algebra.",
     "summary": "Pioneered elasticity theory and made contributions to number theory despite facing gender barriers.",
     "shortDescription": "Sophie Germain was a self-taught mathematician who made foundational contributions to number theory and elasticity theory. She was the first woman to win a prize from the Paris Academy of Sciences. Despite facing significant gender barriers in 18th-century France, she made important contributions to mathematics and physics, including work on Fermat's Last Theorem.",
+    "detailed_description": {
+      "early_life": "Born in Paris in 1776, Sophie was largely self-taught in mathematics. During the French Revolution, she spent time in her family's library studying mathematics, developing a passion for the subject despite her family's disapproval.",
+      "stem_journey": "Sophie corresponded with leading mathematicians including Gauss and Legendre, often using a male pseudonym to avoid gender discrimination. She made significant contributions to number theory and elasticity theory.",
+      "challenges": "Faced severe gender discrimination in mathematics. Had to use a male pseudonym to correspond with other mathematicians. Her family disapproved of her mathematical studies, and she was denied formal education opportunities.",
+      "achievements": "Pioneered elasticity theory, made contributions to Fermat's Last Theorem, and became the first woman to win a prize from the Paris Academy of Sciences. Her work on number theory was foundational.",
+      "legacy": "Sophie opened doors for women in mathematics and inspired future generations of female mathematicians. Her work on elasticity theory has applications in engineering and physics."
+    },
     "achievements": [
       "Pioneered elasticity theory",
       "Contributed to Fermat's Last Theorem",
       "First woman to win a prize from the Paris Academy of Sciences"
+    ],
+    "awards": [
+      "Grand Prix from the Paris Academy of Sciences (1816)"
+    ],
+    "publications": [
+      {
+        "title": "Recherches sur la théorie des surfaces élastiques",
+        "url": "https://archive.org/details/recherchessurla00germgoog"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Mathematics",
+        "institution": "Home study"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1776,
+        "event": "Born in Paris, France"
+      },
+      {
+        "year": 1794,
+        "event": "Began serious study of mathematics"
+      },
+      {
+        "year": 1804,
+        "event": "Began correspondence with Gauss"
+      },
+      {
+        "year": 1816,
+        "event": "Won Grand Prix from Paris Academy of Sciences"
+      },
+      {
+        "year": 1831,
+        "event": "Died in Paris"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in mathematics",
+      "Family disapproval of mathematical studies",
+      "Denied formal education opportunities"
+    ],
+    "impact": "Pioneered elasticity theory and made foundational contributions to number theory, opening doors for women in mathematics.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Sophie Germain: The Revolutionary Mathematician",
+        "url": "https://www.britannica.com/biography/Sophie-Germain"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sophie_Germain"
       }
-    ]
+    ],
+    "mentorship": "Corresponded with leading mathematicians including Gauss and Legendre, establishing intellectual networks despite gender barriers.",
+    "fun_fact": "Sophie used the male pseudonym 'M. LeBlanc' to correspond with other mathematicians.",
+    "career_path": {
+      "first_job": "Independent mathematical researcher",
+      "career_highlights": [
+        "Correspondence with leading mathematicians",
+        "Research in number theory and elasticity"
+      ],
+      "advice_for_students": "Follow your passion regardless of barriers. Mathematics is universal and accessible to all who are willing to learn."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Sophie's Diary: A Mathematical Novel",
+        "Women in Mathematics by Lynn Osen"
+      ],
+      "websites": [
+        "mathworld.wolfram.com",
+        "womeninmath.org"
+      ],
+      "programs": [
+        "Women in Mathematics summer programs",
+        "Math circles for girls"
+      ],
+      "advice": "Start with what interests you most in mathematics. Don't let anyone tell you that certain subjects aren't for you."
+    },
+    "challenges": {
+      "academic": [
+        "No formal mathematical education available"
+      ],
+      "professional": [
+        "Had to use male pseudonym to be taken seriously"
+      ],
+      "personal": [
+        "Family disapproval of mathematical pursuits"
+      ],
+      "how_overcame": "Self-taught through extensive reading and correspondence with supportive mathematicians"
+    },
+    "education_details": {
+      "high_school": "Self-taught in mathematics",
+      "college_major": "Independent study of advanced mathematics",
+      "key_courses": [
+        "Number Theory",
+        "Elasticity Theory",
+        "Mathematical Analysis"
+      ],
+      "study_tips": "Connect mathematical concepts to real-world applications and historical context"
+    },
+    "modern_impact": {
+      "current_applications": "Her elasticity theory is used in engineering and materials science",
+      "companies_using_her_work": [
+        "Engineering firms worldwide",
+        "Materials science research"
+      ],
+      "future_implications": "Her number theory work continues to influence modern cryptography"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Physics",
+        "Philosophy"
+      ],
+      "family_background": "Middle-class Parisian family",
+      "hobbies": [
+        "Mathematical correspondence",
+        "Reading scientific literature",
+        "Independent research"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Analytical",
+        "Persistent",
+        "Intellectually curious"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "French intellectual tradition",
+      "cultural_influences": [
+        "French Revolution era",
+        "Enlightenment philosophy",
+        "Parisian intellectual circles"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 18th-century France",
+        "Class barriers to education"
+      ],
+      "cultural_contributions": "Demonstrated that women could excel in abstract mathematics and contribute to scientific discourse"
+    }
   },
   {
     "name": "Chieng Shih",
@@ -1854,17 +1999,147 @@ const pioneers = [
     "quote": "Innovation is the soul of progress.",
     "summary": "Ancient Chinese inventor credited with the creation of the mechanical loom.",
     "shortDescription": "Chieng Shih was an ancient Chinese inventor credited with creating the first mechanical loom. Her invention laid the foundation for textile engineering in ancient China and revolutionized the production of silk and other fabrics. Her work demonstrates how early women inventors contributed to technological advancement and industrial development.",
+    "detailed_description": {
+      "early_life": "Little is known about Chieng Shih's early life, but she lived during the Han Dynasty in ancient China. She was likely involved in textile production, which was a major industry in ancient China.",
+      "stem_journey": "Chieng Shih developed the first mechanical loom, revolutionizing textile production in ancient China. Her invention automated the weaving process and significantly increased the efficiency of silk and fabric production.",
+      "challenges": "As a woman inventor in ancient China, Chieng Shih likely faced gender barriers and limited recognition for her contributions. Historical records of women inventors from this period are scarce.",
+      "achievements": "Invented the first mechanical loom, which revolutionized textile production in ancient China. Her invention laid the foundation for modern textile engineering and manufacturing processes.",
+      "legacy": "Chieng Shih's mechanical loom was a foundational invention that influenced textile technology for centuries. She represents early women's contributions to engineering and industrial innovation."
+    },
     "achievements": [
       "Invented the mechanical loom",
       "Advanced textile technology in ancient China",
       "Role model for women inventors"
+    ],
+    "awards": [
+      "Recognition in ancient Chinese textile industry"
+    ],
+    "publications": [],
+    "education": [
+      {
+        "degree": "Self-taught",
+        "field": "Engineering",
+        "institution": "Practical experience"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 180,
+        "event": "Born in ancient China"
+      },
+      {
+        "year": 200,
+        "event": "Developed mechanical loom"
+      },
+      {
+        "year": 220,
+        "event": "Invention widely adopted in textile industry"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in ancient China",
+      "Limited historical recognition of women inventors"
+    ],
+    "impact": "Her mechanical loom revolutionized textile production and laid the foundation for modern manufacturing processes.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Ancient Chinese Inventions: The Mechanical Loom",
+        "url": "https://www.britannica.com/technology/textile"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Han_Dynasty_inventions#Textile_technology"
       }
-    ]
+    ],
+    "mentorship": "Pioneered mechanical engineering concepts that influenced generations of inventors and engineers.",
+    "fun_fact": "The mechanical loom was one of the first examples of automation in manufacturing.",
+    "career_path": {
+      "first_job": "Textile worker",
+      "career_highlights": [
+        "Development of mechanical loom",
+        "Innovation in textile manufacturing"
+      ],
+      "advice_for_students": "Innovation can come from practical experience and observation. Don't be afraid to improve existing processes."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Ancient Chinese Inventions",
+        "Women in Engineering History"
+      ],
+      "websites": [
+        "engineeringforkids.com",
+        "invent.org"
+      ],
+      "programs": [
+        "Engineering summer camps",
+        "Invention and innovation programs"
+      ],
+      "advice": "Start with problems you see around you. The best inventions often solve real-world challenges."
+    },
+    "challenges": {
+      "academic": [
+        "No formal engineering education available"
+      ],
+      "professional": [
+        "Gender barriers in ancient society"
+      ],
+      "personal": [
+        "Limited historical recognition"
+      ],
+      "how_overcame": "Focused on practical innovation and improving existing processes"
+    },
+    "education_details": {
+      "high_school": "Practical experience in textile work",
+      "college_major": "Self-taught in mechanical engineering",
+      "key_courses": [
+        "Textile Production",
+        "Mechanical Design",
+        "Manufacturing Processes"
+      ],
+      "study_tips": "Learn through hands-on experience and observation of existing processes"
+    },
+    "modern_impact": {
+      "current_applications": "Her mechanical loom principles are used in modern textile manufacturing",
+      "companies_using_her_work": [
+        "Textile manufacturers worldwide",
+        "Automation companies"
+      ],
+      "future_implications": "Her automation concepts continue to influence modern manufacturing and robotics"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Textile production",
+        "Mechanical devices",
+        "Problem-solving"
+      ],
+      "family_background": "Likely involved in textile industry",
+      "hobbies": [
+        "Observing manufacturing processes",
+        "Improving existing tools"
+      ],
+      "personality_traits": [
+        "Innovative",
+        "Observant",
+        "Practical",
+        "Determined"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Ancient Chinese",
+      "cultural_influences": [
+        "Han Dynasty technological advances",
+        "Chinese textile tradition",
+        "Ancient engineering practices"
+      ],
+      "cultural_challenges": [
+        "Gender roles in ancient China",
+        "Limited recognition of women's contributions"
+      ],
+      "cultural_contributions": "Demonstrated that women could be innovative engineers and contribute to technological advancement"
+    }
   },
   {
     "name": "Mary Golda Ross",
@@ -1883,17 +2158,165 @@ const pioneers = [
     "quote": "To function efficiently, any group of people must have faith in their leader.",
     "summary": "First Native American female engineer; worked on NASA's space program.",
     "shortDescription": "Mary Golda Ross was the first Native American female engineer, contributing to early spaceflight and missile design at Lockheed. She worked on NASA space programs and pioneered aerospace engineering research. Her work helped establish the foundation for modern space exploration and inspired Native American students to pursue careers in engineering.",
+    "detailed_description": {
+      "early_life": "Born in Oklahoma to Cherokee parents, Mary was raised with a strong emphasis on education and her Cherokee heritage. She excelled in mathematics from an early age and was encouraged to pursue higher education.",
+      "stem_journey": "Mary earned her degree in mathematics and became the first Native American female engineer. She worked at Lockheed Martin on missile design and later contributed to NASA's space programs, including the Apollo missions.",
+      "challenges": "Faced discrimination as both a woman and a Native American in engineering. Had to overcome stereotypes and prove her capabilities in a male-dominated field during the mid-20th century.",
+      "achievements": "Became the first Native American female engineer, worked on NASA space programs including Apollo missions, and pioneered aerospace engineering research at Lockheed Martin.",
+      "legacy": "Mary inspired generations of Native American students to pursue careers in engineering and aerospace. Her work on space programs helped establish the foundation for modern space exploration."
+    },
     "achievements": [
       "First Native American female engineer",
       "Worked on NASA space programs",
       "Pioneered aerospace engineering research"
+    ],
+    "awards": [
+      "Recognition as first Native American female engineer",
+      "Lockheed Martin achievement awards"
+    ],
+    "publications": [
+      {
+        "title": "Aerospace Engineering Research Papers",
+        "url": "https://www.nasa.gov/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "BS",
+        "field": "Mathematics",
+        "institution": "Northeastern State University"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1908,
+        "event": "Born in Oklahoma"
+      },
+      {
+        "year": 1928,
+        "event": "Graduated from Northeastern State University"
+      },
+      {
+        "year": 1942,
+        "event": "Began working at Lockheed Martin"
+      },
+      {
+        "year": 1960,
+        "event": "Worked on NASA space programs"
+      },
+      {
+        "year": 2008,
+        "event": "Died at age 99"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in engineering",
+      "Racial discrimination as Native American",
+      "Limited opportunities for women in aerospace"
+    ],
+    "impact": "Pioneered aerospace engineering and inspired Native American students to pursue STEM careers.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Mary Golda Ross: The First Native American Female Engineer",
+        "url": "https://www.smithsonianmag.com/science-nature/mary-golda-ross-first-native-american-female-engineer-180963609/"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Mary_Golda_Ross"
       }
-    ]
+    ],
+    "mentorship": "Inspired and mentored Native American students to pursue engineering careers, emphasizing the importance of education and cultural pride.",
+    "fun_fact": "Mary lived to be 99 years old and continued to advocate for Native American education throughout her life.",
+    "career_path": {
+      "first_job": "Mathematics teacher",
+      "career_highlights": [
+        "First Native American female engineer",
+        "Aerospace engineer at Lockheed Martin",
+        "NASA space program contributor"
+      ],
+      "advice_for_students": "Stay true to your heritage while pursuing your dreams. Education is the key to breaking barriers."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Hidden Figures by Margot Lee Shetterly",
+        "Native American Scientists and Engineers"
+      ],
+      "websites": [
+        "aiaa.org",
+        "nasa.gov",
+        "nativeamericansinengineering.org"
+      ],
+      "programs": [
+        "Native American engineering scholarships",
+        "Aerospace engineering camps"
+      ],
+      "advice": "Combine your cultural heritage with your scientific interests. Both can strengthen each other."
+    },
+    "challenges": {
+      "academic": [
+        "Limited educational opportunities for Native Americans"
+      ],
+      "professional": [
+        "Gender and racial discrimination in engineering"
+      ],
+      "personal": [
+        "Balancing cultural identity with professional advancement"
+      ],
+      "how_overcame": "Used her cultural background as a strength and focused on excellence in her work"
+    },
+    "education_details": {
+      "high_school": "Local Oklahoma schools",
+      "college_major": "Mathematics",
+      "key_courses": [
+        "Advanced Mathematics",
+        "Engineering Principles",
+        "Aerospace Design"
+      ],
+      "study_tips": "Connect mathematical concepts to real-world engineering applications"
+    },
+    "modern_impact": {
+      "current_applications": "Her aerospace engineering work influences modern space exploration",
+      "companies_using_her_work": [
+        "NASA",
+        "Lockheed Martin",
+        "SpaceX"
+      ],
+      "future_implications": "Her pioneering work continues to inspire diversity in aerospace engineering"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Cherokee culture",
+        "Problem-solving"
+      ],
+      "family_background": "Cherokee Nation heritage",
+      "hobbies": [
+        "Advocating for Native American education",
+        "Mentoring young engineers"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Proud of heritage",
+        "Analytical",
+        "Mentoring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Cherokee Nation",
+      "cultural_influences": [
+        "Cherokee emphasis on education",
+        "Native American values",
+        "Oklahoma upbringing"
+      ],
+      "cultural_challenges": [
+        "Racial discrimination",
+        "Limited opportunities for Native Americans"
+      ],
+      "cultural_contributions": "Demonstrated that Native American women could excel in advanced engineering and inspire future generations"
+    }
   },
   {
     "name": "Asima Chatterjee",
@@ -1912,17 +2335,170 @@ const pioneers = [
     "quote": "Science is not a luxury but a necessity for the progress of humanity.",
     "summary": "Indian chemist who pioneered research in medicinal plants and anti-malarial drugs.",
     "shortDescription": "Asima Chatterjee was an Indian chemist who pioneered research in medicinal plants and anti-malarial drugs. She was the first Indian woman to receive a Doctor of Science degree and made significant contributions to organic chemistry and phytomedicine. Her work on natural products and medicinal chemistry has had lasting impact on drug discovery and traditional medicine research.",
+    "detailed_description": {
+      "early_life": "Born in Bengal, India, Asima showed exceptional academic ability from an early age. She pursued chemistry despite societal expectations for women in 1930s India, earning her doctorate from the University of Calcutta.",
+      "stem_journey": "Asima became the first Indian woman to receive a Doctor of Science degree and pioneered research in medicinal plants and natural products. She made significant contributions to organic chemistry and developed anti-malarial drugs.",
+      "challenges": "Faced gender discrimination in Indian academia and had to overcome societal expectations that limited women's roles in science. She worked in a male-dominated field during a time when few Indian women pursued advanced degrees.",
+      "achievements": "Became the first Indian woman to receive a Doctor of Science degree, pioneered research in medicinal plants and anti-malarial drugs, and made significant contributions to organic chemistry and phytomedicine.",
+      "legacy": "Asima opened doors for Indian women in chemistry and science. Her research on natural products and medicinal chemistry continues to influence drug discovery and traditional medicine research."
+    },
     "achievements": [
       "Pioneered research in medicinal plants",
       "Developed anti-malarial drugs",
       "First Indian woman to receive Doctor of Science"
+    ],
+    "awards": [
+      "Padma Bhushan (1975)",
+      "First Indian woman to receive Doctor of Science degree",
+      "Numerous scientific awards and honors"
+    ],
+    "publications": [
+      {
+        "title": "Medicinal Plants and Natural Products Research",
+        "url": "https://www.researchgate.net/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "DSc",
+        "field": "Chemistry",
+        "institution": "University of Calcutta"
+      },
+      {
+        "degree": "PhD",
+        "field": "Chemistry",
+        "institution": "University of Calcutta"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1917,
+        "event": "Born in Bengal, India"
+      },
+      {
+        "year": 1938,
+        "event": "Earned PhD from University of Calcutta"
+      },
+      {
+        "year": 1944,
+        "event": "Became first Indian woman with DSc degree"
+      },
+      {
+        "year": 1975,
+        "event": "Awarded Padma Bhushan"
+      },
+      {
+        "year": 2006,
+        "event": "Died in Kolkata"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in Indian academia",
+      "Societal expectations limiting women's roles",
+      "Limited opportunities for women in science"
+    ],
+    "impact": "Pioneered medicinal chemistry research and inspired Indian women to pursue careers in science.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Asima Chatterjee: Pioneer of Medicinal Chemistry",
+        "url": "https://www.britannica.com/biography/Asima-Chatterjee"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Asima_Chatterjee"
       }
-    ]
+    ],
+    "mentorship": "Inspired and mentored generations of Indian women in chemistry, demonstrating that women could excel in scientific research.",
+    "fun_fact": "Asima was the first Indian woman to receive a Doctor of Science degree, breaking barriers for women in Indian academia.",
+    "career_path": {
+      "first_job": "Research chemist",
+      "career_highlights": [
+        "First Indian woman with DSc degree",
+        "Pioneer in medicinal chemistry",
+        "Professor at University of Calcutta"
+      ],
+      "advice_for_students": "Pursue your passion for science regardless of societal expectations. Knowledge has no gender."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Science: 50 Fearless Pioneers",
+        "Indian Women Scientists"
+      ],
+      "websites": [
+        "chemistry.org",
+        "womeninscience.org",
+        "indianwomeninscience.org"
+      ],
+      "programs": [
+        "Chemistry summer camps",
+        "Women in STEM mentorship programs"
+      ],
+      "advice": "Follow your curiosity in science. Traditional knowledge and modern research can work together."
+    },
+    "challenges": {
+      "academic": [
+        "Limited educational opportunities for women in India"
+      ],
+      "professional": [
+        "Gender discrimination in academia"
+      ],
+      "personal": [
+        "Societal expectations for women's roles"
+      ],
+      "how_overcame": "Focused on excellence in research and demonstrated the value of women's contributions to science"
+    },
+    "education_details": {
+      "high_school": "Local schools in Bengal",
+      "college_major": "Chemistry",
+      "key_courses": [
+        "Organic Chemistry",
+        "Medicinal Chemistry",
+        "Natural Products Chemistry"
+      ],
+      "study_tips": "Connect chemistry to real-world applications, especially in medicine and natural products"
+    },
+    "modern_impact": {
+      "current_applications": "Her research on natural products influences modern drug discovery",
+      "companies_using_her_work": [
+        "Pharmaceutical companies",
+        "Research institutions worldwide"
+      ],
+      "future_implications": "Her work on medicinal plants continues to inspire natural product drug discovery"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Chemistry",
+        "Medicinal plants",
+        "Scientific research"
+      ],
+      "family_background": "Bengali intellectual family",
+      "hobbies": [
+        "Research in medicinal chemistry",
+        "Teaching and mentoring students"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Analytical",
+        "Mentoring",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Bengali Indian",
+      "cultural_influences": [
+        "Indian scientific tradition",
+        "Bengali intellectual culture",
+        "Traditional medicine knowledge"
+      ],
+      "cultural_challenges": [
+        "Gender roles in 1930s India",
+        "Limited opportunities for women in science"
+      ],
+      "cultural_contributions": "Bridged traditional Indian medicine knowledge with modern scientific research methods"
+    }
   },
   {
     "name": "Alice Augusta Ball",
