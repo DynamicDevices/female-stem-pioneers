@@ -7317,6 +7317,35 @@ const pioneers = [
         "url": "https://en.wikipedia.org/wiki/Ida_Noddack"
       }
     ]
+  },
+  {
+    "name": "Radia Perlman",
+    "photo": "./images/radia-perlman.jpg",
+    "birthDate": "1951",
+    "country": "United States",
+    "fields": [
+      "Computer Science",
+      "Networking"
+    ],
+    "roles": [
+      "Computer Scientist",
+      "Network Engineer"
+    ],
+    "quote": "The Internet is not just one thing, it's a collection of things.",
+    "summary": "Computer scientist known as the 'Mother of the Internet' for inventing the spanning tree protocol.",
+    "shortDescription": "Radia Perlman is a computer scientist known as the 'Mother of the Internet' for inventing the spanning tree protocol, which is fundamental to how computer networks work. Her work made the Internet possible and she holds over 100 patents in networking technology.",
+    "achievements": [
+      "Invented spanning tree protocol",
+      "Known as 'Mother of the Internet'",
+      "Holds over 100 networking patents",
+      "Pioneered network routing algorithms"
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Radia_Perlman"
+      }
+    ]
   }
 ];
 
