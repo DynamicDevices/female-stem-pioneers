@@ -3060,17 +3060,169 @@ const pioneers = [
     "quote": "You should know how many incompetent men I had to compete with—in vain.",
     "summary": "Discovered the Earth's inner core, revolutionizing our understanding of the planet's structure.",
     "shortDescription": "Inge Lehmann discovered the Earth's inner core, revolutionizing our understanding of the planet's structure. She pioneered seismology and was the first woman to receive the William Bowie Medal. Her analysis of seismic waves revealed that the Earth has a solid inner core surrounded by a liquid outer core, fundamentally changing our understanding of Earth's interior.",
+    "detailed_description": {
+      "early_life": "Born in Copenhagen, Denmark, Inge showed exceptional mathematical ability from an early age. She studied mathematics and physics at the University of Copenhagen and later specialized in seismology.",
+      "stem_journey": "Inge became a pioneering seismologist who analyzed seismic wave data to understand Earth's structure. Her careful analysis of earthquake data led to the discovery of Earth's inner core in 1936.",
+      "challenges": "Faced significant gender discrimination in geophysics and had to compete with male colleagues who often received more recognition. She worked in a male-dominated field during the early 20th century.",
+      "achievements": "Discovered Earth's inner core, pioneered modern seismology, and became the first woman to receive the William Bowie Medal. Her work fundamentally changed our understanding of Earth's structure.",
+      "legacy": "Inge revolutionized our understanding of Earth's interior and opened doors for women in geophysics. Her discovery of the inner core is fundamental to modern Earth science."
+    },
     "achievements": [
       "Discovered Earth's inner core",
       "Pioneered seismology",
       "First woman to receive the William Bowie Medal"
+    ],
+    "awards": [
+      "William Bowie Medal (1971)",
+      "First woman to receive the William Bowie Medal",
+      "Honorary degrees from multiple universities"
+    ],
+    "publications": [
+      {
+        "title": "P'",
+        "url": "https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Inge-Lehmann-Medal"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MS",
+        "field": "Mathematics",
+        "institution": "University of Copenhagen"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1888,
+        "event": "Born in Copenhagen, Denmark"
+      },
+      {
+        "year": 1911,
+        "event": "Earned degree in mathematics"
+      },
+      {
+        "year": 1928,
+        "event": "Began work in seismology"
+      },
+      {
+        "year": 1936,
+        "event": "Discovered Earth's inner core"
+      },
+      {
+        "year": 1971,
+        "event": "Received William Bowie Medal"
+      },
+      {
+        "year": 1993,
+        "event": "Died at age 104"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in geophysics",
+      "Competition with male colleagues",
+      "Limited recognition for women's contributions"
+    ],
+    "impact": "Revolutionized understanding of Earth's structure and opened doors for women in geophysics.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Inge Lehmann: Discoverer of Earth's Inner Core",
+        "url": "https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Inge-Lehmann-Medal"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Inge_Lehmann"
       }
-    ]
+    ],
+    "mentorship": "Inspired future generations of women in geophysics and Earth sciences through her groundbreaking discoveries.",
+    "fun_fact": "Inge lived to be 104 years old and continued to work in seismology well into her 90s.",
+    "career_path": {
+      "first_job": "Seismologist",
+      "career_highlights": [
+        "Discovered Earth's inner core",
+        "Pioneer in seismology",
+        "First woman to receive William Bowie Medal"
+      ],
+      "advice_for_students": "Focus on the data and let the evidence guide your conclusions, regardless of what others think."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "The Earth's Inner Core: Discovery and Implications",
+        "Women in Earth Sciences"
+      ],
+      "websites": [
+        "usgs.gov",
+        "earthquake.usgs.gov",
+        "womeningeoscience.org"
+      ],
+      "programs": [
+        "Earth science summer camps",
+        "Seismology research programs"
+      ],
+      "advice": "Study mathematics and physics to understand Earth's processes. The planet has many secrets waiting to be discovered."
+    },
+    "challenges": {
+      "academic": [
+        "Gender barriers in mathematics and physics"
+      ],
+      "professional": [
+        "Competition with male colleagues in geophysics"
+      ],
+      "personal": [
+        "Working in a male-dominated field"
+      ],
+      "how_overcame": "Focused on excellence in data analysis and let her discoveries speak for themselves"
+    },
+    "education_details": {
+      "high_school": "Schools in Copenhagen",
+      "college_major": "Mathematics",
+      "key_courses": [
+        "Mathematics",
+        "Physics",
+        "Seismology"
+      ],
+      "study_tips": "Learn to analyze data carefully and look for patterns that others might miss"
+    },
+    "modern_impact": {
+      "current_applications": "Her discovery of Earth's inner core is fundamental to modern geophysics",
+      "companies_using_her_work": [
+        "Geological surveys worldwide",
+        "Earthquake monitoring systems"
+      ],
+      "future_implications": "Her work continues to influence our understanding of Earth's structure and seismic activity"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Mathematics",
+        "Physics",
+        "Earth sciences"
+      ],
+      "family_background": "Danish intellectual family",
+      "hobbies": [
+        "Seismic data analysis",
+        "Travel and research"
+      ],
+      "personality_traits": [
+        "Analytical",
+        "Determined",
+        "Meticulous",
+        "Long-lived"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Danish",
+      "cultural_influences": [
+        "Danish scientific tradition",
+        "European geophysics",
+        "Early 20th-century scientific culture"
+      ],
+      "cultural_challenges": [
+        "Gender roles in early 20th-century Denmark",
+        "Male dominance in geophysics"
+      ],
+      "cultural_contributions": "Demonstrated that women could excel in geophysics and make fundamental discoveries about Earth's structure"
+    }
   },
   {
     "name": "Dorothy Mary Crowfoot Hodgkin",
@@ -3089,17 +3241,174 @@ const pioneers = [
     "quote": "I was captured for life by chemistry and by crystals.",
     "summary": "Nobel Prize-winning chemist who determined the structure of penicillin and vitamin B12 using X-ray crystallography.",
     "shortDescription": "Dorothy Mary Crowfoot Hodgkin was a Nobel Prize-winning chemist who determined the structure of penicillin and vitamin B12 using X-ray crystallography. She was instrumental in the discovery of the structure of DNA and antibiotic research. Her work on protein structures has been crucial to understanding how drugs work and developing new medicines.",
+    "detailed_description": {
+      "early_life": "Born in Cairo, Egypt, Dorothy showed exceptional talent in chemistry from an early age. She studied at Oxford and Cambridge, developing a passion for X-ray crystallography and molecular structure determination.",
+      "stem_journey": "Dorothy pioneered X-ray crystallography techniques to determine the structure of complex molecules. She solved the structures of penicillin, vitamin B12, and insulin, revolutionizing our understanding of molecular biology.",
+      "challenges": "Faced gender discrimination in chemistry and had to overcome barriers as a woman in crystallography. She also dealt with rheumatoid arthritis throughout her career, which affected her hands.",
+      "achievements": "Won the Nobel Prize in Chemistry, determined the structure of penicillin and vitamin B12, and pioneered X-ray crystallography techniques that revolutionized molecular biology and drug development.",
+      "legacy": "Dorothy opened doors for women in chemistry and crystallography. Her work on molecular structures is fundamental to modern drug development and understanding of biological molecules."
+    },
     "achievements": [
       "Nobel Prize in Chemistry (1964)",
       "Determined structure of penicillin",
       "Solved structure of vitamin B12"
+    ],
+    "awards": [
+      "Nobel Prize in Chemistry (1964)",
+      "Order of Merit (1965)",
+      "Copley Medal (1976)"
+    ],
+    "publications": [
+      {
+        "title": "X-ray Crystallography and Molecular Structure",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1964/hodgkin/facts/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Chemistry",
+        "institution": "University of Cambridge"
+      },
+      {
+        "degree": "BA",
+        "field": "Chemistry",
+        "institution": "University of Oxford"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1910,
+        "event": "Born in Cairo, Egypt"
+      },
+      {
+        "year": 1932,
+        "event": "Graduated from Oxford"
+      },
+      {
+        "year": 1937,
+        "event": "Earned PhD from Cambridge"
+      },
+      {
+        "year": 1945,
+        "event": "Determined structure of penicillin"
+      },
+      {
+        "year": 1964,
+        "event": "Won Nobel Prize in Chemistry"
+      },
+      {
+        "year": 1994,
+        "event": "Died in England"
+      }
+    ],
+    "barriers": [
+      "Gender discrimination in chemistry",
+      "Physical challenges from rheumatoid arthritis",
+      "Limited recognition for women's contributions"
+    ],
+    "impact": "Pioneered X-ray crystallography and revolutionized our understanding of molecular structures.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Dorothy Hodgkin: Nobel Prize-Winning Crystallographer",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1964/hodgkin/facts/"
+      }
     ],
     "references": [
       {
         "title": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Dorothy_Hodgkin"
       }
-    ]
+    ],
+    "mentorship": "Inspired future generations of women in chemistry and crystallography through her groundbreaking research.",
+    "fun_fact": "Dorothy suffered from rheumatoid arthritis but continued her crystallography work, often using her hands despite the pain.",
+    "career_path": {
+      "first_job": "Research chemist",
+      "career_highlights": [
+        "Nobel Prize in Chemistry",
+        "Pioneer in X-ray crystallography",
+        "Professor at Oxford University"
+      ],
+      "advice_for_students": "Follow your passion for understanding molecular structures. The beauty of crystals can reveal the secrets of life."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Dorothy Hodgkin: A Life",
+        "Women in Science: 50 Fearless Pioneers"
+      ],
+      "websites": [
+        "nobelprize.org",
+        "chemistry.org",
+        "crystallography.org"
+      ],
+      "programs": [
+        "Chemistry summer camps",
+        "Crystallography workshops"
+      ],
+      "advice": "Learn to see the beauty in molecular structures. Understanding how molecules fit together is key to understanding life."
+    },
+    "challenges": {
+      "academic": [
+        "Gender barriers in chemistry education"
+      ],
+      "professional": [
+        "Physical challenges from rheumatoid arthritis"
+      ],
+      "personal": [
+        "Balancing research with physical limitations"
+      ],
+      "how_overcame": "Adapted her techniques to work with her physical limitations and focused on excellence in research"
+    },
+    "education_details": {
+      "high_school": "Schools in England",
+      "college_major": "Chemistry",
+      "key_courses": [
+        "Chemistry",
+        "X-ray Crystallography",
+        "Molecular Biology"
+      ],
+      "study_tips": "Learn to visualize three-dimensional structures and understand how molecules interact"
+    },
+    "modern_impact": {
+      "current_applications": "Her X-ray crystallography techniques are fundamental to modern drug discovery",
+      "companies_using_her_work": [
+        "Pharmaceutical companies",
+        "Research institutions worldwide"
+      ],
+      "future_implications": "Her work continues to influence structural biology and drug development"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Chemistry",
+        "Crystals",
+        "Molecular structures"
+      ],
+      "family_background": "British colonial family",
+      "hobbies": [
+        "X-ray crystallography",
+        "Teaching and mentoring students"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Analytical",
+        "Persistent",
+        "Inspiring"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "British",
+      "cultural_influences": [
+        "British scientific tradition",
+        "Oxford and Cambridge academic culture",
+        "Early 20th-century chemistry"
+      ],
+      "cultural_challenges": [
+        "Gender roles in British academia",
+        "Physical disability in scientific work"
+      ],
+      "cultural_contributions": "Demonstrated that women could excel in advanced chemistry and overcome physical challenges to make groundbreaking discoveries"
+    }
   },
   {
     "name": "Jane Goodall",
