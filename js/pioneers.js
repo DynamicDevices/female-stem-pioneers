@@ -1430,6 +1430,165 @@ const pioneers = [
       "Developed bullet-resistant materials",
       "Inducted into National Inventors Hall of Fame"
     ]
+  },
+  {
+    name: "Mina Rees",
+    photo: "./images/mina-rees.svg",
+    birthDate: "1902",
+    deathDate: "1997",
+    country: "United States",
+    fields: ["Mathematics", "Administration"],
+    roles: ["Mathematician", "Administrator"],
+    quote: "Mathematics is a living subject, growing and changing. It is not a finished book to be read and put aside.",
+    summary: "Pioneering mathematician and first president of the Graduate Center at CUNY, championed women in mathematics.",
+    achievements: [
+      "First president of CUNY Graduate Center",
+      "Promoted women in mathematics",
+      "Led mathematical research for the U.S. Navy"
+    ]
+  },
+  {
+    name: "Mary Cartwright",
+    photo: "./images/mary-cartwright.svg",
+    birthDate: "1900",
+    deathDate: "1998",
+    country: "United Kingdom",
+    fields: ["Mathematics"],
+    roles: ["Mathematician", "Professor"],
+    quote: "Mathematics is a creative art.",
+    summary: "Mathematician who made major contributions to chaos theory and nonlinear dynamics.",
+    achievements: [
+      "Pioneered chaos theory",
+      "First female president of the London Mathematical Society",
+      "Advanced nonlinear dynamics"
+    ]
+  },
+  {
+    name: "Ida Noddack",
+    photo: "./images/ida-noddack.svg",
+    birthDate: "1896",
+    deathDate: "1978",
+    country: "Germany",
+    fields: ["Chemistry", "Physics"],
+    roles: ["Chemist", "Physicist"],
+    quote: "Science is not a closed book, but a field for new discoveries.",
+    summary: "Co-discovered rhenium and first proposed nuclear fission.",
+    achievements: [
+      "Co-discovered rhenium",
+      "First to suggest nuclear fission",
+      "Pioneered analytical chemistry"
+    ]
+  },
+  {
+    name: "Ynes Mexia",
+    photo: "./images/ynes-mexia.svg",
+    birthDate: "1870",
+    deathDate: "1938",
+    country: "United States/Mexico",
+    fields: ["Botany", "Exploration"],
+    roles: ["Botanist", "Explorer"],
+    quote: "I have a job to do, and I do it with all my might.",
+    summary: "Mexican-American botanist who discovered hundreds of new plant species in the Americas.",
+    achievements: [
+      "Discovered 500+ new plant species",
+      "Explored remote regions of the Americas",
+      "Promoted women in field science"
+    ]
+  },
+  {
+    name: "Ellen Swallow Richards",
+    photo: "./images/ellen-swallow-richards.svg",
+    birthDate: "1842",
+    deathDate: "1911",
+    country: "United States",
+    fields: ["Chemistry", "Environmental Science"],
+    roles: ["Chemist", "Environmental Scientist"],
+    quote: "The environment that people live in is the environment that they learn to live in, respond to, and perpetuate.",
+    summary: "First female student at MIT, founder of home economics, and pioneer in environmental chemistry.",
+    achievements: [
+      "First female student at MIT",
+      "Founded home economics",
+      "Pioneered water quality research"
+    ]
+  },
+  {
+    name: "Susan Solomon",
+    photo: "./images/susan-solomon.svg",
+    birthDate: "1956",
+    country: "United States",
+    fields: ["Atmospheric Science", "Chemistry"],
+    roles: ["Atmospheric Chemist", "Professor"],
+    quote: "Science is a way of thinking much more than it is a body of knowledge.",
+    summary: "Atmospheric chemist who explained the cause of the Antarctic ozone hole.",
+    achievements: [
+      "Explained Antarctic ozone hole",
+      "Pioneered atmospheric chemistry",
+      "Awarded National Medal of Science"
+    ]
+  },
+  {
+    name: "Margarita Salas",
+    photo: "./images/margarita-salas.svg",
+    birthDate: "1938",
+    deathDate: "2019",
+    country: "Spain",
+    fields: ["Molecular Biology"],
+    roles: ["Molecular Biologist", "Researcher"],
+    quote: "Science is the engine of progress.",
+    summary: "Spanish molecular biologist who discovered key mechanisms of DNA replication.",
+    achievements: [
+      "Discovered phi29 DNA polymerase",
+      "Advanced DNA replication research",
+      "Promoted women in science in Spain"
+    ]
+  },
+  {
+    name: "Chieng Shih",
+    photo: "./images/chieng-shih.svg",
+    birthDate: "1768",
+    deathDate: "1820",
+    country: "China",
+    fields: ["Engineering", "Invention"],
+    roles: ["Inventor", "Engineer"],
+    quote: "Innovation is the soul of progress.",
+    summary: "Chinese inventor credited with creating the mechanical loom.",
+    achievements: [
+      "Invented the mechanical loom",
+      "Pioneered textile technology in ancient China",
+      "Inspired future inventors"
+    ]
+  },
+  {
+    name: "Mary Golda Ross",
+    photo: "./images/mary-golda-ross.svg",
+    birthDate: "1908",
+    deathDate: "2008",
+    country: "United States (Cherokee Nation)",
+    fields: ["Engineering", "Aerospace"],
+    roles: ["Engineer", "Mathematician"],
+    quote: "To function efficiently, any group of people must have faith in their leader.",
+    summary: "First Native American female engineer; worked on NASA's space program.",
+    achievements: [
+      "First Native American female engineer",
+      "Worked on NASA space programs",
+      "Pioneered aerospace engineering research"
+    ]
+  },
+  {
+    name: "Asima Chatterjee",
+    photo: "./images/asima-chatterjee.jpg",
+    birthDate: "1917",
+    deathDate: "2006",
+    country: "India",
+    fields: ["Chemistry", "Phytomedicine"],
+    roles: ["Chemist", "Professor"],
+    quote: "Science is not a luxury but a necessity for the progress of humanity.",
+    summary: "Indian chemist who pioneered research in medicinal plants and anti-malarial drugs.",
+    achievements: [
+      "Pioneered research in medicinal plants",
+      "Developed anti-malarial drugs",
+      "First Indian woman to receive Doctor of Science"
+    ]
   }
 ];
 
