@@ -122,6 +122,22 @@ All notable changes to this project will be documented in this file.
 - Improved UI accessibility and responsiveness
 - Updated statistics display for total pioneers, fields, and countries
 
+## [v1.3.0] - 2025-07-13
+
+### 🌍 Diverse Icon Fallback & Data Quality Release
+
+#### Changed
+- Fallback system now uses diverse emoji icons (by profession and skin tone) instead of a generic placeholder for missing images
+- Documentation (README, CONTRIBUTING, PROJECT-REFERENCE) updated to emphasize the critical importance of the diverse fallback icon system and clarify image requirements
+
+#### Fixed
+- Removed duplicate pioneer entry for "Katherine Johnson" and fixed JSON structure in pioneers.js
+- Improved data validation and error handling for pioneer profiles
+
+#### Technical Improvements
+- Ensured IconMapping is globally exposed for fallback logic
+- Improved instructions and code comments for future contributors
+
 ---
 
 ## Version History
