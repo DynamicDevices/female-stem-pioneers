@@ -9,7 +9,7 @@ A static web app celebrating women pioneers in STEM fields. Features:
 - Easy to add new pioneers via `add-pioneer.js`
 - **Comprehensive field explanations and filter options for all STEM fields represented in the data**
 - **Codebase is auto-formatted and linted for consistency and quality**
-- **Icon mapping system with diverse skin tone representation** (see `icon-mapping-demo.html`)
+- **Icon mapping system with diverse skin tone representation** (see `icon-mapping-demo.html`) - **CRITICAL**: Ensures inclusive representation when images are unavailable
 
 ## Current Metrics
 
@@ -30,7 +30,7 @@ The project includes an advanced icon mapping system that automatically assigns 
 - **Single Unicode characters**: Proper combining sequences for consistent display
 - **Demo available**: See `icon-mapping-demo.html` for examples and implementation details
 
-The system ensures inclusive representation across all skin tones and STEM fields.
+The system ensures inclusive representation across all skin tones and STEM fields. **This feature is critical for maintaining diverse representation when images fail to load or are unavailable.**
 
 ## Contributing
 

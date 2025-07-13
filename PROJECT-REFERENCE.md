@@ -26,12 +26,13 @@ A static web application showcasing women pioneers in STEM fields, featuring pro
 ## Diverse Fallback Icon System
 
 ### Overview
-When pioneer images cannot be downloaded or are missing, the application uses a sophisticated fallback system with diverse emoji icons representing women in STEM.
+**CRITICAL FEATURE**: The diverse fallback icon system is essential for inclusive representation. When pioneer images cannot be downloaded or are missing, the application uses a sophisticated fallback system with diverse emoji icons representing women in STEM across different professions and skin tones.
 
 ### Implementation
 - **File**: `js/icon-mapping.js`
 - **Demo**: `icon-mapping-demo.html` (for reference and testing)
 - **Unicode 8.0**: Uses proper skin tone modifiers (Fitzpatrick scale)
+- **Global Exposure**: IconMapping object must be attached to window for proper fallback functionality
 
 ### Icon Types
 1. **👩‍🔬 Scientist** - Biology, Chemistry, Physics
@@ -55,6 +56,12 @@ When pioneer images cannot be downloaded or are missing, the application uses a 
 - **Region-Based**: Assigns skin tone based on geographic origin
 - **Era-Based**: Considers historical context for representation
 - **Fallback**: Defaults to medium skin tone for balanced representation
+
+### Importance of Diversity
+- **Inclusive Representation**: Ensures all pioneers are represented regardless of image availability
+- **Professional Accuracy**: Icons match the pioneer's actual field of work
+- **Cultural Sensitivity**: Skin tones reflect geographic and cultural backgrounds
+- **Educational Value**: Students see diverse representation in STEM fields
 
 ### Usage Example
 ```javascript
@@ -97,6 +104,7 @@ const icon = IconMapping.getIconForPioneer({
 - **Performance**: Optimized for speed
 - **Mobile**: Responsive design required
 - **SEO**: Proper meta tags and structure
+- **Diverse Fallback Icons**: Must maintain working diverse icon system for inclusive representation
 
 ### Content Guidelines
 - **Engaging**: Short, interesting descriptions for students
@@ -139,6 +147,7 @@ const icon = IconMapping.getIconForPioneer({
 - **Code Quality**: Follow established patterns
 - **Testing**: Verify on multiple devices
 - **Documentation**: Update relevant files
+- **Diverse Icons**: Ensure fallback icon system remains functional and inclusive
 
 ### Process
 1. Fork the repository
