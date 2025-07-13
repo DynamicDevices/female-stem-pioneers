@@ -7,7 +7,9 @@
     "start": "python -m http.server 8000",
     "serve": "npx http-server . -p 8000",
     "build": "echo 'GitHub Pages builds automatically'",
-    "test": "echo \"No tests specified\" && exit 0",
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed",
     "validate": "html-validate index.html",
     "lighthouse": "lighthouse http://localhost:8000 --output html --output-path ./lighthouse-report.html",
     "deploy": "echo 'Push to main branch to deploy to GitHub Pages'",
@@ -18,9 +20,8 @@
     "check-duplicates": "node scripts/check-duplicate-pioneers.js",
     "validate-data": "node scripts/validate-pioneers.js",
     "check-images": "node -e \"const fs = require('fs'); const index = require('./js/pioneers/index.json'); const pioneers = index.pioneers.map(p => require('./js/pioneers/' + p.filename)); pioneers.forEach(p => { if (p.photo && !p.photo.startsWith('data:') && !fs.existsSync(p.photo.replace('./', ''))) { console.error('Missing image:', p.photo); process.exit(1); } }); console.log('✅ All images exist');\"",
-
     "check-temp-files": "find . -name \"*.temp\" -o -name \"temp-*\" -o -name \"*backup*\" | grep -q . && (echo \"❌ Found temporary files\" && find . -name \"*.temp\" -o -name \"temp-*\" -o -name \"*backup*\" && exit 1) || echo \"✅ No temporary files found\"",
-    "ci": "npm run check-syntax && npm run lint && npm run validate && npm run check-duplicates && npm run validate-data && npm run check-images && npm run check-temp-files"
+    "ci": "npm run check-syntax && npm run lint && npm run validate && npm run check-duplicates && npm run validate-data && npm run check-images && npm run check-temp-files && npm run test"
   },
   "keywords": [
     "women-in-stem",
@@ -36,7 +37,8 @@
     "eslint": "^8.57.0",
     "html-validate": "^8.29.0",
     "http-server": "^14.1.1",
-    "lighthouse": "^10.4.0"
+    "lighthouse": "^10.4.0",
+    "playwright": "^1.54.1"
   },
   "repository": {
     "type": "git",

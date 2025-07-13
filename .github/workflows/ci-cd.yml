@@ -114,9 +114,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run tests
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps
+
+      - name: Run basic file existence tests
         run: |
-          echo "🧪 Running tests..."
+          echo "🧪 Running basic tests..."
 
           # Test if the main files exist and are valid
           if [ ! -f "index.html" ]; then
@@ -136,7 +139,12 @@ jobs:
 
           echo "✅ All required files exist"
 
-          echo "✅ All tests passed"
+      - name: Run Playwright UI tests
+        run: |
+          echo "🧪 Running Playwright UI tests..."
+          npm run test
+        env:
+          CI: true
 
   # Accessibility and Performance Checks
   accessibility:
