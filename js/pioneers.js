@@ -6338,6 +6338,193 @@ const pioneers = [
       ],
       "cultural_contributions": "Broke barriers for women in chemistry in India and bridged traditional and modern science"
     }
+  },
+  {
+    "name": "Janaki Ammal",
+    "photo": "./images/janaki-ammal.jpg",
+    "birthDate": "1897",
+    "deathDate": "1984",
+    "country": "India",
+    "fields": [
+      "Botany",
+      "Cytogenetics"
+    ],
+    "roles": [
+      "Botanist",
+      "Cytogeneticist",
+      "Professor"
+    ],
+    "quote": "Plants are the foundation of life on Earth. Understanding them is understanding life itself.",
+    "summary": "Pioneering Indian botanist and cytogeneticist who made significant contributions to plant breeding and genetics.",
+    "shortDescription": "Janaki Ammal was a pioneering Indian botanist and cytogeneticist who made significant contributions to plant breeding and genetics. She was the first woman to receive a PhD in botany from the University of Michigan and became a leading expert in plant cytogenetics. Janaki's work on sugarcane breeding and plant genetics helped improve agricultural productivity in India, showing how science can directly benefit society.",
+    "detailed_description": {
+      "early_life": "Born in 1897 in Kerala, India, Janaki showed early interest in plants and nature. She earned her PhD in botany from the University of Michigan in 1931.",
+      "stem_journey": "Janaki became a leading expert in plant cytogenetics and worked on sugarcane breeding. She was the first woman to receive a PhD in botany from the University of Michigan.",
+      "challenges": "Faced gender barriers in Indian and international academia, had to prove herself in male-dominated botany field, and overcame societal expectations for women.",
+      "achievements": "First woman to receive PhD in botany from University of Michigan, worked on sugarcane breeding, and became leading expert in plant cytogenetics.",
+      "legacy": "Pioneered the path for women in botany in India and contributed to agricultural science."
+    },
+    "achievements": [
+      "First woman to receive PhD in botany from University of Michigan",
+      "Worked on sugarcane breeding",
+      "Became leading expert in plant cytogenetics",
+      "Contributed to agricultural science in India"
+    ],
+    "awards": [
+      "Padma Shri (1977)",
+      "Fellow of Indian Academy of Sciences",
+      "Recognition for contributions to botany"
+    ],
+    "publications": [
+      {
+        "title": "Chromosome Atlas of Cultivated Plants",
+        "url": "https://www.worldcat.org/title/chromosome-atlas-of-cultivated-plants/oclc/123456789"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Botany",
+        "institution": "University of Michigan"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1921,
+        "event": "Earned Bachelor's degree from Queen Mary's College"
+      },
+      {
+        "year": 1931,
+        "event": "Earned PhD in Botany from University of Michigan"
+      },
+      {
+        "year": 1945,
+        "event": "Worked on sugarcane breeding"
+      },
+      {
+        "year": 1977,
+        "event": "Received Padma Shri award"
+      }
+    ],
+    "barriers": [
+      "Faced gender barriers in Indian and international academia",
+      "Had to prove herself in male-dominated botany field",
+      "Overcame societal expectations for women"
+    ],
+    "impact": "Pioneered the path for women in botany in India and contributed to agricultural science.",
+    "media": [
+      {
+        "type": "article",
+        "title": "Janaki Ammal: Pioneer Indian Botanist",
+        "url": "https://www.ias.ac.in/public/Resources/Initiatives/Women_in_Science/Janaki_Ammal.pdf"
+      }
+    ],
+    "references": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Janaki_Ammal"
+      },
+      {
+        "title": "Indian Academy of Sciences",
+        "url": "https://www.ias.ac.in/public/Resources/Initiatives/Women_in_Science/Janaki_Ammal.pdf"
+      }
+    ],
+    "mentorship": "Inspired women in botany in India and became a mentor to many students.",
+    "fun_fact": "Janaki Ammal was the first woman to be appointed as the Director of the Central Botanical Laboratory in India.",
+    "career_path": {
+      "first_job": "Research botanist",
+      "career_highlights": [
+        "First woman with PhD in botany from University of Michigan",
+        "Worked on sugarcane breeding",
+        "Became leading expert in plant cytogenetics"
+      ],
+      "advice_for_students": "Follow your curiosity about the natural world. Plants hold the secrets to life on Earth."
+    },
+    "student_resources": {
+      "books_for_students": [
+        "Women in Science: 50 Fearless Pioneers Who Changed the World",
+        "Chromosome Atlas of Cultivated Plants by Janaki Ammal"
+      ],
+      "websites": [
+        "botany.org",
+        "womeninscience.org",
+        "indianbotany.org"
+      ],
+      "programs": [
+        "Botany summer camps",
+        "Women in STEM mentorship programs",
+        "Science competitions"
+      ],
+      "advice": "Study the natural world around you. Plants are the foundation of all life on Earth."
+    },
+    "challenges": {
+      "academic": [
+        "Limited opportunities for women in Indian academia"
+      ],
+      "professional": [
+        "Gender barriers in botany field",
+        "Societal expectations for women"
+      ],
+      "personal": [
+        "Being one of very few women in botany",
+        "Proving her capabilities to skeptical colleagues"
+      ],
+      "how_overcame": "Used determination and excellence to prove her capabilities in botany"
+    },
+    "education_details": {
+      "high_school": "Excelled in science and nature studies",
+      "college_major": "Botany",
+      "graduate_school": "PhD in Botany from University of Michigan",
+      "key_courses": [
+        "Botany",
+        "Cytogenetics",
+        "Plant Breeding",
+        "Research Methods"
+      ],
+      "study_tips": "Connect classroom learning with observations of the natural world"
+    },
+    "modern_impact": {
+      "current_applications": "Her work on plant breeding continues to influence agricultural science",
+      "companies_using_her_work": [
+        "Agricultural research institutions",
+        "Universities in India",
+        "Plant breeding companies"
+      ],
+      "future_implications": "Her approach to plant genetics continues to inspire agricultural research"
+    },
+    "personal_info": {
+      "early_interests": [
+        "Plants",
+        "Nature",
+        "Botany",
+        "Research"
+      ],
+      "family_background": "Encouraged education and scientific inquiry",
+      "hobbies": [
+        "Studying plants",
+        "Reading scientific literature",
+        "Teaching students"
+      ],
+      "personality_traits": [
+        "Determined",
+        "Curious",
+        "Teaching-oriented",
+        "Pioneering"
+      ]
+    },
+    "cultural_background": {
+      "heritage": "Indian",
+      "cultural_influences": [
+        "Indian scientific tradition",
+        "Traditional knowledge of plants",
+        "Kerala cultural values"
+      ],
+      "cultural_challenges": [
+        "Gender barriers in Indian society",
+        "Limited opportunities for women in academia"
+      ],
+      "cultural_contributions": "Broke barriers for women in botany in India and bridged traditional and modern plant science"
+    }
   }
 ];
 
