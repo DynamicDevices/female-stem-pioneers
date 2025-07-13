@@ -2555,6 +2555,194 @@ const pioneers = [
       { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Caroline_Herschel" }
     ]
   },
+  {
+    name: "Maria Telkes",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1900",
+    deathDate: "1995",
+    country: "Hungary/United States",
+    fields: ["Engineering", "Physics"],
+    roles: ["Engineer", "Inventor"],
+    quote: "The sun is the only source of energy that will last as long as the earth itself.",
+    summary: "Pioneering solar energy researcher who developed the first solar-powered heating system for homes.",
+    achievements: [
+      "Developed first solar-powered heating system",
+      "Invented solar distillation process",
+      "Pioneered solar thermal energy storage"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Maria_Telkes" }
+    ]
+  },
+  {
+    name: "Mariam Al-Astrulabi",
+    photo: "./images/placeholder.jpg",
+    birthDate: "950",
+    deathDate: "1000",
+    country: "Syria",
+    fields: ["Astronomy", "Engineering"],
+    roles: ["Astronomer", "Instrument Maker"],
+    quote: "The stars guide us to knowledge beyond our earthly bounds.",
+    summary: "Medieval astronomer and instrument maker who created sophisticated astrolabes for celestial navigation.",
+    achievements: [
+      "Created advanced astrolabes for navigation",
+      "Pioneered astronomical instrument making",
+      "Contributed to Islamic Golden Age astronomy"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mariam_al-Astrulabi" }
+    ]
+  },
+  {
+    name: "Janaki Ammal",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1897",
+    deathDate: "1984",
+    country: "India",
+    fields: ["Botany", "Genetics"],
+    roles: ["Botanist", "Cytogeneticist"],
+    quote: "Plants are the foundation of life on earth.",
+    summary: "Pioneering botanist and cytogeneticist who made significant contributions to plant breeding and conservation.",
+    achievements: [
+      "Pioneered plant cytogenetics in India",
+      "Developed hybrid sugarcane varieties",
+      "Established botanical gardens and conservation programs"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Janaki_Ammal" }
+    ]
+  },
+  {
+    name: "Yvonne Brill",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1924",
+    deathDate: "2013",
+    country: "Canada/United States",
+    fields: ["Engineering", "Aerospace"],
+    roles: ["Engineer", "Inventor"],
+    quote: "Engineering is about solving problems and making things work better.",
+    summary: "Aerospace engineer who invented the hydrazine resistojet propulsion system used in satellites.",
+    achievements: [
+      "Invented hydrazine resistojet propulsion system",
+      "Developed propulsion systems for satellites",
+      "First woman to receive National Medal of Technology and Innovation"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Yvonne_Brill" }
+    ]
+  },
+  {
+    name: "Susan Solomon",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1956",
+    country: "United States",
+    fields: ["Chemistry", "Atmospheric Science"],
+    roles: ["Atmospheric Chemist", "Professor"],
+    quote: "Science is about asking the right questions and being persistent in finding answers.",
+    summary: "Atmospheric chemist who identified the cause of the Antarctic ozone hole and led international ozone research.",
+    achievements: [
+      "Identified cause of Antarctic ozone hole",
+      "Led international ozone research teams",
+      "Received National Medal of Science"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Susan_Solomon" }
+    ]
+  },
+  {
+    name: "Margarita Salas",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1938",
+    deathDate: "2019",
+    country: "Spain",
+    fields: ["Biochemistry", "Molecular Biology"],
+    roles: ["Biochemist", "Professor"],
+    quote: "Science is a way of life that requires passion and dedication.",
+    summary: "Pioneering Spanish biochemist who discovered DNA polymerase and advanced molecular biology research.",
+    achievements: [
+      "Discovered DNA polymerase from bacteriophage φ29",
+      "Pioneered molecular biology in Spain",
+      "Founded Spanish Society of Biochemistry"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Margarita_Salas" }
+    ]
+  },
+  {
+    name: "Mary Somerville",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1780",
+    deathDate: "1872",
+    country: "Scotland",
+    fields: ["Mathematics", "Astronomy"],
+    roles: ["Mathematician", "Astronomer"],
+    quote: "Mathematics is the language of nature.",
+    summary: "Self-taught mathematician and astronomer who wrote influential scientific books and was called 'the queen of science'.",
+    achievements: [
+      "Wrote influential scientific books for general audiences",
+      "First person to be called 'scientist'",
+      "Pioneered science communication"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Mary_Somerville" }
+    ]
+  },
+  {
+    name: "Gerty Cori",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1896",
+    deathDate: "1957",
+    country: "Czechoslovakia/United States",
+    fields: ["Biochemistry", "Medicine"],
+    roles: ["Biochemist", "Professor"],
+    quote: "The love for and dedication to one's work is the foundation of all happiness.",
+    summary: "First woman to win the Nobel Prize in Physiology or Medicine for her work on carbohydrate metabolism.",
+    achievements: [
+      "Nobel Prize in Physiology or Medicine (1947)",
+      "Discovered the Cori cycle",
+      "Pioneered research in biochemistry"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Gerty_Cori" }
+    ]
+  },
+  {
+    name: "Dorothy Mary Crowfoot Hodgkin",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1910",
+    deathDate: "1994",
+    country: "United Kingdom",
+    fields: ["Chemistry", "Crystallography"],
+    roles: ["Chemist", "Crystallographer"],
+    quote: "I was captured for life by chemistry and by crystals.",
+    summary: "Nobel Prize-winning chemist who determined the structure of penicillin and vitamin B12 using X-ray crystallography.",
+    achievements: [
+      "Nobel Prize in Chemistry (1964)",
+      "Determined structure of penicillin",
+      "Solved structure of vitamin B12"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Dorothy_Hodgkin" }
+    ]
+  },
+  {
+    name: "Jane Goodall",
+    photo: "./images/placeholder.jpg",
+    birthDate: "1934",
+    country: "United Kingdom",
+    fields: ["Primatology", "Anthropology"],
+    roles: ["Primatologist", "Anthropologist"],
+    quote: "What you do makes a difference, and you have to decide what kind of difference you want to make.",
+    summary: "World-renowned primatologist who transformed our understanding of chimpanzees and animal behavior.",
+    achievements: [
+      "Transformed primatology",
+      "Founded the Jane Goodall Institute",
+      "UN Messenger of Peace"
+    ],
+    references: [
+      { title: "Wikipedia", url: "https://en.wikipedia.org/wiki/Jane_Goodall" }
+    ]
+  }
 ];
 
 // Remove duplicates by name
