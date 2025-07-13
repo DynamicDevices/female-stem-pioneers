@@ -173,8 +173,8 @@ class PioneersApp {
         console.warn('IconMapping failed, using default fallback:', error);
       }
     }
-    // Default fallback: use grayed-out SVG placeholder
-    return '<img src="images/placeholder-woman.svg" class="fallback-placeholder" alt="No image available" style="filter: grayscale(100%) opacity(0.5); width: 80px; height: 80px;">';
+    // Default fallback: use scientist emoji
+    return '👩‍🔬';
   }
 
   createPioneerCard(pioneer, index) {
@@ -282,10 +282,10 @@ class PioneersApp {
           <img data-src="${pioneer.photo}" alt="Portrait of ${pioneer.name}" 
                class="lazy-image"
                src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iNDAiIGN5PSI0MCIgcj0iMzUiIGZpbGw9IiNmMWY1ZjkiIHN0cm9rZT0iI2M2ZDdkZCIgc3Ryb2tlLXdpZHRoPSIyIi8+PHRleHQgeD0iNDAiIHk9IjQ1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjNjQ3NDhiIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9IjUwMCI+8J+RjTwvdGV4dD48L3N2Zz4="
-               onerror="setFallbackIcon(this, '${fallbackIcon}')" 
-               onload="this.classList.add('loaded')"
+               onerror="setFallbackIcon(this, '${fallbackIcon}')"
+               onload="this.classList.add('loaded'); this.style.filter='none'; this.style.opacity='1';"
                onclick="window.pioneersApp.openImageModal('${pioneer.photo}', '${pioneer.name}', '${pioneer.birthDate}', '${pioneer.deathDate}', '${pioneer.country}')"
-               style="cursor: pointer;">
+               style="cursor: pointer; filter: grayscale(100%) opacity(0.5); width: 80px; height: 80px;">
         </div>
         <div class="pioneer-header-info">
           <h3 class="pioneer-name">${pioneer.name}</h3>
