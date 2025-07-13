@@ -129,14 +129,18 @@ All notable changes to this project will be documented in this file.
 #### Changed
 - Fallback system now uses diverse emoji icons (by profession and skin tone) instead of a generic placeholder for missing images
 - Documentation (README, CONTRIBUTING, PROJECT-REFERENCE) updated to emphasize the critical importance of the diverse fallback icon system and clarify image requirements
+- All pioneer images now use `object-fit: cover` for proper scaling and cropping in circular frames
+- Initial loading placeholder is now a plain grey circle (not an emoji or face) for clean, neutral appearance
 
 #### Fixed
 - Removed duplicate pioneer entry for "Katherine Johnson" and fixed JSON structure in pioneers.js
 - Improved data validation and error handling for pioneer profiles
+- Fixed image scaling issues (especially Mildred Dresselhaus) - all images now display with correct aspect ratio and no stretching
 
 #### Technical Improvements
 - Ensured IconMapping is globally exposed for fallback logic
 - Improved instructions and code comments for future contributors
+- Enhanced CSS for consistent image display across all pioneer cards
 
 ---
 
